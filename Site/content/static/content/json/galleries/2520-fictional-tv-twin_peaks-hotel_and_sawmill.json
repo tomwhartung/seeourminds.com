@@ -1,0 +1,143 @@
+{
+  "gallery_title": "Twin Peaks - Hotel and Sawmill",
+  "see_gallery_button_text": "See Their Minds",
+  "list_page_teaser": "This gallery contains images of Twin Peaks characters who work at the Great Northern Hotel and the Packard Sawmill.  Click to learn more!",
+  "description_html": "<p>These spiritual portraits of Twin Peaks characters who work at the <a href='https://en.wikipedia.org/wiki/The_Great_Northern_Hotel' title='Link to the Wikipedia page for the Great Northern Hotel' target='_blank'>Great Northern Hotel</a> and the <a href='http://twinpeaks.wikia.com/wiki/Packard_Sawmill' title='Link to the Wikipedia page for Packard Sawmill' target='_blank'>Packard Sawmill</a> show how different Benjamin Horne and Catherine Martell are from Pete Martell and Josie Packard.  Meanwhile, Audrey's personality has the Yellow realism of the first group and the Red amiability of the second.</p>",
+  "story_html": "<p>The images make it clear that Benjamin Horne and Catherine Martell have very similar personalities.  Both are very logical, pragmatic, and decisive &mdash; with Catherine's image showing she is just a little bit colder than Ben.</p><p>The portraits also show that Pete Martell's and Josie Packard's personalities are similar to each other &mdash; but the polar opposite of Ben's and Catherine's.  Josie and Pete are both shy, idealistic, sensitive, and perceptive &mdash; with Pete being a bit more outgoing and friendly than Josie, and her being a bit more shy and intuitive.</p>",
+  "image_list":
+  [
+    {
+      "id": "2530",
+      "title": "Audrey Horne",
+      "subtitle_html": "<a href='https://en.wikipedia.org/wiki/Secondary_school' title='Wikipedia page for Secondary school' target='_blank'>High School</a> Student and <a href='/image/2520-fictional-tv-twin_peaks-hotel_and_mill/2532/' title='Link to the spiritual portrait of Ben Horne on this site'>Ben Horne</a>'s Daughter",
+      "gallery_page_teaser": "Audrey Horne's spiritual portrait shows she is open-minded and friendly.  Click on the image to learn more!",
+      "image_file_name": "esfp-audrey_horne-1.jpg",
+      "meat_portrait_href": "http://twinpeaks.wikia.com/wiki/Audrey_Horne?file=AudreyNew.jpg",
+      "composition": "O",
+      "score": [
+         { "e_score": "13", "i_score": "6" },
+         { "n_score": "7", "s_score": "12" },
+         { "f_score": "15", "t_score": "4" },
+         { "j_score": "5", "p_score": "14" }
+      ],
+      "four_letter_type": "ESFP",
+      "fixed_percentages": "",
+      "archetype": "Se",
+      "quiz_type": "KTS2",
+      "year": "2018",
+      "explain_dom": "The Yellow in this spiritual portrait represents Audrey's dominant personality trait, her realistic outlook.  In Extraverts, the dominant trait is directed outwardly, and spiritual portraits use a long vertical line to represent this, because it is the side of their personality that is most evident.",
+      "explain_aux": "The Red in this spiritual portrait represents Audrey's auxiliary personality trait, her friendliness and amiability.  In Extraverts, the auxiliary trait is directed inwardly, and spiritual portraits use a horizontal line to represent this.",
+      "story_intro_html": "",
+      "story_html": "",
+      "compare_to": { },
+      "contrast_with": { }
+    }, {
+      "id": "2532",
+      "title": "Benjamin Horne",
+      "subtitle_html": "<a href='https://en.wikipedia.org/wiki/Ownership' title='Link to the Wikipedia page for Ownership' target='_blank'>Owner</a> of the <a href='https://en.wikipedia.org/wiki/The_Great_Northern_Hotel' title='Wikipedia page for The Great Northern Hotel' target='_blank'>Great Northern Hotel</a>",
+      "gallery_page_teaser": "Benjamin Horne's spiritual portrait shows he is very logical and pragmatic, good qualities in a businessman.  Click on the image to learn more!",
+      "image_file_name": "estj-benjamin_horne-1.jpg",
+      "meat_portrait_href": "http://twinpeaks.wikia.com/wiki/Benjamin_Horne?file=Ben%20001.jpg",
+      "composition": "O",
+      "score": [
+         { "e_score": "17", "i_score": "2" },
+         { "n_score": "4", "s_score": "15" },
+         { "f_score": "5", "t_score": "14" },
+         { "j_score": "15", "p_score": "4" }
+      ],
+      "four_letter_type": "ESTJ",
+      "fixed_percentages": "",
+      "archetype": "Te",
+      "quiz_type": "KTS2",
+      "year": "2018",
+      "explain_dom": "The Green in this spiritual portrait represents Ben's dominant personality trait, his objectivity.  In Extraverts, the dominant trait is directed outwardly, and spiritual portraits use a long vertical line to represent this, because it is the side of their personality that is most evident.",
+      "explain_aux": "The Yellow in this spiritual portrait represents Ben's auxiliary personality trait, his realistic outlook.  In Extraverts, the auxiliary trait is directed inwardly, and spiritual portraits use a horizontal line to represent this.",
+      "story_intro_html": "",
+      "story_html": "",
+      "compare_to": { },
+      "contrast_with": { }
+    }, {
+      "id": "2534",
+      "title": "responsive_ad"
+    }, {
+      "id": "2535",
+      "title": "Catherine Martell",
+      "subtitle_html": "Runs the <a href='http://twinpeaks.wikia.com/wiki/Packard_Sawmill' title='Page for the Packard Sawmill at twinpeaks.wikia.com' target='_blank'>Packard Sawmill</a>",
+      "gallery_page_teaser": "Catherine Martell's spiritual portrait shows she is very logical and pragmatic, good qualities in a businesswoman.  Click on the image to learn more!",
+      "image_file_name": "estj-catherine_martell-1.jpg",
+      "meat_portrait_href": "http://twinpeaks.wikia.com/wiki/Catherine_Martell?file=Catherine%20001.jpg",
+      "composition": "O",
+      "score": [
+         { "e_score": "13", "i_score": "6" },
+         { "n_score": "1", "s_score": "18" },
+         { "f_score": "3", "t_score": "16" },
+         { "j_score": "17", "p_score": "2" }
+      ],
+      "four_letter_type": "ESTJ",
+      "fixed_percentages": "",
+      "archetype": "Te",
+      "quiz_type": "KTS2",
+      "year": "2018",
+      "explain_dom": "The Green in this spiritual portrait represents Catherine's dominant personality trait, her very strong preference for logic over emotion.  In Extraverts, the dominant trait is directed outwardly, and spiritual portraits use a long vertical line to represent this, because it is the side of their personality that is most evident.",
+      "explain_aux": "The Yellow in this spiritual portrait represents Catherine's auxiliary personality trait, her pragmatic outlook.  In Extraverts, the auxiliary trait is directed inwardly, and spiritual portraits use a horizontal line to represent this.",
+      "story_intro_html": "",
+      "story_html": "",
+      "compare_to": { },
+      "contrast_with": { }
+    }, {
+      "id": "2536",
+      "title": "Pete Martell",
+      "subtitle_html": "Retired <a href='https://en.wikipedia.org/wiki/Lumberjack' title='Wikipedia page for Lumberjack' target='_blank'>Lumberjack</a> and <a href='https://en.wikipedia.org/wiki/Fisherman' title='Wikipedia page for Fisherman' target='_blank'>Fisherman</a>",
+      "gallery_page_teaser": "Pete Martell's spiritual portrait shows he is very open to new ideas and experiences, and very amiable but not necessarily outgoing.  Click on the image to learn more!",
+      "image_file_name": "infp-pete_martell-1.jpg",
+      "meat_portrait_href": "http://twinpeaks.wikia.com/wiki/Pete_Martell?file=Pete_Martell.jpg",
+      "composition": "O",
+      "score": [
+         { "e_score": "9", "i_score": "10" },
+         { "n_score": "11", "s_score": "8" },
+         { "f_score": "16", "t_score": "3" },
+         { "j_score": "3", "p_score": "16" }
+      ],
+      "four_letter_type": "INFP",
+      "fixed_percentages": "",
+      "archetype": "Fi",
+      "quiz_type": "KTS2",
+      "year": "2018",
+
+      "explain_dom": "The Red in this spiritual portrait represents Pete's dominant personality trait, his fairly strong preference for emotion over logic.  In Introverts, the dominant trait is directed inwardly, and spiritual portraits use a long horizontal line to represent this.",
+      "explain_aux": "The Blue in this spiritual portrait represents Pete's auxiliary personality trait, his openness to new ideas.  In Introverts, the auxiliary trait is directed outwardly, and spiritual portraits use a vertical line to represent this, because it is more evident than the dominant function.",
+      "story_intro_html": "",
+      "story_html": "",
+      "compare_to": { },
+      "contrast_with": { }
+    }, {
+      "id": "2537",
+      "title": "Jocelyn Packard",
+      "subtitle_html": "<a href='https://en.wikipedia.org/wiki/Ownership' title='Link to the Wikipedia page for Ownership' target='_blank'>Owner</a> of the <a href='http://twinpeaks.wikia.com/wiki/Packard_Sawmill' title='Page for the Packard Sawmill at twinpeaks.wikia.com' target='_blank'>Packard Sawmill</a>",
+      "gallery_page_teaser": "Josie Packard's spiritual portrait shows she is very open to new ideas, and can be warm and friendly but is a bit shy.  Click on the image to learn more!",
+      "image_file_name": "infp-jocelyn_packard-1.jpg",
+      "meat_portrait_href": "http://twinpeaks.wikia.com/wiki/Josie_Packard?file=JosieNew.jpg",
+      "composition": "O",
+      "score": [
+         { "e_score": "2", "i_score": "17" },
+         { "n_score": "14", "s_score": "5" },
+         { "f_score": "11", "t_score": "8" },
+         { "j_score": "6", "p_score": "13" }
+      ],
+      "four_letter_type": "INFP",
+      "fixed_percentages": "",
+      "archetype": "Fi",
+      "quiz_type": "KTS2",
+      "year": "2018",
+      "explain_dom": "The Red in this spiritual portrait represents Josie's dominant personality trait, her rather slight preference for emotion over logic.  In Introverts, the dominant trait is directed inwardly, and spiritual portraits use a long horizontal line to represent this.",
+      "explain_aux": "The Blue in this spiritual portrait represents Josie's auxiliary personality trait, her preference for ideas over facts.  In Introverts, the auxiliary trait is directed outwardly, and spiritual portraits use a vertical line to represent this, because it is more evident than the dominant function.",
+      "story_intro_html": "",
+      "story_html": "",
+      "compare_to": { },
+      "contrast_with": { }
+    }, {
+      "id": "0009",
+      "title": "square_ad"
+    }
+  ]
+}

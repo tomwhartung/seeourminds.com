@@ -1,0 +1,101 @@
+{
+  "gallery_title": "American Presidents - 2000s",
+  "see_gallery_button_text": "See Their Minds",
+  "list_page_teaser": "American Presidents, just like any other group of individuals, have different personalities.  Learn how the images of some popular and recent presidents reflect their idealism, decisiveness, and other qualities.",
+  "description_html": "<p>Which presidents are your favorites? How does your personality compare to theirs?</p><p><b>Because these are our most recent presidents, this gallery is a work in progress.</b></p><p>Some of the portraits in this gallery are <q>placeholders.</q>  This means they are based on four-letter-types from other sites, rather than a <q>full analysis</q> of the individual.  And because the placeholder portraits are based on relatively vague four-letter types rather than more specific profile scores, the stories explaining them are likewise not yet fully developed.</p><p>At this time, the <a href='https://www.seeourminds.com' title='Link to the home page at seeourminds.com' target='_blank'>seeourminds.com</a> gallery containing images of <a href='/gallery/5040-politicians-us_presidents-1900s/' title='Link to the gallery containing spiritual portraits of presidents during the 1900s on this site'>presidents during the 1900s</a> has the most well-developed and consistently high-quality portraits and stories.</p>",
+  "story_html": "<p>I frequently wonder whether an individual's personality type has any bearing on how they lean politically.  As an idealist, I definitely admire idealistic presidents, such as Jefferson and Lincoln, the most.</p><p>Pending the full development of the profiles, portraits, and stories for these placeholder personalities &mdash; which takes a considerable amount of time to do properly &mdash; visitors should take placeholder portraits with a <a href='https://www.urbandictionary.com/define.php?term=with%20a%20grain%20of%20salt' title='Link to the definition of grain of salt at www.urbandictionary.com' target='_blank'>grain of salt</a>.</p><p>These images may, however, be used for a frame of reference when looking at the portraits of other presidents on this site.</p><p>As time passes, priorities evolve, and presidents come and go, I will be updating this gallery.  To keep up to date and learn when I post new images, follow this site on social media or <a href='https://groja.com/conversion/seeourminds' title='Link to a small form you can use to join the Groja.com and SeeOurMinds.com email list' target='_blank'>join the SeeOurMinds.com email list</a>!</p>",
+  "image_list":
+  [
+    {
+      "id": "5080",
+      "title": "George W. Bush (placeholder)",
+      "subtitle_html": "<a href='https://en.wikipedia.org/wiki/George_W._Bush' target='_blank' title='Wikipedia page for George W. Bush'>43rd President</a> of the USA &mdash; Jan. 20, 2001 to Jan. 20, 2009",
+      "gallery_page_teaser": "A frequently-referenced article (see the Story for the link) claims that George W. Bush is an ESTP.  Click on the image to learn more!",
+      "image_file_name": "estp-george_w_bush.jpeg",
+      "meat_portrait_href": "https://en.wikipedia.org/wiki/File:George-W-Bush.jpeg",
+      "composition": "O",
+      "score": [
+        { "e_score": "11", "i_score": "8" },
+        { "n_score": "8", "s_score": "11" },
+        { "f_score": "8", "t_score": "11" },
+        { "j_score": "8", "p_score": "11" }
+      ],
+      "four_letter_type": "ESTP",
+      "fixed_percentages": "True",
+      "archetype": "Se",
+      "quiz_type": "J",
+      "subject_line": "",
+      "tweet_html": "",
+      "year": "2017",
+      "explain_dom": "The Yellow in this spiritual portrait represents Bush's preference for facts over ideas.  In Extraverts, the dominant function is directed outwardly, and spiritual portraits use a long vertical line to represent this.  This preference explains why he would choose to study business at Harvard, and his very practical desire to cut taxes.",
+      "explain_aux": "The Green in this spiritual portrait represents Bush's preference for logic over emotion.  In Extraverts, the auxiliary function is directed inwardly and is less evident than the dominant function.  This preference explains his willingness to wage wars in foreign countries with the goal of protecting American interests, because an idealist would probably seek more peaceful solutions.",
+      "story_intro_html": "<p>This frequently-referenced <a href='http://www.slate.com/id/2184696/' title='Link to article at slate.com' target='_blank'>article at slate.com</a> claims that George W. Bush is an ESTP, and that ....</p>",
+      "story_html": "<p>This frequently-referenced <a href='http://www.slate.com/id/2184696/' title='Link to article at slate.com' target='_blank'>article at slate.com</a> claims that George W. Bush is an ESTP, and that seems reasonable.  As is the case with other recent presidents, however, searching the internet can lead to finding results with differing opinions.</p><p>This leaves us to decide &ndash; or not &ndash; what we want to believe for our own selves.</p><p>The article mentioned previously also claims that <q>[ESTPs] are a common presidential type: Both Roosevelts, JFK, and LBJ were ESTPs.</q></p><p>Note that this image is based on a four-letter-type and is therefore a 'generic' image, based on fixed percentages.</p>",
+      "compare_to": { },
+      "contrast_with": { }
+    }, {
+      "id": "5081",
+      "title": "responsive_ad"
+    }, {
+      "id": "5082",
+      "title": "Barack Obama (placeholder)",
+      "subtitle_html": "<a href='https://en.wikipedia.org/wiki/Barack_Obama' target='_blank' title='Wikipedia page for Barack Obama'>44th President</a> of the USA &mdash; Jan. 20, 2009 to Jan. 20, 2017",
+      "gallery_page_teaser": "Some experts claim Obama is an ENFP, and that is how he's represented in this image.  However, there are reasons to doubt this claim.  Click on the image to learn more!",
+      "image_file_name": "enfp-barack_obama.jpeg",
+      "meat_portrait_href": "https://en.wikipedia.org/wiki/File:President_Barack_Obama.jpg",
+      "composition": "O",
+      "score": [
+        { "e_score": "11", "i_score": "8" },
+        { "n_score": "11", "s_score": "8" },
+        { "f_score": "11", "t_score": "8" },
+        { "j_score": "8", "p_score": "11" }
+      ],
+      "four_letter_type": "ENFP",
+      "fixed_percentages": "True",
+      "archetype": "Ne",
+      "quiz_type": "J",
+      "subject_line": "",
+      "tweet_html": "",
+      "year": "2017",
+      "explain_dom": "The Blue in this spiritual portrait of represents Obama's idealism and hope for the future.  In Extraverts, the dominant function is directed outwardly, and spiritual portraits use a long vertical line to represent this.  Obama shows he has this trait by having hope for the future.",
+      "explain_aux": "The Red in this spiritual portrait represents Obama's preference for using emotions more than logic to make decisions.  In Extraverts, the auxiliary function is directed inwardly and is less evident than the dominant function.  Obama shows he has this trait by having a desire for harmonious human relationships.",
+      "story_intro_html": "<p>This frequently-referenced <a href='http://www.slate.com/id/2184696/' title='Link to article at slate.com' target='_blank'>article at slate.com</a> claims Barack Obama is an ENFP, and that ....</p>",
+      "story_html": "<p>This frequently-referenced <a href='http://www.slate.com/id/2184696/' title='Link to article at slate.com' target='_blank'>article at slate.com</a> claims Barack Obama is an ENFP, and that seems reasonable.  As is the case with other recent presidents, however, searching the internet can lead to finding results with differing opinions, including:</p><ul><li>an article <a href='http://www.celebritytypes.com/blog/2011/01/why-obama-is-entp/' title='Article at celebritytypes.com about why obama is an ENTP' target='_blank'>explaining why he's an ENTP</a>,</li><li>another article <a href='https://www.truity.com/blog/much-disputed-personality-types-presidential-candidates' title='Link to article on truity.com claiming Obama is an INTJ' target='_blank'>claiming he's <q>probably an INTJ Mastermind.</q></a>, and</li><li>a forum with a <a href='https://www.typologycentral.com/forums/popular-culture-and-type/23459-barack-obamas-type.html' title='Link to a forum containing a poll asking about Obamas type at www.typologycentral.com' target='_blank'>poll asking about Obama's type</a>, where ENFJ is in the lead.</li></ul><p>This leaves us to decide &ndash; or not &ndash; what we want to believe for our own selves.  For my purposes, it is sufficient to know that all of these claim he is iNtuitive, because that is a preference found in two of my favorite presidents, Jefferson and Lincoln.</p><p>In support of the claims that he is iNtuitive, we have his idealism, hope for the future, and his concern for others, which are all evident in his determination to pass legislation making health care available to all people.</p><p>Note that this image is based on a four-letter-type and is therefore a 'generic' image, based on fixed percentages.</p>",
+      "compare_to": { },
+      "contrast_with": { }
+    }, {
+      "id": "5083",
+      "title": "responsive_ad"
+    }, {
+      "id": "5084",
+      "title": "Donald Trump",
+      "subtitle_html": "<a href='https://en.wikipedia.org/wiki/Donald_Trump' target='_blank' title='Wikipedia page for Donald Trump'>45th President</a> of the USA &mdash; Jan. 21, 2017 to present",
+      "gallery_page_teaser": "Click on the image to learn more!",
+      "image_file_name": "esfj-donald_trump-1.jpg",
+      "meat_portrait_href": "https://en.wikipedia.org/wiki/File:Donald_Trump_Pentagon_2017.jpg",
+      "composition": "O",
+      "score": [
+        { "e_score": "17", "i_score": "2" },
+        { "n_score": "7", "s_score": "12" },
+        { "f_score": "10", "t_score": "9" },
+        { "j_score": "13", "p_score": "6" }
+      ],
+      "four_letter_type": "ESFJ",
+      "fixed_percentages": "",
+      "archetype": "Fe",
+      "quiz_type": "K",
+      "subject_line": "",
+      "tweet_html": "",
+      "year": "2017",
+      "explain_dom": "The Red in this spiritual portrait of represents Trump's emotional side.  In Extraverts, the dominant function is directed outwardly, and spiritual portraits use a long vertical line to represent this.  Trump demonstrates this trait when he gets angry with his detractors.",
+      "explain_aux": "The Yellow in this spiritual portrait represents Trump's preference for pragmatism over idealism.  In Extraverts, the auxiliary function is directed inwardly and is less evident than the dominant function.  Trump demonstrates this trait in his willingness to sacrifice environmental concerns for the possibility of creating jobs.",
+      "story_intro_html": "<p>At the time of this writing, everyone I know is marveling at &mdash; or dreading &mdash; the daily reports of what ....</p>",
+      "story_html": "<p>At the time of this writing, everyone I know is marveling at &mdash; or dreading &mdash; the daily reports of what the Trump administration is doing.</p><p>This story is &mdash; at this time &mdash; still unfolding, so I am holding off on writing this story until we have a new president, because until then, this administration may still have some <q>tricks up its sleeve.</q></p>",
+      "compare_to": { },
+      "contrast_with": { }
+    }, {
+      "id": "5085",
+      "title": "responsive_ad"
+    }
+  ]
+}

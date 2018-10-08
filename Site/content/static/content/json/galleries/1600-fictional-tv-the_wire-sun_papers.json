@@ -1,0 +1,86 @@
+{
+  "gallery_title": "The Wire - Sun Papers",
+  "see_gallery_button_text": "See Their Minds",
+  "list_page_teaser": "Seeing the personalities of the main journalists on The Wire is enlightening and a bit surprising.  Click to learn more!",
+  "description_html": "<p>The image of Gus' personality shows he is pramatic and logically decisive &mdash; but not to the extremes seen in the police brass.</p><p>The portrait of Scott's personality looks much like McNulty's, and it's interesting to see they both had similar ideas concerning the homeless.</p><p>The image of Alma's personality shows she is outgoing, warm, and open to new experiences &mdash; all qualities that can be advantageous for a journalist.</p>",
+  "story_html": "",
+  "image_list":
+  [
+    {
+      "id": "1600",
+      "title": "Gus Haynes",
+      "subtitle_html": "City Editor of The Baltimore Sun",
+      "gallery_page_teaser": "The Green in Gus' spiritual portrait shows he is logical and decisive, and the Yellow shows he is pragmatic.  Click on the image to learn more!",
+      "image_file_name": "estj-gus_haynes-1.jpg",
+      "meat_portrait_href": "https://www.hbo.com/the-wire/cast-and-crew/city-editor-augustus-gus-haynes",
+      "composition": "O",
+      "score": [
+         { "e_score": "19", "i_score": "0" },
+         { "n_score": "7", "s_score": "12" },
+         { "f_score": "4", "t_score": "15" },
+         { "j_score": "10", "p_score": "9" }
+      ],
+      "four_letter_type": "ESTJ",
+      "archetype": "Te",
+      "quiz_type": "KTS2",
+      "year": "2018",
+      "explain_dom": "The Green in this spiritual portrait represents Gus' dominant personality trait, his tendency to be more logical and rational than emotional and personal.  In Extraverts, the dominant trait is directed outwardly, and spiritual portraits use a long vertical line to represent this, because it is the side of their personality that is most evident.",
+      "explain_aux": "The Yellow in this spiritual portrait represents Gus' auxiliary personality trait, his tendency to see the world more in terms of facts than in terms of ideas.  In Extraverts, the auxiliary trait is directed inwardly, and spiritual portraits use a horizontal line to represent this.",
+      "story_intro_html": "",
+      "story_html": "",
+      "compare_to": { },
+      "contrast_with": { }
+    }, {
+      "id": "1603",
+      "title": "Scott Templeton",
+      "subtitle_html": "Ambitious General Assignment Reporter for The Baltimore Sun",
+      "gallery_page_teaser": "The Blue in Scott's spiritual portrait shows he is open to new ideas, and the Green shows he is cool and rational.  Click on the image to learn more!",
+      "image_file_name": "intp-scott_templeton-1.jpg",
+      "meat_portrait_href": "https://www.hbo.com/the-wire/cast-and-crew/scott-templeton",
+      "composition": "O",
+      "score": [
+         { "e_score": "7", "i_score": "12" },
+         { "n_score": "15", "s_score": "4" },
+         { "f_score": "6", "t_score": "13" },
+         { "j_score": "8", "p_score": "11" }
+      ],
+      "four_letter_type": "INTP",
+      "archetype": "Ti",
+      "quiz_type": "KTS2",
+      "year": "2018",
+      "explain_dom": "The Green in this spiritual portrait represents Scott's dominant personality trait, his tendency to be more logical and rational than emotional and subjective.  In Introverts, the dominant trait is directed inwardly, and spiritual portraits use a long horizontal line to represent this.",
+      "explain_aux": "The Blue in this spiritual portrait represents Scott's auxiliary personality trait, his tendency to view the world more in terms of ideas than in terms of facts.  In Introverts, the auxiliary trait is directed outwardly, and spiritual portraits use a vertical line to represent this, because it is more evident than the dominant function.  Scott demonstrated this tendency every time he \"embellished\" reality in his news reports.",
+      "story_intro_html": "",
+      "story_html": "",
+      "compare_to": { },
+      "contrast_with": { }
+    }, {
+      "id": "1606",
+      "title": "Alma Gutierrez",
+      "subtitle_html": "Young, Eager Reporter for The Baltimore Sun",
+      "gallery_page_teaser": "The Yellow in Alma's spiritual portrait shows she is down-to-earth and realistic, and the Red shows she is warm and friendly.  Click on the image to learn more!",
+      "image_file_name": "esfp-alma_gutierrez-1.jpg",
+      "meat_portrait_href": "https://www.hbo.com/the-wire/cast-and-crew/alma-gutierrez",
+      "composition": "O",
+      "score": [
+         { "e_score": "17", "i_score": "2" },
+         { "n_score": "6", "s_score": "13" },
+         { "f_score": "10", "t_score": "9" },
+         { "j_score": "6", "p_score": "13" }
+      ],
+      "four_letter_type": "ESFP",
+      "archetype": "Se",
+      "quiz_type": "KTS2",
+      "year": "2018",
+      "explain_dom": "The Yellow in this spiritual portrait represents Alma's dominant personality trait, her tendency to view the world more in terms of facts than in terms of ideas.  In Extraverts, the dominant trait is directed outwardly, and spiritual portraits use a long vertical line to represent this, because it is the side of their personality that is most evident.",
+      "explain_aux": "The Red in this spiritual portrait represents Alma's auxiliary personality trait, her very slight tendency to be more emotional and personal than logical and impersonal.  In Extraverts, the auxiliary trait is directed inwardly, and spiritual portraits use a horizontal line to represent this.  It's important to note this preference is very slight, and Alma can be quite logical when the situation calls for it.",
+      "story_intro_html": "",
+      "story_html": "",
+      "compare_to": { },
+      "contrast_with": { }
+    }, {
+      "id": "1609",
+      "title": "square_ad"
+    }
+  ]
+}

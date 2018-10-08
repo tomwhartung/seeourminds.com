@@ -1,0 +1,110 @@
+{
+  "gallery_title": "The Wire - Avon's Crew",
+  "see_gallery_button_text": "See Their Minds",
+  "list_page_teaser": "Avon Barksdale's warm personality is radically different from the cool temperament of his business partner and once-close friend Stringer Bell's.  Click to learn more!",
+  "description_html": "<p>These images show the personalities of Avon and Stringer are as different as night and day.  Both are decisive and keep their cards close to the vest, but Avon's warmth and pragmatism contrast strongly with Stringer's cool demeanor and his ability to recognize patterns and relationships in the chaos of Baltimore's urban crime environment.</p><p>If Stringer and Avon are the head and the heart of the Barksdale organization, soldiers like Wee Bey and Slim Charles are the arms and legs.  Their portraits show they are both open to direction and willing to carry out their orders with pragmatic, ruthless efficiency.</p>",
+  "story_html": "",
+  "image_list":
+  [
+    {
+      "id": "1530",
+      "title": "Avon Barksdale",
+      "subtitle_html": "Leader of the Barksdale Gang",
+      "gallery_page_teaser": "The Red in Avon's spiritual portrait shows he is warm and friendly, and the Yellow shows he is realistic.  Click on the image to learn more!",
+      "image_file_name": "isfj-avon_barksdale-1.jpg",
+      "meat_portrait_href": "https://www.hbo.com/the-wire/cast-and-crew/avon-barksdale",
+      "composition": "O",
+      "score": [
+         { "e_score": "9", "i_score": "10" },
+         { "n_score": "2", "s_score": "17" },
+         { "f_score": "13", "t_score": "6" },
+         { "j_score": "14", "p_score": "5" }
+      ],
+      "four_letter_type": "ISFJ",
+      "archetype": "Si",
+      "quiz_type": "KTS2",
+      "year": "2018",
+      "explain_dom": "The Yellow in this spiritual portrait represents Avon's dominant personality trait, his strong preference for seeing the world more in terms of facts rather than ideas.  In Introverts, the dominant trait is directed inwardly, and spiritual portraits use a long horizontal line to represent this.  An example of a time when Avon was pragmatic comes when he learns the police are closing in on him and he finds he needs to clean up lose ends.",
+      "explain_aux": "The Red in this spiritual portrait represents Avon's auxiliary personality trait, his moderate preference for being personal rather than impersonal.  In Introverts, the auxiliary trait is directed outwardly, and spiritual portraits use a vertical line to represent this, because it is more evident than the dominant function.  An example of a time when Avon showed he was more personal comes when he takes D'Angelow to visit his comatose brother, and they talk about the risks inherent in what they are doing.",
+      "story_intro_html": "",
+      "story_html": "",
+      "compare_to": { },
+      "contrast_with": { }
+    }, {
+      "id": "1532",
+      "title": "Stringer Bell",
+      "subtitle_html": "Second in Command of the Barksdale Gang",
+      "gallery_page_teaser": "The Green in Stringer's spiritual portrait shows he is decisive and logical, and the Blue shows he prefers strategy to tactics.  Click on the image to learn more!",
+      "image_file_name": "intj-stringer_bell-1.jpg",
+      "meat_portrait_href": "https://www.hbo.com/the-wire/cast-and-crew/russell-stringer-bell",
+      "composition": "O",
+      "score": [
+         { "e_score": "9", "i_score": "10" },
+         { "n_score": "10", "s_score": "9" },
+         { "f_score": "2", "t_score": "17" },
+         { "j_score": "16", "p_score": "3" }
+      ],
+      "four_letter_type": "INTJ",
+      "archetype": "Ni",
+      "quiz_type": "KTS2",
+      "year": "2018",
+      "explain_dom": "The Blue in this spiritual portrait represents Stringer's dominant personality trait, his slight preference for seeing the world more in terms of ideas than of facts.  In Introverts, the dominant trait is directed inwardly, and spiritual portraits use a long horizontal line to represent this.  An example of a time when Stringer demonstrates this trait comes when he realizes how working with other gangs to make their business with other gangs less violent helps keep the police from chasing them as much.  It's important to realize Stringer's preference is very slight, and he can be quite realistic when the situation calls for it.",
+      "explain_aux": "The Green in this spiritual portrait represents Stringer's auxiliary personality trait, his very strong preference for being rational and objective rather than emotional and subjective.  In Introverts, the auxiliary trait is directed outwardly, and spiritual portraits use a vertical line to represent this, because it is more evident than the dominant function.  An example of a time when Stringer is more logical comes when he decides to burn rather than spend a good deal of money that he suspects is marked by the police and can be traced.",
+      "story_intro_html": "",
+      "story_html": "",
+      "compare_to": { },
+      "contrast_with": { }
+    }, {
+      "id": "1536",
+      "title": "Wee-Bey",
+      "subtitle_html": "Soldier in the Barksdale Gang",
+      "gallery_page_teaser": "The Yellow in Bey's spiritual portrait shows he is pragmatic, and the Green shows he is cold and logical.  Click on the image to learn more!",
+      "image_file_name": "istp-wee_bey-1.jpg",
+      "meat_portrait_href": "https://www.hbo.com/the-wire/cast-and-crew/roland-wee-bey-brice",
+      "composition": "O",
+      "score": [
+         { "e_score": "9", "i_score": "10" },
+         { "n_score": "2", "s_score": "17" },
+         { "f_score": "2", "t_score": "17" },
+         { "j_score": "7", "p_score": "12" }
+      ],
+      "four_letter_type": "ISTP",
+      "archetype": "Ti",
+      "quiz_type": "KTS2",
+      "year": "2018",
+      "explain_dom": "The Green in this spiritual portrait represents Bey's dominant personality trait, his very strong preference for being cold and logical rather than warm and personal.  In Introverts, the dominant trait is directed inwardly, and spiritual portraits use a long horizontal line to represent this.  An example of a time when Bey is cold and logical comes whenever he commits murder.",
+      "explain_aux": "The Yellow in this spiritual portrait represents Bey's auxiliary personality trait, his very strong preference for seeing the world more in terms of facts than of ideas.  In Introverts, the auxiliary trait is directed outwardly, and spiritual portraits use a vertical line to represent this, because it is more evident than the dominant function.",
+      "story_intro_html": "",
+      "story_html": "",
+      "compare_to": { },
+      "contrast_with": { }
+    }, {
+      "id": "1538",
+      "title": "Slim Charles",
+      "subtitle_html": "Soldier in the Barksdale Gang",
+      "gallery_page_teaser": "The Yellow in Slim's spiritual portrait shows he is open to new experiences, and the Green shows he can stay cool in stressful situations.  Click on the image to learn more!",
+      "image_file_name": "istp-slim_charles-1.jpg",
+      "meat_portrait_href": "https://www.hbo.com/the-wire/cast-and-crew/slim-charles",
+      "composition": "O",
+      "score": [
+         { "e_score": "9", "i_score": "10" },
+         { "n_score": "1", "s_score": "18" },
+         { "f_score": "2", "t_score": "17" },
+         { "j_score": "8", "p_score": "11" }
+      ],
+      "four_letter_type": "ISTP",
+      "archetype": "Ti",
+      "quiz_type": "KTS2",
+      "year": "2018",
+      "explain_dom": "The Green in this spiritual portrait represents Slim's dominant personality trait, his very strong preference for being cold and logical rather than warm and personal.  In Introverts, the dominant trait is directed inwardly, and spiritual portraits use a long horizontal line to represent this.  An example of a time when Slim is cold and logical comes whenever he commits murder.",
+      "explain_aux": "The Yellow in this spiritual portrait represents Slim's auxiliary personality trait, his very strong preference for seeing the world more in terms of facts than of ideas.  In Introverts, the auxiliary trait is directed outwardly, and spiritual portraits use a vertical line to represent this, because it is more evident than the dominant function.",
+      "story_intro_html": "",
+      "story_html": "",
+      "compare_to": { },
+      "contrast_with": { }
+    }, {
+      "id": "1539",
+      "title": "responsive_ad"
+    }
+  ]
+}

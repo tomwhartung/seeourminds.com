@@ -1,0 +1,182 @@
+{% extends 'content/galleries_base.html' %}
+
+{% block head %}
+  {{ block.super }}
+  {% load static %}
+  <script src="{% static 'content/js/vendor/d3.v4.min.js' %}"></script>
+  <script src="{% static 'content/js/score_bars.js' %}"></script>
+{% endblock %}
+
+{% block top_content_left %}
+  {% block top_left_ad %}{{ block.super }}{% endblock %}
+  <div class="col-md-4">
+    <header id="gallery-description">
+      <h2>
+        {{ gallery_dict.gallery_title }}</h2>
+      <p>
+        {{ gallery_dict.description_html | safe }}</p>
+      {% if gallery_dict.story_html %}
+        <div class="text-center">
+          <a class="btn btn-success btn-md som-btn-all" id="toggle-story-html"
+            title="Show the story behind these images">See the Story</a>
+        </div><!-- .text-center -->
+        <div id="story-html" class="som-text-to-toggle">
+          {{ gallery_dict.story_html | safe }}
+        </div><!-- #story-html -->
+      {% endif %}
+    </header><!-- #gallery-description -->
+  </div><!-- col-md-4 -->
+{% endblock %}
+
+{% block top_aside %}
+  {{ block.super }}
+{% endblock %}
+
+{% block above_middle_row_ad %}{% endblock %}
+
+{% block middle_left_ad %}{% endblock %}
+{% block middle_content %}
+  {% for image_dict in gallery_dict.image_list %}
+    {% if image_dict.title == 'responsive_ad' %}
+      {% block middle_content_responsive_ad %}{{ block.super }}{% endblock %}
+    {% elif image_dict.title == 'large_rectangle_ad' %}
+      {% block middle_content_large_rectangle_ad %}{{ block.super }}{% endblock %}
+    {% elif image_dict.title == 'medium_rectangle_ad' %}
+      {% block middle_content_medium_rectangle_ad %}{{ block.super }}{% endblock %}
+    {% elif image_dict.title == 'square_ad' %}
+      {% block middle_content_square_ad %}{{ block.super }}{% endblock %}
+    {% elif image_dict.title == 'small_square_ad' %}
+      {% block middle_content_small_square_ad %}{{ block.super }}{% endblock %}
+    {% else %}
+      <div class="col-md-4">
+        <div class="gallery-image">
+          <a href="{{ image_dict.image_link_href }}"
+             title="{{ image_dict.image_link_title }}"
+             onclick="send_ga_event_with_value_1('Image', 'See Image Page', '{{ image_dict.title }}');">
+            <h3 class="gallery-image">{{ image_dict.title }}</h3>
+            <figure>
+              <img src="{% static image_dict.image_file_path %}"
+                   class="center gallery-image">
+            </figure>
+          </a>
+          {% if image_dict.fixed_percentages %}
+            <div class="text-center">
+              <p class="fixed-percentages">Image Based on Four-Letter Type</p>
+            </div><!-- .text-center -->
+          {% endif %}
+          {% if image_dict.subtitle_html %}
+            <div class="text-center">
+              <h4 class="gallery-image">{{ image_dict.subtitle_html | safe }}</h4>
+            </div><!-- .text-center -->
+          {% endif %}
+          {% if image_dict.score %}
+            <div class="score-svg" id="score-bars-{{ image_dict.id }}">
+            </div><!-- #score-bars-{{ image_dict.id }} -->
+          {% else %}
+            <p>{{ image_dict.four_letter_type }}</p>
+          {% endif %}
+          {% if image_dict.subject_line %}
+            <p>{{ image_dict.subject_line }}</p>
+          {% elif image_dict.tweet_html %}
+            <p>{{ image_dict.tweet_html }}</p>
+          {% endif %}
+          {% if image_dict.gallery_page_teaser %}
+            {% spaceless %}
+              <p class="gallery-page-teaser"
+                 id="{{ image_dict.id }}-gpt-intro">
+                {{ image_dict.gallery_page_teaser_intro }}<span class="gallery-page-text-remainder"
+                  id="{{ image_dict.id }}-gpt-remainder">{{ image_dict.gallery_page_teaser_remainder }}
+                </span>
+                <a class="{{ image_dict.id }}-gpt-link"
+                   id="{{ image_dict.id }}-gpt-more">.... [More]</a>
+                <a class="gallery-page-less-link {{ image_dict.id }}-gpt-link"
+                   id="{{ image_dict.id }}-gpt-less"> [Less]</a>
+              </p>
+            {% endspaceless %}
+          {% endif %}
+        </div><!-- .gallery-image -->
+      </div><!-- .col-md-4 -->
+    {% endif %}
+    {% cycle '' '' '</div><!-- .row --><div class="row">' %}
+  {% endfor %}
+{% endblock %}
+
+{% block middle_right_ad %}{% endblock %}
+
+{% block below_middle_row_ad %}{% endblock %}
+{% block bottom_left_ad %}{% endblock %}
+{% block bottom_content %}{% endblock %}
+{% block bottom_right_ad %}{% endblock %}
+{% block bottom_row_ad %}{% endblock %}
+
+{% block footer %}
+  {{ block.super }}
+  {% if gallery_dict.story_html %}
+    <script>
+      /*
+       * Event handler for the Toggle Story button:
+       */
+      $("#toggle-story-html").click(function() {
+        $("#story-html").slideToggle("slow");
+        var button_text = $("#toggle-story-html").text();
+        if ( button_text.includes('See') ) {
+          $("#toggle-story-html").removeClass("btn-success");
+          $("#toggle-story-html").addClass("btn-danger");
+          $("#toggle-story-html").text("Hide the Story");
+          send_ga_event_with_value_1("Button", "Show Gallery Story", "{{ gallery_dict.gallery_title }}");
+        } else {
+          $("#toggle-story-html").removeClass("btn-danger");
+          $("#toggle-story-html").addClass("btn-success");
+          $("#toggle-story-html").text("See the Story");
+          send_ga_event_with_value_1("Button", "Hide Gallery Story", "{{ gallery_dict.gallery_title }}");
+        }
+      });
+    </script>
+  {% endif %}
+  {% for image_dict in gallery_dict.image_list %}
+    <script>
+      /*
+       * Add an on click event handler to toggle the opacity of the
+       * gpt-remainder text and both the "More" and "Less" links
+       */
+      $(".{{ image_dict.id }}-gpt-link").on("click", function() {
+        $("#{{ image_dict.id }}-gpt-remainder").toggle("fade", "slow");
+        $("#{{ image_dict.id }}-gpt-more").toggle("fade", "slow");
+        $("#{{ image_dict.id }}-gpt-less").toggle("fade", "slow");
+      });
+      $("#{{ image_dict.id }}-gpt-more").on("click", function() {
+        send_ga_event_with_value_1("Link", "Show More Gallery Page Image Teaser", "{{ image_dict.title }}");
+      });
+      $("#{{ image_dict.id }}-gpt-less").on("click", function() {
+        send_ga_event_with_value_1("Link", "Show Less Gallery Page Image Teaser", "{{ image_dict.title }}");
+      });
+    </script>
+    {% if image_dict.score %}
+      <script>
+        /*
+         * For the Score Bars:
+         * -------------------
+         * Define positioning parameters and create the score_bars d3 svg chart
+         */
+        var positioning_params_{{ image_dict.id }} = {
+          selector: '#score-bars-{{ image_dict.id }}',
+          total_width: 150,
+          total_height: 35,
+          margin_top: 5,
+          margin_right: 11,
+          margin_bottom: 15,
+          margin_left: 15,
+        };
+        var image_score_{{ image_dict.id }} = [
+          {% for pair in image_dict.score %}
+            {{ pair|safe }},
+          {% endfor %}
+        ];
+        score_bars.create_chart_svg(
+          positioning_params_{{ image_dict.id }},
+          image_score_{{ image_dict.id }}
+        );
+      </script>
+    {% endif %}
+  {% endfor %}
+{% endblock %}

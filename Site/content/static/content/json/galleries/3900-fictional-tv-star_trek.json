@@ -1,0 +1,95 @@
+{
+  "gallery_title": "Original Star Trek",
+  "see_gallery_button_text": "See Their Minds",
+  "list_page_teaser": "Dr. McCoy's warm image stands in stark contrast to Mr. Spock's logical image, because their personalities are so different.  Compare their images, and see how Captain Kirk fits in the mix.",
+  "description_html": "<p>Archetypal characters like Dr. McCoy and Mr. Spock give <a href='http://www.imdb.com/title/tt0060028/' title='Learn about the Original Star Trek series on imdb.com' target='_blank'>Star Trek</a> a lasting appeal.  Evidence of this appeal lies in the fact that the three seasons in the <a href='https://en.wikipedia.org/wiki/Star_Trek:_The_Original_Series' title='Page about the original series on wikipedia.org' target='_blank'>original series</a> led to the creation of <a href='https://en.wikipedia.org/wiki/Star_Trek_(film_series)' title='Page about the Star Trek Films on wikipedia.org' target='_blank'>over a dozen films</a> and several additional television series!</p>",
+  "story_html": "<p>Note that only the characters as they appear <b>in the original series</b> form the basis for these images.</p><p>Look for a full story, additional images, and possibly even additional galleries to appear on this site in the near future.</p><p>To learn when we update the site, follow us on social media or <a href='https://groja.com/conversion/seeourminds' title='Link to a page where you can join our email list' target='_blank'>join our email list!</a>",
+  "image_list":
+  [
+    {
+      "id": "3900",
+      "title": "Dr. Leonard H. 'Bones' McCoy",
+      "subtitle_html": "<a href='https://en.wikipedia.org/wiki/Leonard_McCoy' title='Wikipedia page for Chief Medical Officer Leonard McCoy' target='_blank'>Chief Medical Officer</a> of the <a href='https://en.wikipedia.org/wiki/Starship_Enterprise' title='Wikipedia page for the USS Starship Enterprise' target='_blank'>USS Enterprise</a>",
+      "gallery_page_teaser": "Dr. McCoy's spiritual portrait looks so different from Mr. Spock's because their personalities are so different.  Click on the image to learn more!",
+      "image_file_name": "esfp-dr_mccoy-star_trek.jpeg",
+      "meat_portrait_href": "https://en.wikipedia.org/wiki/File:DeForest_Kelley,_Dr._McCoy,_Star_Trek.jpg",
+      "composition": "O",
+      "score": [
+         { "e_score": "11", "i_score": "8" },
+         { "n_score": "4", "s_score": "15" },
+         { "f_score": "18", "t_score": "1" },
+         { "j_score": "9", "p_score": "10" }
+      ],
+      "four_letter_type": "ESFP",
+      "archetype": "Se",
+      "quiz_type": "K",
+      "subject_line": "",
+      "tweet_html": "",
+      "explain_dom": "The Yellow in Dr. McCoy's spiritual portrait represents his realism.  In Extraverts, the dominant function is directed outwardly, and spiritual portraits use a long vertical line to represent this.  His realism makes him somewhat suspicious of technology, and he favors natural methods of healing to more intrusive methods.",
+      "explain_aux": "The Red in Dr. McCoy's spiritual portrait represents his strong emotions.  In Extraverts, the auxiliary function is directed inwardly and is less evident than the dominant function.  His emotions frequently cause him to get frustrated with the captain, and he expresses this frustration repeatedly in lines such as 'Dammit Jim!'",
+      "story_intro_html": "<p>Once I finished writing the first version of the Groja &copy; program, I wanted to <q>test it out</q> it by seeing how it would draw characters like Dr. McCoy and Mr. ....</p>",
+      "story_html": "<p>Once I finished writing the first version of the Groja &copy; program, I wanted to <q>test it out</q> it by seeing how it would draw characters like Dr. McCoy and Mr. Spock if I answered the questions as the character might answer them.</p><p>This image of Dr. McCoy's personality is one of the results.  As you can see, it is very warm and full of Feeling, just like his personality!  And as hoped, it stands in stark contrast to the image of his <q>foil</q>, <a href='/image/3900-fictional-tv-star_trek/3904/' title='Link to the image of Mr. Spock on this site'>Mr. Spock</a>.</p>",
+      "compare_to": { },
+      "contrast_with": { "gallery_file_name": "3900-fictional-tv-star_trek", "image_id": "3904" }
+    }, {
+      "id": "3902",
+      "title": "James T. Kirk",
+      "subtitle_html": "<a href='https://en.wikipedia.org/wiki/James_T._Kirk' title='Wikipedia page for James T. Kirk' target='_blank'>Captain</a> of the <a href='https://en.wikipedia.org/wiki/Starship_Enterprise' title='Wikipedia page for the USS Starship Enterprise' target='_blank'>USS Enterprise</a>",
+      "gallery_page_teaser": "The preponderance of Green in Kirk's spiritual portrait shows he is rational and decisive, but in practice he relies heavily on both Spock and Dr. McCoy for input to his decisions.  Click on the image to learn more!",
+      "image_file_name": "estj-captain_kirk-2.jpg",
+      "meat_portrait_href": "https://en.wikipedia.org/wiki/File:Star_Trek_William_Shatner.JPG",
+      "composition": "O",
+      "score": [
+         { "e_score": "17", "i_score": "2" },
+         { "n_score": "9", "s_score": "10" },
+         { "f_score": "2", "t_score": "17" },
+         { "j_score": "13", "p_score": "6" }
+      ],
+      "four_letter_type": "ESTJ",
+      "archetype": "Te",
+      "quiz_type": "K",
+      "subject_line": "",
+      "tweet_html": "",
+      "explain_dom": "The Green in Kirk's spiritual portrait represents his strong tendency to make rational decisions.  In Extraverts, the dominant function is directed outwardly, and spiritual portraits use a long vertical line to represent this.  Spoiler Alert!  Although Kirk frequently has romantic encounters, his rationality always overrides his feelings and he always puts his crew and ship first.",
+      "explain_aux": "The Yellow in Kirk's spiritual portrait represents his realism.  In Extraverts, the auxiliary function is directed inwardly and is less evident than the dominant function.  His realism is evident in his willingness to bend and occasionally even break Starfleet regulations in situations that warrant it.",
+      "story_intro_html": "<p>When I created this image, I was a bit surprised to see that Captain Kirk's personality turned out to be so similar to ....</p>",
+      "story_html": "<p>When I created this image, I was a bit surprised to see that Captain Kirk's personality turned out to be so similar to Spock's.  Despite the superficial similarity, it is important to note that Kirk is definitely more Extraverted &mdash; as the large vertical Green line indicates, and a bit more balanced &mdash; in that it is a bit more colorful.</p><p>Kirk and Spock's similarity makes sense, though, when you consider the duties performed by all three characters on the starship.  While Kirk and Spock's posts are on the bridge and involve working with the entire ship, McCoy's work as medical officer involves working exclusively with people.</p><p>By frequently consulting with McCoy when he faces a tough decision, Kirk shows he is truly wise.</p><p>I would expect to find a character with more iNtuition in this series.  I recently found all 80 episodes on DVD for a very reasonable price, and plan to rewatch them and create more images from the series soon.  To stay up-to-date when new images are added, <a href='https://groja.com/conversion/seeourminds' title='Link to join our email list' target='_blank'>join our email list!</p>",
+      "compare_to": { },
+      "contrast_with": { }
+    }, {
+      "id": "3904",
+      "title": "Spock",
+      "subtitle_html": "<a href='https://en.wikipedia.org/wiki/Spock' title='Wikipedia page for Spock' target='_blank'>First Officer</a> of the <a href='https://en.wikipedia.org/wiki/Starship_Enterprise' title='Wikipedia page for the USS Starship Enterprise' target='_blank'>USS Enterprise</a>",
+      "gallery_page_teaser": "Mr. Spock's spiritual portrait looks so different from Dr. McCoy's because their personalities are so different.  Click on the image to learn more!",
+      "image_file_name": "istj-mr_spock-2.jpg",
+      "meat_portrait_href": "https://en.wikipedia.org/wiki/File:Leonard_Nimoy_as_Spock_1967.jpg",
+      "composition": "O",
+      "score": [
+         { "e_score": "9", "i_score": "10" },
+         { "n_score": "4", "s_score": "15" },
+         { "f_score": "2", "t_score": "17" },
+         { "j_score": "17", "p_score": "2" }
+      ],
+      "four_letter_type": "ISTJ",
+      "archetype": "Si",
+      "quiz_type": "K",
+      "subject_line": "",
+      "tweet_html": "",
+      "explain_dom": "The Yellow in Spock's spiritual portrait represents his preference to be practical and realistic.  In Introverts, the dominant function is directed inwardly, and spiritual portraits use a long horizontal line to represent this.  His realism shows in his interest in science and his role as chief science officer.",
+      "explain_aux": "The Green in Spock's spiritual portrait represents his strong tendency to make rational decisions.  In Introverts, the auxiliary function is directed outwardly and is more evident than the dominant function.  Due to his Vulcan heritage, Spock is extremely logical, and he perceives humans as being vulnerable and even flawed due to their emotions.",
+      "story_intro_html": "<p>Once I finished writing the first version of the Groja &copy; program, I wanted to <q>test it out</q> it by seeing how it would draw characters like Mr. Spock and Dr. ....</p>",
+      "story_html": "<p>Once I finished writing the first version of the Groja &copy; program, I wanted to <q>test it out</q> it by seeing how it would draw characters like Mr. Spock and Dr. McCoy if I answered the questions as the character might answer them.</p><p>This image of Spock's personality is one of the results.  As you can see, it is very cool and consistent, just like his personality!  And as hoped, it stands in stark contrast to the image of his <q>foil</q>, <a href='/image/2600-fictional-tv-star_trek/2600/' title='Link to image of Dr. McCoy on this site'>Dr. McCoy</a>.</p><p>It is interesting to compare this image to the one of <a href='/image/5040-politicians-us_presidents-1900s/5076/' title='Link to the image of George Herbert Walker Bush on this site'>George Herbert Walker Bush</a>, who was our president at that time, in the late 1980s.</p>",
+      "compare_to": { "gallery_file_name": "5040-politicians-us_presidents-1900s", "image_id": "5076" },
+      "contrast_with": { "gallery_file_name": "3900-fictional-tv-star_trek", "image_id": "3900" }
+    }, {
+      "id": "3906",
+      "title": "responsive_ad"
+    }, {
+      "id": "3907",
+      "title": "square_ad"
+    }, {
+      "id": "3908",
+      "title": "responsive_ad"
+    }
+  ]
+}

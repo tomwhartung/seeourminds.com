@@ -1,0 +1,110 @@
+{
+  "gallery_title": "The Wire - Boys of Summer",
+  "see_gallery_button_text": "See Their Minds",
+  "list_page_teaser": "Dukie Weems' personality is quite different from the temperaments of the friends he has been growing up with on The Wire.  Click to learn more!",
+  "description_html": "<p>The image of Dukie's personality shows he is rather like his predecessors in the pit, D'Angelo and Wallace.  But where Wallace had D'Angelo and Dee had his uncle Avon, Dukie has no such support network.  Likewise, this image of Namond's personality shows he lacks the cold-hearted rationality his father Wee Bey has, and which is needed to survive on the show's drug corners.</p><p>Randy's portrait shows he's logical, open to trying new things, and has his fair share of ideas.  In contrast, the spiritual portrait of Michael shows he is very cold and decisive, effectively forced by his circumstances to grow up more quickly than the others.</p>",
+  "story_html": "",
+  "image_list":
+  [
+    {
+      "id": "1570",
+      "title": "Dukie Weems",
+      "subtitle_html": "Teenager",
+      "gallery_page_teaser": "The Blue in Dukie Weems' spiritual portrait shows he is very open to new ideas, and the Red shows he is warm and friendly.  Click on the image to learn more!",
+      "image_file_name": "enfp-dookie_weems-1.jpg",
+      "meat_portrait_href": "https://www.hbo.com/the-wire/cast-and-crew/duquan-dukie-weems",
+      "composition": "O",
+      "score": [
+         { "e_score": "11", "i_score": "8" },
+         { "n_score": "12", "s_score": "7" },
+         { "f_score": "14", "t_score": "5" },
+         { "j_score": "3", "p_score": "16" }
+      ],
+      "four_letter_type": "ENFP",
+      "archetype": "Ne",
+      "quiz_type": "KTS2",
+      "year": "2018",
+      "explain_dom": "The Blue in this spiritual portrait represents Dukie's dominant personality trait, his tendency to see the world more in terms of ideas than in terms of facts.  In Extraverts, the dominant trait is directed outwardly, and spiritual portraits use a long vertical line to represent this, because it is the side of their personality that is most evident.",
+      "explain_aux": "The Red in this spiritual portrait represents Dukie's auxiliary personality trait, his tendency to be more emotional than logical.  In Extraverts, the auxiliary trait is directed inwardly, and spiritual portraits use a horizontal line to represent this.",
+      "story_intro_html": "",
+      "story_html": "",
+      "compare_to": { },
+      "contrast_with": { }
+    }, {
+      "id": "1572",
+      "title": "Namond Brice",
+      "subtitle_html": "Teenager",
+      "gallery_page_teaser": "The Yellow in Namond Brice's spiritual portrait shows he is open to new experiences, and the Green shows he is a bit more logical than emotional.  Click on the image to learn more!",
+      "image_file_name": "estp-namond_brice-1.jpg",
+      "meat_portrait_href": "https://www.hbo.com/the-wire/cast-and-crew/namond-brice",
+      "composition": "O",
+      "score": [
+         { "e_score": "19", "i_score": "0" },
+         { "n_score": "1", "s_score": "18" },
+         { "f_score": "8", "t_score": "11" },
+         { "j_score": "7", "p_score": "12" }
+      ],
+      "four_letter_type": "ESTP",
+      "archetype": "Se",
+      "quiz_type": "KTS2",
+      "year": "2018",
+      "explain_dom": "The Yellow in this spiritual portrait represents Namond's dominant personality trait, his very strong tendency to be more realistic than idealistic.  In Extraverts, the dominant trait is directed outwardly, and spiritual portraits use a long vertical line to represent this, because it is the side of their personality that is most evident.",
+      "explain_aux": "The Green in this spiritual portrait represents Namond's auxiliary personality trait, his tendency to be more objective and rational than friendly and personal.  In Extraverts, the auxiliary trait is directed inwardly, and spiritual portraits use a horizontal line to represent this.",
+      "story_intro_html": "",
+      "story_html": "",
+      "compare_to": { },
+      "contrast_with": { }
+    }, {
+      "id": "1575",
+      "title": "Randy Wagstaff",
+      "subtitle_html": "Teenager",
+      "gallery_page_teaser": "The Yellow in Randy Wagstaff's spiritual portrait shows he is pragmatic, and the Green shows he is more logical than emotional.  Click on the image to learn more!",
+      "image_file_name": "estp-randy_wagstaff-1.jpg",
+      "meat_portrait_href": "https://www.hbo.com/the-wire/cast-and-crew/randy-wagstaff",
+      "composition": "O",
+      "score": [
+         { "e_score": "17", "i_score": "2" },
+         { "n_score": "6", "s_score": "13" },
+         { "f_score": "9", "t_score": "10" },
+         { "j_score": "5", "p_score": "14" }
+      ],
+      "four_letter_type": "ESTP",
+      "archetype": "Se",
+      "quiz_type": "KTS2",
+      "year": "2018",
+      "explain_dom": "The Yellow in this spiritual portrait represents Randy's dominant personality trait, his tendency to be more pragmatic than idealistic.  In Extraverts, the dominant trait is directed outwardly, and spiritual portraits use a long vertical line to represent this, because it is the side of their personality that is most evident.",
+      "explain_aux": "The Green in this spiritual portrait represents Randy's auxiliary personality trait, his very slight tendency to be more logical and impersonal than emotional and personal.  In Extraverts, the auxiliary trait is directed inwardly, and spiritual portraits use a horizontal line to represent this.  It's important to note this preference is very slight, and Randy can be quite amiable and personable when the situation calls for it.",
+      "story_intro_html": "",
+      "story_html": "",
+      "compare_to": { },
+      "contrast_with": { }
+    }, {
+      "id": "1577",
+      "title": "Michael Lee",
+      "subtitle_html": "Teenager",
+      "gallery_page_teaser": "The Green in Michael Lee's spiritual portrait shows he is cold and rational, and the Yellow shows he is realistic.  Click on the image to learn more!",
+      "image_file_name": "istj-michael_lee-1.jpg",
+      "meat_portrait_href": "https://www.hbo.com/the-wire/cast-and-crew/michael-lee",
+      "composition": "O",
+      "score": [
+         { "e_score": "2", "i_score": "17" },
+         { "n_score": "8", "s_score": "11" },
+         { "f_score": "5", "t_score": "14" },
+         { "j_score": "13", "p_score": "6" }
+      ],
+      "four_letter_type": "ISTJ",
+      "archetype": "Si",
+      "quiz_type": "KTS2",
+      "year": "2018",
+      "explain_dom": "The Yellow in this spiritual portrait represents Michael's dominant personality trait, his tendency to be more realistic than idealistic.  In Introverts, the dominant trait is directed inwardly, and spiritual portraits use a long horizontal line to represent this.",
+      "explain_aux": "The Green in this spiritual portrait represents Michael's auxiliary personality trait, his tendency to be cool-headed and objective rather than warm-hearted and personal.  In Introverts, the auxiliary trait is directed outwardly, and spiritual portraits use a vertical line to represent this, because it is more evident than the dominant function.",
+      "story_intro_html": "",
+      "story_html": "",
+      "compare_to": { },
+      "contrast_with": { }
+    }, {
+      "id": "1579",
+      "title": "square_ad"
+    }
+  ]
+}

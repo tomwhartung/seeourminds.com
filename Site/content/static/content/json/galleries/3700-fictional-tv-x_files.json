@@ -1,0 +1,73 @@
+{
+  "gallery_title": "X-Files",
+  "see_gallery_button_text": "See Their Minds",
+  "list_page_teaser": "Anyone who has watched the X-Files knows that Agents Mulder and Scully have very different personalities.  See how images of their personalities look differently, and learn why.",
+  "description_html": "<p>Agents Mulder and Scully are opposites, and it is certainly entertaining to watch them disagree and butt heads!</p><p>Relationships between opposites can be extremely challenging, and that is why the FBI put them together: so that Mulder would fail and give up his quests to investigate aliens and the paranormal.</p>",
+  "story_html": "<p>Once Mulder and Scully embrace their differences and learn to communicate and respect each other despite them, they have many exciting and harrowing adventures.</p><p><b>Spoiler Alert!</b>  They manage to survive these and eventually come to establish a strong bond of trust.</p><p>This trust allows them to anticipate, look past, and work with each others' preferences.  Ultimately they make an excellent, one-of-a-kind team that is capable of amazing feats!</p>",
+  "image_list":
+  [
+    {
+      "id": "3700",
+      "title": "Fox Mulder",
+      "subtitle_html": "<a href='https://en.wikipedia.org/wiki/Fox_Mulder' title='Wikipedia page for Fox Mulder' target='_blank'>FBI Special Agent</a> - The X-Files",
+      "gallery_page_teaser": "The Blue in this image shows that Agent Mulder is open to all sorts of possibilities, and the Red shows he can have strong 'gut feelings.'  Click on the image to learn more!",
+      "image_file_name": "infp-fox_mulder-2.jpg",
+      "meat_portrait_href": "https://en.wikipedia.org/wiki/File:Mulder2016.png",
+      "composition": "O",
+      "score": [
+         { "e_score": "2", "i_score": "17" },
+         { "n_score": "14", "s_score": "5" },
+         { "f_score": "11", "t_score": "8" },
+         { "j_score": "5", "p_score": "14" }
+      ],
+      "four_letter_type": "INFP",
+      "archetype": "Fi",
+      "quiz_type": "Q",
+      "subject_line": "",
+      "tweet_html": "",
+      "explain_dom": "The Red in this image represents Agent Mulder's dominant function, Feeling.  In Introverts, the dominant function is directed inwardly, and spiritual portraits use a long horizontal line to represent this.  His feelings show in the strong emotions he exhibits towards the people he is closest to, his sister Samantha Mulder and his partner, Special Agent Dana Scully.",
+      "explain_aux": "The Blue in this image represents Agent Mulder's auxiliary function, his iNtuition.  In Introverts, the auxiliary function is directed outwardly and is more evident than the dominant function.  This fuels his curiosity about aliens, the paranormal, and all the other 'spooky' things his more down-to-earth colleagues remain skeptical about.",
+      "story_intro_html": "<p>I always found it easier to relate to <a href='https://en.wikipedia.org/wiki/Fox_Mulder' title='Wikipedia page for Special Agent Fox Mulder' target='_blank'>Special Agent Fox Mulder</a> than to most other law enforcement characters, both ....</p>",
+      "story_html": "<p>I always found it easier to relate to <a href='https://en.wikipedia.org/wiki/Fox_Mulder' title='Wikipedia page for Special Agent Fox Mulder' target='_blank'>Special Agent Fox Mulder</a> than to most other law enforcement characters, both fictional and in real life.  However, I was still suprised to learn that he's an INFP - like me!</p><p>It can be difficult to imagine how someone like him would want to pursue a career in law enforcement, but it's easy to see how Mulder would do something like this when we learn about his sister <a href='https://en.wikipedia.org/wiki/Samantha_Mulder' title='Wikipedia page for Samantha Mulder' target='_blank'>Samantha</a>.  His feelings for her dominate his life and explain why he made his uncharacteristic career choice.</p>",
+      "compare_to": { "gallery_file_name": "9100-real-self_portraits", "image_id": "9102" },
+      "contrast_with": { "gallery_file_name": "3700-fictional-tv-x_files", "image_id": "3704" }
+    }, {
+      "id": "3702",
+      "title": "square_ad"
+    }, {
+      "id": "3704",
+      "title": "Dana Scully",
+      "subtitle_html": "<a href='https://en.wikipedia.org/wiki/Dana_Scully' title='Wikipedia page for Dana Scully' target='_blank'>FBI Special Agent</a> - The X-Files",
+      "gallery_page_teaser": "The Green in this image shows that Agent Scully is more logical than emotional, and the Yellow shows she is more down-to-earth than speculative.  Click on the image to learn more!",
+      "image_file_name": "estj-dana_scully-2.jpg",
+      "meat_portrait_href": "https://en.wikipedia.org/wiki/File:Scully2016.png",
+      "composition": "O",
+      "score": [
+         { "e_score": "11", "i_score": "8" },
+         { "n_score": "4", "s_score": "15" },
+         { "f_score": "3", "t_score": "16" },
+         { "j_score": "13", "p_score": "6" }
+      ],
+      "four_letter_type": "ESTJ",
+      "archetype": "Te",
+      "quiz_type": "Q",
+      "subject_line": "",
+      "tweet_html": "",
+      "explain_dom": "The Green in this image represents Agent Scully's rationality, and this makes perfect sense for someone with her background in science and medicine.  In Extraverts, the dominant function is directed outwardly, and spiritual portraits use a long vertical line to represent this, because it is the side of their personality that is most evident.",
+      "explain_aux": "The Yellow in this image represents Agent Sully's need for factual evidence to overcome her skepticism regarding the paranormal.  In Extraverts, the auxiliary function is directed inwardly and is less evident than the dominant function.  In the show she is the one who puts her knowledge of medicine to good use when gathering evidence by performing many autopsies.",
+      "story_intro_html": "In contrast to Mulder, <a href='https://en.wikipedia.org/wiki/Dana_Scully' title='Wikipedia page for Dana Scully' target='_blank'>Special Agent Dana Scully</a> is ....</p>",
+      "story_html": "In contrast to Mulder, <a href='https://en.wikipedia.org/wiki/Dana_Scully' title='Wikipedia page for Dana Scully' target='_blank'>Special Agent Dana Scully</a> is logical and down-to-earth, and much more the type of person we would imagine the typical law enforcement officer to be.  It's easy to see that Scully and Mulder are opposites, and how the contrast between their personalities gives the show a great deal of its appeal.",
+      "compare_to": {},
+      "contrast_with": { "gallery_file_name": "3700-fictional-tv-x_files", "image_id": "3700" }
+    }, {
+      "id": "3706",
+      "title": "responsive_ad"
+    }, {
+      "id": "3707",
+      "title": "square_ad"
+    }, {
+      "id": "3708",
+      "title": "responsive_ad"
+    }
+  ]
+}

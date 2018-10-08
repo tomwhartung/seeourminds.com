@@ -1,0 +1,77 @@
+{% extends 'content/quiz_base.html' %}
+
+{% block top_content_left %}
+  {{ block.super }}
+  <article>
+    <h3>Technically Speaking</h3>
+    <p>
+      <a href="http://www.differencebetween.info/difference-between-quiz-and-questionnaire"
+         target="_blank"
+         title="Page explaining the difference between quiz and questionnaire">
+        Technically speaking</a>,
+        this is not a
+        <a href="https://en.wikipedia.org/wiki/Quiz" target="_blank"
+           title="Page about Quizzes at en.wikipedia.org">
+          <span class="air-quotes">quiz</span></a>
+        but a
+        <a href="https://en.wikipedia.org/wiki/Questionnaire" target="_blank"
+           title="Page about Questionnaires at wikipedia.org">
+          <span class="air-quotes">questionnaire.</span></a>
+       Big whoop, right?  Just sayin'!
+    </p>
+    <h3>Pick a Version</h3>
+    <p>
+      Pick one of the following versions of the quiz:
+    </p>
+    <ul class="no-bullets">
+      {% for quiz_size_slug, size_text, question_count, size_abbr, button_classes in quiz_list_data %}
+        <li class="quiz-sizes-list">
+          <a href="/quiz/{{ quiz_size_slug }}" class="{{ button_classes }}"
+             id="quiz-size-button-{{ quiz_size_slug }}"
+             title="Link to {{ size_text }} version">
+            {{ size_text }} ({{ size_abbr }})</a>
+            &ndash; contains
+          <a href="/quiz/{{ quiz_size_slug }}" class="quiz-size-text"
+             id="quiz-size-link-{{ quiz_size_slug }}"
+             title="Link to {{ size_text }} version">
+              {{ question_count }} questions</a>
+        </li>
+      {% endfor %}
+    </ul>
+    <p>
+      You can use your email address to save your answers on our server!
+    </p>
+    <h1>Sharing Your Email Address</h1>
+    <p>
+      Sharing your email address on the quiz page
+        enables you to save your answers on our server and
+        retrieve, change, and add to them when you return.</p>
+    <p>
+      Note: sharing your email address on the quiz page
+        does NOT sign you up for our newsletter!
+      To do that, use the form in the aside that is
+        labeled specifically for that purpose.</p>
+  </article>
+{% endblock %}
+
+{% block top_aside %}
+  <div class="col-md-4">
+    {% block top_aside_top_ad %}{{ block.super }}{% endblock %}
+  </div><!-- .col-md-4 -->
+  {% block top_aside_email %}{{ block.super }}{% endblock %}
+  <div class="col-md-4">
+    {% block top_aside_bottom_ad %}{{ block.super }}{% endblock %}
+  </div><!-- .col-md-4 -->
+{% endblock %}
+
+{% block above_middle_row_ad %}{% endblock %}
+{% block middle_left_ad %}{% endblock %}
+{% block middle_content %}{% endblock %}
+{% block middle_right_ad %}{% endblock %}
+{% block below_middle_row_ad %}{% endblock %}
+
+{% block bottom_left_ad %}{{ block.super }}{% endblock %}
+{% block bottom_content %}{{ block.super }}{% endblock %}
+{% block bottom_right_ad %}{{ block.super }}{% endblock %}
+
+{% block bottom_row_ad %}{{ block.super }}{% endblock %}

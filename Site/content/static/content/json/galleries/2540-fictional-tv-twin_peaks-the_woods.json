@@ -1,0 +1,142 @@
+{
+  "gallery_title": "Twin Peaks - The Woods",
+  "see_gallery_button_text": "See Their Minds",
+  "list_page_teaser": "The spiritual portraits of the idealistic Log Lady and Dr. Jacoby contrast strongly with the pragmatic, logical, images of Leo Johnson and BOB.  Click to learn more!",
+  "description_html": "<p>The Log Lady is outgoing and lives in a world of ideas, totally without facts.  Dr. Jacoby is similar, but more reserved and a bit more balanced.</p><p>Leo Johnson and BOB are very logically decisive and pragmatic.  They do not care about ideals or other people's feelings, which allows them to carry out their crimes without much, if any, regret.</p><p>Major Garland Briggs is also very logicallly decisive, but is also open to new ideas.  This enables him to embrace strange explanations, such as alien beings and rumors of a black lodge, for otherwise unexplainable events.</p>",
+  "story_html": "",
+  "image_list":
+  [
+    {
+      "id": "2540",
+      "title": "Margaret Lanterman",
+      "subtitle_html": "<a href='https://en.wikipedia.org/wiki/Log_Lady' title='Wikipedia page for the Log Lady' target='_blank'>Log Lady</a>",
+      "gallery_page_teaser": "Margaret Lanterman's spiritual portrait shows she is outgoing and can be amiable, but cares only about ideas, and not at all about facts.  Click on the image to learn more!",
+      "image_file_name": "enfp-margaret_lanterman-1.jpg",
+      "meat_portrait_href": "http://twinpeaks.wikia.com/wiki/Margaret_Lanterman?file=Logladyreplacement.jpg",
+      "composition": "O",
+      "score": [
+         { "e_score": "13", "i_score": "6" },
+         { "n_score": "19", "s_score": "0" },
+         { "f_score": "15", "t_score": "4" },
+         { "j_score": "4", "p_score": "15" }
+      ],
+      "four_letter_type": "ENFP",
+      "fixed_percentages": "",
+      "archetype": "Ne",
+      "quiz_type": "KTS2",
+      "year": "2018",
+      "explain_dom": "The Blue in this spiritual portrait represents Margaret's dominant personality trait, her extremely strong preference for ideas over facts.  In Extraverts, the dominant trait is directed outwardly, and spiritual portraits use a long vertical line to represent this, because it is the side of their personality that is most evident.",
+      "explain_aux": "The Red in this spiritual portrait represents Margaret's auxiliary personality trait, her very strong preference for being emotional rather than logical.  In Extraverts, the auxiliary trait is directed inwardly, and spiritual portraits use a horizontal line to represent this.",
+      "story_intro_html": "",
+      "story_html": "",
+      "compare_to": { },
+      "contrast_with": { }
+    }, {
+      "id": "2542",
+      "title": "Leo Johnson",
+      "subtitle_html": "<a href='https://en.wikipedia.org/wiki/Trucker' title='Wikipedia page for Trucker' target='_blank'>Truck Driver</a> and <a href='https://en.wikipedia.org/wiki/Illegal_drug_trade' title='Wikipedia page for Illegal drug trade' target='_blank'>Drug Dealer</a>",
+      "gallery_page_teaser": "Leo's spiritual portrait shows he is extremely decisive and logical, and cares about facts much more than ideas.  Click on the image to learn more!",
+      "image_file_name": "istj-leo_johnson-1.jpg",
+      "meat_portrait_href": "http://twinpeaks.wikia.com/wiki/Leo_Johnson?file=LeoHiRes.jpg",
+      "composition": "O",
+      "score": [
+         { "e_score": "7", "i_score": "12" },
+         { "n_score": "1", "s_score": "18" },
+         { "f_score": "3", "t_score": "16" },
+         { "j_score": "13", "p_score": "6" }
+      ],
+      "four_letter_type": "ISTJ",
+      "fixed_percentages": "",
+      "archetype": "Si",
+      "quiz_type": "KTS2",
+      "year": "2018",
+      "explain_dom": "The Yellow in this spiritual portrait represents Leo's dominant personality trait, his strong need for sensual stimulation.  In Introverts, the dominant trait is directed inwardly, and spiritual portraits use a long horizontal line to represent this.",
+      "explain_aux": "The Green in this spiritual portrait represents Leo's auxiliary personality trait, his strong preference for objectivity over empathy for others.  In Introverts, the auxiliary trait is directed outwardly, and spiritual portraits use a vertical line to represent this, because it is more evident than the dominant function.",
+      "story_intro_html": "",
+      "story_html": "",
+      "compare_to": { },
+      "contrast_with": { }
+    }, {
+      "id": "2543",
+      "title": "responsive_ad"
+    }, {
+      "id": "2545",
+      "title": "Lawrence Jacoby",
+      "subtitle_html": "<a href='https://en.wikipedia.org/wiki/Psychiatrist' title='Wikipedia page for Psychiatrist' target='_blank'>Psychiatrist</a>",
+      "gallery_page_teaser": "Lawrence Jacoby's spiritual portrait shows he is very open to new ideas, and does not care to make many decisions.  Click on the image to learn more!",
+      "image_file_name": "intp-doctor_lawrence_jacoby-1.jpg",
+      "meat_portrait_href": "http://twinpeaks.wikia.com/wiki/Lawrence_Jacoby?file=JacobyNew.jpg",
+      "composition": "O",
+      "score": [
+         { "e_score": "9", "i_score": "10" },
+         { "n_score": "15", "s_score": "4" },
+         { "f_score": "9", "t_score": "10" },
+         { "j_score": "4", "p_score": "15" }
+      ],
+      "four_letter_type": "INTP",
+      "fixed_percentages": "",
+      "archetype": "Ti",
+      "quiz_type": "KTS2",
+      "year": "2018",
+      "explain_dom": "The Green in this spiritual portrait represents Dr. Jacoby's dominant personality trait, his very slight preference for objectivity over subjectivity.  In Introverts, the dominant trait is directed inwardly, and spiritual portraits use a long horizontal line to represent this.",
+      "explain_aux": "The Blue in this spiritual portrait represents Dr. Jacoby's auxiliary personality trait, his fairly strong preference for seeing the world more in terms of ideas than of facts.  In Introverts, the auxiliary trait is directed outwardly, and spiritual portraits use a vertical line to represent this, because it is more evident than the dominant function.",
+      "story_intro_html": "",
+      "story_html": "",
+      "compare_to": { },
+      "contrast_with": { }
+    }, {
+      "id": "2546",
+      "title": "Garland Briggs",
+      "subtitle_html": "<a href='https://en.wikipedia.org/wiki/Major' title='Wikipedia page for Major' target='_blank'>Major</a> in the <a href='https://en.wikipedia.org/wiki/United_States_Air_Force' title='Wikipedia page for United States Air Force' target='_blank'>United States Air Force</a>",
+      "gallery_page_teaser": "Garland Briggs's spiritual portrait shows he is somewhat reserved, very decisive and logical, and open to new ideas.  Click on the image to learn more!",
+      "image_file_name": "intj-major_garland_briggs-1.jpg",
+      "meat_portrait_href": "http://twinpeaks.wikia.com/wiki/Garland_Briggs?file=MajorGarlandBriggs.png",
+      "composition": "O",
+      "score": [
+         { "e_score": "4", "i_score": "15" },
+         { "n_score": "14", "s_score": "5" },
+         { "f_score": "4", "t_score": "15" },
+         { "j_score": "14", "p_score": "5" }
+      ],
+      "four_letter_type": "INTJ",
+      "fixed_percentages": "",
+      "archetype": "Ni",
+      "quiz_type": "KTS2",
+      "year": "2018",
+      "explain_dom": "The Blue in this spiritual portrait represents Major Briggs's dominant personality trait, his openness to new ideas.  In Introverts, the dominant trait is directed inwardly, and spiritual portraits use a long horizontal line to represent this.",
+      "explain_aux": "The Green in this spiritual portrait represents Major Briggs's auxiliary personality trait, his rationality and cool-headedness.  In Introverts, the auxiliary trait is directed outwardly, and spiritual portraits use a vertical line to represent this, because it is more evident than the dominant function.",
+      "story_intro_html": "",
+      "story_html": "",
+      "compare_to": { },
+      "contrast_with": { }
+    }, {
+      "id": "2547",
+      "title": "BOB",
+      "subtitle_html": "<a href='https://en.wikipedia.org/wiki/Killer_BOB' title='Wikipedia page for Killer BOB' target='_blank'>Killer</a>",
+      "gallery_page_teaser": "BOB's spiritual portrait shows he is reserved, pragmatic, and very logical.  Click on the image to learn more!",
+      "image_file_name": "istj-bob-1.jpg",
+      "meat_portrait_href": "http://twinpeaks.wikia.com/wiki/BOB?file=KillerBob.jpg",
+      "composition": "O",
+      "score": [
+         { "e_score": "2", "i_score": "17" },
+         { "n_score": "9", "s_score": "10" },
+         { "f_score": "3", "t_score": "16" },
+         { "j_score": "12", "p_score": "7" }
+      ],
+      "four_letter_type": "ISTJ",
+      "fixed_percentages": "",
+      "archetype": "Si",
+      "quiz_type": "KTS2",
+      "year": "2018",
+      "explain_dom": "The Yellow in this spiritual portrait represents BOB's dominant personality trait, his need for sensual stimulation.  In Introverts, the dominant trait is directed inwardly, and spiritual portraits use a long horizontal line to represent this.",
+      "explain_aux": "The Green in this spiritual portrait represents BOB's auxiliary personality trait, his objectivity and lack of empathy for others.  In Introverts, the auxiliary trait is directed outwardly, and spiritual portraits use a vertical line to represent this, because it is more evident than the dominant function.",
+      "story_intro_html": "",
+      "story_html": "",
+      "compare_to": { },
+      "contrast_with": { }
+    }, {
+      "id": "2549",
+      "title": "responsive_ad"
+    }
+  ]
+}

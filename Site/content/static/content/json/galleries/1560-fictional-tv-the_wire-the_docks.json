@@ -1,0 +1,110 @@
+{
+  "gallery_title": "The Wire - The Docks",
+  "see_gallery_button_text": "See Their Minds",
+  "list_page_teaser": "The image of Frank Sobotka's personality is very warm and quite different from the frequently cool portraits of the many mostly logical characters on The Wire.  Click to learn more!",
+  "description_html": "<p>Along with Clay Davis, Frank Sobotka is one of the most emotional characters on The Wire, and the image of his personality on this page reflects this warmth.  When it comes to doing business, he and his nephew Nick &mdash; who is also decisive but much more logical and cool &mdash; make a good team.</p><p>The image of Frank's son Ziggy's personality shows he is very open to new experiences, which helps explain how he often comes off as a goof-ball.  In contrast, the image of Vondas' personality is coldly logical, pragmatic, and withdrawn &mdash; all business.</p>",
+  "story_html": "",
+  "image_list":
+  [
+    {
+      "id": "1560",
+      "title": "Frank Sobotka",
+      "subtitle_html": "International Brotherhood of Stevedores Union's Secretary Treasurer",
+      "gallery_page_teaser": "The Red in Frank's spiritual portrait shows he is much more emotional than logical, and the Yellow shows he is pragmatic.  Click on the image to learn more!",
+      "image_file_name": "esfj-frank_sobotka-1.jpg",
+      "meat_portrait_href": "https://www.hbo.com/the-wire/cast-and-crew/frank-sobotka",
+      "composition": "O",
+      "score": [
+         { "e_score": "19", "i_score": "0" },
+         { "n_score": "8", "s_score": "11" },
+         { "f_score": "16", "t_score": "3" },
+         { "j_score": "12", "p_score": "7" }
+      ],
+      "four_letter_type": "ESFJ",
+      "archetype": "Fe",
+      "quiz_type": "KTS2",
+      "year": "2018",
+      "explain_dom": "The Red in this spiritual portrait represents Frank's dominant personality trait, his strong preference for being more warm and emotional than cool and logical.  In Extraverts, the dominant trait is directed outwardly, and spiritual portraits use a long vertical line to represent this, because it is the side of their personality that is most evident.  An example of how Frank shows his preference for being emotional comes in the way he tries to preserve the stevedore's union.",
+      "explain_aux": "The Yellow in this spiritual portrait represents Frank's auxiliary personality trait, his preference for seeing the world more in terms of facts rather than in terms of ideas.  In Extraverts, the auxiliary trait is directed inwardly, and spiritual portraits use a horizontal line to represent this.",
+      "story_intro_html": "",
+      "story_html": "",
+      "compare_to": { },
+      "contrast_with": { }
+    }, {
+      "id": "1562",
+      "title": "Ziggy Sobotka",
+      "subtitle_html": "Frank Sobotka's Son",
+      "gallery_page_teaser": "The Yellow in Ziggy's spiritual portrait shows he is open to new experiences, and the Red shows he is more emotional than logical.  Click on the image to learn more!",
+      "image_file_name": "esfp-ziggy_sobotka-1.jpg",
+      "meat_portrait_href": "https://www.hbo.com/the-wire/cast-and-crew/ziggy",
+      "composition": "O",
+      "score": [
+         { "e_score": "19", "i_score": "0" },
+         { "n_score": "7", "s_score": "12" },
+         { "f_score": "15", "t_score": "4" },
+         { "j_score": "4", "p_score": "15" }
+      ],
+      "four_letter_type": "ESFP",
+      "archetype": "Se",
+      "quiz_type": "KTS2",
+      "year": "2018",
+      "explain_dom": "The Yellow in this spiritual portrait represents Ziggy's dominant personality trait, his openness to new experiences.  In Extraverts, the dominant trait is directed outwardly, and spiritual portraits use a long vertical line to represent this, because it is the side of their personality that is most evident.  An example of Ziggy's openness to new experiences comes when he chooses a duck to be his drinking buddy.",
+      "explain_aux": "The Red in this spiritual portrait represents Ziggy's auxiliary personality trait, his moderate preference for being more emotional and irrational than logical and rational.  In Extraverts, the auxiliary trait is directed inwardly, and spiritual portraits use a horizontal line to represent this.  An example of Ziggy's irrationality comes when he uses a burning bill to light a cigarette.",
+      "story_intro_html": "",
+      "story_html": "",
+      "compare_to": { },
+      "contrast_with": { }
+    }, {
+      "id": "1564",
+      "title": "Nick Sobotka",
+      "subtitle_html": "Frank Sobotka's Nephew",
+      "gallery_page_teaser": "The Green in Nick's spiritual portrait shows he is rational, and the Yellow shows he is realistic.  Click on the image to learn more!",
+      "image_file_name": "estj-nick_sobotka-1.jpg",
+      "meat_portrait_href": "https://www.hbo.com/the-wire/cast-and-crew/nick-sobotka",
+      "composition": "O",
+      "score": [
+         { "e_score": "13", "i_score": "6" },
+         { "n_score": "3", "s_score": "16" },
+         { "f_score": "5", "t_score": "14" },
+         { "j_score": "12", "p_score": "7" }
+      ],
+      "four_letter_type": "ESTJ",
+      "archetype": "Te",
+      "quiz_type": "KTS2",
+      "year": "2018",
+      "explain_dom": "The Green in this spiritual portrait represents Nick's dominant personality trait, his moderate preference for being logical and rational rather than emotional.  In Extraverts, the dominant trait is directed outwardly, and spiritual portraits use a long vertical line to represent this, because it is the side of their personality that is most evident.  An example of a time when Nick demonstrates his ability to be logical comes when he shows he is better at dealing with drug dealers than his cousin Ziggy is.",
+      "explain_aux": "The Yellow in this spiritual portrait represents Nick's auxiliary personality trait, his fairly strong preference for seeing the world more in terms of facts than in terms of ideas.  In Extraverts, the auxiliary trait is directed inwardly, and spiritual portraits use a horizontal line to represent this.",
+      "story_intro_html": "",
+      "story_html": "",
+      "compare_to": { },
+      "contrast_with": { }
+    }, {
+      "id": "1568",
+      "title": "Vondas",
+      "subtitle_html": "The Greek's Right Hand Man",
+      "gallery_page_teaser": "The great amount of Green in Vondas' spiritual portrait shows he is very cold and logical, and the Yellow shows he is pramatic.  Click on the image to learn more!",
+      "image_file_name": "istj-vondas-1.jpg",
+      "meat_portrait_href": "https://www.hbo.com/the-wire/cast-and-crew/spiros-vondas-vondopoulos",
+      "composition": "O",
+      "score": [
+         { "e_score": "4", "i_score": "15" },
+         { "n_score": "2", "s_score": "17" },
+         { "f_score": "1", "t_score": "18" },
+         { "j_score": "15", "p_score": "4" }
+      ],
+      "four_letter_type": "ISTJ",
+      "archetype": "Si",
+      "quiz_type": "KTS2",
+      "year": "2018",
+      "explain_dom": "The Yellow in this spiritual portrait represents Vondas' dominant personality trait, his very strong preference for seeing the world more in terms of facts than in terms of of ideas.  In Introverts, the dominant trait is directed inwardly, and spiritual portraits use a long horizontal line to represent this.  An example of a time when Vodas exhibits this preference is when he says it is always about \"business.\"",
+      "explain_aux": "The Green in this spiritual portrait represents Vondas' auxiliary personality trait, his very strong preference for being objective rather than personal.  In Introverts, the auxiliary trait is directed outwardly, and spiritual portraits use a vertical line to represent this, because it is more evident than the dominant function.",
+      "story_intro_html": "",
+      "story_html": "",
+      "compare_to": { },
+      "contrast_with": { }
+    }, {
+      "id": "1569",
+      "title": "square_ad"
+    }
+  ]
+}

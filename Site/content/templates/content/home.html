@@ -1,0 +1,162 @@
+{% extends 'content/base.html' %}
+
+{% block top_row_ad %}{% endblock %}
+{% block top_left_ad %}{% endblock %}
+
+{% block top_content_left %}
+  <div class="col-md-8">
+    <section class="jumbotron">
+      <dl class="did-you-ever">
+        <dt>Did you ever wonder...?</dt>
+        <dd>What a personality might look like,
+          if you could see it?</dd>
+        <dt>Did you ever wish you could...?</dt>
+        <dd>Understand why your friends, loved-ones, and
+           co-workers do and say the things they say and do?</dd>
+        <dt>Did you ever want to learn...?</dt>
+        <dd>More about what makes us tick?</dd>
+      </dl>
+      <p>
+        If you have ever wondered, wished, or wanted any of these things,
+          welcome to</p>
+      <h1>SeeOurMinds!</h1>
+      <p class="air-quotes">Shedding light on the things we cannot see.</p>
+    </section><!-- .jumbotron -->
+  </div><!-- .col-md-8 -->
+{% endblock %}
+
+{% block top_aside %}
+  <div class="col-md-4">
+    {% block top_aside_top_ad %}{{ block.super }}{% endblock %}
+    {% block top_aside_top_responsive_ad %}{% endblock %}
+  </div><!-- .col-md-4 -->
+  {% block top_aside_email %}
+    {{ block.super }}
+  {% endblock %}
+  <div class="col-md-4">
+    {% block top_aside_bottom_ad %}{{ block.super }}{% endblock %}
+    {% block top_aside_bottom_responsive_ad %}{% endblock %}
+  </div><!-- .col-md-4 -->
+{% endblock %}
+
+{% block above_middle_row_ad %}{% endblock %}
+{% block middle_left_ad %}{% endblock %}
+
+{% block middle_content %}
+  {% load static %}
+  <section id="middle-content">
+    <div class="col-md-6">
+      <h2>To See Their Minds...</h2>
+      <p>
+        Visit the
+          <a href="galleries" title="Link to the Galleries page on this site">
+           Galleries.</a></p>
+      <p>
+        They contain images of famous people's personalities,
+          both real and fictional, and some sample images of
+          generic personality types that do not correspond to actual people.
+      </p>
+      <div class="text-center">
+        <a href="galleries" title="Visit the seeourminds.com galleries.">
+          <button type="submit" class="btn-lg btn-primary"
+            onclick="send_ga_event_with_value_1('Button', 'Leave Home Page', 'See Their Minds');">
+            See Their Minds</button></a>
+      </div><!-- .text-center -->
+    </div><!-- .col-md-6 -->
+    <div class="col-md-6">
+      <h2>To See My Mind...</h2>
+      <p>
+        See the
+        <a href="image/0"
+           title="Single image page containing the image in the site header">
+          image</a>
+        in the page header, also shown here:</p>
+      <div class="see-my-mind">
+        <a href="image/0"
+           title="Single image page containing the image in the site header">
+          <img src="{% static 'content/images/header/infp-tomh_1987-81x81.gif' %}"
+               alt="Image of INFP containing more blue and red squares and fewer yellow and green squares.">
+          </img></a></div>
+      <p>
+        The preponderance of blue and red in this image show that I am
+          idealistic and compassionate,
+        The intersection of the two longest lines in the lower right corner
+          shows that I am introverted.
+      </p>
+      <p>
+        The image also contains plenty of green and yellow, which
+          shows that I am flexible.
+        And indeed, I can be down-to-earth and rational when the situation calls
+          for it, such as when I am working or
+          taking care of the business that is part of everyone's day-to-day life.
+      </p>
+      <div class="text-center">
+        <a href="/gallery/9100-real-self_portraits/"
+           title="Single image page containing the image in the site header">
+        <button type="submit" class="btn-lg btn-primary"
+          onclick="send_ga_event_with_value_1('Button', 'Leave Home Page', 'See My Mind');">
+          See My Mind</button></a>
+      </div><!-- .text-center -->
+    </div><!-- .col-md-6 -->
+  </section><!-- #middle-content -->
+{% endblock %}
+
+{% block middle_right_ad %}{% endblock %}
+{% block below_middle_row_ad %}{% endblock %}
+{% block bottom_left_ad %}{% endblock %}
+
+{% block bottom_content %}
+  <section id="bottom-content">
+    <div class="col-md-6">
+      <h2>To See Your Mind...</h2>
+      <p>
+        Head on over to the
+        <a href="http://www.groja.com/yourportrait" target="_blank"
+           title="Groja.com Your Portrait page.".>
+           Get Your Portrait</a>
+          page on
+        <a href="http://www.groja.com" target="_blank"
+           title="Groja.com home page">Groja.com</a>!</p>
+        <p>
+          The only way to get your own, personalized Spiritual Portrait is to
+          <a href="http://www.groja.com/conversion/seeourminds" target="_blank"
+             title="Link to the Contact Me page on Groja.com">Contact Us</a>
+          and ask us to create it for you.</p>
+        <p>
+          <span class="air-quotes">Discounts are definitely available for early adopters!</span>
+          </p>
+        <div class="text-center">
+          <a href="http://www.groja.com/yourportrait" target="_blank"
+             title="Go to the Your Portrait page on Groja.com .">
+            <button type="submit" class="btn-lg btn-primary"
+              onclick="send_ga_event_with_value_1('Button', 'Leave Home Page', 'See Your Mind');">
+              See Your Mind</button></a>
+        </div><!-- .text-center -->
+    </div><!-- .col-md-6 -->
+    <div class="col-md-6">
+      <h2>To learn more about all this ...</h2>
+      <p>
+        Visit the
+        <a href="http://www.groja.com/about" target="_blank"
+           title="Groja.com About page.".>About</a>
+        page on
+        <a href="http://www.groja.com" target="_blank"
+           title="Groja.com home page">Groja.com</a>.</p>
+      <p>
+        In addition to hosting a video, the page tells
+          the story behind this idea and
+          describes how learning about all this has helped me over the years.
+      </p>
+      <div class="text-center">
+        <a href="http://www.groja.com/about" target="_blank"
+           title="Go to the About page on Groja.com .">
+          <button type="submit" class="btn-lg btn-primary"
+            onclick="send_ga_event_with_value_1('Button', 'Leave Home Page', 'Learn More');">
+            Learn More</button></a>
+      </div><!-- .text-center -->
+    </div><!-- .col-md-6 -->
+  </section><!-- #bottom-content -->
+{% endblock %}
+
+{% block bottom_right_ad %}{% endblock %}
+{% block bottom_row_ad %}{% endblock %}

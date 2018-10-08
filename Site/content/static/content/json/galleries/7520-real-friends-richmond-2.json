@@ -1,0 +1,187 @@
+{
+  "gallery_title": "Friends in Richmond 2",
+  "see_gallery_button_text": "See Their Minds",
+  "list_page_teaser": "I often get my friends to answer the questionnaire so I can learn more about them and draw their image.  View this gallery to see the resultant images, and learn about them as well.",
+  "description_html": "<p>These are some images of my friends, from when I wrote the original version when I was in grad school.</p><p>These are images of real live <q>normal</q> people, whom I have known for many years!</p>",
+  "story_html": "<a href='/static/content/images/stories/friends-richmond/Dec_28_1977.jpg' title='Link to display a full-size copy of this photo on this site'><img src='/static/content/images/stories/friends-richmond/Dec_28_1977.jpg' class='gallery-story-image' /></a><p>See if you can match the people in the photo above with their spiritual portraits below!</p>",
+  "image_list":
+  [
+    {
+      "id": "7520",
+      "title": "Eric Erickson",
+      "subtitle_html": "Party Friend from <a href='http://www.urbandictionary.com/define.php?term=back%20in%20the%20day' title='Link to page for Back in the Day at urbandictionary.com' target='_blank'>Back in the Day</a>",
+      "gallery_page_teaser": "Eric was a good friend of mine in Richmond.  He passed away recently.  Click on the image to learn more!",
+      "image_file_name": "estp-eric_e-1.jpg",
+      "composition": "O",
+      "score": [
+         { "e_score": "15", "i_score": "4" },
+         { "n_score": "6", "s_score": "13" },
+         { "f_score": "6", "t_score": "13" },
+         { "j_score": "9", "p_score": "10" }
+      ],
+      "four_letter_type": "ESTP",
+      "archetype": "Se",
+      "quiz_type": "K",
+      "subject_line": "",
+      "tweet_html": "",
+      "explain_dom": "The Yellow in this spiritual portrait represents Eric's dominant trait, his pragmatism.  In Extraverts, the dominant trait is directed outwardly, and spiritual portraits use a long vertical line to represent this, because it is the side of their personality that is most evident.",
+      "explain_aux": "The Green in this spiritual portrait represents Eric's auxiliary trait, his rationality.  In Extraverts, the auxiliary trait is directed inwardly, and spiritual portraits use a horizontal line to represent this.",
+      "story_intro_html": "<p>Eric was an outgoing, open-minded, and cheerful friend.  He loved music and we had many good times, going to concerts, hanging out down by the river, always ....</p>",
+      "story_html": "<p>Eric was an outgoing, open-minded, cheerful friend.  He loved music and we had many good times, going to concerts, hanging out down by the river, always drinking and smoking.</p><p>When <a href='https://en.wikipedia.org/wiki/Punk_rock' title='Wikipedia page for punk rock' target='_blank'>punk rock</a> came along he was &mdash; unlike some of my friends &mdash; open to the newer sounds.  Ultimately, though, <a href='https://www.youtube.com/watch?v=R1y8YSg0wpw' title='Greatest Hit Videos of Cat Stevens on youtube.com' target='_blank'>Cat Stevens</a> was his favorite artist.</p><p>He had a great laugh and was hard-working and smart, but after completing high school, had no interest in furthering his education.  As we grew older and less resilient to the after effects of partying, most of us learned how to abstain or at least moderate.  Eric was one exception to this general trend I saw among my friends and in myself, as we grew into our thirties and beyond.</p><p>At one point he read some <a href='https://en.wikipedia.org/wiki/Friedrich_Nietzsche' title='Wikipedia page for Friedrich Nietzsche' target='_blank'>Nietzsche</a>.  This seemed to fuel his drinking and make him more apathetic about life in general and the future in particular.  Ultimately he became a very <a href='https://sceneclip.com/clip/ecNgc8g' title='Link to mp4 of tragic figure line on The Sopranos, on sceneclip.com, repeating ad infinitum' target='_blank'>tragic figure</a>.</p><p>Eric <a href='http://www.richmond.com/obituaries/article_3058bb72-ffb0-50fc-af2f-71658714e963.html' title='Obituary for Eric at www.richmond.com' target='_blank'>passed away</a> on November 26, 2016.  His spirit was as unique as this portrait of it, and I am glad to have this image of his personality to remember him by.</p>",
+      "compare_to": { },
+      "contrast_with": { }
+    }, {
+      "id": "7522",
+      "title": "Bob N.",
+      "subtitle_html": "Expert at Buying <a href='http://www.rollingstones.com/' title='Home page of rollingstones.com' target='_blank'>Stones</a> Tickets",
+      "gallery_page_teaser": "Bob and I have been to see many concerts together.  We have even seen the Rolling Stones a few times!  Click on the image to learn more!",
+      "image_file_name": "estj-bob_n-1.jpg",
+      "composition": "O",
+      "score": [
+         { "e_score": "11", "i_score": "8" },
+         { "n_score": "7", "s_score": "12" },
+         { "f_score": "6", "t_score": "13" },
+         { "j_score": "14", "p_score": "5" }
+      ],
+      "four_letter_type": "ESTJ",
+      "archetype": "Te",
+      "quiz_type": "K",
+      "subject_line": "",
+      "tweet_html": "",
+      "explain_dom": "The Green in this spiritual portrait represents Bob's dominant trait, his rationality.  In Extraverts, the dominant trait is directed outwardly, and spiritual portraits use a long vertical line to represent this, because it is the side of their personality that is most evident.",
+      "explain_aux": "The Yellow in this spiritual portrait represents Bob's auxiliary trait, his pragmatism.  In Extraverts, the auxiliary trait is directed inwardly, and spiritual portraits use a horizontal line to represent this.",
+      "story_intro_html": "<p>Bob and I have been friends for so long, I don't remember how we met.  We went to a lot of concerts together in the ....</p>",
+      "story_html": "<p>Bob and I have been friends for so long, I don't remember how we met.  We went to a lot of concerts together in the 1970s and 80s.</p><h4>Roommate Backlash and Musical Snobbery</h4><p>At the time, I had friends who harbored a lot of prejudice against certain types of music.  It was a pretty huge thing, a person could actually lose friends for being a non-conformist and listening to the wrong bands.</p><p>This could be particularly bad when one roommate subjected another to music they did not care for.  For awhile, thanks to this sort of <q>roommate backlash,</q> I developed my own brand of musical snobbery &mdash; in favor of American music and against British music.</p><h4>Rock Concerts in the '70s and '80s</h4><p>Back then Bob and I would go to these concerts along with as many of our friends as we could get to join us.  Rock 'n' roll was huge back then, and we loved going to see bands like <a href='http://www.dead.net/' title='Link to the home page at www.dead.net' target='_blank'>The Grateful Dead</a>, <a href='http://www.thewho.com/' title='Link to the home page at www.thewho.com' target='_blank'>The Who</a>, and <a href='http://www.littlefeat.net/' title='Link to the home page at www.littlefeat.net' target='_blank'>Little Feat</a>.</p><p>In those days, before the internet, getting tickets could be tricky, because they had to be purchased in person or over the phone.  This meant finding out when and where they went on sale, and quite possibly waiting in line or repeatedly dialing a certain number and hoping to get through somehow.  It could be extremely difficult to get tickets to very popular acts such as <a href='http://www.rollingstones.com/' title='Link to the home page at www.rollingstones.com' target='_blank'>The Rolling Stones</a>.</p><h4>Want to See The Stones?</h4><p>I vividly remember the night we saw Little Feat at the best venue in town at the time, the <a href='https://en.wikipedia.org/wiki/Altria_Theater' title='Wikipedia page for the Altria Theater, formerly known as the Mosque' target='_blank'>Mosque</a> &mdash; now known as the <a href='https://www.altriatheater.com/' title='Link to the home page at www.altriatheater.com' target='_blank'>Altria Theater</a>.  Bob and I were talking about other upcoming concerts, and he asked if I'd like to go to see The Stones.</p><p>Right away I said <q>nah,</q> but after awhile started thinking, I'd never met anyone &mdash; except Bob, apparently &mdash; who had ever been to a Stones concert.  In fact, getting tickets for such a popular show seemed impossible!</p><p>Bob had been to a few of their shows, so he knew how to get tickets.  He somehow managed to come through and we went to Stones concert at JFK Stadium in Philadelphia, PA in the summer of 1978.</p><p>As mentioned above, at that time I was a little down on British music.  I would call it more of a preference for American musicians than I would a <q>hatred</q> of the Brits &mdash; but <q>hate</q> is not too strong a word for how <em>some</em> people at that time felt about music they didn't like.</p><h4>We Were <a href='https://en.wikipedia.org/wiki/My_Back_Pages' title='Wikipedia page for the song My Back Pages by Bob Dylan' target='_blank'>So Much Older Then</a> &mdash;<br />We're <a href='https://www.youtube.com/watch?v=7seZjqkk2n0' title='Video of the song My Back Pages by Bob Dylan on youtube.com' target='_blank'>Younger Than That Now</a></h4><p>It may seem strange in this new millennium, but in <a href='https://en.wikipedia.org/wiki/Richmond,_Virginia' title='Wikipedia page for Richmond, VA' target='_blank'>Richmond, VA</a> back in the 1970s and 80s some <a href='https://www.urbandictionary.com/define.php?term=redneck' title='Link to the page for the term redneck at www.urbandictionary.com' target='_blank'>music lovers</a> had very strong opinions about their music.  There were even tales of fist fights between people who loved country music and those who loved punk rock!</p><p>In those days I was an amateur musician.  I had played trumpet and taken a class in music theory in high school, and taught myself how to play guitar and bass after graduation.</p><p>I was in it only for the fun, and had played a little classical and jazz.  I quickly learned that a lot of popular music &mdash; country, bluegrass, folk, blues, rock, and the like &mdash; is based on <a href='https://en.wikipedia.org/wiki/Three-chord_song' title='Wikipedia page for three-chord songs' target='_blank'>only three chords</a>.</p><p>Also back then I was also a big fan of both science fiction and bluegrass, but considered them to be totally unrelated.  They were just two of the things I was into at the time.</p><a href='/static/content/images/stories/friends-richmond/Tom_at_Stones_Concert_June_1978.jpg' title='Link to display full-size version of this image on this site'><img src='/static/content/images/stories/friends-richmond/Tom_at_Stones_Concert_June_1978.jpg' class='story-image-left' /></a><h4>At the Show</h4><p>Finally, the big day arrived and a group of us traveled up to <a href='https://www.setlist.fm/setlist/the-rolling-stones/1978/jfk-stadium-philadelphia-pa-3bd6ecc0.html' title='Link to the setlist for the Stones show at Philadelphia on June 17, 1978 on www.setlist.fm' target='_blank'>JFK Stadium Philadelphia on June 17, 1978</a> to see the show we'd been looking forward to for so long.</p><p>I started out feeling a bit cynical about the band.  Why were they so popular?  I didn't get it.</p><p>There were so many other musicians &mdash; especially classical and jazz musicians &mdash; that were much more technically proficient.  It seemed unfair that these guys could make so much money, apparently just by goofing around and being <q>bad boys,</q> while others who were hard-working professionals remained poor by comparison.</p><h4>Bluegrass Meets Science Fiction!?!</h4><p>Then during one song I saw Keith Richards using a <a href='https://en.wikipedia.org/wiki/Capo' title='Wikipedia page for capo' target='_blank'>capo</a> &mdash; a contraption that was very popular among country and bluegrass musicians, because it allowed them to easily play the three chords in different <a href='https://en.wikipedia.org/wiki/Key_(music)' title='Wikipedia page about musical keys' target='_blank'>keys</a>.</p><p>This gave me a sudden flash of insight: The Rolling Stones were like <em>science fiction bluegrass!</em>  The Stones played the same three chords as any bluegrass band, the difference was they were from different time periods.</p><h4>A Life-Altering Experience</h4><p>The concert suddenly became a life-altering experience, and I decided that being prejudiced against certain types of music was not just silly but totally self-defeating.  Today most people seem to feel similarly open-minded &mdash; albeit all too often open to <q>all music except for country.</q>  Well, whatever.</p><p>This new-found open-mindedness enabled me to thoroughly enjoy the punk rock and new wave bands through the late 1970s and 80s, and ultimately served me well as I explored other art forms.  In the decades since then I've enjoyed learning about photography, the visual arts, all genres and types of movies and tv shows, and even dancing!</p><p>One of the most important lessons out of this entire journey was learning about <a href='https://en.wikipedia.org/wiki/Wassily_Kandinsky' title='Wikipedia page for Wassily Kandinsky' target='_blank'>Wassily Kandinsky</a>'s triangle &mdash; but that is a <a href='https://medium.com/@tomwhartung/concerning-kandinskys-concerning-the-spiritual-in-art-f2f3d1ca750e' title='Link to a story about Kandinsky and his triangle at medium.com' target='_blank'>different story</a>.</p><h4>Shattered</h4><p>I will never forget that show, and have Bob to thank for what turned out to be a profound, unique, once-in-a-lifetime experience!  I remember the song Shattered, in particular, made a big impression on me for some reason.</p><p>For a taste of what it was like in Philly that day, there is a collection of excellent <a href='https://www.michaelhoppengallery.com/exhibitions/27/overview/#/artworks_standalone/9819' title='Link to a collection of photos of the fans at www.michaelhoppengallery.com' target='_blank'>photos of the fans</a> at the show posted online, and below is the <a href='https://www.youtube.com/watch?v=W_4NzaPSVB4' title='Official video of Shattered from 1978 on youtube.com' target='_blank'>official video</a> of the song <a href='https://en.wikipedia.org/wiki/Shattered_(song)' title='Wikipedia page for the song Shattered' target='_blank'>Shattered</a> for the tour:</p><iframe width='560' height='315' src='https://www.youtube.com/embed/W_4NzaPSVB4' frameborder='0' allowfullscreen></iframe><hr /><p>Bob lives in Powhatan, Virginia.  He went to school at <a href='http://www.colorado.edu/' title='Link to University of Colorado in Boulder home page at colorado.edu' target='_blank'>University of Colorado in Boulder</a>.</p>",
+      "compare_to": { },
+      "contrast_with": { }
+    }, {
+      "id": "7523",
+      "title": "BJ N.",
+      "subtitle_html": "Music Lover and <a href='https://en.wikipedia.org/wiki/Musician' title='Wikipedia page for Musician' target='_blank'>Musician</a>",
+      "gallery_page_teaser": "BJ's spiritual portrait shows he is the opposite type of his father Bob N.  Click on the image to learn more!",
+      "image_file_name": "infp-bj_n-1.jpg",
+      "meat_portrait_href": "",
+      "composition": "O",
+      "score": [
+         { "e_score": "9", "i_score": "10" },
+         { "n_score": "15", "s_score": "4" },
+         { "f_score": "12", "t_score": "7" },
+         { "j_score": "8", "p_score": "11" }
+      ],
+      "four_letter_type": "INFP",
+      "fixed_percentages": "",
+      "archetype": "Fi",
+      "quiz_type": "K",
+      "subject_line": "",
+      "tweet_html": "",
+      "explain_dom": "The Red in this spiritual portrait represents BJ's dominant trait, his passion.  In Introverts, the dominant trait is directed inwardly, and spiritual portraits use a long horizontal line to represent this.  He demonstrates this trait in his passion for music.",
+      "explain_aux": "The Blue in this spiritual portrait represents BJ's auxiliary trait, his openness to ideas.  In Introverts, the auxiliary trait is directed outwardly, and spiritual portraits use a vertical line to represent this, because it is more evident than the dominant function.",
+      "story_intro_html": "<p>BJ lives in Midlothian, Virginia.  His father, Bob N., encouraged him to listen to and appreciate music, and ultim....</p>",
+      "story_html": "<p>BJ lives in Midlothian, Virginia.  His father, Bob N., encouraged him to listen to and appreciate music, and ultimately BJ chose a career as a musician.</p><p>I will share more information as it becomes available.</p>",
+      "compare_to": { },
+      "contrast_with": { }
+    }, {
+      "id": "7528",
+      "title": "responsive_ad"
+    }, {
+      "id": "7530",
+      "title": "Dave G.",
+      "subtitle_html": "Self-employed <a href='https://en.wikipedia.org/wiki/Environmental_chemistry' title='Wikipedia page for Environmental Chemistry' target='_blank'>Environmental Chemist</a>",
+      "gallery_page_teaser": "Dave and I went to Graduate School together (but in different programs).  He helped me get my start in Colorado, but now lives in Hawaii.  Click on the image to learn more!",
+      "image_file_name": "enfp-dave_g-1.jpg",
+      "composition": "O",
+      "score": [
+         { "e_score": "15", "i_score": "4" },
+         { "n_score": "18", "s_score": "1" },
+         { "f_score": "11", "t_score": "8" },
+         { "j_score": "5", "p_score": "14" }
+      ],
+      "four_letter_type": "ENFP",
+      "archetype": "Ne",
+      "quiz_type": "K",
+      "subject_line": "",
+      "tweet_html": "",
+      "explain_dom": "The Blue in this spiritual portrait represents Dave's dominant trait, his idealism.  In Extraverts, the dominant trait is directed outwardly, and spiritual portraits use a long vertical line to represent this, because it is the side of their personality that is most evident.  As this image shows, Dave is very idealistic.  I recently asked him how he felt about Bernie Sanders, and he said Bernie is ok, but still not 'pure on everything.'",
+      "explain_aux": "The Red in this spiritual portrait represents Dave's auxiliary trait, his passion.  In Extraverts, the auxiliary trait is directed inwardly, and spiritual portraits use a horizontal line to represent this.",
+      "story_intro_html": "<p>Dave lives in Kilauea, Hawaii.  He went to undergraduate school at <a href='http://www.colorado.edu/' title='Link to University of Colorado in Boulder home page at colorado.edu' target='_blank'>University of Colorado in Boulder</a> and graduate school at ....</p>",
+      "story_html": "<p>Dave lives in Kilauea, Hawaii.  He went to undergraduate school at <a href='http://www.colorado.edu/' title='Link to University of Colorado in Boulder home page at colorado.edu' target='_blank'>University of Colorado in Boulder</a> and graduate school at <a href='https://www.vcu.edu' title='Home page at vcu.edu' target='_blank'>Virginia Commonwealth University</a>.  He now works as a self-employed Environmental Chemist.</p><p>I will share more information as it becomes available.</p>",
+      "compare_to": { },
+      "contrast_with": { }
+    }, {
+      "id": "7533",
+      "title": "Greg L.",
+      "subtitle_html": "Self-employed Independent <a href='https://en.wikipedia.org/wiki/Consultant' title='Wikipedia page for Consultant' target='_blank'>Consultant</a>",
+      "gallery_page_teaser": "Greg and I have been friends for many years.  He used to be 'famous' for having annual Snakebite Parties!  Click on the image to learn more!",
+      "image_file_name": "estj-greg_l-1.jpg",
+      "composition": "O",
+      "score": [
+         { "e_score": "15", "i_score": "4" },
+         { "n_score": "6", "s_score": "13" },
+         { "f_score": "4", "t_score": "15" },
+         { "j_score": "15", "p_score": "4" }
+      ],
+      "four_letter_type": "ESTJ",
+      "archetype": "Te",
+      "quiz_type": "K",
+      "subject_line": "",
+      "tweet_html": "",
+      "explain_dom": "The Green in this spiritual portrait represents Greg's dominant trait, his rationality.  In Extraverts, the dominant trait is directed outwardly, and spiritual portraits use a long vertical line to represent this, because it is the side of their personality that is most evident.",
+      "explain_aux": "The Yellow in this spiritual portrait represents Greg's auxiliary trait, his pragmatism.  In Extraverts, the auxiliary trait is directed inwardly, and spiritual portraits use a horizontal line to represent this.",
+      "story_intro_html": "<p>Greg lives in Richmond, Virginia.  He has a BS in Information Systems from <a href='https://www.vcu.edu' title='Home page at vcu.edu' target='_blank'>Virginia Commonwealth University</a> and is now ....</p>",
+      "story_html": "<p>Greg lives in Richmond, Virginia.  He has a BS in Information Systems from <a href='https://www.vcu.edu' title='Home page at vcu.edu' target='_blank'>Virginia Commonwealth University</a> and is now a self-employed independent consultant.</p><p>I will share more information as it becomes available.</p>",
+      "compare_to": { },
+      "contrast_with": { }
+    }, {
+      "id": "7537",
+      "title": "Sam L",
+      "subtitle_html": "",
+      "image_file_name": "entp-sam_l-1.jpg",
+      "composition": "O",
+      "score": [
+        { "e_score": "11", "i_score": "8" },
+        { "n_score": "11", "s_score": "8" },
+        { "f_score": "8", "t_score": "11" },
+        { "j_score": "9", "p_score": "10" }
+      ],
+      "four_letter_type": "ENTP",
+      "archetype": "Ne",
+      "quiz_type": "K2",
+      "gallery_page_teaser": "Sam and I have been friends for so long, I am not sure when or how we met.  Click on the image to learn more!",
+      "subject_line": "",
+      "tweet_html": "",
+      "explain_dom": "The Blue in Sam's spiritual portrait represents his slight preference for ideas over facts.  In Extraverts, the dominant function is directed outwardly, and spiritual portraits use a long vertical line to represent this.  ",
+      "explain_aux": "The Green in Sam's spiritual portrait represents his slight preference for making logical rather than emotional decisions.  In Extraverts, the auxiliary function is directed inwardly and is less evident than the dominant function.  ",
+      "story_intro_html": "<p>Sam lives in Richmond, Virginia.  He went to school at ....</p>",
+      "story_html": "<p>Sam lives in Richmond, Virginia.  He went to school at <a href='https://www.vcu.edu' title='Home page at vcu.edu' target='_blank'>Virginia Commonwealth University</a>.</p><p>I will share more information as it becomes available.</p>",
+      "compare_to": { },
+      "contrast_with": { }
+    }, {
+      "id": "7577",
+      "title": "responsive_ad"
+    }, {
+      "id": "7578",
+      "title": "Roy B. Scherer",
+      "subtitle_html": "Lobbyist for Liberty",
+      "image_file_name": "estp-roy_b_scherer-libertarian_lobbyist.jpeg",
+      "composition": "O",
+      "score": [
+        { "e_score": "15", "i_score": "4" },
+        { "n_score": "8", "s_score": "11" },
+        { "f_score": "4", "t_score": "15" },
+        { "j_score": "6", "p_score": "13" }
+      ],
+      "four_letter_type": "ESTP",
+      "archetype": "Se",
+      "quiz_type": "K",
+      "gallery_page_teaser": "Roy Scherer is a friend I met through some of my Libertarian friends when I lived in Richmond, Virginia.  Click on the image to learn more!",
+      "subject_line": "",
+      "tweet_html": "",
+      "explain_dom": "The Yellow in Roy's spiritual portrait represents his pragmatism.  In Extraverts, the dominant function is directed outwardly, and spiritual portraits use a long vertical line to represent this.  ",
+      "explain_aux": "The Green in Roy's spiritual portrait represents his preference for making logical decisions.  In Extraverts, the auxiliary function is directed inwardly and is less evident than the dominant function.  ",
+      "story_intro_html": "<p>When I wrote the original version of the Groja &copy; Program in college in Richmond, Virginia, I was very interested in Libertarianism.  During that time ....</p>",
+      "story_html": "<p>When I wrote the original version of the Groja &copy; Program in college in Richmond, Virginia, I was very interested in Libertarianism.  During that time I was able to get Roy B. Scherer to answer the questions in the Keirsey Temperament Sorter.  <a href='http://wtvr.com/2015/01/29/holmberg-roy-scherer-marijuana/' title='Link to a fairly recent article about Roy at wtvr.com' title='_blank'>Roy is still a Libertarian</a> who continues to lobby in Richmond Virginia for gun rights and the legalization of marijuana.<p></p>Here is an image of his personality.  One might think that marijuana legalization would be a passionate issue, but his portrait shows that, for him at least, it was largely a matter of logic.</p>",
+      "compare_to": { },
+      "contrast_with": { }
+    }
+  ]
+}

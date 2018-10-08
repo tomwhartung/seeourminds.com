@@ -1,0 +1,110 @@
+{
+  "gallery_title": "The Wire - The Election",
+  "see_gallery_button_text": "See Their Minds",
+  "list_page_teaser": "Tommy Carcetti was wise to pick Theresa D'Agostino and Norman Wilson as his consultants in his run for mayor of Baltimore on The Wire.  Click to learn more!",
+  "description_html": "<p>These images of Councilman Tommy Carcetti and his advisor Theresa D'Agostino show they have similar personalities, and that Theresa is much more logical and decisive than Tommy.  Their shared preferences for logic and ideas make them excellent strategists.</p><p>Carcetti was wise to pick Norman as his advisor, because they are opposites.  Tommy pays Norman to critique his strategies, using Norman as a sanity check before taking action.</p><p>The spiritual portrait of Clay Davis shows he is warm and pragmatic, just like Norman, but much more decisive and outgoing.</p>",
+  "story_html": "",
+  "image_list":
+  [
+    {
+      "id": "1580",
+      "title": "Tommy Carcetti",
+      "subtitle_html": "Baltimore City Councilman",
+      "gallery_page_teaser": "The Green in Tommy Carcetti's spiritual portrait shows he is logical, and the Blue shows he is good with ideas and strategy.  Click on the image to learn more!",
+      "image_file_name": "entj-tommy_carcetti-1.jpg",
+      "meat_portrait_href": "https://www.hbo.com/the-wire/cast-and-crew/mayor-thomas-tommy-carcetti",
+      "composition": "O",
+      "score": [
+         { "e_score": "19", "i_score": "0" },
+         { "n_score": "11", "s_score": "8" },
+         { "f_score": "9", "t_score": "10" },
+         { "j_score": "12", "p_score": "7" }
+      ],
+      "four_letter_type": "ENTJ",
+      "archetype": "Te",
+      "quiz_type": "KTS2",
+      "year": "2018",
+      "explain_dom": "The Green in this spiritual portrait represents Tommy Carcetti's dominant personality trait, his very slight tendency to be more logical and objective than emotional and subjective.  In Extraverts, the dominant trait is directed outwardly, and spiritual portraits use a long vertical line to represent this, because it is the side of their personality that is most evident.  It's important to note this preference is very slight, and Tommy can be quite emotional when the situation calls for it.",
+      "explain_aux": "The Blue in this spiritual portrait represents Tommy Carcetti's auxiliary personality trait, his tendency to see the world more in terms of ideas than in terms of facts.  In Extraverts, the auxiliary trait is directed inwardly, and spiritual portraits use a horizontal line to represent this.",
+      "story_intro_html": "",
+      "story_html": "",
+      "compare_to": { },
+      "contrast_with": { }
+    }, {
+      "id": "1582",
+      "title": "Theresa D'Agostino",
+      "subtitle_html": "Tommy Carcetti's Campaign Manager",
+      "gallery_page_teaser": "The Green in Theresa D'Agostino's spiritual portrait shows she is logically decisive, and the Blue shows she is more interested strategy than in tactics.  Click on the image to learn more!",
+      "image_file_name": "entj-theresa_d_agostino-1.jpg",
+      "meat_portrait_href": "http://thewire.wikia.com/wiki/Theresa_D%27Agostino",
+      "composition": "O",
+      "score": [
+         { "e_score": "11", "i_score": "8" },
+         { "n_score": "12", "s_score": "7" },
+         { "f_score": "1", "t_score": "18" },
+         { "j_score": "15", "p_score": "4" }
+      ],
+      "four_letter_type": "ENTJ",
+      "archetype": "Te",
+      "quiz_type": "KTS2",
+      "year": "2018",
+      "explain_dom": "The Green in this spiritual portrait represents Theresa D'Agostino's dominant personality trait, her very strong tendency to be rational and objective rather than personal and subjective.  In Extraverts, the dominant trait is directed outwardly, and spiritual portraits use a long vertical line to represent this, because it is the side of their personality that is most evident.",
+      "explain_aux": "The Blue in this spiritual portrait represents Theresa D'Agostino's auxiliary personality trait, her tendency to see the world more in terms of ideas than in terms of facts.  In Extraverts, the auxiliary trait is directed inwardly, and spiritual portraits use a horizontal line to represent this.",
+      "story_intro_html": "",
+      "story_html": "",
+      "compare_to": { },
+      "contrast_with": { }
+    }, {
+      "id": "1586",
+      "title": "Norman Wilson",
+      "subtitle_html": "Tommy Carcetti's Deputy Campaign Manager",
+      "gallery_page_teaser": "The Yellow in Norman Wilson's spiritual portrait shows he is more pragmatic than idealistic, and the Red shows he is more emotional than logical.  Click on the image to learn more!",
+      "image_file_name": "isfp-norman_wilson-1.jpg",
+      "meat_portrait_href": "https://www.hbo.com/the-wire/cast-and-crew/norman-wilson",
+      "composition": "O",
+      "score": [
+         { "e_score": "7", "i_score": "12" },
+         { "n_score": "6", "s_score": "13" },
+         { "f_score": "10", "t_score": "9" },
+         { "j_score": "7", "p_score": "12" }
+      ],
+      "four_letter_type": "ISFJ",
+      "archetype": "Fi",
+      "quiz_type": "KTS2",
+      "year": "2018",
+      "explain_dom": "The Yellow in this spiritual portrait represents Norman Wilson's dominant personality trait, his tendency to see the world more in terms of facts than in terms of ideas.  In Introverts, the dominant trait is directed inwardly, and spiritual portraits use a long horizontal line to represent this.",
+      "explain_aux": "The Red in this spiritual portrait represents Norman Wilson's auxiliary personality trait, his very slight tendency to be emotional and subjective rather than logical and objective.  In Introverts, the auxiliary trait is directed outwardly, and spiritual portraits use a vertical line to represent this, because it is more evident than the dominant function.  It's important to note this preference is very slight, and Norman can be quite logical when the situation calls for it.",
+      "story_intro_html": "",
+      "story_html": "",
+      "compare_to": { },
+      "contrast_with": { }
+    }, {
+      "id": "1588",
+      "title": "Clay Davis",
+      "subtitle_html": "Charismatic State Legislator",
+      "gallery_page_teaser": "The Red in Clay Davis' spiritual portrait shows he is warm and friendly, and the Yellow shows he is realistic.  Click on the image to learn more!",
+      "image_file_name": "esfj-clay_davis-1.jpg",
+      "meat_portrait_href": "https://www.hbo.com/the-wire/cast-and-crew/state-senator-r-clayton-clay-davis",
+      "composition": "O",
+      "score": [
+         { "e_score": "19", "i_score": "0" },
+         { "n_score": "5", "s_score": "14" },
+         { "f_score": "14", "t_score": "5" },
+         { "j_score": "10", "p_score": "9" }
+      ],
+      "four_letter_type": "ESFJ",
+      "archetype": "Fe",
+      "quiz_type": "KTS2",
+      "year": "2018",
+      "explain_dom": "The Red in this spiritual portrait represents Clay Davis' dominant personality trait, his tendency to be more emotional and personal than logical and impersonal.  In Extraverts, the dominant trait is directed outwardly, and spiritual portraits use a long vertical line to represent this, because it is the side of their personality that is most evident.  An example of a time when Clay showed his emotions comes during his testimony when he is put on trial by State's Attorney for Baltimore City Rupert Bond.",
+      "explain_aux": "The Yellow in this spiritual portrait represents Clay Davis' auxiliary personality trait, his tendncy to see the world more in terms of facts than in terms of ideas.  In Extraverts, the auxiliary trait is directed inwardly, and spiritual portraits use a horizontal line to represent this.",
+      "story_intro_html": "",
+      "story_html": "",
+      "compare_to": { },
+      "contrast_with": { }
+    }, {
+      "id": "1589",
+      "title": "responsive_ad"
+    }
+  ]
+}

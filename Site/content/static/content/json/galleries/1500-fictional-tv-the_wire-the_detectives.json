@@ -1,0 +1,112 @@
+{
+  "gallery_group_title": "The Wire",
+  "gallery_group_page": "the_wire",
+  "gallery_title": "The Wire - The Detectives",
+  "see_gallery_button_text": "See Their Minds",
+  "list_page_teaser": "The detectives on The Wire are a fairly diverse group, and their personalities are quite different from the temperaments of most of the officers working in the detail.  Click to learn more!",
+  "description_html": "<p>These portraits of the personalities of McNulty and Freamon show how both of them prefer ideas to facts.  McNulty's image shows he's more outgoing and logical, while Freamon's portrait shows he's a bit more emotional than Jimmy.</p><p>Meanwhile, Bunk's portrait shows he's more emtional and pragmatic than McNulty, while Landsman's image shows he has strong tendencies for being logical, decisive, and realistic &mdash; qualities his bosses show, all the way up the chain of command to the mayor.</p>",
+  "story_html": "",
+  "image_list":
+  [
+    {
+      "id": "1500",
+      "title": "Jimmy McNulty",
+      "subtitle_html": "Officer in the Baltimore Police Department",
+      "gallery_page_teaser": "The Blue in Jimmy McNulty's spiritual portrait shows he is open to new ideas, and the Green shows is rational.  Click on the image to learn more!",
+      "image_file_name": "entp-jimmy_mcnulty-1.jpg",
+      "meat_portrait_href": "https://www.hbo.com/the-wire/cast-and-crew/officer-james-jimmy-mcnulty",
+      "composition": "O",
+      "score": [
+         { "e_score": "19", "i_score": "0" },
+         { "n_score": "13", "s_score": "6" },
+         { "f_score": "7", "t_score": "12" },
+         { "j_score": "5", "p_score": "14" }
+      ],
+      "four_letter_type": "ENTP",
+      "archetype": "Ne",
+      "quiz_type": "KTS2",
+      "year": "2018",
+      "explain_dom": "The Blue in this spiritual portrait represents McNulty's dominant personality trait, his fairly strong preference for seeing the world more in terms of ideas than of facts.  In Extraverts, the dominant trait is directed outwardly, and spiritual portraits use a long vertical line to represent this, because it is the side of their personality that is most evident.  An example of a time when McNulty favored ideas over facts is when he fabricated evidence in the homeless case.",
+      "explain_aux": "The Green in this spiritual portrait represents McNulty's auxiliary personality trait, his moderate preference for being objective and impersonal rather than personal.  In Extraverts, the auxiliary trait is directed inwardly, and spiritual portraits use a horizontal line to represent this.  An example of a time when McNulty showed his reasoning ability is when he figured out the girls in the shipping container did not die accidentally.",
+      "story_intro_html": "",
+      "story_html": "",
+      "compare_to": { },
+      "contrast_with": { }
+    }, {
+      "id": "1502",
+      "title": "Bunk Moreland",
+      "subtitle_html": "Detective in the Baltimore Police Department",
+      "gallery_page_teaser": "The Yellow in Bunk Moreland's spiritual portrait shows he is open to new experiences, and the Red shows he is friendly.  Click on the image to learn more!",
+      "image_file_name": "esfp-bunk_moreland-1.jpg",
+      "meat_portrait_href": "https://www.hbo.com/the-wire/cast-and-crew/detective-william-bunk-moreland",
+      "composition": "O",
+      "score": [
+         { "e_score": "19", "i_score": "0" },
+         { "n_score": "6", "s_score": "13" },
+         { "f_score": "10", "t_score": "9" },
+         { "j_score": "8", "p_score": "11" }
+      ],
+      "four_letter_type": "ESFP",
+      "archetype": "Se",
+      "quiz_type": "KTS2",
+      "year": "2018",
+      "explain_dom": "The Yellow in this spiritual portrait represents Bunk's dominant personality trait, his moderate preference for seeing the world more in terms of facts than of ideas.  In Extraverts, the dominant trait is directed outwardly, and spiritual portraits use a long vertical line to represent this, because it is the side of their personality that is most evident.  An example of a time when Bunk favored facts over ideas is when he chastised McNulty for his handling of the homeless case.",
+      "explain_aux": "The Red in this spiritual portrait represents Bunk's auxiliary personality trait, his very slight preference for being more emotional and personal than cold and logical.  In Extraverts, the auxiliary trait is directed inwardly, and spiritual portraits use a horizontal line to represent this.  It's important to note his preference is very slight, and Bunk can be quite logical when the situation calls for it.",
+      "story_intro_html": "",
+      "story_html": "",
+      "compare_to": { },
+      "contrast_with": { }
+    }, {
+      "id": "1504",
+      "title": "Lester Freamon",
+      "subtitle_html": "Detective in the Baltimore Police Department",
+      "gallery_page_teaser": "The Blue in Lester Freamon's spiritual portrait shows he is more comfortable with ideas than facts, and the Red shows he can be warm and friendly.  Click on the image to learn more!",
+      "image_file_name": "infp-lester_freamon-1.jpg",
+      "meat_portrait_href": "https://www.hbo.com/the-wire/cast-and-crew/detective-lester-freamon",
+      "composition": "O",
+      "score": [
+         { "e_score": "9", "i_score": "10" },
+         { "n_score": "12", "s_score": "7" },
+         { "f_score": "10", "t_score": "9" },
+         { "j_score": "8", "p_score": "11" }
+      ],
+      "four_letter_type": "INFP",
+      "archetype": "Fi",
+      "quiz_type": "KTS2",
+      "year": "2018",
+      "explain_dom": "The Red in this spiritual portrait represents Freamon's dominant personality trait, his very slight preference for being friendly and personal rather than cold and rational.  In Introverts, the dominant trait is directed inwardly, and spiritual portraits use a long horizontal line to represent this.  It's important to note his preference is very slight, and Freamon can be very logical in some situations.",
+      "explain_aux": "The Blue in this spiritual portrait represents Freamon's auxiliary personality trait, his moderate preference for seeing the world more in terms of ideas than of facts.  In Introverts, the auxiliary trait is directed outwardly, and spiritual portraits use a vertical line to represent this, because it is more evident than the dominant function.  An example of a time when Freamon showed a preference for ideas over facts comes in the story he tells to McNulty about how he got assigned to the pawn shop unit for thirteen years and four months.",
+      "story_intro_html": "",
+      "story_html": "",
+      "compare_to": { },
+      "contrast_with": { }
+    }, {
+      "id": "1506",
+      "title": "Jay Landsman",
+      "subtitle_html": "Sergeant in the Baltimore Police Department",
+      "gallery_page_teaser": "The Green in Jay Landsman's spiritual portrait shows he is very rational, and the Yellow shows he is down-to-earth and realistic.  Click on the image to learn more!",
+      "image_file_name": "estj-jay_landsman-1.jpg",
+      "meat_portrait_href": "https://www.hbo.com/the-wire/cast-and-crew/sergeant-jay-landsman",
+      "composition": "O",
+      "score": [
+         { "e_score": "17", "i_score": "2" },
+         { "n_score": "2", "s_score": "17" },
+         { "f_score": "3", "t_score": "16" },
+         { "j_score": "12", "p_score": "7" }
+      ],
+      "four_letter_type": "ESTJ",
+      "archetype": "Te",
+      "quiz_type": "KTS2",
+      "year": "2018",
+      "explain_dom": "The Green in this spiritual portrait represents Landsman's dominant personality trait, his very strong preference for being logical rather than emotional.  In Extraverts, the dominant trait is directed outwardly, and spiritual portraits use a long vertical line to represent this, because it is the side of their personality that is most evident.  An example of a time when Landsman was more cool and logical than emotional is when he calmly worked with other police, including Bunk, to track the flight of the gang members who shot up Orlando's car, while it was parked at the end of an alley and being used in an undercover operation.",
+      "explain_aux": "The Yellow in this spiritual portrait represents Landsman's auxiliary personality trait, his very strong preference for being pragmatic rather than idealistic.  In Extraverts, the auxiliary trait is directed inwardly, and spiritual portraits use a horizontal line to represent this.  Landsman demonstrates this trait every time he chastises McNulty for seeing the big picture and delaying arrests rather than focusing on the department's statistics, especially their annual clearance rate.",
+      "story_intro_html": "",
+      "story_html": "",
+      "compare_to": { },
+      "contrast_with": { }
+    }, {
+      "id": "1509",
+      "title": "square_ad"
+    }
+  ]
+}

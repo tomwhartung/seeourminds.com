@@ -1,0 +1,62 @@
+{
+  "gallery_title": "Couple of Friends: Valerie & Ryan",
+  "see_gallery_button_text": "See Their Minds",
+  "list_page_teaser": "Valerie & Ryan have been going together for over ten years.  Click to learn more!",
+  "description_html": "<p>Valerie and Ryan are part of Denver's Art community and have been in a relationship for over ten years.</p><p>Hopefully they will share some of their tips for how they make their relationship last.  Check back soon for updates!</p>",
+  "story_html": "<p>I met Valerie and Ryan at the Goth clubs in Denver.</p><p>Since deciding to move forward with this site, I have not been going out much.  I wanted to have something for them to look at before asking them to share their story.</p><p>I will share more information as it becomes available.  To learn when I update the site, follow us on social media or <a href='https://groja.com/conversion/seeourminds' title='Link to a page where you can join our email list' target='_blank'>join the email list!</a></p>",
+  "image_list":
+  [
+    {
+      "id": "7210",
+      "title": "Valerie",
+      "subtitle_html": "Art Gallery Director",
+      "gallery_page_teaser": "The Blue and Red in Valerie's spiritual portrait say she is idealistic and passionate.  Click on the image to learn more!",
+      "image_file_name": "enfp-valerie-1.jpg",
+      "composition": "O",
+      "score": [
+         { "e_score": "11", "i_score": "8" },
+         { "n_score": "14", "s_score": "5" },
+         { "f_score": "15", "t_score": "4" },
+         { "j_score": "7", "p_score": "12" }
+      ],
+      "four_letter_type": "ENFP",
+      "archetype": "Ne",
+      "quiz_type": "K",
+      "subject_line": "",
+      "tweet_html": "",
+      "explain_dom": "The Blue in this portrait represents Valeries's dominant trait, her idealism.  In Extraverts, the dominant trait is directed outwardly, and spiritual portraits use a long vertical line to represent this, because it is the side of their personality that is most evident.",
+      "explain_aux": "The Red in this portrait represents Valeries's auxiliary trait, her passion.  In Extraverts, the auxiliary trait is directed inwardly and is less evident than the dominant trait.",
+      "story_intro_html": "<p>Valerie lives in Denver, Colorado....</p>",
+      "story_html": "<p>Valerie lives in Denver, Colorado.  She is the Director of <a href='https://www.facebook.com/rulegallery/' title='Link to Rule Gallery at facebook.com' target='_blank'>Rule Gallery</a>.</p><p>I will share more information as it becomes available.</p>",
+      "compare_to": { "gallery_file_name": "7210-real-friends-couples-1", "image_id": "7213" },
+      "contrast_with": { }
+    }, {
+      "id": "7213",
+      "title": "Ryan",
+      "subtitle_html": "Artist",
+      "gallery_page_teaser": "The Green and Blue in Ryan's spiritual portrait say he is rational and idealistic.  Click on the image to learn more!",
+      "image_file_name": "intp-ryan-1.jpg",
+      "composition": "O",
+      "score": [
+         { "e_score": "7", "i_score": "12" },
+         { "n_score": "12", "s_score": "7" },
+         { "f_score": "8", "t_score": "11" },
+         { "j_score": "3", "p_score": "16" }
+      ],
+      "four_letter_type": "INTP",
+      "archetype": "Ti",
+      "quiz_type": "K",
+      "subject_line": "",
+      "tweet_html": "",
+      "explain_dom": "The Green in this portrait represents Ryan's dominant trait, his rationality.  In Introverts, the dominant trait is directed inwardly, and spiritual portraits use a long horizontal line to represent this.",
+      "explain_aux": "The Blue in this portrait represents Ryan's auxiliary trait, his idealism.  In Introverts, the auxiliary trait is directed outwardly and is more evident than the dominant trait.",
+      "story_intro_html": "<p>Ryan lives in Denver, Colorado....</p>",
+      "story_html": "<p>Ryan lives in Denver, Colorado.  He works at <a href='https://www.facebook.com/yetiweurks/' title='Link to yetiweurks at facebook.com' target='_blank'>yetiweurks</a> and <a href='https://www.facebook.com/reenineering/' title='Link to re:engineering at facebook.com' target='_blank'>re:engineering</a>.</p><p>I will share more information as it becomes available.</p>",
+      "compare_to": { "gallery_file_name": "7210-real-friends-couples-1", "image_id": "7210" },
+      "contrast_with": { }
+    }, {
+      "id": "7216",
+      "title": "square_ad"
+    }
+  ]
+}

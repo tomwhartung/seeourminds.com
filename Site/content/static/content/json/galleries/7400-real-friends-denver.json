@@ -1,0 +1,141 @@
+{
+  "gallery_title": "Friends in Denver",
+  "see_gallery_button_text": "See Their Minds",
+  "list_page_teaser": "I often get my friends to answer the questionnaire so I can learn more about them and draw their image.  View this gallery to see the resultant images, and learn about them as well.",
+  "description_html": "<p>These are some images of my friends in Denver, drawn with the latest version of the Groja &copy; program.</p><p>I will be adding more friends to this page, as I gather their scores and get their ok to add them, so check back soon!</p>",
+  "story_html": "",
+  "image_list":
+  [
+    {
+      "id": "7400",
+      "title": "Chantee H.",
+      "subtitle_html": "",
+      "image_file_name": "infp-chantee-1.jpg",
+      "composition": "O",
+      "score": [
+        { "e_score": "9", "i_score": "10" },
+        { "n_score": "17", "s_score": "2" },
+        { "f_score": "15", "t_score": "4" },
+        { "j_score": "9", "p_score": "10" }
+      ],
+      "four_letter_type": "INFP",
+      "archetype": "Fi",
+      "quiz_type": "K",
+      "gallery_page_teaser": "Click on the image to learn more!",
+      "subject_line": "",
+      "tweet_html": "",
+      "explain_dom": "The Red in Chantee's spiritual portrait represents her preference for making emotional rather than logical decisions.  In Introverts, the dominant trait is directed inwardly, and spiritual portraits use a long horizontal line to represent this.",
+      "explain_aux": "The Blue in Chantee's spiritual portrait represents her openness and idealism.  In Introverts, the auxiliary trait is directed outwardly, and spiritual portraits use a vertical line to represent this, because it is more evident than the dominant function.",
+      "story_intro_html": "<p>Chantee lives in Denver, Colorado.....</p>",
+      "story_html": "<p>Chantee lives in Denver, Colorado.</p><p>I will share more information as it becomes available.</p>",
+      "compare_to": { },
+      "contrast_with": { }
+    }, {
+      "id": "7410",
+      "title": "Laura C",
+      "subtitle_html": "",
+      "gallery_page_teaser": "Click on the image to learn more!",
+      "image_file_name": "entj-laura_c-1.jpg",
+      "meat_portrait_href": "",
+      "composition": "O",
+      "score": [
+         { "e_score": "72", "i_score": "28" },
+         { "n_score": "51", "s_score": "49" },
+         { "f_score": "42", "t_score": "58" },
+         { "j_score": "57", "p_score": "43" }
+      ],
+      "four_letter_type": "ENTJ",
+      "fixed_percentages": "",
+      "archetype": "Te",
+      "quiz_type": "SOM",
+      "subject_line": "",
+      "tweet_html": "",
+      "explain_dom": "The Green in this spiritual portrait represents Laura's dominant personality trait, her slight preference for objectivity over subjectivity.  In Extraverts, the dominant trait is directed outwardly, and spiritual portraits use a long vertical line to represent this, because it is the side of their personality that is most evident.",
+      "explain_aux": "The Blue in this spiritual portrait represents Laura's auxiliary personality trait, her slight preference for ideas over facts.  In Extraverts, the auxiliary trait is directed inwardly, and spiritual portraits use a horizontal line to represent this.",
+      "story_intro_html": "<p>Laura lives in Denver, Colorado....</p>",
+      "story_html": "<p>Laura lives in Denver, Colorado.</p><p>I will share more information as it becomes available.</p>",
+      "compare_to": { },
+      "contrast_with": { }
+    }, {
+      "id": "7413",
+      "title": "Sharyl S",
+      "subtitle_html": "",
+      "gallery_page_teaser": "Sharyl's spiritual portrait shows she is ....  Click on the image to learn more!",
+      "image_file_name": "istj-sharyl_s-1.jpg",
+      "meat_portrait_href": "",
+      "composition": "O",
+      "score": [
+         { "e_score": "9", "i_score": "10" },
+         { "n_score": "4", "s_score": "15" },
+         { "f_score": "3", "t_score": "16" },
+         { "j_score": "14", "p_score": "5" }
+      ],
+      "four_letter_type": "ISTJ",
+      "fixed_percentages": "",
+      "archetype": "Si",
+      "quiz_type": "K2",
+      "subject_line": "",
+      "tweet_html": "",
+      "explain_dom": "The Yellow in this spiritual portrait represents Sharyl's dominant personality trait, her realism.  In Introverts, the dominant trait is directed inwardly, and spiritual portraits use a long horizontal line to represent this.",
+      "explain_aux": "The Green in this spiritual portrait represents Sharyl's auxiliary personality trait, her objectivity.  In Introverts, the auxiliary trait is directed outwardly, and spiritual portraits use a vertical line to represent this, because it is more evident than the dominant function.",
+      "story_intro_html": "<p>Sharyl lives in Denver, Colorado....</p>",
+      "story_html": "<p>Sharyl lives in Denver, Colorado.</p><p>I will share more information as it becomes available.</p>",
+      "story_html_img": "<p>Idea: only include images with stories for family and friends.</p><a href='/static/content/images/stories/subdir/image_name.jpg' title='Link to display full-size version of this image on this site'><img src='/static/content/images/stories/subdir/image_name.jpg' class='story-image-right' /></a>",
+      "compare_to": { },
+      "contrast_with": { }
+    }, {
+      "id": "7415",
+      "title": "Steven S",
+      "subtitle_html": "",
+      "gallery_page_teaser": "Click on the image to learn more!",
+      "image_file_name": "enfp-steven_s-1.jpg",
+      "meat_portrait_href": "",
+      "composition": "O",
+      "score": [
+         { "e_score": "15", "i_score": "4" },
+         { "n_score": "18", "s_score": "1" },
+         { "f_score": "17", "t_score": "2" },
+         { "j_score": "3", "p_score": "16" }
+      ],
+      "four_letter_type": "ENFP",
+      "fixed_percentages": "",
+      "archetype": "Ne",
+      "quiz_type": "K2",
+      "subject_line": "",
+      "tweet_html": "",
+      "explain_dom": "The Blue in this spiritual portrait represents Steven's dominant personality trait, his openness to ideas.  In Extraverts, the dominant trait is directed outwardly, and spiritual portraits use a long vertical line to represent this, because it is the side of their personality that is most evident.",
+      "explain_aux": "The Red in this spiritual portrait represents Steven's auxiliary personality trait, his amiability.  In Extraverts, the auxiliary trait is directed inwardly, and spiritual portraits use a horizontal line to represent this.",
+      "story_intro_html": "<p>Steven lives in Denver, Colorado....</p>",
+      "story_html": "<p>Steven lives in Denver, Colorado.</p><p>I will share more information as it becomes available.</p>",
+      "compare_to": { },
+      "contrast_with": { }
+    }, {
+      "id": "7417",
+      "title": "Veronica M.",
+      "subtitle_html": "",
+      "image_file_name": "enfp-veronica-1.jpg",
+      "composition": "O",
+      "score": [
+        { "e_score": "15", "i_score": "4" },
+        { "n_score": "13", "s_score": "6" },
+        { "f_score": "10", "t_score": "9" },
+        { "j_score": "6", "p_score": "13" }
+      ],
+      "four_letter_type": "ENFP",
+      "archetype": "Ne",
+      "quiz_type": "K",
+      "gallery_page_teaser": "Click on the image to learn more!",
+      "subject_line": "",
+      "tweet_html": "",
+      "explain_dom": "The Blue in Veronica's spiritual portrait represents her openness and idealism.  In Extraverts, the dominant function is directed outwardly, and spiritual portraits use a long vertical line to represent this.  ",
+      "explain_aux": "The Red in Veronica's spiritual portrait represents her preference for making emotional decisions.  In Extraverts, the auxiliary function is directed inwardly and is less evident than the dominant function.  ",
+      "story_intro_html": "<p>Veronica lives in Denver, Colorado....</p>",
+      "story_html": "<p>Veronica lives in Denver, Colorado.</p><p>I will share more information as it becomes available.</p>",
+      "compare_to": { },
+      "contrast_with": { }
+    }, {
+      "id": "7419",
+      "title": "responsive_ad"
+    }
+  ]
+}

@@ -1,0 +1,159 @@
+{
+  "gallery_title": "The Wire - The Brass",
+  "see_gallery_button_text": "See Their Minds",
+  "list_page_teaser": "Although they all share a preference for rationality, Howard Colvin's temperament is quite different from the personalities of most of the other higher-ups in the police department on The Wire.  Click to learn more!",
+  "description_html": "<p>These images of the personalities of the Mayor and the brass at the upper levels of the police department on The Wire show that cold logic rules the day.  These are the images of rational decision-makers who are used to getting their way.</p><p>The image of Cedric's personality shows he has a bit more flexibility than most of the others.   More significant is Howard Colvin's spiritual portrait, which shows how although his personality is also dominated by logic, he is also open to new &mdash; and as viewers learn, even extremely radical &mdash; ideas.</p>",
+  "story_html": "",
+  "image_list":
+  [
+    {
+      "id": "1550",
+      "title": "Cedric Daniels",
+      "subtitle_html": "Lieutenant of the Baltimore Police Department's Narcotics Unit",
+      "gallery_page_teaser": "The Green in Cedric Daniels' spiritual portrait shows he is more rational than emotional, and the Yellow shows he is a realist.  Click on the image to learn more!",
+      "image_file_name": "istj-cedric_daniels-1.jpg",
+      "meat_portrait_href": "https://www.hbo.com/the-wire/cast-and-crew/colonel-cedric-daniels",
+      "composition": "O",
+      "score": [
+         { "e_score": "7", "i_score": "12" },
+         { "n_score": "9", "s_score": "10" },
+         { "f_score": "5", "t_score": "14" },
+         { "j_score": "13", "p_score": "6" }
+      ],
+      "four_letter_type": "ISTJ",
+      "archetype": "Si",
+      "quiz_type": "KTS2",
+      "year": "2018",
+      "explain_dom": "The Yellow in this spiritual portrait represents Daniels' dominant personality trait, his very slight preference for seeing the world more in terms of facts than of ideas.  In Extraverts, the dominant trait is directed outwardly, and spiritual portraits use a long vertical line to represent this, because it is the side of their personality that is most evident.  It's important to note this preference is very slight, and Cedric can be a bit idealistic in some situations.",
+      "explain_aux": "The Green in this spiritual portrait represents Daniels' auxiliary personality trait, his moderate preference for being more logical and objective rather than emotional and subjective.  In Extraverts, the auxiliary trait is directed inwardly, and spiritual portraits use a horizontal line to represent this.  Daniels exhibits this trait in his choice of careers, because there is little call for emotional people in law enforcement.",
+      "story_intro_html": "",
+      "story_html": "",
+      "compare_to": { },
+      "contrast_with": { }
+    }, {
+      "id": "1552",
+      "title": "William A. Rawls",
+      "subtitle_html": "Major and Commander of C.I.D. Homicide",
+      "gallery_page_teaser": "The vast amount of Green in William Rawls's spiritual portrait shows he is extremely logical and decisive, and the Yellow shows he is realistic.  Click on the image to learn more!",
+      "image_file_name": "estj-bill_rawls-1.jpg",
+      "meat_portrait_href": "https://www.hbo.com/the-wire/cast-and-crew/deputy-commissioner-for-ops-william-a-rawls",
+      "composition": "O",
+      "score": [
+         { "e_score": "7", "i_score": "12" },
+         { "n_score": "1", "s_score": "18" },
+         { "f_score": "1", "t_score": "18" },
+         { "j_score": "18", "p_score": "1" }
+      ],
+      "four_letter_type": "ISTJ",
+      "archetype": "Te",
+      "quiz_type": "KTS2",
+      "year": "2018",
+      "explain_dom": "The Yellow in this spiritual portrait represents Rawls' dominant personality trait, his very strong tendency to see the world more in terms of facts rather than ideas.  In Introverts, the dominant trait is directed inwardly, and spiritual portraits use a long horizontal line to represent this.  An example of a way Rawls remains focused on facts comes when he shows more interest in getting a better clearance rate than in nabbing the correct perpetrator.",
+      "explain_aux": "The Green in this spiritual portrait represents Rawls' auxiliary personality trait, his very strong preference for being logical rather than emotional.  In Introverts, the auxiliary trait is directed outwardly, and spiritual portraits use a vertical line to represent this, because it is more evident than the dominant function.  Rawls shows his tendency to be cold to people in the way he openly expresses his contempt for McNulty, without any regard for McNulty's feelings.",
+      "story_intro_html": "",
+      "story_html": "",
+      "compare_to": { },
+      "contrast_with": { }
+    }, {
+      "id": "1554",
+      "title": "Howard Colvin",
+      "subtitle_html": "Major and Commander of the Western District",
+      "gallery_page_teaser": "The Green in Howard Colvin's spiritual portrait shows he is logical, and the Blue shows he prefers ideas to facts.  Click on the image to learn more!",
+      "image_file_name": "entj-howard_colvin-1.jpg",
+      "meat_portrait_href": "https://www.hbo.com/the-wire/cast-and-crew/howard-bunny-colvin",
+      "composition": "O",
+      "score": [
+         { "e_score": "15", "i_score": "4" },
+         { "n_score": "12", "s_score": "7" },
+         { "f_score": "9", "t_score": "10" },
+         { "j_score": "10", "p_score": "9" }
+      ],
+      "four_letter_type": "ENTJ",
+      "fixed_percentages": "",
+      "archetype": "Te",
+      "quiz_type": "KTS2",
+      "year": "2018",
+      "explain_dom": "The Green in this spiritual portrait represents Colvin's dominant personality trait, his very slight tendency to be more logical and objective rather than emotional and subjective.  In Extraverts, the dominant trait is directed outwardly, and spiritual portraits use a long vertical line to represent this, because it is the side of their personality that is most evident.  It's important to realize this preference is very slight, and Colvin can be rather personable and forgiving in some situations.",
+      "explain_aux": "The Blue in this spiritual portrait represents Colvin's auxiliary personality trait, his openness to new ideas.  In Extraverts, the auxiliary trait is directed inwardly, and spiritual portraits use a horizontal line to represent this.  An example of a time when Colvin demonstrated his openness to new ideas comes when he \"legalizes\" drugs in empty neighborhoods, causing a drop in the murder rate in his division.",
+      "story_intro_html": "",
+      "story_html": "",
+      "compare_to": { },
+      "contrast_with": { }
+    }, {
+      "id": "1556",
+      "title": "Stan Valchek",
+      "subtitle_html": "Commander of the Southeastern District",
+      "gallery_page_teaser": "The sea of Green in Stan Valchek's spiritual portrait shows he is very logically decisive, and the Yellow shows he is pragmatic.  Click on the image to learn more!",
+      "image_file_name": "estj-stanislaus_valchek-1.jpg",
+      "meat_portrait_href": "https://www.hbo.com/the-wire/cast-and-crew/dep-commissioner-for-admin-stanislaus-valchek",
+      "composition": "O",
+      "score": [
+         { "e_score": "19", "i_score": "0" },
+         { "n_score": "1", "s_score": "18" },
+         { "f_score": "1", "t_score": "18" },
+         { "j_score": "18", "p_score": "1" }
+      ],
+      "four_letter_type": "ESTJ",
+      "archetype": "Te",
+      "quiz_type": "KTS2",
+      "year": "2018",
+      "explain_dom": "The Green in this spiritual portrait represents Valchek's dominant personality trait, his very strong tendency to be more cold and impersonal than warm and personal.  In Extraverts, the dominant trait is directed outwardly, and spiritual portraits use a long vertical line to represent this, because it is the side of their personality that is most evident.  Valchek demonstrates his preference for being cold and logical when he sees Frank Sobotka is showing too much money and deduces he must be involved in some sort of criminal activity.",
+      "explain_aux": "The Yellow in this spiritual portrait represents Valchek's auxiliary personality trait, his very strong tendency to see the world more in terms of facts rather than ideas.  In Extraverts, the auxiliary trait is directed inwardly, and spiritual portraits use a horizontal line to represent this.  Valchek's focus on facts rather than principles is very evident in the way he insists detectives pursue Frank Sobotka rather than other criminals who are guilty of worse crimes.",
+      "story_intro_html": "",
+      "story_html": "",
+      "compare_to": { },
+      "contrast_with": { }
+    }, {
+      "id": "1557",
+      "title": "Ervin H. Burrell",
+      "subtitle_html": "Deputy Commissioner for Operations",
+      "gallery_page_teaser": "The huge amount of Green in Ervin Burrell's spiritual portrait shows he is very cool and rational, even when under pressure, and the Yellow shows he is down-to-earth.  Click on the image to learn more!",
+      "image_file_name": "estj-ervin_burrell-1.jpg",
+      "meat_portrait_href": "https://www.hbo.com/the-wire/cast-and-crew/police-commissioner-ervin-h-burrell",
+      "composition": "O",
+      "score": [
+         { "e_score": "17", "i_score": "2" },
+         { "n_score": "1", "s_score": "18" },
+         { "f_score": "1", "t_score": "18" },
+         { "j_score": "16", "p_score": "3" }
+      ],
+      "four_letter_type": "ESTJ",
+      "archetype": "Te",
+      "quiz_type": "KTS2",
+      "year": "2018",
+      "explain_dom": "The Green in this spiritual portrait represents Burrell's dominant personality trait, his very strong tendency to be more cold and impersonal than warm and personal.  In Extraverts, the dominant trait is directed outwardly, and spiritual portraits use a long vertical line to represent this, because it is the side of their personality that is most evident.",
+      "explain_aux": "The Yellow in this spiritual portrait represents Burrell's auxiliary personality trait, his very strong tendency to see the world more in terms of facts rather than ideas.  In Extraverts, the auxiliary trait is directed inwardly, and spiritual portraits use a horizontal line to represent this.  An example of a way Burrell remains focused on facts comes when he shows more interest in getting his officers to make low-level busts rather than use wiretaps to try to nab criminals higher up.",
+      "story_intro_html": "",
+      "story_html": "",
+      "compare_to": { },
+      "contrast_with": { }
+    }, {
+      "id": "1558",
+      "title": "Clarence V. Royce",
+      "subtitle_html": "Mayor of Baltimore",
+      "gallery_page_teaser": "The Green in Clarence Royce's spiritual portrait shows he is a bit more logical than emotional, and the Yellow shows he is pragmatic.  Click on the image to learn more!",
+      "image_file_name": "estj-clarence_royce-2.jpg",
+      "meat_portrait_href": "https://www.hbo.com/the-wire/cast-and-crew/former-mayor-clarence-v-royce",
+      "composition": "O",
+      "score": [
+         { "e_score": "19", "i_score": "0" },
+         { "n_score": "2", "s_score": "17" },
+         { "f_score": "4", "t_score": "15" },
+         { "j_score": "16", "p_score": "3" }
+      ],
+      "four_letter_type": "ESTJ",
+      "archetype": "Te",
+      "quiz_type": "KTS2",
+      "year": "2018",
+      "explain_dom": "The Green in this spiritual portrait represents Royce's dominant personality trait, his very strong preference for being rational and objective rather than emotional and subjective.  In Extraverts, the dominant trait is directed outwardly, and spiritual portraits use a long vertical line to represent this, because it is the side of their personality that is most evident.",
+      "explain_aux": "The Yellow in this spiritual portrait represents Royce's auxiliary personality trait, his very strong preference for seeing the world more in terms of facts than of ideas.  In Extraverts, the auxiliary trait is directed inwardly, and spiritual portraits use a horizontal line to represent this.",
+      "story_intro_html": "",
+      "story_html": "",
+      "compare_to": { },
+      "contrast_with": { }
+    }, {
+      "id": "1559",
+      "title": "responsive_ad"
+    }
+  ]
+}

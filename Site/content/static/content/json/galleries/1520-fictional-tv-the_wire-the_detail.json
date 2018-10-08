@@ -1,0 +1,159 @@
+{
+  "gallery_title": "The Wire - The Detail",
+  "see_gallery_button_text": "See Their Minds",
+  "list_page_teaser": "Officer Pryzbylewski's personality is quite different from the temperaments of the other officers in the detail created to investigate Avon Barksdale's crew.  Click to learn more!",
+  "description_html": "<p>The images of Carver's and Kima's personalities on this page show they are both rational and decisive.  Herc and Sydnor are also logical but less decisive, and all four share a pramatic outlook.</p><p>Prez's spiritual portrait stands in stark contrast to the others on this page, and it's clear from the start he doesn't fit in.  It's only natural for Detective Freamon &mdash; whose portrait is similar to Prez's &mdash; to see redeeming qualities in Prez that the others are blind to.</p>",
+  "story_html": "",
+  "image_list":
+  [
+    {
+      "id": "1520",
+      "title": "Ellis Carver",
+      "subtitle_html": "CID Narcotics Officer in the Baltimore Police Department",
+      "gallery_page_teaser": "The Green in Carver's spiritual portrait shows he is logical, and the Yellow shows he is down-to-earth.  Click on the image to learn more!",
+      "image_file_name": "estj-carver-1.jpg",
+      "meat_portrait_href": "https://www.hbo.com/the-wire/cast-and-crew/sergeant-ellis-carver",
+      "composition": "O",
+      "score": [
+         { "e_score": "15", "i_score": "4" },
+         { "n_score": "9", "s_score": "10" },
+         { "f_score": "6", "t_score": "13" },
+         { "j_score": "14", "p_score": "5" }
+      ],
+      "four_letter_type": "ESTJ",
+      "archetype": "Te",
+      "quiz_type": "KTS2",
+      "year": "2018",
+      "explain_dom": "The Green in this spiritual portrait represents Carver's dominant personality trait, his moderate preference for being logical and rational rather than emotional and irrational.  In Extraverts, the dominant trait is directed outwardly, and spiritual portraits use a long vertical line to represent this, because it is the side of their personality that is most evident.  An example of a time when Carver is more logical comes when he observes the gangs' methods improve quicker than the police's abilities to counter them \"Because when they fuck up, they get beat.  We fuck up, they give us pensions.\"",
+      "explain_aux": "The Yellow in this spiritual portrait represents Carver's auxiliary personality trait, his very slight preference for seeing the world more in terms of facts than of ideas.  In Extraverts, the auxiliary trait is directed inwardly, and spiritual portraits use a horizontal line to represent this.  It's important to note Carver's tendency to be pragmatic is very slight, and Carver can be quite idealistic in some situations.",
+      "story_intro_html": "",
+      "story_html": "",
+      "compare_to": { },
+      "contrast_with": { }
+    }, {
+      "id": "1521",
+      "title": "Thomas 'Herc' Hauk",
+      "subtitle_html": "Officer in the Baltimore Police Department",
+      "gallery_page_teaser": "The Yellow in Herc's spiritual portrait shows he is open to new experiences, and the Green shows he is rational.  Click on the image to learn more!",
+      "image_file_name": "estp-herc-1.jpg",
+      "meat_portrait_href": "https://www.hbo.com/the-wire/cast-and-crew/officer-thomas-herc-hauk",
+      "composition": "O",
+      "score": [
+         { "e_score": "19", "i_score": "0" },
+         { "n_score": "2", "s_score": "17" },
+         { "f_score": "4", "t_score": "15" },
+         { "j_score": "6", "p_score": "13" }
+      ],
+      "four_letter_type": "ESTP",
+      "archetype": "Se",
+      "quiz_type": "KTS2",
+      "year": "2018",
+      "explain_dom": "The Yellow in this spiritual portrait represents Herc's dominant personality trait, his very strong preference for seeing the world more in terms of facts than of ideas.  In Extraverts, the dominant trait is directed outwardly, and spiritual portraits use a long vertical line to represent this, because it is the side of their personality that is most evident.  An example of a time when Herc was pragmatic comes when Carver confronts him about a mistake he made, and he says \"Yeah.  I fucked up.  So what?\"",
+      "explain_aux": "The Green in this spiritual portrait represents Herc's auxiliary personality trait, his moderate tendency for being more impersonal and objective rather than personal and emotional.  In Extraverts, the auxiliary trait is directed inwardly, and spiritual portraits use a horizontal line to represent this.  Herc demonstrates this tendency in the way he lacks compassion for perpetrators beat up by the police, \"the Western District way.\"",
+
+      "story_intro_html": "",
+      "story_html": "",
+      "compare_to": { },
+      "contrast_with": { }
+    }, {
+      "id": "1523",
+      "title": "Kima Greggs",
+      "subtitle_html": "Detective in the Baltimore Police Department",
+      "gallery_page_teaser": "The Green in Kima's spiritual portrait shows she is logical, and the Yellow shows she is pragmatic.  Click on the image to learn more!",
+      "image_file_name": "istj-kima-1.jpg",
+      "meat_portrait_href": "https://www.hbo.com/the-wire/cast-and-crew/detective-shakima-kima-greggs",
+      "composition": "O",
+      "score": [
+         { "e_score": "9", "i_score": "10" },
+         { "n_score": "8", "s_score": "11" },
+         { "f_score": "5", "t_score": "14" },
+         { "j_score": "10", "p_score": "9" }
+      ],
+      "four_letter_type": "ISTJ",
+      "archetype": "Si",
+      "quiz_type": "KTS2",
+      "year": "2018",
+      "explain_dom": "The Yellow in this spiritual portrait represents Kima's dominant personality trait, her fairly slight preference for seeing the world more in terms of facts than of ideas.  In Introverts, the dominant trait is directed inwardly, and spiritual portraits use a long horizontal line to represent this.  It's important to note this preference is very slight, and Kima can be rather idealistic when the situation calls for it.",
+      "explain_aux": "The Green in this spiritual portrait represents Kima's auxiliary personality trait, her moderate preference for being more logical and subjective rather than emotional and objective.  In Introverts, the auxiliary trait is directed outwardly, and spiritual portraits use a vertical line to represent this, because it is more evident than the dominant function.  An example of a time when Kima is cold and logical comes when she is shopping for things for their baby with her pregnant wife Cheryl, who finds a Blues Clues juice box holder and says, \"If the kid can't hold on to a little old box without no help, we got problems.\"",
+      "story_intro_html": "",
+      "story_html": "",
+      "compare_to": { },
+      "contrast_with": { }
+    }, {
+      "id": "1525",
+      "title": "Roland 'Prez' Pryzbylewski",
+      "subtitle_html": "Major Valchek's Son-in-Law",
+      "gallery_page_teaser": "The Blue in Prez's spiritual portrait shows he is open to new ideas, and the Red shows he is more emotional than logical.  Click on the image to learn more!",
+      "image_file_name": "infp-prez-1.jpg",
+      "meat_portrait_href": "https://www.hbo.com/the-wire/cast-and-crew/roland-prez-pryzbylewski",
+      "composition": "O",
+      "score": [
+         { "e_score": "9", "i_score": "10" },
+         { "n_score": "14", "s_score": "5" },
+         { "f_score": "14", "t_score": "5" },
+         { "j_score": "4", "p_score": "15" }
+      ],
+      "four_letter_type": "INFP",
+      "archetype": "Fi",
+      "quiz_type": "KTS2",
+      "year": "2018",
+      "explain_dom": "The Red in this spiritual portrait represents Prez's dominant personality trait, his preference for being more personal and subjective rather than impersonal and objective.  In Introverts, the dominant trait is directed inwardly, and spiritual portraits use a long horizontal line to represent this.  An example of a time when Prez showed this tendency comes in the way he was able to connect with the students at Tilghman Middle School.",
+      "explain_aux": "The Blue in this spiritual portrait represents Prez's auxiliary personality trait, his preference for seeing the world more in terms of ideas than of facts.  In Introverts, the auxiliary trait is directed outwardly, and spiritual portraits use a vertical line to represent this, because it is more evident than the dominant function.  An example of a time when Prez's tendency to be lost in ideas and lose touch with important facts comes when he accidentally discharges his weapon in the office while showing off its light trigger pull.",
+      "story_intro_html": "",
+      "story_html": "",
+      "compare_to": { },
+      "contrast_with": { }
+    }, {
+      "id": "1527",
+      "title": "Leander Sydnor",
+      "subtitle_html": "Detective in the Baltimore Police Department",
+      "gallery_page_teaser": "The Yellow in Sydnor's spiritual portrait shows he is realistic, and the Green shows he is rational.  Click on the image to learn more!",
+      "image_file_name": "istp-sydnor-1.jpg",
+      "meat_portrait_href": "https://www.hbo.com/the-wire/cast-and-crew/detective-leander-sydnor",
+      "composition": "O",
+      "score": [
+         { "e_score": "9", "i_score": "10" },
+         { "n_score": "5", "s_score": "14" },
+         { "f_score": "2", "t_score": "17" },
+         { "j_score": "9", "p_score": "10" }
+      ],
+      "four_letter_type": "ISTP",
+      "archetype": "Ti",
+      "quiz_type": "KTS2",
+      "year": "2018",
+      "explain_dom": "The Green in this spiritual portrait represents Sydnor's dominant personality trait, his strong preference for being rational and objective rather than emotional.  In Introverts, the dominant trait is directed inwardly, and spiritual portraits use a long horizontal line to represent this.",
+      "explain_aux": "The Yellow in this spiritual portrait represents Sydnor's auxiliary personality trait, his moderate preference for seeing the world more in terms of facts than of ideas.  In Introverts, the auxiliary trait is directed outwardly, and spiritual portraits use a vertical line to represent this, because it is more evident than the dominant function.",
+      "story_intro_html": "",
+      "story_html": "",
+      "compare_to": { },
+      "contrast_with": { }
+    }, {
+      "id": "1528",
+      "title": "Rhonda Pearlman",
+      "subtitle_html": "Assistant State's Attorney in the Narcotics Division",
+      "gallery_page_teaser": "The Green in Rhonda Pearlman's spiritual portrait shows she is more logical than emtional, and the Yellow shows she prefers facts to ideas.  Click on the image to learn more!",
+      "image_file_name": "estj-rhonda_pearlman-1.jpg",
+      "meat_portrait_href": "https://www.hbo.com/the-wire/cast-and-crew/assistant-states-attorney-rhonda-pearlman",
+      "composition": "O",
+      "score": [
+         { "e_score": "15", "i_score": "4" },
+         { "n_score": "6", "s_score": "13" },
+         { "f_score": "4", "t_score": "15" },
+         { "j_score": "13", "p_score": "6" }
+      ],
+      "four_letter_type": "ESTJ",
+      "archetype": "Te",
+      "quiz_type": "KTS2",
+      "year": "2018",
+      "explain_dom": "The Green in this spiritual portrait represents Rhonda's dominant personality trait, her fairly strong preference for being logical and objective rather than emotional and subjective.  In Extraverts, the dominant trait is directed outwardly, and spiritual portraits use a long vertical line to represent this, because it is the side of their personality that is most evident.",
+      "explain_aux": "The Yellow in this spiritual portrait represents Rhonda's auxiliary personality trait, her moderate preference for seeing the world more in terms of facts than of ideas.  In Extraverts, the auxiliary trait is directed inwardly, and spiritual portraits use a horizontal line to represent this.",
+      "story_intro_html": "",
+      "story_html": "",
+      "compare_to": { },
+      "contrast_with": { }
+    }, {
+      "id": "1529",
+      "title": "square_ad"
+    }
+  ]
+}

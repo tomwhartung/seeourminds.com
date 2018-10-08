@@ -1,0 +1,158 @@
+{
+  "gallery_title": "The Wire - The Street",
+  "see_gallery_button_text": "See Their Minds",
+  "list_page_teaser": "As one might expect, the streets on The Wire host a wide variety of personalities, with each individual gravitating toward the types of activities best suited to their preferences.  Click to learn more!",
+  "description_html": "<p>These images show Omar and Dennis &mdash; who was formerly known as <q>Cutty</q> &mdash; both have ideals and prefer reason to emotion.  Bubbles and Johnny, on the other hand, prefer to be more pragmatic and emotional.</p><p>Joe's portrait shows he's outgoing, pragmatic, and can stay cool under pressure.  Walon is also socialble, but is idealistic and full of warmth and passion &mdash; in some ways the opposite of Joe.</p>",
+  "story_html": "",
+  "image_list":
+  [
+    {
+      "id": "1540",
+      "title": "Omar Little",
+      "subtitle_html": "Notorious Stick-up Artist",
+      "gallery_page_teaser": "The Blue in Omar's spiritual portrait shows he is open to new ways of thinking, and the Green shows he is cool and rational.  Click on the image to learn more!",
+      "image_file_name": "intp-omar_little-1.jpg",
+      "meat_portrait_href": "https://www.hbo.com/the-wire/cast-and-crew/omar-little",
+      "composition": "O",
+      "score": [
+         { "e_score": "7", "i_score": "12" },
+         { "n_score": "11", "s_score": "8" },
+         { "f_score": "4", "t_score": "15" },
+         { "j_score": "9", "p_score": "10" }
+      ],
+      "four_letter_type": "INTP",
+      "archetype": "Ti",
+      "quiz_type": "KTS2",
+      "year": "2018",
+      "explain_dom": "The Green in this spiritual portrait represents Omar's dominant personality trait, his fairly strong preference for being cold, rational, and objective rather than warm, emotional, and personal.  In Introverts, the dominant trait is directed inwardly, and spiritual portraits use a long horizontal line to represent this.  An example of a time when Omar is cold and impersonal comes every time he wounds someone who fails to quickly obey his demands during a robbery.",
+      "explain_aux": "The Blue in this spiritual portrait represents Omar's auxiliary personality trait, his moderate preference for seeing the world more in terms of ideas than of facts.  In Introverts, the auxiliary trait is directed outwardly, and spiritual portraits use a vertical line to represent this, because it is more evident than the dominant function.  An example of a time when Omar shows this preference comes when he strategizes and plans his heists.",
+      "story_intro_html": "",
+      "story_html": "",
+      "compare_to": { },
+      "contrast_with": { }
+    }, {
+      "id": "1542",
+      "title": "Bubbles",
+      "subtitle_html": "Heroin Addict and Petty Criminal",
+      "gallery_page_teaser": "The Yellow in Bubbles' spiritual portrait shows he is open to new experiences, and the Red shows he is more emotional than logical.  Click on the image to learn more!",
+      "image_file_name": "esfp-bubbles-1.jpg",
+      "meat_portrait_href": "https://www.hbo.com/the-wire/cast-and-crew/bubbles",
+      "composition": "O",
+      "score": [
+         { "e_score": "17", "i_score": "2" },
+         { "n_score": "7", "s_score": "12" },
+         { "f_score": "13", "t_score": "6" },
+         { "j_score": "3", "p_score": "16" }
+      ],
+      "four_letter_type": "ESFP",
+      "archetype": "Se",
+      "quiz_type": "KTS2",
+      "year": "2018",
+      "explain_dom": "The Yellow in this spiritual portrait represents Bubbles' dominant personality trait, his desire for sensual stimulation.  In Extraverts, the dominant trait is directed outwardly, and spiritual portraits use a long vertical line to represent this, because it is the side of their personality that is most evident.  For much of the series, Bubbles shoots heroin in an effort to find the sensual stimulation he craves.",
+      "explain_aux": "The Red in this spiritual portrait represents Bubbles' auxiliary personality trait, his tendency to be more friendly and personable than objective and impersonal.  In Extraverts, the auxiliary trait is directed inwardly, and spiritual portraits use a horizontal line to represent this.  An example of a time when Bubbles is being more personable shows in the way he affectionately calls McNulty \"McNutty.\"",
+      "story_intro_html": "",
+      "story_html": "",
+      "compare_to": { },
+      "contrast_with": { }
+    }, {
+      "id": "1544",
+      "title": "Proposition Joe",
+      "subtitle_html": "Narcotics Kingpin in Eastside Baltimore",
+      "gallery_page_teaser": "The Yellow in Prop Joe's spiritual portrait shows he is realistic, and the Green shows he is rational.  Click on the image to learn more!",
+      "image_file_name": "estp-proposition_joe-1.jpg",
+      "meat_portrait_href": "https://www.hbo.com/the-wire/cast-and-crew/proposition-joe-stewart",
+      "composition": "O",
+      "score": [
+         { "e_score": "11", "i_score": "8" },
+         { "n_score": "6", "s_score": "13" },
+         { "f_score": "7", "t_score": "12" },
+         { "j_score": "9", "p_score": "10" }
+      ],
+      "four_letter_type": "ESTP",
+      "archetype": "Se",
+      "quiz_type": "KTS2",
+      "year": "2018",
+      "explain_dom": "The Yellow in this spiritual portrait represents Prop Joe's dominant personality trait, his tendency to be realistic and pragmatic.  In Extraverts, the dominant trait is directed outwardly, and spiritual portraits use a long vertical line to represent this, because it is the side of their personality that is most evident.  An example of Prop Joe being realistic comes whenever he proposes to make a deal with someone, and finds he must adjust the terms to reach a final agreement.",
+      "explain_aux": "The Green in this spiritual portrait represents Prop Joe's auxiliary personality trait, his tendency to be more logical and objective than emotional and subjective.  In Extraverts, the auxiliary trait is directed inwardly, and spiritual portraits use a horizontal line to represent this.",
+      "story_intro_html": "",
+      "story_html": "",
+      "compare_to": { },
+      "contrast_with": { }
+    }, {
+      "id": "1545",
+      "title": "Dennis Wise",
+      "subtitle_html": "Ex-Convict",
+      "gallery_page_teaser": "The Blue in Dennis' spiritual portrait shows he is open to new ideas, and the Green shows he tends to be more logical than emotional.  Click on the image to learn more!",
+      "image_file_name": "entp-dennis_wise-1.jpg",
+      "meat_portrait_href": "https://www.hbo.com/the-wire/cast-and-crew/denny-cutty-wise",
+      "composition": "O",
+      "score": [
+         { "e_score": "17", "i_score": "2" },
+         { "n_score": "10", "s_score": "9" },
+         { "f_score": "8", "t_score": "11" },
+         { "j_score": "9", "p_score": "10" }
+      ],
+      "four_letter_type": "ENTP",
+      "archetype": "Se",
+      "quiz_type": "KTS2",
+      "year": "2018",
+      "explain_dom": "The Blue in this spiritual portrait represents Dennis' dominant personality trait, his very slight preference for seeing the world more in terms of ideas than of facts.  In Extraverts, the dominant trait is directed outwardly, and spiritual portraits use a long vertical line to represent this, because it is the side of their personality that is most evident.  It's important to note this preference is very slight, and Dennis can be quite pragmatic when the situation calls for it.",
+      "explain_aux": "The Green in this spiritual portrait represents Dennis' auxiliary personality trait, his slight preference for being more logical than emotional.  In Extraverts, the auxiliary trait is directed inwardly, and spiritual portraits use a horizontal line to represent this.  This preference is also very slight, but Dennis shows he is definitely more cool and rational than warm and caring in the way he courts multiple women and shows little concern for, or even awareness of, the people whose feelings he hurts in the process.",
+      "story_intro_html": "",
+      "story_html": "",
+      "compare_to": { },
+      "contrast_with": { }
+    }, {
+      "id": "1546",
+      "title": "Walon",
+      "subtitle_html": "Drug Rehabilitation Counselor",
+      "gallery_page_teaser": "The Red in Walon's spiritual portrait shows he is warm and friendly, and the Blue shows he is more idealistic than pragmatic.  Click on the image to learn more!",
+      "image_file_name": "enfj-walon-1.jpg",
+      "meat_portrait_href": "http://thewire.wikia.com/wiki/Walon",
+      "composition": "O",
+      "score": [
+         { "e_score": "17", "i_score": "2" },
+         { "n_score": "13", "s_score": "6" },
+         { "f_score": "11", "t_score": "8" },
+         { "j_score": "12", "p_score": "7" }
+      ],
+      "four_letter_type": "ENFJ",
+      "archetype": "Fe",
+      "quiz_type": "KTS2",
+      "year": "2018",
+      "explain_dom": "The Red in this spiritual portrait represents Walon's dominant personality trait, his tendency to be a bit more emotional and friendly than logical and impersonal.  In Extraverts, the dominant trait is directed outwardly, and spiritual portraits use a long vertical line to represent this, because it is the side of their personality that is most evident.  Examples of times when Walon expresses his emotional side come when he openly seeks to support other addicts in their battles against addiction.",
+      "explain_aux": "The Blue in this spiritual portrait represents Walon's auxiliary personality trait, his tendency to see the world more in terms of ideas than of facts.  In Extraverts, the auxiliary trait is directed inwardly, and spiritual portraits use a horizontal line to represent this.  An example of a time when Walon shows his idealism comes when he councils Bubbles that forgiveness from others is less important than forgiving \"your own self\" and tells him to \"love yourself some, brother.\"",
+      "story_intro_html": "",
+      "story_html": "",
+      "compare_to": { },
+      "contrast_with": { }
+    }, {
+      "id": "1548",
+      "title": "Johnny Weeks",
+      "subtitle_html": "Heroin Addict and Petty Criminal",
+      "gallery_page_teaser": "The Yellow in Johnny's spiritual portrait shows he prefers sensations to ideas, and the Red shows he is more likely to be emotional than logical.  Click on the image to learn more!",
+      "image_file_name": "esfp-johnny_weeks-1.jpg",
+      "meat_portrait_href": "https://en.wikipedia.org/wiki/File:The_Wire_Johnny.jpg",
+      "composition": "O",
+      "score": [
+         { "e_score": "15", "i_score": "4" },
+         { "n_score": "8", "s_score": "11" },
+         { "f_score": "14", "t_score": "5" },
+         { "j_score": "3", "p_score": "16" }
+      ],
+      "four_letter_type": "ESFP",
+      "archetype": "Se",
+      "quiz_type": "KTS2",
+      "year": "2018",
+      "explain_dom": "The Yellow in this spiritual portrait represents Johnny' dominant personality trait, his desire for sensual stimulation.  In Extraverts, the dominant trait is directed outwardly, and spiritual portraits use a long vertical line to represent this, because it is the side of their personality that is most evident.  For much of the series, Johnny shoots heroin in an effort to find the sensual stimulation he craves.",
+      "explain_aux": "The Red in this spiritual portrait represents Johnny's auxiliary personality trait, his fairly strong tendency to be more irrational than rational.  In Extraverts, the auxiliary trait is directed inwardly, and spiritual portraits use a horizontal line to represent this.  Johnny's irrationality is apparent in the way he continues to shoot heroin despite the damage the drug does to him.",
+      "story_intro_html": "",
+      "story_html": "",
+      "compare_to": { },
+      "contrast_with": { }
+    }, {
+      "id": "1549",
+      "title": "square_ad"
+    }
+  ]
+}
