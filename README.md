@@ -33,9 +33,11 @@ Delete all Bootstrap 3.3.7 files under `Site/content/static`
   - `js/score_bars.js`
   - `js/seeourminds.js`
 
-Command run:
+Commands run:
 
 ```
+gossmc
+cd static/content/
 git rm -r css/[bfmn]* fonts/ js/vendor/
 ```
 
@@ -43,6 +45,32 @@ git rm -r css/[bfmn]* fonts/ js/vendor/
 
 Add files from the `static` directory of the `groja.com-mdb` repo to the `Site/content/static` directory.
 
+- It may not be the latest version, but anything we do css-wise on one site should work just fine on the other as well.
+
 ### Notes
 
+- Copying **all** files under:
+  - `font/`
+  - `img/`
+  - `js/`
+- Also copying:
+  - `License-MDB.pdf`
+  - `README-MDB.txt`
+  - **All** files under `css/` **except** `groja.css` and `home.css`
+
+Commands run:
+
+```
+gossmc
+cd static/content/
+l /var/www/groja.com/htdocs/groja.com-mdb/Site/static/
+cp  /var/www/groja.com/htdocs/groja.com-mdb/Site/static/License-MDB.pdf  .
+cp  /var/www/groja.com/htdocs/groja.com-mdb/Site/static/README-MDB.txt .
+cp -r /var/www/groja.com/htdocs/groja.com-mdb/Site/static/font .
+cp -r /var/www/groja.com/htdocs/groja.com-mdb/Site/static/img .
+cp -r /var/www/groja.com/htdocs/groja.com-mdb/Site/static/js .
+cd css
+l /var/www/groja.com/htdocs/groja.com-mdb/Site/static/css/[Rabfm]*
+cp -r /var/www/groja.com/htdocs/groja.com-mdb/Site/static/css/[Rabfm]* .
+```
 
