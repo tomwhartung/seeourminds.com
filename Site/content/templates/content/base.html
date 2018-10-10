@@ -33,115 +33,135 @@
 </head>
 
 <body>
-  <!--[if lt IE 8]>
-    <p class="browserupgrade">
-      You are using an <strong>outdated</strong> browser.
-      Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
-  <![endif]-->
-  <div class="header-container">
-    <div class="social-media-icons">
-      <a href="https://twitter.com/seeourminds" target="_blank"
-         title="Connect with the site on twitter!" class="icons-lg">
+<header>
+ {% block navbar %}
+  <nav class="navbar navbar-expand-lg scrolling-navbar navbar-dark indigo {{ fixed_top }}">
+   <div class="container">
+    <a href="/">
+     <img class="site-logo mr-3"
+          src="{% static 'content/images/header/infp-tomh_1987-81x81.gif' %}"
+          alt="Image of INFP containing more blue and red squares and fewer yellow and green squares.">
+    </a>
+    <button class="navbar-toggler" type="button"
+            data-toggle="collapse" data-target="#collapsibleNav"
+            aria-controls="collapsibleNav" aria-expanded="false"
+            aria-label="Toggle navigation">
+     <span class="navbar-toggler-icon"></span></button>
+    <div class="collapse navbar-collapse" id="collapsibleNav">
+     <ul class="navbar-nav mr-auto">
+      <li class="nav-item">
+       <a class="nav-link" href="/">SeeOurMinds.com
+       </a>
+      </li>
+      <li class="nav-item dropdown">
+       <a class="nav-link dropdown-toggle" id="navbarGalleriesDropdown"
+          data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+        Portrait<br>Galleries<b class="caret"></b></a>
+       <div class="dropdown-menu dropdown-primary" aria-labelledby="navbarGalleriesDropdown">
+        <a class="dropdown-item" href="/galleries/"><li>All</li></a>
+        <a class="dropdown-item" href="/galleries/fictional/"><li>Fictional</li></a>
+        <a class="dropdown-item" href="/galleries/real/"><li>Real</li></a>
+        <a class="dropdown-item" href="/galleries/presidents/"><li>Presidents</li></a>
+        <a class="dropdown-item" href="/galleries/famous/"><li>Famous</li></a>
+        <a class="dropdown-item" href="/galleries/sixteen_types/"><li>Sixteen Types</li></a>
+        <a class="dropdown-item" href="/galleries/movies/"><li>Movies</li></a>
+        <a class="dropdown-item" href="/galleries/tv/"><li>TV</li></a>
+        <a class="dropdown-item" href="/galleries/politicians/"><li>Politicians</li></a>
+        <a class="dropdown-item" href="/galleries/friends/"><li>Friends</li></a>
+        <a class="dropdown-item" href="/galleries/family/"><li>Family</li></a>
+        <a class="dropdown-item" href="/galleries/others/"><li>Other People</li></a>
+        <a class="dropdown-item" href="/galleries/experiments/"><li>Experiments</li></a>
+        <a class="dropdown-item" href="/gallery/9100-real-self_portraits/"><li>Self Portraits</li></a>
+       </div><!-- .dropdown-menu -->
+      </li>
+      <li class="nav-item dropdown">
+       <a class="nav-link dropdown-toggle" id="navbarQuizzesDropdown"
+          data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+        Take a<br>Quiz<b class="caret"></b></a>
+       <div class="dropdown-menu dropdown-primary" aria-labelledby="navbarQuizzesDropdown">
+        <a class="dropdown-item" href="/quiz"><li>About</li></a>
+         {% for quiz_size_slug, size_text in quiz_menu_data %}
+          <a class="dropdown-item" href="/quiz/{{ quiz_size_slug }}/"><li>
+           {{ size_text }}</li></a>
+         {% endfor %}
+       </div><!-- .dropdown-menu -->
+      </li>
+      <li class="nav-item dropdown">
+       <a class="nav-link dropdown-toggle" id="navbarLegalDropdown"
+          data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+        Privacy<br>&amp;&nbsp;Terms<b class="caret"></b></a>
+       <div class="dropdown-menu dropdown-primary" aria-labelledby="navbarLegalDropdown">
+        <a class="dropdown-item" href="/legal/terms_of_service">
+         <li>Terms of Service</li></a>
+        <a class="dropdown-item" href="/legal/privacy_policy">
+         <li>Privacy Policy</li></a>
+        <a class="dropdown-item" href="/legal/questionnaire_disclaimer">
+         <li>Quiz Disclaimer</li></a>
+        <a class="dropdown-item" href="/legal/affiliate_marketing_disclosure">
+         <li>Affiliate Marketing Disclosure</li></a>
+       </div><!-- .dropdown-menu -->
+      </li>
+     </ul><!-- .navbar-nav -->
+     <ul class="navbar-nav nav-flex-icons">
+      <li class="nav-item">
+       <a href="https://twitter.com/seeourminds" target="_blank"
+          title="Connect with the site on twitter!" class="nav-link">
         <i class="fa fa-lg fa-twitter-square"> </i></a>
-      <a href="https://www.facebook.com/seeourminds/" target="_blank"
-         title="Connect with the site on facebook!" class="icons-lg">
+      </li>
+      <li class="nav-item">
+       <a href="https://www.facebook.com/seeourminds/" target="_blank"
+          title="Connect with the site on facebook!" class="nav-link">
         <i class="fa fa-lg fa-facebook-square"> </i></a>
-      <a href="https://medium.com/@seeourminds/" target="_blank"
-         title="Connect with the site on medium!" class="icons-lg">
+      </li>
+      <li class="nav-item">
+       <a href="https://medium.com/@seeourminds/" target="_blank"
+          title="Connect with the site on medium!" class="nav-link">
         <i class="fa fa-lg fa-medium"> </i></a>
-      <a href="https://www.pinterest.com/seeourminds/" target="_blank"
-         title="Connect with the site on pinterest!" class="icons-lg">
+      </li>
+      <li class="nav-item">
+       <a href="https://www.pinterest.com/seeourminds/" target="_blank"
+          title="Connect with the site on pinterest!" class="nav-link">
         <i class="fa fa-lg fa-pinterest-square"> </i></a>
-      <a href="https://www.instagram.com/groja.com8831/" target="_blank"
-         title="Connect with the site on instagram!" class="icons-lg">
+      </li>
+      <li class="nav-item">
+       <a href="https://www.instagram.com/groja.com8831/" target="_blank"
+          title="Connect with the site on instagram!" class="nav-link">
         <i class="fa fa-lg fa-instagram"> </i></a>
-      <a href="https://plus.google.com/+TomHartung" target="_blank"
-         title="Find me on google plus!" class="icons-lg">
+      </li>
+      <li class="nav-item">
+       <a href="https://plus.google.com/+TomHartung" target="_blank"
+          title="Find me on google plus!" class="nav-link">
         <i class="fa fa-lg fa-google-plus-square"> </i></a>
-      <a href="https://www.quora.com/profile/Tom-W-Hartung" target="_blank"
-         title="Find me on quora!" class="icons-lg">
+      </li>
+      <li class="nav-item">
+       <a href="https://www.quora.com/profile/Tom-W-Hartung" target="_blank"
+          title="Find me on quora!" class="nav-link">
         <i class="fa fa-lg fa-quora"> </i></a>
-      <a href="https://github.com/tomwhartung" target="_blank"
-         title="Find me on github!" class="icons-lg">
+      </li>
+      <li class="nav-item">
+       <a href="https://github.com/tomwhartung" target="_blank"
+          title="Find me on github!" class="nav-link">
         <i class="fa fa-lg fa-github-square"> </i></a>
-      <a href="https://www.linkedin.com/company/groja.com" target="_blank"
-         title="Connect with the site on linkedin!" class="icons-lg">
+      </li>
+      <li class="nav-item">
+       <a href="https://www.linkedin.com/company/groja.com" target="_blank"
+          title="Connect with the site on linkedin!" class="nav-link">
         <i class="fa fa-lg fa-linkedin-square"> </i></a>
-    </div>
-    <header class="wrapper clearfix">
-      <a href="/">
-        <img class="site-header"
-             src="{% static 'content/images/header/infp-tomh_1987-81x81.gif' %}"
-             alt="Image of INFP containing more blue and red squares and fewer yellow and green squares.">
-        </img>
-      <div class="title">
-        <h1 class="site-name">SeeOurMinds.com</h1>
-        <span class="tagline">'Visualizing the Invisible'&nbsp;&trade;</span>
-      </div></a>
-      <nav>
-        <div class="dropdown">
-          <ul>
-            <li role="presentation">
-              <a href="#" data-toggle="dropdown" class="dropdown-toggle"
-                 data-target=".galleries-collapse">
-               Portrait<br>Galleries<b class="caret"></b></a>
-              <div class="galleries-collapse">
-                <ul class="dropdown-menu">
-                  <a href="/galleries/"><li>All</li></a>
-                  <a href="/galleries/fictional/"><li>Fictional</li></a>
-                  <a href="/galleries/real/"><li>Real</li></a>
-                  <a href="/galleries/presidents/"><li>Presidents</li></a>
-                  <a href="/galleries/famous/"><li>Famous</li></a>
-                  <a href="/galleries/sixteen_types/"><li>Sixteen Types</li></a>
-                  <a href="/galleries/movies/"><li>Movies</li></a>
-                  <a href="/galleries/tv/"><li>TV</li></a>
-                  <a href="/galleries/politicians/"><li>Politicians</li></a>
-                  <a href="/galleries/friends/"><li>Friends</li></a>
-                  <a href="/galleries/family/"><li>Family</li></a>
-                  <a href="/galleries/others/"><li>Other People</li></a>
-                  <a href="/galleries/experiments/"><li>Experiments</li></a>
-                  <a href="/gallery/9100-real-self_portraits/"><li>Self Portraits</li></a>
-                </ul>
-              </div>
-            </li>
-            <li role="presentation">
-              <a href="#" data-toggle="dropdown" class="dropdown-toggle"
-                 data-target=".quizzes-collapse">
-                 Take a<br>Quiz<b class="caret"></b></a>
-              <div class="quizzes-collapse">
-                <ul class="dropdown-menu">
-                  <a href="/quiz"><li>About</li></a>
-                  {% for quiz_size_slug, size_text in quiz_menu_data %}
-                    <a href="/quiz/{{ quiz_size_slug }}/"><li>
-                      {{ size_text }}</li></a>
-                  {% endfor %}
-                </ul>
-              </div>
-            </li>
-            <li role="presentation">
-              <a href="#" data-toggle="dropdown" class="dropdown-toggle"
-                 data-target=".legal-collapse">
-                 Privacy<br>&amp; Terms<b class="caret"></b></a>
-              <div class="legal-collapse">
-                <ul class="dropdown-menu">
-                  <a href="/legal/terms_of_service">
-                   <li>Terms of Service</li></a>
-                  <a href="/legal/privacy_policy">
-                   <li>Privacy Policy</li></a>
-                  <a href="/legal/questionnaire_disclaimer">
-                   <li>Quiz Disclaimer</li></a>
-                  <a href="/legal/affiliate_marketing_disclosure">
-                   <li>Affiliate Marketing Disclosure</li></a>
-                </ul>
-              </div>
-            </li>
-          </ul>
-        </div>
-      </nav>
-    </header>
-  </div><!-- .header-container -->
+      </li>
+     </ul><!-- .navbar-nav -->
+    </div><!-- .navbar-collapse -->
+   </div><!-- .container -->
+  </nav>
+ {% endblock %}
+</header>
 
   <main class="main-container container">
+   <div class="left-over">
+    <div class="title">
+      <h1 class="site-name">SeeOurMinds.com</h1>
+      <span class="tagline">'Visualizing the Invisible'&nbsp;&trade;</span>
+    </div></a>
+   </div>
     <div class="main wrapper clearfix">
      {% block legal_content %}
      {% endblock %}
