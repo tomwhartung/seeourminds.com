@@ -35,7 +35,7 @@
 <body>
 <header>
  {% block navbar %}
-  <nav class="navbar navbar-expand-lg scrolling-navbar navbar-dark indigo {{ fixed_top }}">
+  <nav class="navbar navbar-expand-lg scrolling-navbar navbar-dark red darken-3">
    <div class="container">
     <a href="/">
      <img class="site-logo mr-3"
@@ -50,7 +50,8 @@
     <div class="collapse navbar-collapse" id="collapsibleNav">
      <ul class="navbar-nav mr-auto">
       <li class="nav-item">
-       <a class="nav-link" href="/">SeeOurMinds.com
+       <a class="nav-link" href="/">SeeOurMinds.com<br>
+        <span class="tagline">'Visualizing the Invisible'&nbsp;&trade;</span>
        </a>
       </li>
       <li class="nav-item dropdown">
@@ -297,32 +298,37 @@
     </div><!-- .main .wrapper .clearfix -->
   </main><!-- .main-container .container -->
 
-  {% block footer %}
-    <footer class="footer-container">
-      <p>
-       Copyright &copy; 2016&ndash;2018
-       <a href="http://www.TomWHartung.com" class="footer"
-          title="TomWHartung.com home page" target="_blank">
-        Tom W. Hartung</a> and
-       <a href="https://JooMooWebSites.com" class="footer"
-          title="JooMoo WebSites.com home page" target="_blank">
-        JooMoo WebSites LLC</a>.
-       All Rights Reserved.</p>
-      <p>
-        <b>Your use of this site implies you consent to our
-         <a href="/legal/terms_of_service" class="footer"
-            title="Terms of Service for this site">
-          Terms of Service</a> and
-         <a href="/legal/privacy_policy" class="footer"
-            title="Privacy Policy for this site">
-          Privacy Policy</a>.</b></p>
-      <p>
-        This site 100% designed, created, and maintained by
-         <a href="https://JooMooWebSites.com" class="footer"
-            title="JooMooWebSites.com home page" target="_blank">
-          JooMoo WebSites LLC</a>.</p>
-    </footer>
-  {% endblock %}
+{% block footer %}
+ <footer class="page-footer font-small red darken-3 p-2">
+  <div class="footer-copyright pt-2">
+   <div class="text-center py-1">
+    Copyright &copy; 2016&ndash;2018
+     <a href="http://www.TomWHartung.com" class="footer"
+        title="TomWHartung.com home page" target="_blank">
+      Tom W. Hartung</a> and
+     <a href="https://JooMooWebSites.com" class="footer"
+        title="JooMoo WebSites.com home page" target="_blank">
+      JooMoo WebSites LLC</a>.
+    All Rights Reserved.
+   </div><!-- .text-center -->
+   <div class="text-center py-1">
+    <b>Your use of this site implies you consent to our
+     <a href="/legal/terms_of_service" class="footer"
+        title="Terms of Service for this site">
+      Terms of Service</a> and
+     <a href="/legal/privacy_policy" class="footer"
+        title="Privacy Policy for this site">
+      Privacy Policy</a>.</b>
+   </div><!-- .text-center -->
+   <div class="text-center py-1">
+    This site 100% designed, created, and maintained by
+     <a href="https://JooMooWebSites.com" class="footer"
+        title="JooMooWebSites.com home page" target="_blank">
+      JooMoo WebSites LLC</a>.
+   </div><!-- .text-center -->
+  </div><!-- .footer-copyright -->
+ </footer>
+{% endblock %}
 
 
  <!-- For google analytics: -->
