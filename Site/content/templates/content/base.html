@@ -36,7 +36,7 @@
 <header>
  {% block navbar %}
   <nav class="navbar navbar-expand-lg scrolling-navbar navbar-dark red darken-3">
-   <div class="container">
+   <div class="container my-2">
     <a href="/">
      <img class="site-logo mr-3"
           src="{% static 'content/images/header/infp-tomh_1987-81x81.gif' %}"
@@ -157,10 +157,17 @@
  {% endblock %}
 </header>
 
+{% block legal_content %}
+{% endblock %}
+
+<hr>
+<hr>
+<hr>
+<hr>
+<hr>
+
   <main class="main-container container">
     <div class="main wrapper clearfix">
-     {% block legal_content %}
-     {% endblock %}
       {% block top_row_ad %}
         {% block top_row_large_billboard_ad %}
           <div class="row" id="top-row-large-billboard-ad-block">
@@ -293,9 +300,15 @@
     </div><!-- .main .wrapper .clearfix -->
   </main><!-- .main-container .container -->
 
+<hr>
+<hr>
+<hr>
+<hr>
+<hr>
+
 {% block footer %}
- <footer class="page-footer font-small red darken-3 p-2">
-  <div class="footer-copyright pt-2">
+ <footer class="page-footer font-small red darken-3 p-3">
+  <div class="footer-copyright p-2">
    <div class="text-center py-1">
     Copyright &copy; 2016&ndash;2018
      <a href="http://www.TomWHartung.com" class="footer"
