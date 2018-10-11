@@ -58,20 +58,20 @@
           data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
         Portrait<br>Galleries<b class="caret"></b></a>
        <div class="dropdown-menu dropdown-primary" aria-labelledby="navbarGalleriesDropdown">
-        <a class="dropdown-item" href="/galleries/"><li>All</li></a>
-        <a class="dropdown-item" href="/galleries/fictional/"><li>Fictional</li></a>
-        <a class="dropdown-item" href="/galleries/real/"><li>Real</li></a>
-        <a class="dropdown-item" href="/galleries/presidents/"><li>Presidents</li></a>
-        <a class="dropdown-item" href="/galleries/famous/"><li>Famous</li></a>
-        <a class="dropdown-item" href="/galleries/sixteen_types/"><li>Sixteen Types</li></a>
-        <a class="dropdown-item" href="/galleries/movies/"><li>Movies</li></a>
-        <a class="dropdown-item" href="/galleries/tv/"><li>TV</li></a>
-        <a class="dropdown-item" href="/galleries/politicians/"><li>Politicians</li></a>
-        <a class="dropdown-item" href="/galleries/friends/"><li>Friends</li></a>
-        <a class="dropdown-item" href="/galleries/family/"><li>Family</li></a>
-        <a class="dropdown-item" href="/galleries/others/"><li>Other People</li></a>
-        <a class="dropdown-item" href="/galleries/experiments/"><li>Experiments</li></a>
-        <a class="dropdown-item" href="/gallery/9100-real-self_portraits/"><li>Self Portraits</li></a>
+        <a class="dropdown-item" href="/galleries/">All</a>
+        <a class="dropdown-item" href="/galleries/fictional/">Fictional</a>
+        <a class="dropdown-item" href="/galleries/real/">Real</a>
+        <a class="dropdown-item" href="/galleries/presidents/">Presidents</a>
+        <a class="dropdown-item" href="/galleries/famous/">Famous</a>
+        <a class="dropdown-item" href="/galleries/sixteen_types/">Sixteen Types</a>
+        <a class="dropdown-item" href="/galleries/movies/">Movies</a>
+        <a class="dropdown-item" href="/galleries/tv/">TV</a>
+        <a class="dropdown-item" href="/galleries/politicians/">Politicians</a>
+        <a class="dropdown-item" href="/galleries/friends/">Friends</a>
+        <a class="dropdown-item" href="/galleries/family/">Family</a>
+        <a class="dropdown-item" href="/galleries/others/">Other People</a>
+        <a class="dropdown-item" href="/galleries/experiments/">Experiments</a>
+        <a class="dropdown-item" href="/gallery/9100-real-self_portraits/">Self Portraits</a>
        </div><!-- .dropdown-menu -->
       </li>
       <li class="nav-item dropdown">
@@ -79,10 +79,10 @@
           data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
         Take a<br>Quiz<b class="caret"></b></a>
        <div class="dropdown-menu dropdown-primary" aria-labelledby="navbarQuizzesDropdown">
-        <a class="dropdown-item" href="/quiz"><li>About</li></a>
+        <a class="dropdown-item" href="/quiz">About</a>
          {% for quiz_size_slug, size_text in quiz_menu_data %}
-          <a class="dropdown-item" href="/quiz/{{ quiz_size_slug }}/"><li>
-           {{ size_text }}</li></a>
+          <a class="dropdown-item" href="/quiz/{{ quiz_size_slug }}/">
+           {{ size_text }}</a>
          {% endfor %}
        </div><!-- .dropdown-menu -->
       </li>
@@ -92,13 +92,13 @@
         Privacy<br>&amp;&nbsp;Terms<b class="caret"></b></a>
        <div class="dropdown-menu dropdown-primary" aria-labelledby="navbarLegalDropdown">
         <a class="dropdown-item" href="/legal/terms_of_service">
-         <li>Terms of Service</li></a>
+         Terms of Service</a>
         <a class="dropdown-item" href="/legal/privacy_policy">
-         <li>Privacy Policy</li></a>
+         Privacy Policy</a>
         <a class="dropdown-item" href="/legal/questionnaire_disclaimer">
-         <li>Quiz Disclaimer</li></a>
+         Quiz Disclaimer</a>
         <a class="dropdown-item" href="/legal/affiliate_marketing_disclosure">
-         <li>Affiliate Marketing Disclosure</li></a>
+         Affiliate Marketing Disclosure</a>
        </div><!-- .dropdown-menu -->
       </li>
      </ul><!-- .navbar-nav -->
