@@ -182,7 +182,7 @@ def quiz_about(request):
     quiz_info["size_text"] = ''
 
     quiz_list_data = Questionnaire.get_quiz_list_data()
-    template = loader.get_template('content/quiz_about.html')
+    template = loader.get_template('content/quiz/quiz_about.html')
     context = {
         'quiz_info': quiz_info,
         'quiz_menu_data': Questionnaire.get_quiz_menu_data(),
@@ -231,7 +231,7 @@ def quiz_form(request, quiz_size_slug=Questionnaire.DEFAULT_QUIZ_SIZE_SLUG):
                             quiz_form.cleaned_data, quiz_size_slug)
                     for saved_msg in saved_messages:
                         messages.add_message(request, messages.INFO, saved_msg)
-                    template = loader.get_template('content/quiz_results.html')
+                    template = loader.get_template('content/quiz/quiz_results.html')
                     score_for_context = score.as_list_of_pairs()
                     return HttpResponse(template.render(
                         { 'score': score_for_context,
@@ -253,7 +253,7 @@ def quiz_form(request, quiz_size_slug=Questionnaire.DEFAULT_QUIZ_SIZE_SLUG):
     quiz_info["size_text"] = \
         Questionnaire.get_quiz_size_text_for_slug(quiz_size_slug)
 
-    template = loader.get_template('content/quiz_form.html')
+    template = loader.get_template('content/quiz/quiz_form.html')
     context = {
         'quiz_form': quiz_form,
         'quiz_info': quiz_info,
