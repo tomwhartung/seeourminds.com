@@ -272,7 +272,7 @@ def google203aca4a4dd53796(request):
 
     """ Load and render the google203aca4a4dd53796 verification template """
 
-    template = loader.get_template('content/google203aca4a4dd53796.html')
+    template = loader.get_template('content/google/google203aca4a4dd53796.html')
     context = {}
     return HttpResponse(template.render(context, request))
 
@@ -281,7 +281,7 @@ def google428ef5aab2bc0870(request):
 
     """ Load and render the google428ef5aab2bc0870 verification template """
 
-    template = loader.get_template('content/google428ef5aab2bc0870.html')
+    template = loader.get_template('content/google/google428ef5aab2bc0870.html')
     context = {}
     return HttpResponse(template.render(context, request))
 
