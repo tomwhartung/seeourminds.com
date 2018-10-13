@@ -1,11 +1,29 @@
-{% extends 'content/galleries_base.html' %}
+{% extends 'content/galleries/galleries_base.html' %}
 
-{% block head %}
-  {{ block.super }}
-  {% load static %}
-  <script src="{% static 'content/js/vendor/d3.v4.min.js' %}"></script>
-  <script src="{% static 'content/js/score_bars.js' %}"></script>
+{% load static %}
+
+{% block gallery_title %}
+ {{ gallery_dict.gallery_title }}
 {% endblock %}
+
+{% block gallery_top_content %}
+ <p>
+  {{ gallery_dict.description_html | safe }}</p>
+ {% if gallery_dict.story_html %}
+  <div class="text-center">
+    <a class="btn btn-success btn-md som-btn-all" id="toggle-story-html"
+      title="Show the story behind these images">See the Story</a>
+  </div><!-- .text-center -->
+  <div id="story-html" class="som-text-to-toggle">
+    {{ gallery_dict.story_html | safe }}
+  </div><!-- #story-html -->
+ {% endif %}
+{% endblock %}
+
+{% block gallery_content %}
+
+{% endblock %}
+
 
 {% block top_content_left %}
   {% block top_left_ad %}{{ block.super }}{% endblock %}
@@ -110,7 +128,16 @@
 {% block bottom_row_ad %}{% endblock %}
 
 {% block footer %}
-  {{ block.super }}
+ {{ block.super }}
+{% endblock %}
+
+{% block scripts %}
+ {{ block.super }}
+ {% load static %}
+ <script src="{% static 'content/js/vendor/d3.v4.min.js' %}"
+         type="text/javascript">></script>
+ <script src="{% static 'content/js/score_bars.js' %}"
+         type="text/javascript">></script>
   {% if gallery_dict.story_html %}
     <script>
       /*
