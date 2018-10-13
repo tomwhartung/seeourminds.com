@@ -47,7 +47,7 @@ def image(request, gallery_file_name=None, image_id=None):
     image_dict = this_image.image_dict
     back_to_gallery_href = '/gallery/' + gallery_file_name + '/'
     title = 'Image: ' + image_dict.get('title')
-    return render(request, 'content/image.html', {
+    return render(request, 'content//galleries/gallery_image.html', {
         'back_to_gallery_href': back_to_gallery_href,
         'image_dict': image_dict,
         'adsense_ads': adsense_ads,
@@ -71,7 +71,7 @@ def galleries_list(request, galleries_list_name='all'):
     galleries_list_obj = GalleriesList(galleries_list_name)
     galleries_list_obj.set_galleries_list_data()
     title = galleries_list_obj.galleries_list_title
-    template = loader.get_template('content/galleries_list.html')
+    template = loader.get_template('content/galleries/galleries_list.html')
     context = {
         'galleries_list_obj': galleries_list_obj,
         'adsense_ads': adsense_ads,
@@ -93,7 +93,7 @@ def gallery(request, gallery_file_name='None'):
     gallery_dict = this_gallery.gallery_dict
     title = gallery_dict.get('gallery_title')
 
-    template = loader.get_template('content/galleries_gallery.html')
+    template = loader.get_template('content/galleries/galleries_gallery.html')
     context = {
         'gallery_dict': gallery_dict,
         'adsense_ads': adsense_ads,
