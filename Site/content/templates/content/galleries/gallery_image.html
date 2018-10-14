@@ -106,6 +106,18 @@
      </p>
     {% endif %}
     <p class="card-text text-center">
+     <a href="https://en.wikipedia.org/wiki/{{ image_dict.four_letter_type }}"
+        title="Click to open the wikipedia page for {{ image_dict.four_letter_type }}s in a new window"
+        target="_blank">
+      {% if image_dict.score %}
+       <div class="score-svg" id="score-bars"></div><!-- #score-bars -->
+      {% else %}
+       <p>{{ image_dict.four_letter_type }}</p>
+      {% endif %}
+     </a>
+    </p>
+
+    <p class="card-text text-center">
     </p>
    </div><!-- .card-body -->
   </div><!-- .card -->
@@ -131,17 +143,7 @@
     <section id="image">
       <div class="single-image">
         <h1 class='image-page'><u>{{ image_dict.title }}</u></h1>
-        <div class="text-center">
-        </div><!-- .text-center -->
-        <a href="https://en.wikipedia.org/wiki/{{ image_dict.four_letter_type }}"
-           title="Click to open the wikipedia page for {{ image_dict.four_letter_type }}s in a new window"
-           target="_blank">
-          {% if image_dict.score %}
-            <div class="score-svg" id="score-bars"></div><!-- #score-bars -->
-          {% else %}
-            <p>{{ image_dict.four_letter_type }}</p>
-          {% endif %}
-        </a>
+
 
         {% if image_dict.compare_to or image_dict.contrast_with %}
           <div class="text-center">
