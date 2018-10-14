@@ -15,7 +15,7 @@
     <div class="row justify-content-center m-y-0 p-y-0">
      <div class="col-md-9 hoverable">
       <h1 class="display-4 font-weight-bold text-center">
-       {{ image_dict.title }}</h1>
+       <u>{{ image_dict.title }}</u></h1>
      </div><!-- .col-md-9 -->
     </div><!-- .row -->
 {% endblock %}
@@ -71,8 +71,16 @@
        {{ image_dict.explain_aux }}</p>
      {% endif %}
     {% endif %}
-    <p class="card-text text-center">
-    </p>
+    {% if image_dict.subtitle_html %}
+       <h3 class="font-weight-bold text-center">
+        <em><u>{{ image_dict.subtitle_html | safe }}</u></em></h3>
+    {% else %}
+     {% if image_dict.tweet_html %}
+       <p class="card-text text-center">{{ image_dict.tweet_html | safe }}</p>
+     {% elif image_dict.subject_line %}
+       <p class="card-text text-center">{{ image_dict.subject_line }}</p>
+     {% endif %}
+    {% endif %}
     <p class="card-text text-center">
     </p>
     <p class="card-text text-center">
@@ -106,17 +114,8 @@
           Back</a>
       </div><!-- .pull-right -->
       <div class="single-image">
-        <h1 class='image-page'>{{ image_dict.title }}</h1>
+        <h1 class='image-page'><u>{{ image_dict.title }}</u></h1>
         <div class="text-center">
-          {% if image_dict.subtitle_html %}
-            <h3 class="image-page">{{ image_dict.subtitle_html | safe }}</h3>
-          {% else %}
-            {% if image_dict.tweet_html %}
-              <p>{{ image_dict.tweet_html | safe }}</p>
-            {% elif image_dict.subject_line %}
-              <p>{{ image_dict.subject_line }}</p>
-            {% endif %}
-          {% endif %}
         </div><!-- .text-center -->
         {% if image_dict.story_html %}
           <div class="text-justify">
