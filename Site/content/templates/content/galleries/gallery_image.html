@@ -1,37 +1,38 @@
-{% extends 'content/base.html' %}
+{% extends 'content/galleries/galleries_base.html' %}
 
 {% load static %}
 
-{% block content %}
- <main class="mt-3">
-  <div class="container-fluid">
-   <div class="z-depth-1-half m-5 p-5">
+{% block gallery_title_row %}
     <div class="row justify-content-center">
      <div class="col-md-9 hoverable m-2">
       <h1 class="display-4 font-weight-bold text-center">
        {{ image_dict.title }}</h1>
      </div><!-- .col-md-9 -->
     </div><!-- .row -->
-    <div class="row align-items-center justify-content-center">
-     <div class="col-md-9">
-      <div class="card hoverable m-2">
-       <div class="card-body">
-        <p class="card-text text-center text-center">
-         <img class="img-fluid hoverable"
-              src="{% static image_dict.path %}">
-        </p>
-       </div><!-- .card-body -->
-      </div><!-- .card -->
-     </div><!-- .col-md-9 -->
-
-    </div><!-- .row -->
-
-   </div><!-- .z-depth-1-half -->
-  </div><!-- .container -->
- </main>
 {% endblock %}
 
+{% block gallery_top_row %}
+<div class="row align-items-center justify-content-center">
+ <div class="col-md-9">
+  <div class="card hoverable m-2">
+   <div class="card-body">
+    <p class="card-text text-center text-center">
+     <img class="img-fluid hoverable"
+          src="{% static image_dict.path %}">
+    </p>
+   </div><!-- .card-body -->
+  </div><!-- .card -->
+ </div><!-- .col-md-9 -->
+</div><!-- .row -->
+{% endblock %}
 
+{% block gallery_content_rows %}
+ <p>Content rows here.</p>
+{% endblock %}
+
+<hr>
+<hr>
+<hr>
 
 {% block top_row_ad %}{% endblock %}
 {% block top_content_left %}{% endblock %}
