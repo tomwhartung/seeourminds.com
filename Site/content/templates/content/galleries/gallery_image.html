@@ -46,7 +46,7 @@
 
 {% block gallery_content_rows %}
 <div class="row align-items-center justify-content-center">
- <div class="col-md-11">
+ <div class="col-sm-12">
   <div class="card hoverable m-2">
    <div class="card-body">
     {% if image_dict.explain_dom or image_dict.explain_aux %}
@@ -132,13 +132,25 @@
       {% endif %}
      </p>
     {% endif %}
-
-    <p class="card-text text-center">
-    </p>
    </div><!-- .card-body -->
   </div><!-- .card -->
- </div><!-- .col-md-9 -->
+ </div><!-- .col-sm-12 -->
 </div><!-- .row -->
+{% if image_dict.story_html %}
+ <a name="whole-story"></a>
+ <div class="row align-items-center justify-content-center">
+  <div class="col-sm-12">
+   <div class="card hoverable m-1 p-1 m-sm-2 p-sm-2 m-lg-3 p-lg-3">
+    <div class="card-body mx-1 mx-sm-3 mx-lg-5">
+     <h2 class="font-weight-bold text-center">
+      {{ image_dict.title }}:<br>
+      The Whole Story</h2>
+      {{ image_dict.story_html | safe }}
+    </div><!-- .card-body -->
+   </div><!-- .card -->
+  </div><!-- .col-sm-12 -->
+</div><!-- .row -->
+{% endif %}
 
 
 {% endblock %}
@@ -159,21 +171,6 @@
     <section id="image">
       <div class="single-image">
         <h1 class='image-page'><u>{{ image_dict.title }}</u></h1>
-
-
-        {% if image_dict.story_html %}
-          <hr class="before-whole-story" />
-          <hr class="before-whole-story" />
-          <a name="whole-story"></a>
-          <hr class="before-whole-story" />
-          <div class="text-justify">
-            <div id="whole-story-html">
-              <h2>The Whole Story</h2>
-              {{ image_dict.story_html | safe }}
-            </div><!-- #whole-story-html -->
-          </div><!-- .text-justify -->
-        {% endif %}
-
       </div><!-- .single-image -->
     </section><!-- #image -->
   </div><!-- .col-md-8 -->
