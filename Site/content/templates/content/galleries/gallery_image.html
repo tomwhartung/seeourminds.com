@@ -116,6 +116,22 @@
       {% endif %}
      </a>
     </p>
+    {% if image_dict.compare_to or image_dict.contrast_with %}
+     <p class="card-text text-center">
+      {% if image_dict.compare_to_path  %}
+       <a class="btn btn-mdb-color btn-md"
+          href="{{ image_dict.compare_to_path }}"
+          title="Click to see the image of someone with a similar personality">
+        Compare to Image of <q>{{ image_dict.compare_to_title }}</q></a>
+      {% endif %}
+      {% if image_dict.contrast_with %}
+       <a class="btn btn-mdb-color btn-md"
+          href="{{ image_dict.contrast_with_path }}"
+          title="Click to see the image of someone with a very different personality">
+        Contrast With Image of <q>{{ image_dict.contrast_with_title }}</q></a>
+      {% endif %}
+     </p>
+    {% endif %}
 
     <p class="card-text text-center">
     </p>
@@ -144,23 +160,6 @@
       <div class="single-image">
         <h1 class='image-page'><u>{{ image_dict.title }}</u></h1>
 
-
-        {% if image_dict.compare_to or image_dict.contrast_with %}
-          <div class="text-center">
-            {% if image_dict.compare_to_path  %}
-              <a class="btn btn-md btn-primary som-btn-all"
-                 href="{{ image_dict.compare_to_path }}"
-                 title="Click to see the image of someone with a similar personality">
-                Compare to Image of <q>{{ image_dict.compare_to_title }}</q></a>
-            {% endif %}
-            {% if image_dict.contrast_with %}
-              <a class="btn btn-md btn-primary som-btn-all"
-                 href="{{ image_dict.contrast_with_path }}"
-                 title="Click to see the image of someone with a very different personality">
-                Contrast With Image of <q>{{ image_dict.contrast_with_title }}</q></a>
-            {% endif %}
-          </div><!-- .text-center -->
-        {% endif %}
 
         {% if image_dict.story_html %}
           <hr class="before-whole-story" />
