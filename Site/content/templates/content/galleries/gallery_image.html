@@ -13,10 +13,10 @@
     </div><!-- .row -->
     <div class="w-100 m-y-0 p-y-0"></div>
     <div class="row justify-content-center m-y-0 p-y-0">
-     <div class="col-md-9 hoverable">
+     <div class="col-sm-12 hoverable">
       <h1 class="display-4 font-weight-bold text-center">
        <u>{{ image_dict.title }}</u></h1>
-     </div><!-- .col-md-9 -->
+     </div><!-- .col-sm-12 -->
     </div><!-- .row -->
 {% endblock %}
 {% block gallery_top_row %}
@@ -45,146 +45,112 @@
 {% endblock %}
 
 {% block gallery_content_rows %}
-<div class="row align-items-center justify-content-center">
- <div class="col-sm-12">
-  <div class="card hoverable m-2">
-   <div class="card-body">
-    {% if image_dict.explain_dom or image_dict.explain_aux %}
-     <p class="card-text text-center">
-      {% if image_dict.explain_dom  %}
-       <a class="btn btn-md" id="toggle-explain-dom"
-       title="Toggle explanation of how the image represents the dominant personality function">
-       Explain Dominant Color</a>
-      {% endif %}
-      {% if image_dict.explain_aux %}
-       <a class="btn btn-md" id="toggle-explain-aux"
-          title="Toggle explanation of how the image represents the auxiliary personality function">
-         Explain Auxiliary Color</a>
-      {% endif %}
-     </p>
-     {% if image_dict.explain_dom  %}
-      <p id="explain-dom" class="card-text text-left som-text-to-toggle">
-       {{ image_dict.explain_dom }}</p>
-     {% endif %}
-     {% if image_dict.explain_aux %}
-      <p id="explain-aux" class="card-text text-left som-text-to-toggle">
-       {{ image_dict.explain_aux }}</p>
-     {% endif %}
-    {% endif %}
-    {% if image_dict.subtitle_html %}
-     <h3 class="font-weight-bold text-center">
-      <em><u>{{ image_dict.subtitle_html | safe }}</u></em></h3>
-    {% endif %}
-    {% if image_dict.story_html %}
-     <p class="card-text text-left">
-      {% spaceless %}
-       {% if image_dict.story_intro_html %}
-        <div id="story-intro-html">
-         {{ image_dict.story_intro_html | safe }}
-        </div><!-- #story-intro-html -->
-       {% endif %}
-       <div id="story-html" class="som-text-to-toggle">
-        {{ image_dict.story_html | safe }}
-       </div><!-- #story-html -->
-      {% endspaceless %}
-     </p>
-    {% endif %}
-    {% if image_dict.story_html or image_dict.meat_portrait_href %}
-     <p class="card-text text-center">
-      {% if image_dict.story_html %}
-       <a class="btn btn-mdb-color btn-md" id="toggle-story-html"
-          href="#whole-story"
-          title="Show the entire story behind these images">
-        {{ image_dict.show_story_btn_text }}</a>
-      {% endif %}
-      {% if image_dict.meat_portrait_href %}
-       <a class="btn btn-mdb-color btn-md" id="show-meat-portrait"
-          href="{{ image_dict.meat_portrait_href }}" target="_blank"
-          title="Opens a new window containing a photograph of {{ image_dict.title }}">
-        Show the Meat Portrait</a>
-      {% endif %}
-     </p>
-    {% endif %}
-    <p class="card-text text-center">
-     <a href="https://en.wikipedia.org/wiki/{{ image_dict.four_letter_type }}"
-        title="Click to open the wikipedia page for {{ image_dict.four_letter_type }}s in a new window"
-        target="_blank">
-      {% if image_dict.score %}
-       <div class="score-svg" id="score-bars"></div><!-- #score-bars -->
-      {% else %}
-       <p>{{ image_dict.four_letter_type }}</p>
-      {% endif %}
-     </a>
-    </p>
-    {% if image_dict.compare_to or image_dict.contrast_with %}
-     <p class="card-text text-center">
-      {% if image_dict.compare_to_path  %}
-       <a class="btn btn-mdb-color btn-md"
-          href="{{ image_dict.compare_to_path }}"
-          title="Click to see the image of someone with a similar personality">
-        Compare to Image of <q>{{ image_dict.compare_to_title }}</q></a>
-      {% endif %}
-      {% if image_dict.contrast_with %}
-       <a class="btn btn-mdb-color btn-md"
-          href="{{ image_dict.contrast_with_path }}"
-          title="Click to see the image of someone with a very different personality">
-        Contrast With Image of <q>{{ image_dict.contrast_with_title }}</q></a>
-      {% endif %}
-     </p>
-    {% endif %}
-   </div><!-- .card-body -->
-  </div><!-- .card -->
- </div><!-- .col-sm-12 -->
-</div><!-- .row -->
-{% if image_dict.story_html %}
- <a name="whole-story"></a>
- <div class="row align-items-center justify-content-center">
-  <div class="col-sm-12">
-   <div class="card hoverable m-1 p-1 m-sm-2 p-sm-2 m-lg-3 p-lg-3">
-    <div class="card-body mx-1 mx-sm-3 mx-lg-5">
-     <h2 class="font-weight-bold text-center">
-      {{ image_dict.title }}:<br>
-      The Whole Story</h2>
-      {{ image_dict.story_html | safe }}
-    </div><!-- .card-body -->
-   </div><!-- .card -->
-  </div><!-- .col-sm-12 -->
-</div><!-- .row -->
-{% endif %}
-
-
-{% endblock %}
-
-<hr>
-<hr>
-<hr>
-
-{% block top_row_ad %}{% endblock %}
-{% block top_content_left %}{% endblock %}
-{% block top_aside %}{% endblock %}
-
-{% block above_middle_row_ad %}{% endblock %}
-{% block middle_left_ad %}{{ block.super }}{% endblock %}
-
-{% block middle_content %}
-  <div class="col-md-8">
-    <section id="image">
-      <div class="single-image">
-        <h1 class='image-page'><u>{{ image_dict.title }}</u></h1>
-      </div><!-- .single-image -->
-    </section><!-- #image -->
-  </div><!-- .col-md-8 -->
-{% endblock %}
-
-{% block middle_right_ad %}{{ block.super }}{% endblock %}
-{% block below_middle_row_ad %}{{ block.super }}{% endblock %}
-
-{% block bottom_left_ad %}{% endblock %}
-{% block bottom_right_ad %}{% endblock %}
-{% block bottom_row_ad %}{% endblock %}
-
-{% block footer %}
- {{ block.super }}
+    <div class="row align-items-center justify-content-center">
+     <div class="col-sm-12">
+      <div class="card hoverable m-2">
+       <div class="card-body">
+        {% if image_dict.explain_dom or image_dict.explain_aux %}
+         <p class="card-text text-center">
+          {% if image_dict.explain_dom  %}
+           <a class="btn btn-md" id="toggle-explain-dom"
+           title="Toggle explanation of how the image represents the dominant personality function">
+           Explain Dominant Color</a>
+          {% endif %}
+          {% if image_dict.explain_aux %}
+           <a class="btn btn-md" id="toggle-explain-aux"
+              title="Toggle explanation of how the image represents the auxiliary personality function">
+             Explain Auxiliary Color</a>
+          {% endif %}
+         </p>
+         {% if image_dict.explain_dom  %}
+          <p id="explain-dom" class="card-text text-left som-text-to-toggle">
+           {{ image_dict.explain_dom }}</p>
+         {% endif %}
+         {% if image_dict.explain_aux %}
+          <p id="explain-aux" class="card-text text-left som-text-to-toggle">
+           {{ image_dict.explain_aux }}</p>
+         {% endif %}
+        {% endif %}
+        {% if image_dict.subtitle_html %}
+         <h3 class="font-weight-bold text-center">
+          <em><u>{{ image_dict.subtitle_html | safe }}</u></em></h3>
+        {% endif %}
+        {% if image_dict.story_html %}
+         <p class="card-text text-left">
+          {% spaceless %}
+           {% if image_dict.story_intro_html %}
+            <div id="story-intro-html">
+             {{ image_dict.story_intro_html | safe }}
+            </div><!-- #story-intro-html -->
+           {% endif %}
+           <div id="story-html" class="som-text-to-toggle">
+            {{ image_dict.story_html | safe }}
+           </div><!-- #story-html -->
+          {% endspaceless %}
+         </p>
+        {% endif %}
+        {% if image_dict.story_html or image_dict.meat_portrait_href %}
+         <p class="card-text text-center">
+          {% if image_dict.story_html %}
+           <a class="btn btn-mdb-color btn-md" id="toggle-story-html"
+              href="#whole-story"
+              title="Show the entire story behind these images">
+            {{ image_dict.show_story_btn_text }}</a>
+          {% endif %}
+          {% if image_dict.meat_portrait_href %}
+           <a class="btn btn-mdb-color btn-md" id="show-meat-portrait"
+              href="{{ image_dict.meat_portrait_href }}" target="_blank"
+              title="Opens a new window containing a photograph of {{ image_dict.title }}">
+            Show the Meat Portrait</a>
+          {% endif %}
+         </p>
+        {% endif %}
+        <p class="card-text text-center">
+         <a href="https://en.wikipedia.org/wiki/{{ image_dict.four_letter_type }}"
+            title="Click to open the wikipedia page for {{ image_dict.four_letter_type }}s in a new window"
+            target="_blank">
+          {% if image_dict.score %}
+           <div class="score-svg" id="score-bars"></div><!-- #score-bars -->
+          {% else %}
+           <p>{{ image_dict.four_letter_type }}</p>
+          {% endif %}
+         </a>
+        </p>
+        {% if image_dict.compare_to or image_dict.contrast_with %}
+         <p class="card-text text-center">
+          {% if image_dict.compare_to_path  %}
+           <a class="btn btn-mdb-color btn-md"
+              href="{{ image_dict.compare_to_path }}"
+              title="Click to see the image of someone with a similar personality">
+            Compare to Image of <q>{{ image_dict.compare_to_title }}</q></a>
+          {% endif %}
+          {% if image_dict.contrast_with %}
+           <a class="btn btn-mdb-color btn-md"
+              href="{{ image_dict.contrast_with_path }}"
+              title="Click to see the image of someone with a very different personality">
+            Contrast With Image of <q>{{ image_dict.contrast_with_title }}</q></a>
+          {% endif %}
+         </p>
+        {% endif %}
+       </div><!-- .card-body -->
+      </div><!-- .card -->
+     </div><!-- .col-sm-12 -->
+    </div><!-- .row -->
+ {% if image_dict.story_html %}
+    <a name="whole-story"></a>
+    <div class="row align-items-center justify-content-center">
+     <div class="col-sm-12">
+      <div class="card hoverable m-1 p-1 m-sm-2 p-sm-2 m-lg-3 p-lg-3">
+       <div class="card-body mx-1 mx-sm-3 mx-lg-5">
+        <h2 class="font-weight-bold text-center">
+         {{ image_dict.title }}:<br>
+         The Whole Story</h2>
+         {{ image_dict.story_html | safe }}
+       </div><!-- .card-body -->
+      </div><!-- .card -->
+     </div><!-- .col-sm-12 -->
+    </div><!-- .row -->
+ {% endif %}
 {% endblock %}
 
 {% block scripts %}
