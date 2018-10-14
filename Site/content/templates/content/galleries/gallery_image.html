@@ -50,31 +50,27 @@
   <div class="card hoverable m-2">
    <div class="card-body">
     {% if image_dict.explain_dom or image_dict.explain_aux %}
-       <div class="text-center">
-         {% if image_dict.explain_dom  %}
-           <a class="btn btn-md som-btn-all" id="toggle-explain-dom"
-              title="Toggle explanation of how the image represents the dominant personality function">
-             Explain Dominant Color</a>
-         {% endif %}
-         {% if image_dict.explain_aux %}
-           <a class="btn btn-md som-btn-all" id="toggle-explain-aux"
-              title="Toggle explanation of how the image represents the auxiliary personality function">
-             Explain Auxiliary Color</a>
-         {% endif %}
-       </div><!-- .text-center -->
-       {% if image_dict.explain_dom  %}
-         <p id="explain-dom" class="som-text-to-toggle">
-           {{ image_dict.explain_dom }}</p>
-       {% endif %}
-       {% if image_dict.explain_aux %}
-         <p id="explain-aux" class="som-text-to-toggle">
-           {{ image_dict.explain_aux }}</p>
-       {% endif %}
+     <p class="card-text text-center">
+      {% if image_dict.explain_dom  %}
+       <a class="btn btn-md" id="toggle-explain-dom"
+       title="Toggle explanation of how the image represents the dominant personality function">
+       Explain Dominant Color</a>
+      {% endif %}
+      {% if image_dict.explain_aux %}
+       <a class="btn btn-md" id="toggle-explain-aux"
+          title="Toggle explanation of how the image represents the auxiliary personality function">
+         Explain Auxiliary Color</a>
+      {% endif %}
+     </p>
+     {% if image_dict.explain_dom  %}
+      <p id="explain-dom" class="card-text text-left som-text-to-toggle">
+       {{ image_dict.explain_dom }}</p>
+     {% endif %}
+     {% if image_dict.explain_aux %}
+      <p id="explain-aux" class="card-text text-left som-text-to-toggle">
+       {{ image_dict.explain_aux }}</p>
+     {% endif %}
     {% endif %}
-    <p class="card-text text-center">
-    </p>
-    <p class="card-text text-center">
-    </p>
     <p class="card-text text-center">
     </p>
     <p class="card-text text-center">
@@ -111,42 +107,6 @@
       </div><!-- .pull-right -->
       <div class="single-image">
         <h1 class='image-page'>{{ image_dict.title }}</h1>
-        <figure>
-          <img src="{% static image_dict.path %}" class="single-img center">
-        </figure>
-        {% if image_dict.fixed_percentages %}
-          <div class="text-center">
-            <p class="fixed-percentages">
-              Image Is Based on a Four-Letter Type (Fixed Percentages)</p>
-          </div><!-- .text-center -->
-        {% endif %}
-        {% if image_dict.year  %}
-          <div class="pull-right image-year">
-            [&copy;&nbsp;{{ image_dict.year }}]
-          </div><!-- .pull-right -->
-        {% endif %}
-        {% if image_dict.explain_dom or image_dict.explain_aux %}
-          <div class="text-center">
-            {% if image_dict.explain_dom  %}
-              <a class="btn btn-md som-btn-all" id="toggle-explain-dom"
-                 title="Toggle explanation of how the image represents the dominant personality function">
-                Explain Dominant Color</a>
-            {% endif %}
-            {% if image_dict.explain_aux %}
-              <a class="btn btn-md som-btn-all" id="toggle-explain-aux"
-                 title="Toggle explanation of how the image represents the auxiliary personality function">
-                Explain Auxiliary Color</a>
-            {% endif %}
-          </div><!-- .text-center -->
-          {% if image_dict.explain_dom  %}
-            <p id="explain-dom" class="som-text-to-toggle">
-              {{ image_dict.explain_dom }}</p>
-          {% endif %}
-          {% if image_dict.explain_aux %}
-            <p id="explain-aux" class="som-text-to-toggle">
-              {{ image_dict.explain_aux }}</p>
-          {% endif %}
-        {% endif %}
         <div class="text-center">
           {% if image_dict.subtitle_html %}
             <h3 class="image-page">{{ image_dict.subtitle_html | safe }}</h3>
