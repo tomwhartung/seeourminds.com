@@ -2,28 +2,45 @@
 
 {% load static %}
 
-{% block gallery_title %}
- {{ gallery_dict.gallery_title }}
+{% block gallery_title_row %}
+    <div class="row justify-content-center">
+     <div class="col-md-8 hoverable m-2">
+      <h1 class="display-4 font-weight-bold text-center">
+       {{ gallery_dict.gallery_title }}
+      </h1>
+     </div><!-- .col-md-8 -->
+    </div><!-- .row -->
 {% endblock %}
 
-{% block gallery_top_content %}
- <p>
-  {{ gallery_dict.description_html | safe }}</p>
- {% if gallery_dict.story_html %}
-  <div class="text-center">
-    <a class="btn btn-success btn-md som-btn-all" id="toggle-story-html"
-      title="Show the story behind these images">See the Story</a>
-  </div><!-- .text-center -->
-  <div id="story-html" class="som-text-to-toggle">
-    {{ gallery_dict.story_html | safe }}
-  </div><!-- #story-html -->
- {% endif %}
+{% block gallery_top_row %}
+<div class="row align-items-center justify-content-center">
+ <div class="col-md-9">
+  <div class="card hoverable m-2">
+   <div class="card-body">
+    <p>
+     {{ gallery_dict.description_html | safe }}</p>
+    {% if gallery_dict.story_html %}
+     <div class="text-center">
+       <a class="btn btn-success btn-md som-btn-all" id="toggle-story-html"
+         title="Show the story behind these images">See the Story</a>
+     </div><!-- .text-center -->
+     <div id="story-html" class="som-text-to-toggle">
+       {{ gallery_dict.story_html | safe }}
+     </div><!-- #story-html -->
+    {% endif %}
+   </div><!-- .card-body -->
+  </div><!-- .card -->
+ </div><!-- .col-md-9 -->
+</div><!-- .row -->
 {% endblock %}
 
-{% block gallery_content %}
-
+{% block gallery_content_rows %}
+ <p>Content rows here.</p>
 {% endblock %}
 
+<hr>
+<hr>
+<hr>
 
 {% block top_content_left %}
   {% block top_left_ad %}{{ block.super }}{% endblock %}
