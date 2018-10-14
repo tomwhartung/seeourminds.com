@@ -3,27 +3,35 @@
 {% load static %}
 
 {% block gallery_title_row %}
-    <div class="row justify-content-center">
-     <div class="col-md-9 hoverable m-2">
+    <div class="row justify-content-end m-y-0 p-y-0">
+     <div class="col-md-2 m-y-0 p-y-0">
+       <a class="btn btn-danger btn-sm"
+          href="{{ back_to_gallery_href }}"
+          title="Go Back to the Gallery containing this image">
+         Back</a>
+     </div><!-- .col-md-2 -->
+    </div><!-- .row -->
+    <div class="w-100 m-y-0 p-y-0"></div>
+    <div class="row justify-content-center m-y-0 p-y-0">
+     <div class="col-md-9 hoverable">
       <h1 class="display-4 font-weight-bold text-center">
        {{ image_dict.title }}</h1>
      </div><!-- .col-md-9 -->
     </div><!-- .row -->
 {% endblock %}
-
 {% block gallery_top_row %}
-<div class="row align-items-center justify-content-center">
- <div class="col-md-9">
-  <div class="card hoverable m-2">
-   <div class="card-body">
-    <p class="card-text text-center text-center">
-     <img class="img-fluid hoverable"
-          src="{% static image_dict.path %}">
-    </p>
-   </div><!-- .card-body -->
-  </div><!-- .card -->
- </div><!-- .col-md-9 -->
-</div><!-- .row -->
+    <div class="row align-items-center justify-content-center">
+     <div class="col-md-9">
+      <div class="card hoverable m-2">
+       <div class="card-body">
+        <p class="card-text text-center text-center">
+         <img class="img-fluid hoverable"
+              src="{% static image_dict.path %}">
+        </p>
+       </div><!-- .card-body -->
+      </div><!-- .card -->
+     </div><!-- .col-md-9 -->
+    </div><!-- .row -->
 {% endblock %}
 
 {% block gallery_content_rows %}
