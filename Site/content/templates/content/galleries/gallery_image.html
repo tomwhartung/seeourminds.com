@@ -72,17 +72,39 @@
      {% endif %}
     {% endif %}
     {% if image_dict.subtitle_html %}
-       <h3 class="font-weight-bold text-center">
-        <em><u>{{ image_dict.subtitle_html | safe }}</u></em></h3>
-    {% else %}
-     {% if image_dict.tweet_html %}
-       <p class="card-text text-center">{{ image_dict.tweet_html | safe }}</p>
-     {% elif image_dict.subject_line %}
-       <p class="card-text text-center">{{ image_dict.subject_line }}</p>
-     {% endif %}
+     <h3 class="font-weight-bold text-center">
+      <em><u>{{ image_dict.subtitle_html | safe }}</u></em></h3>
     {% endif %}
-    <p class="card-text text-center">
-    </p>
+    {% if image_dict.story_html %}
+     <p class="card-text text-left">
+      {% spaceless %}
+       {% if image_dict.story_intro_html %}
+        <div id="story-intro-html">
+         {{ image_dict.story_intro_html | safe }}
+        </div><!-- #story-intro-html -->
+       {% endif %}
+       <div id="story-html" class="som-text-to-toggle">
+        {{ image_dict.story_html | safe }}
+       </div><!-- #story-html -->
+      {% endspaceless %}
+     </p>
+    {% endif %}
+    {% if image_dict.story_html or image_dict.meat_portrait_href %}
+     <p class="card-text text-center">
+      {% if image_dict.story_html %}
+       <a class="btn btn-mdb-color btn-md" id="toggle-story-html"
+          href="#whole-story"
+          title="Show the entire story behind these images">
+        {{ image_dict.show_story_btn_text }}</a>
+      {% endif %}
+      {% if image_dict.meat_portrait_href %}
+       <a class="btn btn-mdb-color btn-md" id="show-meat-portrait"
+          href="{{ image_dict.meat_portrait_href }}" target="_blank"
+          title="Opens a new window containing a photograph of {{ image_dict.title }}">
+        Show the Meat Portrait</a>
+      {% endif %}
+     </p>
+    {% endif %}
     <p class="card-text text-center">
     </p>
    </div><!-- .card-body -->
@@ -107,47 +129,10 @@
 {% block middle_content %}
   <div class="col-md-8">
     <section id="image">
-      <div class="pull-right">
-        <a class="btn btn-danger btn-xs som-btn-all"
-           href="{{ back_to_gallery_href }}"
-           title="Go Back to the Gallery containing this image">
-          Back</a>
-      </div><!-- .pull-right -->
       <div class="single-image">
         <h1 class='image-page'><u>{{ image_dict.title }}</u></h1>
         <div class="text-center">
         </div><!-- .text-center -->
-        {% if image_dict.story_html %}
-          <div class="text-justify">
-            {% spaceless %}
-              {% if image_dict.story_intro_html %}
-                <div id="story-intro-html">
-                  {{ image_dict.story_intro_html | safe }}
-                </div><!-- #story-intro-html -->
-              {% endif %}
-              <div id="story-html" class="som-text-to-toggle">
-                {{ image_dict.story_html | safe }}
-              </div><!-- #story-html -->
-            {% endspaceless %}
-          </div><!-- .text-justify -->
-        {% endif %}
-        {% if image_dict.story_html or image_dict.meat_portrait_href %}
-          <div class="text-center">
-            {% if image_dict.story_html %}
-              <a class="btn btn-success btn-md som-btn-all"
-                 href="#whole-story"
-                 id="toggle-story-html"
-                 title="Show the entire story behind these images">
-                {{ image_dict.show_story_btn_text }}</a>
-            {% endif %}
-            {% if image_dict.meat_portrait_href %}
-              <a class="btn btn-success btn-md som-btn-all" id="show-meat-portrait"
-                 href="{{ image_dict.meat_portrait_href }}" target="_blank"
-                 title="Opens a new window containing a photograph of {{ image_dict.title }}">
-                Show the Meat Portrait</a>
-            {% endif %}
-          </div><!-- .text-center -->
-        {% endif %}
         <a href="https://en.wikipedia.org/wiki/{{ image_dict.four_letter_type }}"
            title="Click to open the wikipedia page for {{ image_dict.four_letter_type }}s in a new window"
            target="_blank">
