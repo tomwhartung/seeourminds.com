@@ -44,22 +44,16 @@
 {% endblock %}
 
 {% block gallery_content_rows %}
-<div class="row align-items-center justify-content-center">
+<div class="row">
  <div class="card-group">
-
  {% for gal_dict in galleries_list_obj.galleries_list_data %}
   {% if gal_dict.gallery_title == 'responsive_ad' %}
    {% block middle_content_responsive_ad %}{{ block.super }}{% endblock %}
   {% else %}
-   <div class="card hoverable m-2">
+   <div class="card hoverable m-1 m-lg-2 p-1 p-lg-3">
     <div class="card-body">
       <h4 class="card-title h4-responsive font-weight-bold text-center">
-       <a href="{{ gal_dict.link_to_gallery }}/"
-          title="View the {{ gal_dict.gallery_title }} gallery"
-          onclick="send_ga_event_with_value_1('Image', 'Enter Gallery', '{{ gal_dict.gallery_title }}');">
-        {{ gal_dict.gallery_title }}
-       </a>
-      </h4>
+       <u>{{ gal_dict.gallery_title }}</u></h4>
       <p class="card-text text-center">
        <a href="{{ gal_dict.link_to_gallery }}/"
           title="View the {{ gal_dict.gallery_title }} gallery">
@@ -80,7 +74,7 @@
            id="{{ gal_dict.gallery_file_name }}-lpt-less"> [Less]</a>
        </p>
       {% endspaceless %}
-      <p class="card-text">
+      <p class="card-text text-center">
         <a class="btn-lg btn-mdb-color"
            href="/gallery/{{ gal_dict.gallery_file_name }}/" role="button"
            onclick="send_ga_event_with_value_1('Button', 'Enter Gallery', '{{ gal_dict.gallery_title }}');">
