@@ -119,7 +119,7 @@ def affiliate_marketing_disclosure(request):
 
     """ Load and render the affiliate_marketing_disclosure template """
 
-    title = 'Disclosure - ArtsyVisions.com';
+    title = 'Disclosure - SeeOurMinds.com';
     template = 'content/legal/affiliate_marketing_disclosure.html'
     context = {
         'quiz_menu_data': Questionnaire.get_quiz_menu_data(),
@@ -132,7 +132,7 @@ def privacy_policy(request):
 
     """ Load and render the privacy_policy template """
 
-    title = 'Privacy Policy - ArtsyVisions.com';
+    title = 'Privacy Policy - SeeOurMinds.com';
     template = 'content/legal/privacy_policy.html'
     context = {
         'quiz_menu_data': Questionnaire.get_quiz_menu_data(),
@@ -145,7 +145,7 @@ def questionnaire_disclaimer(request):
 
     """ Load and render the questionnaire_disclaimer template """
 
-    title = 'Disclaimer - ArtsyVisions.com';
+    title = 'Disclaimer - SeeOurMinds.com';
     template = 'content/legal/questionnaire_disclaimer.html'
     context = {
         'quiz_menu_data': Questionnaire.get_quiz_menu_data(),
@@ -158,7 +158,7 @@ def terms_of_service(request):
 
     """ Load and render the terms_of_service template """
 
-    title = 'Terms of Service - ArtsyVisions.com';
+    title = 'Terms of Service - SeeOurMinds.com';
     template = 'content/legal/terms_of_service.html'
     context = {
         'quiz_menu_data': Questionnaire.get_quiz_menu_data(),
@@ -176,6 +176,7 @@ def quiz_about(request):
 
     """ Load and render the quiz_about page template """
 
+    title = 'About the Quiz - SeeOurMinds.com';
     quiz_info = {}
     quiz_info["quiz_size_abbr"] = ''
     quiz_info["question_count"] = 0
@@ -188,6 +189,7 @@ def quiz_about(request):
         'quiz_menu_data': Questionnaire.get_quiz_menu_data(),
         'adsense_ads': adsense_ads,
         'quiz_list_data': quiz_list_data,
+        'title': title,
     }
     return HttpResponse(template.render(context, request))
 
@@ -226,6 +228,7 @@ def quiz_form(request, quiz_size_slug=Questionnaire.DEFAULT_QUIZ_SIZE_SLUG):
                 score.score_quiz(quiz_size_slug, quiz_form.cleaned_data)
                 if score.is_complete():
                     # print('views.quiz() - score is_complete')
+                    title = 'Quiz Results - SeeOurMinds.com';
                     score.set_quiz_results_messages(request)
                     saved_messages = score.save_questionnaire(
                             quiz_form.cleaned_data, quiz_size_slug)
@@ -233,17 +236,19 @@ def quiz_form(request, quiz_size_slug=Questionnaire.DEFAULT_QUIZ_SIZE_SLUG):
                         messages.add_message(request, messages.INFO, saved_msg)
                     template = loader.get_template('content/quiz/quiz_results.html')
                     score_for_context = score.as_list_of_pairs()
-                    return HttpResponse(template.render(
-                        { 'score': score_for_context,
-                          'quiz_menu_data': quiz_menu_data,},
-                        request
-                    ))
+                    context = {
+                        'score': score_for_context,
+                        'quiz_menu_data': quiz_menu_data,
+                        'title': title,
+                    }
+                    return HttpResponse(template.render(context, request))
                 else:
                     score.set_incomplete_message(request)
 
     if quiz_form == None:
         quiz_form = QuestionnaireForm(quiz_size_slug=quiz_size_slug)
 
+    title = 'Quiz Form - SeeOurMinds.com';
     quiz_info = {}
     quiz_info["quiz_size_slug"] = quiz_size_slug
     quiz_info["quiz_size_abbr"] = \
@@ -259,6 +264,7 @@ def quiz_form(request, quiz_size_slug=Questionnaire.DEFAULT_QUIZ_SIZE_SLUG):
         'quiz_info': quiz_info,
         'adsense_ads': adsense_ads,
         'quiz_menu_data': quiz_menu_data,
+        'title': title,
     }
     return HttpResponse(template.render(context, request))
 
