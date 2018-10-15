@@ -44,96 +44,72 @@
 {% endblock %}
 
 {% block gallery_content_rows %}
-<div class="row">
- {% for gal_dict in galleries_list_obj.galleries_list_data %}
-  {% if gal_dict.gallery_title == 'responsive_ad' %}
-   {% block middle_content_responsive_ad %}{{ block.super }}{% endblock %}
-  {% else %}
-   <div class="col-sm-12 col-md-6 col-lg-4">
-    <div class="card hoverable m-1 m-lg-2 p-1 p-lg-3">
-     <div class="card-body">
-       <h4 class="card-title h4-responsive font-weight-bold text-center">
-        <u>{{ gal_dict.gallery_title }}</u></h4>
-       <p class="card-text text-center">
-        <a href="{{ gal_dict.link_to_gallery }}/"
-           title="View the {{ gal_dict.gallery_title }} gallery">
-         <img src="{% static gal_dict.image_dict.image_file_path %}"
-              class="img-fluid hoverable">
-        </a>
-       </p><!-- .card-text -->
-       <h5 class="text-center"><q>{{ gal_dict.image_dict.title }}</q></h5>
-       {% spaceless %}
-        <p class="card-text"
-           id="{{ gal_dict.gallery_file_name }}-lpt-intro">
-         {{ gal_dict.list_page_teaser_intro }}<span class="list-page-text-remainder"
-            id="{{ gal_dict.gallery_file_name }}-lpt-remainder">{{ gal_dict.list_page_teaser_remainder }}
-         </span>
-         <a class="{{ gal_dict.gallery_file_name }}-lpt-link"
-            id="{{ gal_dict.gallery_file_name }}-lpt-more">.... [More]</a>
-         <a class="list-page-less-link {{ gal_dict.gallery_file_name }}-lpt-link"
-            id="{{ gal_dict.gallery_file_name }}-lpt-less"> [Less]</a>
-        </p>
-       {% endspaceless %}
-       <p class="card-text text-center">
-         <a class="btn-lg btn-mdb-color"
-            href="/gallery/{{ gal_dict.gallery_file_name }}/" role="button"
-            onclick="send_ga_event_with_value_1('Button', 'Enter Gallery', '{{ gal_dict.gallery_title }}');">
-          {{ gal_dict.see_gallery_button_text }}</a>
-       </p><!-- .card-text -->
-     </div><!-- .card-body -->
-    </div><!-- card -->
-   </div><!-- col-* -->
-  {% endif %}
-  {% cycle '' '' '<div class="w-100"></div>' %}
- {% endfor %}
-</div><!-- .row -->
-{% endblock %}
-
-<hr>
-<hr>
-<hr>
-
-{% block top_content_left %}{% endblock %}
-{% block top_aside %}{% endblock %}
-{% block above_middle_row_ad %}{% endblock %}
-{% block middle_left_ad %}{% endblock %}
-{% block middle_right_ad %}{% endblock %}
-
-{% block middle_content %}
-{% endblock %}
-
-{% block below_middle_row_ad %}{% endblock %}
-{% block bottom_left_ad %}{% endblock %}
-{% block bottom_right_ad %}{% endblock %}
-
-{% block bottom_row_ad %}{% endblock %}
-
-{% block footer %}
- {{ block.super }}
+    <div class="row">
+     {% for gal_dict in galleries_list_obj.galleries_list_data %}
+      {% if gal_dict.gallery_title == 'responsive_ad' %}
+       {% block middle_content_responsive_ad %}{{ block.super }}{% endblock %}
+      {% else %}
+       <div class="col-sm-12 col-md-6 col-lg-4">
+        <div class="card hoverable m-1 m-lg-2 p-1 p-lg-3">
+         <div class="card-body">
+           <h4 class="card-title h4-responsive font-weight-bold text-center">
+            <u>{{ gal_dict.gallery_title }}</u></h4>
+           <p class="card-text text-center">
+            <a href="{{ gal_dict.link_to_gallery }}/"
+               title="View the {{ gal_dict.gallery_title }} gallery">
+             <img src="{% static gal_dict.image_dict.image_file_path %}"
+                  class="img-fluid hoverable">
+            </a>
+           </p><!-- .card-text -->
+           <h5 class="text-center"><q>{{ gal_dict.image_dict.title }}</q></h5>
+           {% spaceless %}
+            <p class="card-text"
+               id="{{ gal_dict.gallery_file_name }}-lpt-intro">
+             {{ gal_dict.list_page_teaser_intro }}<span class="list-page-text-remainder"
+                id="{{ gal_dict.gallery_file_name }}-lpt-remainder">{{ gal_dict.list_page_teaser_remainder }}
+             </span>
+             <a class="{{ gal_dict.gallery_file_name }}-lpt-link"
+                id="{{ gal_dict.gallery_file_name }}-lpt-more">.... [More]</a>
+             <a class="list-page-less-link {{ gal_dict.gallery_file_name }}-lpt-link"
+                id="{{ gal_dict.gallery_file_name }}-lpt-less"> [Less]</a>
+            </p>
+           {% endspaceless %}
+           <p class="card-text text-center">
+             <a class="btn-lg btn-mdb-color"
+                href="/gallery/{{ gal_dict.gallery_file_name }}/" role="button"
+                onclick="send_ga_event_with_value_1('Button', 'Enter Gallery', '{{ gal_dict.gallery_title }}');">
+              {{ gal_dict.see_gallery_button_text }}</a>
+           </p><!-- .card-text -->
+         </div><!-- .card-body -->
+        </div><!-- card -->
+       </div><!-- col-* -->
+      {% endif %}
+      {% cycle '' '' '<div class="w-100"></div>' %}
+     {% endfor %}
+    </div><!-- .row -->
 {% endblock %}
 
 {% block scripts %}
  {{ block.super }}
-
-  {% for gal_dict in galleries_list_obj.galleries_list_data %}
-    {% if gal_dict.gallery_title != 'responsive_ad' %}
-      <script>
-        /*
-         * Add an on click event handler to toggle the opacity of the
-         * lpt-remainder text and both the "More" and "Less" links
-         */
-        $(".{{ gal_dict.gallery_file_name }}-lpt-link").on("click", function() {
-          $("#{{ gal_dict.gallery_file_name }}-lpt-remainder").toggle("fade", "slow");
-          $("#{{ gal_dict.gallery_file_name }}-lpt-more").toggle("fade", "slow");
-          $("#{{ gal_dict.gallery_file_name }}-lpt-less").toggle("fade", "slow");
-        });
-        $("#{{ gal_dict.gallery_file_name }}-lpt-more").on("click", function() {
-          send_ga_event_with_value_1("Link", "Show More Gallery List Page Teaser", "{{ gal_dict.gallery_title }}");
-        });
-        $("#{{ gal_dict.gallery_file_name }}-lpt-less").on("click", function() {
-          send_ga_event_with_value_1("Link", "Show Less Gallery List Page Teaser", "{{ gal_dict.gallery_title }}");
-        });
-      </script>
-    {% endif %}
-  {% endfor %}
+ {% for gal_dict in galleries_list_obj.galleries_list_data %}
+  {% if gal_dict.gallery_title != 'responsive_ad' %}
+   <script>
+    /*
+     * Add an on click event handler to toggle the opacity of the
+     * lpt-remainder text and both the "More" and "Less" links
+     */
+    $(".{{ gal_dict.gallery_file_name }}-lpt-link").on("click", function() {
+      $("#{{ gal_dict.gallery_file_name }}-lpt-remainder").toggle("fade", "slow");
+      $("#{{ gal_dict.gallery_file_name }}-lpt-more").toggle("fade", "slow");
+      $("#{{ gal_dict.gallery_file_name }}-lpt-less").toggle("fade", "slow");
+    });
+    $("#{{ gal_dict.gallery_file_name }}-lpt-more").on("click", function() {
+      send_ga_event_with_value_1("Link", "Show More Gallery List Page Teaser", "{{ gal_dict.gallery_title }}");
+    });
+    $("#{{ gal_dict.gallery_file_name }}-lpt-less").on("click", function() {
+      send_ga_event_with_value_1("Link", "Show Less Gallery List Page Teaser", "{{ gal_dict.gallery_title }}");
+    });
+   </script>
+  {% endif %}
+ {% endfor %}
 {% endblock %}
