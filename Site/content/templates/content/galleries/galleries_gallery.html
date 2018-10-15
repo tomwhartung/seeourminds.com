@@ -50,8 +50,8 @@
        <div class="col-sm-12 col-md-6 col-lg-4">
         <div class="card hoverable m-1 m-lg-2 p-1 p-lg-3">
          <div class="card-body">
-          <h4 class="card-title h4-responsive font-weight-bold text-center">
-           <u>{{ image_dict.title }}</u></h4>
+          <h2 class="card-title h2-responsive font-weight-bold text-center">
+           {{ image_dict.title }}</h4>
           <p class="card-text text-center">
            <a href="{{ image_dict.image_link_href }}"
               title="{{ image_dict.image_link_title }}"
@@ -65,7 +65,8 @@
             </p><!-- .card-text -->
            {% endif %}
            {% if image_dict.subtitle_html %}
-            <h5 class="text-center">{{ image_dict.subtitle_html | safe }}</h5>
+            <h5 class="text-center">
+             <em>{{ image_dict.subtitle_html | safe }}</em></h5>
            {% endif %}
            {% if image_dict.gallery_page_teaser %}
             {% spaceless %}
