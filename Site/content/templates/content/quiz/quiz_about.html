@@ -1,11 +1,11 @@
 {% extends 'content/quiz/quiz_base.html' %}
 
 {% block quiz_content %}
-<div class="row align-items-center justify-content-around">
+<div class="row align-items-top justify-content-center">
  <div class="col-md-8">
   <div class="card hoverable m-2">
    <div class="card-body">
-    <h2 class="card-title h2-responsive font-weight-bold">
+    <h2 class="card-title h2-responsive font-weight-bold text-center">
      Pick a Version</h2>
     <p class="card-text">
      Pick one of the following versions of the quiz:</p>
@@ -30,30 +30,32 @@
    </div><!-- .card-body -->
   </div><!-- .card -->
  </div><!-- .col-md-8 -->
-
-
  <div class="col-md-4">
-  <div class="card hoverable m-2">
+  <div class="card hoverable mx-2 my-5">
    <div class="card-body">
-    <h2 class="card-title h2-responsive font-weight-bold">
+    <h2 class="card-title h2-responsive font-weight-bold text-center">
      Technically Speaking</h2>
     <p class="card-text">
      <a href="http://www.differencebetween.info/difference-between-quiz-and-questionnaire"
         target="_blank"
         title="Page explaining the difference between quiz and questionnaire">
        Technically speaking</a>,
-       this is not a
-       <a href="https://en.wikipedia.org/wiki/Quiz" target="_blank"
-          title="Page about Quizzes at en.wikipedia.org">
+        this is not a
+        <a href="https://en.wikipedia.org/wiki/Quiz" target="_blank"
+           title="Page about Quizzes at en.wikipedia.org">
          <span class="air-quotes">quiz</span></a>
-       but a
-       <a href="https://en.wikipedia.org/wiki/Questionnaire" target="_blank"
-          title="Page about Questionnaires at wikipedia.org">
+        but a
+        <a href="https://en.wikipedia.org/wiki/Questionnaire" target="_blank"
+           title="Page about Questionnaires at wikipedia.org">
          <span class="air-quotes">questionnaire.</span></a>
-      Big whoop, right?  Just sayin'!
+     Big whoop, right?  Just sayin'!
     </p>
-    <h2 class="card-title h2-responsive font-weight-bold">
-     Sharing Your Email Address</h2>
+   </div><!-- .card-body -->
+  </div><!-- .card -->
+  <div class="card hoverable mx-2 my-5">
+   <div class="card-body">
+    <h2 class="card-title h2-responsive font-weight-bold text-center">
+     Sharing Your Email</h2>
     <p class="card-text">
      Sharing your email address on the quiz page
        enables you to save your answers on our server and
@@ -66,26 +68,7 @@
    </div><!-- .card-body -->
   </div><!-- .card -->
  </div><!-- .col-md-4 -->
-
- <div class="col-md-6">
-  <div class="card hoverable m-2">
-   <div class="card-body">
-    <h2 class="card-title h2-responsive font-weight-bold">col-md-4 title</h2>
-    <p class="card-text">
-     unordered list</p>
-    <ul class="list-group mb-3">
-     <li class="list-group-item">
-      item</li>
-    </ul>
-   </div><!-- .card-body -->
-   <div class="card-footer">
-    <p class="card-text text-center">
-     <a class="btn btn-default" href="#" role="button">
-      Button</a></p>
-   </div><!-- .card-footer -->
-  </div><!-- .card -->
- </div><!-- .col-md-6 -->
-
+</div><!-- .row -->
 {% endblock %}
 
 <hr>
