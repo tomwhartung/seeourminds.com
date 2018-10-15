@@ -39,9 +39,6 @@
       </li>
      {% endif %}
     </ul>
-
-    <p class="card-text">
-    </p>
     <p class="card-text">
      There are
       <a href="http://www.myersbriggs.org/my-mbti-personality-type/take-the-mbti-instrument/no-right-or-wrong-answers.htm"
@@ -55,54 +52,65 @@
   </div><!-- .card -->
  </div><!-- .col-md-9 -->
 </div><!-- .row -->
+<div class="row align-items-top justify-content-center">
+ <div class="col-md-9">
+  <div class="card hoverable m-2">
+   <div class="card-body">
+    <p class="card-text">
+     <em><u>Optional:</u></em>
+    </p>
+    <form action="" method="POST">
+     {% csrf_token %}
+     {% for field in quiz_form %}
+      <div class="fieldWrapper">
+       {% if field.errors %}
+        {{ field.errors }}
+       {% endif %}
+       {{ field.label_tag }} {{ field }}
+       {% if field.help_text %}
+        <p class="card-text font-weight-bold mt-2 mb-4 ml-5">
+         <em>{{ field.help_text|safe }}</em></p>
+       {% endif %}
+       {% if field.label == 'Email' %}
+        <p class="card-text text-center">
+         <input type="submit" name="load-answers" class="btn btn-info"
+                id="load-answers" value="Load Saved Answers"></input>
+        </p>
+       {% endif %}
+      </div><!-- .fieldWrapper -->
+      {% if field.label == 'Email' %}
+       {% if messages %}
+        <hr />
+        <ul class="quiz-error list-group mb-3">
+         {% for message in messages %}
+          <li class="list-group-item {% if message.tags %} {{ message.tags }}"{% endif %}>
+           {{ message|safe }}</li>
+         {% endfor %}
+        </ul>
+       {% endif %}
+       <hr />
+       <p class="card-text">
+        <em><u>Required:</u></em></p>
+      {% endif %}
+     {% endfor %}
+     <p class="card-text text-center">
+      <input type="submit" class="btn btn-primary btn-lg"
+             id="score-questionnaire" value="Score Questionnaire"
+             onclick="send_ga_event_with_value_1('Complete Quiz', 'Complete Quiz Version', '{{ quiz_info.quiz_size_abbr }}');"></input>
+     </p>
+    </form>
+    <p class="card-text">
 
-
+    </p>
+   </div><!-- .card-body -->
+  </div><!-- .card -->
+ </div><!-- .col-md-9 -->
+</div><!-- .row -->
 {% endblock %}
 
 {% block top_content_left %}
   <article>
-    <section id="introduction">
-      <p>
-    </section>
-    <hr />
-    <p class="quiz-form-opt-req">Optional:</p>
     <section id="form">
-      <form action="" method="POST">
-        {% csrf_token %}
-        {% for field in quiz_form %}
-          <div class="fieldWrapper">
-            {% if field.errors %}
-              {{ field.errors }}
-            {% endif %}
-            {{ field.label_tag }} {{ field }}
-            {% if field.label == 'Email' %}
-              <input type="submit" name="load-answers" class="btn btn-info"
-                     id="load-answers" value="Load Saved Answers"></input>
-            {% endif %}
-            {% if field.help_text %}
-              <p class="quiz-help-text">{{ field.help_text|safe }}</p>
-            {% endif %}
-          </div>
-          {% if field.label == 'Email' %}
-            {% if messages %}
-              <hr />
-              <section>
-                <ul class="quiz-error">
-                  {% for message in messages %}
-                    <li{% if message.tags %} class="{{ message.tags }}"{% endif %}>
-                      {{ message|safe }}</li>
-                  {% endfor %}
-                </ul>
-              </section>
-            {% endif %}
-            <hr />
-            <p class="quiz-form-opt-req">Required:</p>
-          {% endif %}
-        {% endfor %}
-        <input type="submit" class="btn btn-primary btn-lg"
-          id="score-questionnaire" value="Score Questionnaire"
-          onclick="send_ga_event_with_value_1('Complete Quiz', 'Complete Quiz Version', '{{ quiz_info.quiz_size_abbr }}');"></input>
-      </form>
     </section>
     <hr />
   </article>
