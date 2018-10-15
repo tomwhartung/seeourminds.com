@@ -11,126 +11,100 @@
      </div><!-- .col-md-8 -->
     </div><!-- .row -->
 {% endblock %}
-
 {% block gallery_top_row %}
-<div class="row align-items-center justify-content-center">
- <div class="col-md-9">
-  <div class="card hoverable m-2">
-   <div class="card-body">
-    <p class="card-text">
-     This page links to
-      {{ galleries_list_obj.descriptive_phrase_html | safe }}</p>
-    {% if galleries_list_obj.galleries_list_title != 'All Galleries' %}
-     <ul>
-       {% for gal_dict in galleries_list_obj.galleries_list_data %}
-         {% if gal_dict.gallery_title != 'responsive_ad' %}
-           <li>
-             <a href="{{ gal_dict.link_to_gallery }}/"
-                title="View the {{ gal_dict.gallery_title }} gallery"
-                onclick="send_ga_event_with_value_1('Link', 'Enter Gallery', '{{ gal_dict.gallery_title }}');">
-               {{ gal_dict.gallery_title }}</a></li>
-         {% endif %}
-       {% endfor %}
-     </ul>
-    {% endif %}
-    <p class="card-text">
-     Below are sample thumbnails and a brief description of
-       each of these galleries.</p>
-    <p class="card-text">
-     Pick one to visit, learn, and enjoy!</p>
-   </div><!-- .card-body -->
-  </div><!-- .card -->
- </div><!-- .col-md-9 -->
-</div><!-- .row -->
+    <div class="row align-items-center justify-content-center">
+     <div class="col-md-9">
+      <div class="card hoverable m-2">
+       <div class="card-body">
+        <p class="card-text">
+         This page links to
+          {{ galleries_list_obj.descriptive_phrase_html | safe }}</p>
+        {% if galleries_list_obj.galleries_list_title != 'All Galleries' %}
+         <ul>
+           {% for gal_dict in galleries_list_obj.galleries_list_data %}
+             {% if gal_dict.gallery_title != 'responsive_ad' %}
+               <li>
+                 <a href="{{ gal_dict.link_to_gallery }}/"
+                    title="View the {{ gal_dict.gallery_title }} gallery"
+                    onclick="send_ga_event_with_value_1('Link', 'Enter Gallery', '{{ gal_dict.gallery_title }}');">
+                   {{ gal_dict.gallery_title }}</a></li>
+             {% endif %}
+           {% endfor %}
+         </ul>
+        {% endif %}
+        <p class="card-text">
+         Below are sample thumbnails and a brief description of
+           each of these galleries.</p>
+        <p class="card-text">
+         Pick one to visit, learn, and enjoy!</p>
+       </div><!-- .card-body -->
+      </div><!-- .card -->
+     </div><!-- .col-md-9 -->
+    </div><!-- .row -->
 {% endblock %}
 
 {% block gallery_content_rows %}
- <p>Content rows here.</p>
+<div class="row align-items-center justify-content-center">
+ <div class="card-group">
+
+ {% for gal_dict in galleries_list_obj.galleries_list_data %}
+  {% if gal_dict.gallery_title == 'responsive_ad' %}
+   {% block middle_content_responsive_ad %}{{ block.super }}{% endblock %}
+  {% else %}
+   <div class="card hoverable m-2">
+    <div class="card-body">
+      <h4 class="card-title h4-responsive font-weight-bold text-center">
+       <a href="{{ gal_dict.link_to_gallery }}/"
+          title="View the {{ gal_dict.gallery_title }} gallery"
+          onclick="send_ga_event_with_value_1('Image', 'Enter Gallery', '{{ gal_dict.gallery_title }}');">
+        {{ gal_dict.gallery_title }}
+       </a>
+      </h4>
+      <p class="card-text text-center">
+       <a href="{{ gal_dict.link_to_gallery }}/"
+          title="View the {{ gal_dict.gallery_title }} gallery">
+        <img src="{% static gal_dict.image_dict.image_file_path %}"
+             class="img-fluid hoverable">
+       </a>
+      </p><!-- .card-text -->
+      <h5 class="text-center"><q>{{ gal_dict.image_dict.title }}</q></h5>
+      {% spaceless %}
+       <p class="card-text"
+          id="{{ gal_dict.gallery_file_name }}-lpt-intro">
+        {{ gal_dict.list_page_teaser_intro }}<span class="list-page-text-remainder"
+           id="{{ gal_dict.gallery_file_name }}-lpt-remainder">{{ gal_dict.list_page_teaser_remainder }}
+        </span>
+        <a class="{{ gal_dict.gallery_file_name }}-lpt-link"
+           id="{{ gal_dict.gallery_file_name }}-lpt-more">.... [More]</a>
+        <a class="list-page-less-link {{ gal_dict.gallery_file_name }}-lpt-link"
+           id="{{ gal_dict.gallery_file_name }}-lpt-less"> [Less]</a>
+       </p>
+      {% endspaceless %}
+      <p class="card-text">
+        <a class="btn-lg btn-mdb-color"
+           href="/gallery/{{ gal_dict.gallery_file_name }}/" role="button"
+           onclick="send_ga_event_with_value_1('Button', 'Enter Gallery', '{{ gal_dict.gallery_title }}');">
+         {{ gal_dict.see_gallery_button_text }}</a>
+      </p><!-- .card-text -->
+    </div><!-- .card-body -->
+   </div><!-- card -->
+  {% endif %}
+  {% cycle '' '' '</div><!-- .card-group --><div class="card-group">' %}
+ {% endfor %}
+</div><!-- .row -->
 {% endblock %}
 
+<hr>
+<hr>
+<hr>
 
-{% block top_content_left %}
-  {% block top_left_ad %}{{ block.super }}{% endblock %}
-  <div class="col-md-4">
-    <header id="galleries-introduction">
-      <h2>{{ galleries_list_obj.galleries_list_title }}</h2>
-      <p>
-        This page lists and links to
-          {{ galleries_list_obj.descriptive_phrase_html | safe }}</p>
-      {% if galleries_list_obj.galleries_list_title != 'All Galleries' %}
-        <ul>
-          {% for gal_dict in galleries_list_obj.galleries_list_data %}
-            {% if gal_dict.gallery_title != 'responsive_ad' %}
-              <li>
-                <a href="{{ gal_dict.link_to_gallery }}/"
-                   title="View the {{ gal_dict.gallery_title }} gallery"
-                   onclick="send_ga_event_with_value_1('Link', 'Enter Gallery', '{{ gal_dict.gallery_title }}');">
-                  {{ gal_dict.gallery_title }}</a></li>
-            {% endif %}
-          {% endfor %}
-        </ul>
-      {% endif %}
-      <p>
-        Below are sample thumbnails and a brief description of
-          each of these galleries.</p>
-      <p>
-        Pick one to visit, learn, and enjoy!</p>
-    </header><!-- #galleries-introduction -->
-  </div><!-- col-md-4 -->
-{% endblock %}
-
-{% block top_aside %}{{ block.super }}{% endblock %}
+{% block top_content_left %}{% endblock %}
+{% block top_aside %}{% endblock %}
 {% block above_middle_row_ad %}{% endblock %}
 {% block middle_left_ad %}{% endblock %}
 {% block middle_right_ad %}{% endblock %}
 
 {% block middle_content %}
-  {% for gal_dict in galleries_list_obj.galleries_list_data %}
-    {% if gal_dict.gallery_title == 'responsive_ad' %}
-      {% block middle_content_responsive_ad %}{{ block.super }}{% endblock %}
-    {% else %}
-      <div class="col-md-4">
-        <div class="gallery-image">
-          <a href="{{ gal_dict.link_to_gallery }}/"
-             title="View the {{ gal_dict.gallery_title }} gallery"
-             onclick="send_ga_event_with_value_1('Image', 'Enter Gallery', '{{ gal_dict.gallery_title }}');"
-             class="gallery-title">
-            <h2>{{ gal_dict.gallery_title }}</h2>
-          </a>
-          <div class="text-center">
-            <figure>
-              <a href="{{ gal_dict.link_to_gallery }}/"
-                 title="View the {{ gal_dict.gallery_title }} gallery"
-                 class="gallery-title">
-                <img src="{% static gal_dict.image_dict.image_file_path %}"
-                     class="gallery-image">
-              </a>
-              <figcaption><q>{{ gal_dict.image_dict.title }}</q></figcaption>
-            </figure>
-          </div><!-- .text-center -->
-          {% spaceless %}
-            <p class="list-page-teaser"
-               id="{{ gal_dict.gallery_file_name }}-lpt-intro">
-              {{ gal_dict.list_page_teaser_intro }}<span class="list-page-text-remainder"
-                id="{{ gal_dict.gallery_file_name }}-lpt-remainder">{{ gal_dict.list_page_teaser_remainder }}
-              </span>
-              <a class="{{ gal_dict.gallery_file_name }}-lpt-link"
-                 id="{{ gal_dict.gallery_file_name }}-lpt-more">.... [More]</a>
-              <a class="list-page-less-link {{ gal_dict.gallery_file_name }}-lpt-link"
-                 id="{{ gal_dict.gallery_file_name }}-lpt-less"> [Less]</a>
-            </p>
-          {% endspaceless %}
-          <div class="text-center">
-            <a class="btn-lg btn-primary"
-               href="/gallery/{{ gal_dict.gallery_file_name }}/" role="button"
-               onclick="send_ga_event_with_value_1('Button', 'Enter Gallery', '{{ gal_dict.gallery_title }}');">
-              {{ gal_dict.see_gallery_button_text }} &raquo;</a>
-          </div><!-- .text-center -->
-        </div><!-- .gallery-image -->
-      </div><!-- col-md-4 -->
-    {% endif %}
-    {% cycle '' '' '</div><!-- .row --><div class="row">' %}
-  {% endfor %}
 {% endblock %}
 
 {% block below_middle_row_ad %}{% endblock %}
