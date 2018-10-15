@@ -67,12 +67,6 @@
        {% if image_dict.subtitle_html %}
         <h5 class="text-center">{{ image_dict.subtitle_html | safe }}</h5>
        {% endif %}
-       {% if image_dict.score %}
-        <div class="score-svg" id="score-bars-{{ image_dict.id }}">
-        </div><!-- #score-bars-{{ image_dict.id }} -->
-       {% else %}
-        <p>{{ image_dict.four_letter_type }}</p>
-       {% endif %}
        {% if image_dict.gallery_page_teaser %}
         {% spaceless %}
          <p class="card-text"
@@ -86,6 +80,17 @@
              id="{{ image_dict.id }}-gpt-less"> [Less]</a>
          </p>
         {% endspaceless %}
+       {% endif %}
+       <p class="card-text text-center">
+        <a class="btn-lg btn-mdb-color" role="button"
+           href="{{ image_dict.image_link_href }}"
+           title="{{ image_dict.image_link_title }}">
+         See the Image</a></p>
+       {% if image_dict.score %}
+        <div class="score-svg" id="score-bars-{{ image_dict.id }}">
+        </div><!-- #score-bars-{{ image_dict.id }} -->
+       {% else %}
+        <p>{{ image_dict.four_letter_type }}</p>
        {% endif %}
      </div><!-- .card-body -->
     </div><!-- .card -->
