@@ -171,33 +171,11 @@ ul.square-bullets {
  * For the Gallery page
  * ====================
  */
-div.gallery-image {
-    border: 2px solid midnightblue;
-    border-radius: 1em;
-    margin: .5em;
-    padding: .5em 1.5em 2em;
-    text-align: left;
-}
-h1.image-page,
-h3.image-page,
-h3.gallery-image {
-   font-weight: bold;
-   text-decoration: underline;
-}
-h3.image-page,
-h4.gallery-image {
-   font-style: italic;
-   text-decoration: underline;
-}
 img.gallery-story-image {
   display: block;
   margin: 1em 0;
   height: auto;
   width: 100%;
-}
-img.gallery-image {
-  height: 125px;
-  width: 125px;
 }
 .gallery-page-text-remainder,
 .gallery-page-less-link {
@@ -209,20 +187,6 @@ img.gallery-image {
  * For the single image page
  * =========================
  */
-figcaption {
-  font-weight: bold;
-  text-align: center;
-  text-decoration: underline;
-}
-.single-image {
-  width: 100%;
-}
-.single-img {
-  margin: 4px;
-  padding: 4px;
-  height: auto;
-  width: 500px;
-}
 img.story-image-left,
 img.story-image-right {
   display: inline;
@@ -239,6 +203,10 @@ img.story-image-right {
 }
 /*
  * Create our own bootstrap button colors that match the colors in the images
+ * CRUFT ALERT!
+ * ------------
+ * We are not using these classes, but keeping them around for now,
+ *   for possible future reference.
  */
 .som-btn-all {
   margin: .33em;
