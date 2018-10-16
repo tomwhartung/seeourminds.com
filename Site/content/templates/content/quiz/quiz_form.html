@@ -52,6 +52,22 @@
   </div><!-- .card -->
  </div><!-- .col-md-9 -->
 </div><!-- .row -->
+{% if messages %}
+ <div class="row justify-content-center">
+  <div class="col-md-12">
+   <div class="card hoverable m-2">
+    <div class="card-body">
+     <ul class="quiz-error list-group mb-3">
+      {% for message in messages %}
+       <li class="list-group-item {{ message.tags }} text-center">
+        {{ message|safe }}</li>
+      {% endfor %}
+     </ul>
+    </div><!-- .card-body -->
+   </div><!-- .card -->
+  </div><!-- .col-md-12 -->
+ </div><!-- .row -->
+{% endif %}
 <div class="row align-items-top justify-content-center">
  <div class="col-md-9">
   <div class="card hoverable m-2">
@@ -76,18 +92,10 @@
          <input type="submit" name="load-answers" class="btn btn-info"
                 id="load-answers" value="Load Saved Answers"></input>
         </p>
+        <a name="error-messages"></a>
        {% endif %}
       </div><!-- .fieldWrapper -->
       {% if field.label == 'Email' %}
-       {% if messages %}
-        <hr />
-        <ul class="quiz-error list-group mb-3">
-         {% for message in messages %}
-          <li class="list-group-item {% if message.tags %} {{ message.tags }}"{% endif %}>
-           {{ message|safe }}</li>
-         {% endfor %}
-        </ul>
-       {% endif %}
        <hr />
        <p class="card-text">
         <em><u>Required:</u></em></p>
