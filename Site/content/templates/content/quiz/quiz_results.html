@@ -2,41 +2,50 @@
 
 {% load static %}
 
-{% block top_content_left %}
-  <article>
-    <header>
-      <h1>Thanks for taking the SeeOurMinds.com Quiz!</h1>
-    </header>
-    <section>
-      <h2>Your Results:</h2>
-      <div class="quiz-results">
-        <div class="score-svg" id="score-bars"></div><!-- #score-bars -->
-        {% if messages %}
-          <ul class="results-messages">
-            {% for message in messages %}
-              <li{% if message.tags %} class="{{ message.tags }}"{% endif %}>
-                {{ message|safe }}</li>
-            {% endfor %}
-          </ul>
-        {% endif %}
-      </div><!-- .quiz-results" -->
-    </section>
-    <hr />
-  </article>
+
+{% block quiz_content %}
+<div class="row align-items-top justify-content-center">
+ <div class="col-md-11">
+  <div class="card hoverable m-2">
+   <div class="card-body">
+    <h2 class="card-title h2-responsive font-weight-bold text-center">
+     <u>Thank you for taking the SeeOurMinds.com Quiz!</u></h2>
+   </div><!-- .card-body -->
+  </div><!-- .card -->
+ </div><!-- .col-md-11 -->
+</div><!-- .row -->
+<div class="row justify-content-center">
+ <div class="col-md-10">
+  <div class="card hoverable m-2">
+   <div class="card-body">
+    <h2 class="card-title h2-responsive font-weight-bold text-center">
+     Your Results:</h2>
+    <p class="card-text">
+     <div class="score-svg" id="score-bars"></div><!-- #score-bars -->
+    </p>
+    {% if messages %}
+     <ul class="list-group mb-3">
+      {% for message in messages %}
+       <li class="list-group-item {{ message.tags }}">
+        {{ message|safe }}</li>
+      {% endfor %}
+     </ul>
+    {% endif %}
+   </div><!-- .card-body -->
+  </div><!-- .card -->
+ </div><!-- .col-md-10 -->
+</div><!-- .row -->
 {% endblock %}
 
-{% block top_aside %}
-  {% block top_aside_email %}{{ block.super }}{% endblock %}
-{% endblock %}
-
+{% block top_content_left %}{% endblock %}
+{% block top_aside %}{% endblock %}
 {% block above_middle_row_ad %}{% endblock %}
 {% block middle_left_ad %}{% endblock %}
 {% block middle_content %}{% endblock %}
 {% block middle_right_ad %}{% endblock %}
 {% block below_middle_row_ad %}{% endblock %}
-
 {% block bottom_left_ad %}{% endblock %}
-{% block bottom_content %}{{ block.super }}{% endblock %}
+{% block bottom_content %}{% endblock %}
 {% block bottom_right_ad %}{% endblock %}
 
 {% block scripts %}
