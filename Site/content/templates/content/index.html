@@ -36,73 +36,72 @@
  </style>
 {% endblock %}
 
-
-
-
 {% block content %}
 <div class="view full-page-intro" style="background-image: url('{% static 'content/images/home/Twain-bg-no_border.jpg' %}'); background-repeat: no-repeat; background-size: cover;">
  <div class="mask rgba-black-strong d-flex justify-content-center align-items-center">
   <div class="container">
    <div class="row wow fadeIn">
     <div class="col-md-6 mb-4 white-text text-center text-md-left">
-
-            <h1 class="display-4 font-weight-bold">Learn Bootstrap 4 with MDB</h1>
-
-            <hr class="hr-light">
-
-            <p>
-              <strong>Best & free guide of responsive web design</strong>
-            </p>
-
-            <p class="mb-4 d-none d-md-block">
-              <strong>The most comprehensive tutorial for the Bootstrap 4. Loved by over 500 000 users. Video and written versions
-                available. Create your own, stunning website.</strong>
-            </p>
-
-            <a target="_blank" href="https://mdbootstrap.com/bootstrap-tutorial/" class="btn btn-indigo btn-lg">Start free tutorial
-              <i class="fa fa-graduation-cap ml-2"></i>
-            </a>
-
+     <h1 class="display-4 font-weight-bold text-center">SeeOurMinds.com</h1>
+     <h4 class="h4-responsive font-weight-bold text-center">
+      <strong>Visualizing the Invisible Since 1989&trade;</strong>
+     </h4>
+     <hr class="hr-light">
+     <p class="mb-4 d-md-block font-weight-bold text-center">
+      <strong>
+       These abstract images &mdash; known as <q>Spiritual Portraits</q> &mdash;
+        use primary colors to represent an individual's personality, based on
+        their answers to a set of multiple-choice questions.
+      </strong>
+     </p>
+     <p class="text-center">
+      <a href="/quiz" class="btn btn-danger btn-lg">
+       {% spaceless %}
+       <i class="fa fa-question-circle-o ml-2"></i>
+       &nbsp;Take the Quiz&nbsp;
+       <i class="fa fa-question-circle-o ml-2"></i>
+       {% endspaceless %}
+      </a>
+     </p>
     </div><!-- .col-* -->
     <div class="col-md-6 col-xl-5 mb-4">
-            <div class="card">
-              <div class="card-body">
-                <form name="">
-                  <h3 class="dark-grey-text text-center">
-                    <strong>Write to us:</strong>
-                  </h3>
-                  <hr>
-                  <div class="md-form">
-                    <i class="fa fa-user prefix grey-text"></i>
-                    <input type="text" id="form3" class="form-control">
-                    <label for="form3">Your name</label>
-                  </div>
-                  <div class="md-form">
-                    <i class="fa fa-envelope prefix grey-text"></i>
-                    <input type="text" id="form2" class="form-control">
-                    <label for="form2">Your email</label>
-                  </div>
-                  <div class="md-form">
-                    <i class="fa fa-pencil prefix grey-text"></i>
-                    <textarea type="text" id="form8" class="md-textarea"></textarea>
-                    <label for="form8">Your message</label>
-                  </div>
-                  <div class="text-center">
-                    <button class="btn btn-indigo">Send</button>
-                    <hr>
-                    <fieldset class="form-check">
-                      <input type="checkbox" class="form-check-input" id="checkbox1">
-                      <label for="checkbox1" class="form-check-label dark-grey-text">Subscribe me to the newsletter</label>
-                    </fieldset>
-                  </div>
-                </form>
-              </div>
-            </div>
-            <!--/.Card-->
+     <div class="card">
+      <div class="card-body">
+       <form name="">
+        <h3 class="dark-grey-text text-center">
+         <strong>Write to us:</strong>
+        </h3>
+        <hr>
+        <div class="md-form">
+         <i class="fa fa-user prefix grey-text"></i>
+         <input type="text" id="form3" class="form-control">
+         <label for="form3">Your name</label>
+        </div>
+        <div class="md-form">
+         <i class="fa fa-envelope prefix grey-text"></i>
+         <input type="text" id="form2" class="form-control">
+         <label for="form2">Your email</label>
+        </div>
+        <div class="md-form">
+         <i class="fa fa-pencil prefix grey-text"></i>
+         <textarea type="text" id="form8" class="md-textarea"></textarea>
+         <label for="form8">Your message</label>
+        </div>
+        <div class="text-center">
+         <button class="btn btn-indigo">Send</button>
+         <hr>
+         <fieldset class="form-check">
+          <input type="checkbox" class="form-check-input" id="checkbox1">
+          <label for="checkbox1" class="form-check-label dark-grey-text">Subscribe me to the newsletter</label>
+         </fieldset>
+        </div>
+       </form>
+      </div><!-- .card-body -->
+     </div><!-- .card -->
     </div><!-- .col-* -->
    </div><!-- .row -->
   </div><!-- .container -->
- </div><!-- .mask-->
+ </div><!-- .mask -->
 </div><!-- .view -->
 
   <!--Main layout-->
