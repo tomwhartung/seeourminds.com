@@ -613,7 +613,8 @@ class Score:
             saved_messages.append('You did not share your email address, ' + \
                 'so your answers were not saved on the server.')
             saved_messages.append('If you want to save these results, ' + \
-                'you need to write them down.')
+                'you need to take a screenshot, or write down or otherwise ' \
+                'save the percentages somehow.')
         else:
             #print( 'Score - save_questionnaire: saving quiz for "' + email + '"')
             questionnaire = Questionnaire()
