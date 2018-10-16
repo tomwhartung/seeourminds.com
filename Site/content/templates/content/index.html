@@ -38,23 +38,23 @@
 
 {% block content %}
 <div class="view full-page-intro" style="background-image: url('{% static 'content/images/home/Twain-bg-no_border.jpg' %}'); background-repeat: no-repeat; background-size: cover;">
- <div class="mask rgba-black-strong d-flex justify-content-center align-items-center">
+ <div class="mask rgba-black-strong d-flex align-items-center justify-content-center">
   <div class="container">
    <div class="row wow fadeIn">
-    <div class="col-md-6 mb-4 white-text text-center text-md-left">
+    <div class="col-md-6 m-4 white-text text-center text-md-left">
      <h1 class="display-4 font-weight-bold text-center">SeeOurMinds.com</h1>
-     <h4 class="h4-responsive font-weight-bold text-center">
+     <h4 class="h4-responsive font-weight-bold text-center my-3">
       <strong>Visualizing the Invisible Since 1989&trade;</strong>
      </h4>
-     <hr class="hr-light">
-     <p class="mb-4 d-md-block font-weight-bold text-center">
+     <hr class="hr-light my-4">
+     <p class="mb-3 d-none d-md-block font-weight-bold text-center">
       <strong>
        These abstract images &mdash; known as <q>Spiritual Portraits</q> &mdash;
         use primary colors to represent an individual's personality, based on
         their answers to a set of multiple-choice questions.
       </strong>
      </p>
-     <p class="text-center">
+     <p class="mt-5 text-center">
       <a href="/quiz" class="btn btn-danger btn-lg">
        {% spaceless %}
        <i class="fa fa-question-circle-o ml-2"></i>
@@ -67,35 +67,45 @@
     <div class="col-md-6 col-xl-5 mb-4">
      <div class="card">
       <div class="card-body">
-       <form name="">
+       <form method="POST" action="https://groja.com/conversion/seeourminds"
+             role="form">
         <h3 class="dark-grey-text text-center">
-         <strong>Write to us:</strong>
+         <strong>Join Our Email List!<sup>&ast;</sup></strong>
         </h3>
         <hr>
         <div class="md-form">
          <i class="fa fa-user prefix grey-text"></i>
-         <input type="text" id="form3" class="form-control">
-         <label for="form3">Your name</label>
+         <input type="text" id="name" class="form-control">
+         <label for="name">Your name</label>
         </div>
         <div class="md-form">
          <i class="fa fa-envelope prefix grey-text"></i>
-         <input type="text" id="form2" class="form-control">
-         <label for="form2">Your email</label>
-        </div>
-        <div class="md-form">
-         <i class="fa fa-pencil prefix grey-text"></i>
-         <textarea type="text" id="form8" class="md-textarea"></textarea>
-         <label for="form8">Your message</label>
+         <input type="text" id="email" class="form-control">
+         <label for="email">Your email</label>
         </div>
         <div class="text-center">
-         <button class="btn btn-indigo">Send</button>
+         <button class="btn btn-danger">
+          {% spaceless %}
+           <i class="fa fa-envelope-open-o ml-2"></i>
+           &nbsp;Subscribe&nbsp;
+           <i class="fa fa-envelope-open-o ml-2"></i>
+          {% endspaceless %}
+         </button>
          <hr>
-         <fieldset class="form-check">
-          <input type="checkbox" class="form-check-input" id="checkbox1">
-          <label for="checkbox1" class="form-check-label dark-grey-text">Subscribe me to the newsletter</label>
-         </fieldset>
         </div>
        </form>
+       <p class="card-text">
+        <sup>&ast;</sup>&nbsp;The Artsy Visions email newsletter is sent
+         monthly and includes updates for
+         <a href="/" title="Home page of SeeOurMinds.com">
+          SeeOurMinds.com</a>,
+         <a href="https://ArtsyVisions.com"
+            title="ArtsyVisions.com home page" target="_blank">
+          ArtsyVisions.com</a>, and
+         <a href="http://www.Groja.com"
+            title="Groja.com home page" target="_blank">
+          Groja.com</a>.
+       </p>
       </div><!-- .card-body -->
      </div><!-- .card -->
     </div><!-- .col-* -->
