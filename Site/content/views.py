@@ -55,6 +55,20 @@ def image(request, gallery_file_name=None, image_id=None):
         'title': title,
     })
 
+
+def index(request):
+
+    """ Load and render the index page template """
+
+    template = loader.get_template('content/index.html')
+    title = 'index page';
+    context = {
+        'quiz_menu_data': Questionnaire.get_quiz_menu_data(),
+        'title': title,
+    }
+    return HttpResponse(template.render(context, request))
+
+
 ##
 ## -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 ##   Views for Gallery Pages
