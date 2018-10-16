@@ -40,21 +40,11 @@
 
 
 {% block content %}
-
-  <!-- Full Page Intro -->
-  <div class="view full-page-intro" style="background-image: url('https://mdbootstrap.com/img/Photos/Others/images/78.jpg'); background-repeat: no-repeat; background-size: cover;">
-
-    <!-- Mask & flexbox options-->
-    <div class="mask rgba-black-light d-flex justify-content-center align-items-center">
-
-      <!-- Content -->
-      <div class="container">
-
-        <!--Grid row-->
-        <div class="row wow fadeIn">
-
-          <!--Grid column-->
-          <div class="col-md-6 mb-4 white-text text-center text-md-left">
+<div class="view full-page-intro" style="background-image: url('{% static 'content/images/home/Twain-bg-no_border.jpg' %}'); background-repeat: no-repeat; background-size: cover;">
+ <div class="mask rgba-black-strong d-flex justify-content-center align-items-center">
+  <div class="container">
+   <div class="row wow fadeIn">
+    <div class="col-md-6 mb-4 white-text text-center text-md-left">
 
             <h1 class="display-4 font-weight-bold">Learn Bootstrap 4 with MDB</h1>
 
@@ -73,26 +63,15 @@
               <i class="fa fa-graduation-cap ml-2"></i>
             </a>
 
-          </div>
-          <!--Grid column-->
-
-          <!--Grid column-->
-          <div class="col-md-6 col-xl-5 mb-4">
-
-            <!--Card-->
+    </div><!-- .col-* -->
+    <div class="col-md-6 col-xl-5 mb-4">
             <div class="card">
-
-              <!--Card content-->
               <div class="card-body">
-
-                <!-- Form -->
                 <form name="">
-                  <!-- Heading -->
                   <h3 class="dark-grey-text text-center">
                     <strong>Write to us:</strong>
                   </h3>
                   <hr>
-
                   <div class="md-form">
                     <i class="fa fa-user prefix grey-text"></i>
                     <input type="text" id="form3" class="form-control">
@@ -103,13 +82,11 @@
                     <input type="text" id="form2" class="form-control">
                     <label for="form2">Your email</label>
                   </div>
-
                   <div class="md-form">
                     <i class="fa fa-pencil prefix grey-text"></i>
                     <textarea type="text" id="form8" class="md-textarea"></textarea>
                     <label for="form8">Your message</label>
                   </div>
-
                   <div class="text-center">
                     <button class="btn btn-indigo">Send</button>
                     <hr>
@@ -118,29 +95,15 @@
                       <label for="checkbox1" class="form-check-label dark-grey-text">Subscribe me to the newsletter</label>
                     </fieldset>
                   </div>
-
                 </form>
-                <!-- Form -->
-
               </div>
-
             </div>
             <!--/.Card-->
-
-          </div>
-          <!--Grid column-->
-
-        </div>
-        <!--Grid row-->
-
-      </div>
-      <!-- Content -->
-
-    </div>
-    <!-- Mask & flexbox options-->
-
-  </div>
-  <!-- Full Page Intro -->
+    </div><!-- .col-* -->
+   </div><!-- .row -->
+  </div><!-- .container -->
+ </div><!-- .mask-->
+</div><!-- .view -->
 
   <!--Main layout-->
   <main>
