@@ -32,6 +32,7 @@ urlpatterns = [
         views.image,
         name='image'),
     url(r'^image/$', views.image, name='image'),
+    url(r'^index$', views.index, name='index'),
     url(r'^legal$', views.legal, name='legal'),
     url(r'^legal/terms_of_service',
         views.terms_of_service,
