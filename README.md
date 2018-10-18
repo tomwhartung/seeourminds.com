@@ -74,3 +74,25 @@ l /var/www/groja.com/htdocs/groja.com-mdb/Site/static/css/[Rabfm]*
 cp -r /var/www/groja.com/htdocs/groja.com-mdb/Site/static/css/[Rabfm]* .
 ```
 
+## Step 4: Add Files for the Fancy MDB Landing Page
+
+### 2018-10-16
+
+Decided to re-do the home page of this site to look like the example in the
+`material_design/05-material_design_bootstrap/04-landing_page_freebie`
+directory of the `always_learning_google_products` repo.
+
+- This requires adding a few files downloaded from the site last night
+  - These files are for use on the home page only
+- See `material_design/05-material_design_bootstrap/README.md` for URLs
+- Original version of the new home page is form.html
+
+### Adding Files for the New Landing Page:
+
+Adding these files to subdirectories of `static/content` :
+
+```
+css/style.css
+css/style.min.css
+```
+
