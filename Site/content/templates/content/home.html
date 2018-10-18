@@ -1,162 +1,368 @@
 {% extends 'content/base.html' %}
 
-{% block top_row_ad %}{% endblock %}
-{% block top_left_ad %}{% endblock %}
+{% load static %}
 
-{% block top_content_left %}
-  <div class="col-md-8">
-    <section class="jumbotron">
-      <dl class="did-you-ever">
-        <dt>Did you ever wonder...?</dt>
-        <dd>What a personality might look like,
-          if you could see it?</dd>
-        <dt>Did you ever wish you could...?</dt>
-        <dd>Understand why your friends, loved-ones, and
-           co-workers do and say the things they say and do?</dd>
-        <dt>Did you ever want to learn...?</dt>
-        <dd>More about what makes us tick?</dd>
-      </dl>
-      <p>
+{% block head %}
+ {{ block.super }}
+ <link href="css/style.min.css" rel="stylesheet">
+ <style type="text/css">
+   html,
+   body,
+   header,
+   .view {
+     height: 100%;
+   }
+   @media (max-width: 740px) {
+     html,
+     body,
+     header,
+     .view {
+       height: 1000px;
+     }
+   }
+   @media (min-width: 800px) and (max-width: 850px) {
+     html,
+     body,
+     header,
+     .view {
+       height: 650px;
+     }
+   }
+   @media (min-width: 800px) and (max-width: 850px) {
+             .navbar:not(.top-nav-collapse) {
+                 background: #1C2331!important;
+             }
+         }
+ </style>
+{% endblock %}
+
+{% block content %}
+<div class="view full-page-intro" style="background-image: url('{% static 'content/images/home/Twain-bg-no_border.jpg' %}'); background-repeat: no-repeat; background-size: cover;">
+ <div class="mask rgba-black-strong d-flex align-items-center justify-content-center">
+  <div class="container">
+   <div class="row wow fadeIn">
+    <div class="col-md-6 m-4 white-text text-center text-md-left">
+     <h1 class="display-4 font-weight-bold text-center">SeeOurMinds.com</h1>
+     <h4 class="h4-responsive font-weight-bold text-center my-3">
+      <strong>Visualizing the Invisible Since 1989&trade;</strong>
+     </h4>
+     <hr class="hr-light my-4">
+     <p class="mb-3 d-none d-md-block font-weight-bold text-center">
+      <strong>
+       These abstract images &mdash; known as <q>Spiritual Portraits</q> &mdash;
+        use primary colors to represent an individual's personality, based on
+        their answers to a set of multiple-choice questions.
+      </strong>
+     </p>
+     <p class="mt-5 text-center">
+      <a href="/quiz" class="btn btn-danger btn-lg">
+       {% spaceless %}
+       <i class="fa fa-question-circle-o ml-2"></i>
+       &nbsp;Take the Quiz&nbsp;
+       <i class="fa fa-question-circle-o ml-2"></i>
+       {% endspaceless %}
+      </a>
+     </p>
+    </div><!-- .col-* -->
+    <div class="col-md-6 col-xl-5 mb-4">
+     <div class="card">
+      <div class="card-body">
+       <form method="POST" action="https://groja.com/conversion/seeourminds"
+             role="form">
+        <h3 class="dark-grey-text text-center">
+         <strong>Join Our Email List!<sup>&ast;</sup></strong>
+        </h3>
+        <hr>
+        <div class="md-form">
+         <i class="fa fa-user prefix grey-text"></i>
+         <input type="text" id="name" class="form-control">
+         <label for="name">Your name</label>
+        </div>
+        <div class="md-form">
+         <i class="fa fa-envelope prefix grey-text"></i>
+         <input type="text" id="email" class="form-control">
+         <label for="email">Your email</label>
+        </div>
+        <div class="text-center">
+         <button class="btn btn-danger">
+          {% spaceless %}
+           <i class="fa fa-envelope-open-o ml-2"></i>
+           &nbsp;Subscribe&nbsp;
+           <i class="fa fa-envelope-open-o ml-2"></i>
+          {% endspaceless %}
+         </button>
+         <hr>
+        </div>
+       </form>
+       <p class="card-text">
+        <sup>&ast;</sup>&nbsp;The Artsy Visions email newsletter is sent
+         monthly and includes updates for
+         <a href="/" title="Home page of SeeOurMinds.com">
+          SeeOurMinds.com</a>,
+         <a href="https://ArtsyVisions.com"
+            title="ArtsyVisions.com home page" target="_blank">
+          ArtsyVisions.com</a>, and
+         <a href="http://www.Groja.com"
+            title="Groja.com home page" target="_blank">
+          Groja.com</a>.
+       </p>
+      </div><!-- .card-body -->
+     </div><!-- .card -->
+    </div><!-- .col-* -->
+   </div><!-- .row -->
+  </div><!-- .container -->
+ </div><!-- .mask -->
+</div><!-- .view -->
+
+<main>
+ <div class="container">
+  <section>
+   <div class="row wow fadeIn align-items-center justify-content-center">
+    <div class="col-sm-7 hoverable">
+     <h2 class="h2-responsive font-weight-bold text-center m-3 p-3">
+      <i class="fa fa-lg fa-question m-2 p-2" aria-hidden="true"></i>
+      <i class="fa fa-lg fa-question m-2 p-2" aria-hidden="true"></i>
+      <i class="fa fa-lg fa-question m-2 p-2" aria-hidden="true"></i><br>
+      Did you ever...?</h2>
+    </div><!-- .col-* -->
+    <div class="w-100"></div>
+    <div class="card-deck">
+     <div class="card hoverable m-2">
+      <div class="card-body">
+       <h3 class="card-title h3-responsive font-weight-bold text-center">
+        <i class="fa fa-lg fa-question-circle m-2 p-2" aria-hidden="true"></i><br>
+        Did you ever wonder...?</h3>
+       <h5 class="h5-responsive">
+        ... wonder what a personality might look like, if you could see it?</h5>
+      </div><!-- .card-body -->
+     </div><!-- .card -->
+     <div class="card hoverable m-2">
+      <div class="card-body">
+       <h3 class="card-title h3-responsive font-weight-bold text-center">
+        <i class="fa fa-lg fa-question-circle m-2 p-2" aria-hidden="true"></i><br>
+        Did you ever wish you could understand...?</h3>
+       <h5 class="h5-responsive">
+        ... understand why your friends, loved-ones, and
+         co-workers do and say the things they say and do?</h5>
+      </div><!-- .card-body -->
+     </div><!-- .card -->
+     <div class="card hoverable m-2">
+      <div class="card-body">
+       <h3 class="card-title h3-responsive font-weight-bold text-center">
+        <i class="fa fa-lg fa-question-circle m-2 p-2" aria-hidden="true"></i><br>
+         Did you ever want to learn...?</h3>
+       <h5 class="h5-responsive">
+        ... learn more about what makes us tick?</h5>
+      </div><!-- .card-body -->
+     </div><!-- .card -->
+    </div><!-- .card-deck -->
+    <div class="w-100"></div>
+    <div class="col-sm-7 hoverable">
+     <h2 class="h2-responsive font-weight-bold text-center m-3 p-3">
+      <i class="fa fa-lg fa-exclamation m-2 p-2" aria-hidden="true"></i>
+      <i class="fa fa-lg fa-exclamation m-2 p-2" aria-hidden="true"></i>
+      <i class="fa fa-lg fa-exclamation m-2 p-2" aria-hidden="true"></i><br>
+      If you have ever...</h2>
+    </div><!-- .col-* -->
+    <div class="w-100"></div>
+    <div class="col-sm-7">
+     <div class="card hoverable m-2">
+      <div class="card-body">
+       <h3 class="h3-responsive font-weight-bold text-center m-3">
+        <i class="fa fa-lg fa-exclamation-circle m-2 p-2" aria-hidden="true"></i><br>
         If you have ever wondered, wished, or wanted any of these things,
-          welcome to</p>
-      <h1>SeeOurMinds!</h1>
-      <p class="air-quotes">Shedding light on the things we cannot see.</p>
-    </section><!-- .jumbotron -->
-  </div><!-- .col-md-8 -->
-{% endblock %}
+         welcome to</h3>
+       <h1 class="h1-responsive font-weight-bold text-center my-4">
+        SeeOurMinds!</h1>
+       <h2 class="h2-responsive font-weight-bold text-center m-3">
+        <q>Shedding light on the things we cannot see.</q></h2>
+      </div><!-- .card-body -->
+     </div><!-- .card -->
+    </div><!-- .col-* -->
+   </div><!-- .row .wow -->
+  </section>
 
-{% block top_aside %}
-  <div class="col-md-4">
-    {% block top_aside_top_ad %}{{ block.super }}{% endblock %}
-    {% block top_aside_top_responsive_ad %}{% endblock %}
-  </div><!-- .col-md-4 -->
-  {% block top_aside_email %}
-    {{ block.super }}
-  {% endblock %}
-  <div class="col-md-4">
-    {% block top_aside_bottom_ad %}{{ block.super }}{% endblock %}
-    {% block top_aside_bottom_responsive_ad %}{% endblock %}
-  </div><!-- .col-md-4 -->
-{% endblock %}
+  <hr class="my-5">
 
-{% block above_middle_row_ad %}{% endblock %}
-{% block middle_left_ad %}{% endblock %}
+  <section>
+   <div class="row wow fadeIn align-items-center justify-content-center">
+    <div class="col-md-12">
+     <div class="card-group">
+      <div class="card hoverable m-2">
+       <div class="card-body">
+        <h3 class="card-title h3-responsive font-weight-bold text-center">
+         <i class="fa fa-lg fa-eye m-2 p-2" aria-hidden="true"></i><br>
+         See Their Minds!</h3>
+        <h5 class="h5-responsive font-weight-bold text-center">
+         To see a variety of Spiritual Portraits, visit the
+          <a href="/galleries" title="Link to the All Galleries page on this site">
+           Portrait Galleries.</a></h5>
+        <p>
+         The Portrait Galleries on this site contain images of the personalities of many people
+          &mdash; both real and fictional.</p>
+        <p>
+         There are also galleries showcasing the sixteen types and some
+          experimental compositions.
+         These galleries in particular contain sample images of generic
+          personality types that do not correspond to actual people.</p>
+       </div><!-- .card-body -->
+       <div class="card-footer">
+        <p class="card-text text-center">
+         {% spaceless %}
+          <a href="galleries" title="Visit the seeourminds.com Portrait Galleries.">
+           <button type="submit" class="btn-lg btn-primary"
+               onclick="send_ga_event_with_value_1('Button', 'Leave Home Page', 'See Their Minds');">
+           <i class="fa fa-lg fa-eye m-2 p-2" aria-hidden="true"></i>
+           &nbsp;See Their Minds&nbsp;
+           <i class="fa fa-lg fa-eye m-2 p-2" aria-hidden="true"></i>
+          </button></a>
+         {% endspaceless %}
+        </p>
+       </div><!-- .card-footer -->
+      </div><!-- .card -->
+      <div class="card hoverable m-2">
+       <div class="card-body">
+        <h3 class="card-title h3-responsive font-weight-bold text-center">
+         <i class="fa fa-lg fa-smile-o m-2 p-2" aria-hidden="true"></i><br>
+          See My Mind!</h3>
+        <h5 class="h5-responsive font-weight-bold text-center">
+         To see multiple images of my personality, visit the
+          <a href="/gallery/9100-real-self_portraits/"
+             title="Page containing the Gallery of Self-Portraits on this site">
+           Gallery of Self-Portraits</a>
+          on this site.</h5>
+        <p>
+         Over the years, I have answered a few different questionnaires,
+          and created a few different Spiritual Self-Portraits.</p>
+        <p>
+         This gallery shows some of the results and discusses their
+          consistencies &mdash; and their inconsistencies.
+         It also demonstrates some of the advanced features of the Groja &copy;
+          program, such as its ability to create images of different
+          sizes and with different aspect ratios.</p>
+       </div><!-- .card-body -->
+       <div class="card-footer">
+        <p class="card-text text-center">
+         {% spaceless %}
+          <a href="/gallery/9100-real-self_portraits/"
+             title="Single image page containing the image in the site header">
+           <button type="submit" class="btn-lg btn-primary"
+              onclick="send_ga_event_with_value_1('Button', 'Leave Home Page', 'See My Mind');">
+            <i class="fa fa-lg fa-smile-o m-2 p-2" aria-hidden="true"></i>
+            &nbsp;See My Mind&nbsp;
+            <i class="fa fa-lg fa-smile-o m-2 p-2" aria-hidden="true"></i>
+           </button></a>
+         {% endspaceless %}
+        </p>
+       </div><!-- .card-footer -->
+      </div><!-- .card -->
+     </div><!-- .card-group -->
+    </div><!-- .col-* -->
 
-{% block middle_content %}
-  {% load static %}
-  <section id="middle-content">
-    <div class="col-md-6">
-      <h2>To See Their Minds...</h2>
-      <p>
-        Visit the
-          <a href="galleries" title="Link to the Galleries page on this site">
-           Galleries.</a></p>
-      <p>
-        They contain images of famous people's personalities,
-          both real and fictional, and some sample images of
-          generic personality types that do not correspond to actual people.
-      </p>
-      <div class="text-center">
-        <a href="galleries" title="Visit the seeourminds.com galleries.">
-          <button type="submit" class="btn-lg btn-primary"
-            onclick="send_ga_event_with_value_1('Button', 'Leave Home Page', 'See Their Minds');">
-            See Their Minds</button></a>
-      </div><!-- .text-center -->
-    </div><!-- .col-md-6 -->
-    <div class="col-md-6">
-      <h2>To See My Mind...</h2>
-      <p>
-        See the
-        <a href="image/0"
-           title="Single image page containing the image in the site header">
-          image</a>
-        in the page header, also shown here:</p>
-      <div class="see-my-mind">
-        <a href="image/0"
-           title="Single image page containing the image in the site header">
-          <img src="{% static 'content/images/header/infp-tomh_1987-81x81.gif' %}"
-               alt="Image of INFP containing more blue and red squares and fewer yellow and green squares.">
-          </img></a></div>
-      <p>
-        The preponderance of blue and red in this image show that I am
-          idealistic and compassionate,
-        The intersection of the two longest lines in the lower right corner
-          shows that I am introverted.
-      </p>
-      <p>
-        The image also contains plenty of green and yellow, which
-          shows that I am flexible.
-        And indeed, I can be down-to-earth and rational when the situation calls
-          for it, such as when I am working or
-          taking care of the business that is part of everyone's day-to-day life.
-      </p>
-      <div class="text-center">
-        <a href="/gallery/9100-real-self_portraits/"
-           title="Single image page containing the image in the site header">
-        <button type="submit" class="btn-lg btn-primary"
-          onclick="send_ga_event_with_value_1('Button', 'Leave Home Page', 'See My Mind');">
-          See My Mind</button></a>
-      </div><!-- .text-center -->
-    </div><!-- .col-md-6 -->
-  </section><!-- #middle-content -->
-{% endblock %}
+    <div class="w-100"></div>
 
-{% block middle_right_ad %}{% endblock %}
-{% block below_middle_row_ad %}{% endblock %}
-{% block bottom_left_ad %}{% endblock %}
-
-{% block bottom_content %}
-  <section id="bottom-content">
-    <div class="col-md-6">
-      <h2>To See Your Mind...</h2>
-      <p>
-        Head on over to the
-        <a href="http://www.groja.com/yourportrait" target="_blank"
-           title="Groja.com Your Portrait page.".>
+    <div class="col-md-12">
+     <div class="card-group">
+      <div class="card hoverable m-2">
+       <div class="card-body">
+        <h3 class="card-title h3-responsive font-weight-bold text-center">
+         <i class="fa fa-lg fa-user m-2 p-2" aria-hidden="true"></i><br>
+          See Your Mind!</h3>
+        <h5 class="h5-responsive font-weight-bold text-center">
+         To get your Spiritual Portrait, visit the
+          <a href="http://www.groja.com/yourportrait" target="_blank"
+             title="Groja.com Your Portrait page.".>
            Get Your Portrait</a>
           page on
-        <a href="http://www.groja.com" target="_blank"
-           title="Groja.com home page">Groja.com</a>!</p>
+          <a href="http://www.groja.com" target="_blank"
+             title="Groja.com home page">Groja.com</a>!</h5>
         <p>
-          The only way to get your own, personalized Spiritual Portrait is to
-          <a href="http://www.groja.com/conversion/seeourminds" target="_blank"
-             title="Link to the Contact Me page on Groja.com">Contact Us</a>
-          and ask us to create it for you.</p>
+         The only way to get your own, personalized Spiritual Portrait is to
+          contact us and ask us to create it for you.</p>
         <p>
-          <span class="air-quotes">Discounts are definitely available for early adopters!</span>
-          </p>
-        <div class="text-center">
+         We create each portrait by hand, and the price of an image can range
+          anywhere from $0 to $1000.
+         However, we frequently offer special deals to people who subscribe to
+          monthly email newsletter.
+        <p>
+         The best way to learn when we run specials, and make sure you are
+          eligible for them when we do, is to subscribe to the
+          <a href="" title="Link to join the Artsy Visions email list" target="_blank">
+          Artsy Visions email list</p>.
+       </div><!-- .card-body -->
+       <div class="card-footer">
+        <p class="card-text text-center">
+         {% spaceless %}
           <a href="http://www.groja.com/yourportrait" target="_blank"
-             title="Go to the Your Portrait page on Groja.com .">
-            <button type="submit" class="btn-lg btn-primary"
+             title="Go to the Your Portrait page on Groja.com">
+           <button type="submit" class="btn-lg btn-primary" role="button"
               onclick="send_ga_event_with_value_1('Button', 'Leave Home Page', 'See Your Mind');">
-              See Your Mind</button></a>
-        </div><!-- .text-center -->
-    </div><!-- .col-md-6 -->
-    <div class="col-md-6">
-      <h2>To learn more about all this ...</h2>
-      <p>
-        Visit the
-        <a href="http://www.groja.com/about" target="_blank"
-           title="Groja.com About page.".>About</a>
-        page on
-        <a href="http://www.groja.com" target="_blank"
-           title="Groja.com home page">Groja.com</a>.</p>
-      <p>
-        In addition to hosting a video, the page tells
-          the story behind this idea and
-          describes how learning about all this has helped me over the years.
-      </p>
-      <div class="text-center">
-        <a href="http://www.groja.com/about" target="_blank"
-           title="Go to the About page on Groja.com .">
-          <button type="submit" class="btn-lg btn-primary"
-            onclick="send_ga_event_with_value_1('Button', 'Leave Home Page', 'Learn More');">
-            Learn More</button></a>
-      </div><!-- .text-center -->
-    </div><!-- .col-md-6 -->
-  </section><!-- #bottom-content -->
+            <i class="fa fa-lg fa-user m-2 p-2" aria-hidden="true"></i>
+            &nbsp;See Your Mind&nbsp;
+            <i class="fa fa-lg fa-user m-2 p-2" aria-hidden="true"></i>
+           </button></a>
+         {% endspaceless %}
+        </p>
+       </div><!-- .card-footer -->
+      </div><!-- .card -->
+      <div class="card hoverable m-2">
+       <div class="card-body">
+        <h3 class="card-title h3-responsive font-weight-bold text-center">
+         <i class="fa fa-lg fa-graduation-cap m-2 p-2" aria-hidden="true"></i><br>
+          Learn More!</h3>
+        <h5 class="h5-responsive font-weight-bold text-center">
+         To learn more about all this, visit the
+          <a href="http://www.groja.com/about" target="_blank"
+             title="Groja.com About page.".>About</a>
+          page on
+          <a href="http://www.groja.com" target="_blank"
+             title="Groja.com home page">Groja.com</a>.</h5>
+        <p>
+         The About page at Groja.com contains a wealth of information, including:</p>
+        <ul class="list-group mb-1">
+         <li class="list-group-item px-3 py-1">
+          The source of inspiration for creating Spiritual Portraits, and a
+           short video explaining the idea
+         </li>
+         <li class="list-group-item px-3 py-1">
+          Lists of books you can buy and sites you can visit to learn
+           more about the theories used to create these Spiritual Portraits
+         </li>
+         <li class="list-group-item px-3 py-1">
+          The backstory behind this and our other sites, including
+           a list of the various versions of the Groja &copy; program I have
+           written over the years
+         </li>
+        </ul>
+       </div><!-- .card-body -->
+       <div class="card-footer">
+        <p class="card-text text-center">
+         {% spaceless %}
+          <a href="http://www.groja.com/about" target="_blank"
+             title="Go to the About page on Groja.com .">
+           <button type="submit" class="btn-lg btn-primary" role="button"
+             onclick="send_ga_event_with_value_1('Button', 'Leave Home Page', 'Learn More');">
+            <i class="fa fa-lg fa-graduation-cap m-2 p-2" aria-hidden="true"></i>
+            &nbsp;Learn More&nbsp;
+            <i class="fa fa-lg fa-graduation-cap m-2 p-2" aria-hidden="true"></i>
+           </button></a>
+         {% endspaceless %}
+        </p>
+       </div><!-- .card-footer -->
+      </div><!-- .card -->
+     </div><!-- .card-group -->
+    </div><!-- .col-* -->
+   </div><!-- .row .wow -->
+  </section>
+ </div><!-- .container -->
+</main>
 {% endblock %}
 
-{% block bottom_right_ad %}{% endblock %}
-{% block bottom_row_ad %}{% endblock %}
+{% block scripts %}
+ {{ block.super }}
+ <!-- Initializations -->
+ <script type="text/javascript">
+  // Animations initialization
+  new WOW().init();
+ </script>
+{% endblock %}
