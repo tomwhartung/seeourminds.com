@@ -32,6 +32,8 @@ def home(request):
     title = 'SeeOurMinds.com';
     context = {
         'adsense_ads': adsense_ads,
+        'fixed_top': "fixed-top",
+        'navbar_color': '',
         'quiz_menu_data': Questionnaire.get_quiz_menu_data(),
         'title': title,
     }
@@ -48,9 +50,11 @@ def image(request, gallery_file_name=None, image_id=None):
     back_to_gallery_href = '/gallery/' + gallery_file_name + '/'
     title = 'Image: ' + image_dict.get('title')
     return render(request, 'content//galleries/gallery_image.html', {
+        'adsense_ads': adsense_ads,
         'back_to_gallery_href': back_to_gallery_href,
         'image_dict': image_dict,
-        'adsense_ads': adsense_ads,
+        'fixed_top': "",
+        'navbar_color': 'red darken-3',
         'quiz_menu_data': Questionnaire.get_quiz_menu_data(),
         'title': title,
     })
@@ -63,6 +67,8 @@ def index(request):
     template = loader.get_template('content/index.html')
     title = 'index page';
     context = {
+        'fixed_top': "",
+        'navbar_color': 'red darken-3',
         'quiz_menu_data': Questionnaire.get_quiz_menu_data(),
         'title': title,
     }
@@ -89,6 +95,8 @@ def galleries_list(request, galleries_list_name='all'):
     context = {
         'galleries_list_obj': galleries_list_obj,
         'adsense_ads': adsense_ads,
+        'fixed_top': "",
+        'navbar_color': 'red darken-3',
         'quiz_menu_data': Questionnaire.get_quiz_menu_data(),
         'title': title,
     }
@@ -111,6 +119,8 @@ def gallery(request, gallery_file_name='None'):
     context = {
         'gallery_dict': gallery_dict,
         'adsense_ads': adsense_ads,
+        'fixed_top': "",
+        'navbar_color': 'red darken-3',
         'quiz_menu_data': Questionnaire.get_quiz_menu_data(),
         'title': title,
     }
@@ -136,6 +146,8 @@ def affiliate_marketing_disclosure(request):
     title = 'Disclosure - SeeOurMinds.com';
     template = 'content/legal/affiliate_marketing_disclosure.html'
     context = {
+        'fixed_top': "",
+        'navbar_color': 'red darken-3',
         'quiz_menu_data': Questionnaire.get_quiz_menu_data(),
         'title': title,
     }
@@ -149,6 +161,8 @@ def privacy_policy(request):
     title = 'Privacy Policy - SeeOurMinds.com';
     template = 'content/legal/privacy_policy.html'
     context = {
+        'fixed_top': "",
+        'navbar_color': 'red darken-3',
         'quiz_menu_data': Questionnaire.get_quiz_menu_data(),
         'title': title,
     }
@@ -162,6 +176,8 @@ def questionnaire_disclaimer(request):
     title = 'Disclaimer - SeeOurMinds.com';
     template = 'content/legal/questionnaire_disclaimer.html'
     context = {
+        'fixed_top': "",
+        'navbar_color': 'red darken-3',
         'quiz_menu_data': Questionnaire.get_quiz_menu_data(),
         'title': title,
     }
@@ -175,6 +191,8 @@ def terms_of_service(request):
     title = 'Terms of Service - SeeOurMinds.com';
     template = 'content/legal/terms_of_service.html'
     context = {
+        'fixed_top': "",
+        'navbar_color': 'red darken-3',
         'quiz_menu_data': Questionnaire.get_quiz_menu_data(),
         'title': title,
     }
@@ -199,9 +217,11 @@ def quiz_about(request):
     quiz_list_data = Questionnaire.get_quiz_list_data()
     template = loader.get_template('content/quiz/quiz_about.html')
     context = {
-        'quiz_info': quiz_info,
-        'quiz_menu_data': Questionnaire.get_quiz_menu_data(),
         'adsense_ads': adsense_ads,
+        'fixed_top': "",
+        'navbar_color': 'red darken-3',
+        'quiz_menu_data': Questionnaire.get_quiz_menu_data(),
+        'quiz_info': quiz_info,
         'quiz_list_data': quiz_list_data,
         'title': title,
     }
@@ -252,6 +272,8 @@ def quiz_form(request, quiz_size_slug=Questionnaire.DEFAULT_QUIZ_SIZE_SLUG):
                     score_for_context = score.as_list_of_pairs()
                     context = {
                         'score': score_for_context,
+                        'fixed_top': "",
+                        'navbar_color': 'red darken-3',
                         'quiz_menu_data': quiz_menu_data,
                         'title': title,
                     }
@@ -274,9 +296,11 @@ def quiz_form(request, quiz_size_slug=Questionnaire.DEFAULT_QUIZ_SIZE_SLUG):
 
     template = loader.get_template('content/quiz/quiz_form.html')
     context = {
+        'adsense_ads': adsense_ads,
+        'fixed_top': "",
+        'navbar_color': 'red darken-3',
         'quiz_form': quiz_form,
         'quiz_info': quiz_info,
-        'adsense_ads': adsense_ads,
         'quiz_menu_data': quiz_menu_data,
         'title': title,
     }
@@ -387,6 +411,8 @@ def not_found(request, unknown_page='default_unk_pg_2'):
 
     template = loader.get_template('content/404.html')
     context = {
+        'fixed_top': "",
+        'navbar_color': 'red darken-3',
         'quiz_menu_data': Questionnaire.get_quiz_menu_data(),
         'unknown_page': unknown_page,
     }
