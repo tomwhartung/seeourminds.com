@@ -36,11 +36,13 @@
  {% block navbar %}
   <nav class="navbar {{ fixed_top }} navbar-expand-lg scrolling-navbar navbar-dark {{ navbar_color }}">
    <div class="container my-2">
-    <a href="/">
-     <img class="site-logo mr-3"
-          src="{% static 'content/images/header/infp-tomh_1987-81x81.gif' %}"
-          alt="Image of INFP containing more blue and red squares and fewer yellow and green squares.">
-    </a>
+    {% if include_logo %}
+     <a href="/">
+      <img class="site-logo mr-3"
+           src="{% static 'content/images/header/infp-tomh_1987-81x81.gif' %}"
+           alt="Image of INFP containing more blue and red squares and fewer yellow and green squares.">
+     </a>
+    {% endif %}
     <button class="navbar-toggler" type="button"
             data-toggle="collapse" data-target="#collapsibleNav"
             aria-controls="collapsibleNav" aria-expanded="false"
