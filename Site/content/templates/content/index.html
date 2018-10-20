@@ -1,368 +1,210 @@
-{% extends 'content/base.html' %}
+{% extends "content/base.html" %}
 
-{% load static %}
+{% block title %}Template {% endblock %}
 
-{% block head %}
+{% block navbar %}
  {{ block.super }}
- <link href="css/style.min.css" rel="stylesheet">
- <style type="text/css">
-   html,
-   body,
-   header,
-   .view {
-     height: 100%;
-   }
-   @media (max-width: 740px) {
-     html,
-     body,
-     header,
-     .view {
-       height: 1000px;
-     }
-   }
-   @media (min-width: 800px) and (max-width: 850px) {
-     html,
-     body,
-     header,
-     .view {
-       height: 650px;
-     }
-   }
-   @media (min-width: 800px) and (max-width: 850px) {
-             .navbar:not(.top-nav-collapse) {
-                 background: #1C2331!important;
-             }
-         }
- </style>
 {% endblock %}
 
 {% block content %}
-<div class="view full-page-intro" style="background-image: url('{% static 'content/images/home/Twain-bg-no_border.jpg' %}'); background-repeat: no-repeat; background-size: cover;">
- <div class="mask rgba-black-strong d-flex align-items-center justify-content-center">
+ <main class="mt-3">
   <div class="container">
-   <div class="row wow fadeIn">
-    <div class="col-md-6 m-4 white-text text-center text-md-left">
-     <h1 class="display-4 font-weight-bold text-center">SeeOurMinds.com</h1>
-     <h4 class="h4-responsive font-weight-bold text-center my-3">
-      <strong>Visualizing the Invisible Since 1989&trade;</strong>
-     </h4>
-     <hr class="hr-light my-4">
-     <p class="mb-3 d-none d-md-block font-weight-bold text-center">
-      <strong>
-       These abstract images &mdash; known as <q>Spiritual Portraits</q> &mdash;
-        use primary colors to represent an individual's personality, based on
-        their answers to a set of multiple-choice questions.
-      </strong>
-     </p>
-     <p class="mt-5 text-center">
-      <a href="/quiz" class="btn btn-danger btn-lg">
-       {% spaceless %}
-       <i class="fa fa-question-circle-o ml-2"></i>
-       &nbsp;Take the Quiz&nbsp;
-       <i class="fa fa-question-circle-o ml-2"></i>
-       {% endspaceless %}
-      </a>
-     </p>
-    </div><!-- .col-* -->
-    <div class="col-md-6 col-xl-5 mb-4">
-     <div class="card">
+   <div class="row justify-content-center">
+    <div class="z-depth-1-half m-5 p-5">
+     <div class="col-md-9">
+      <h1 class="text-center">Template</h1>
+      <p>Use this file, <b>templates/index.html</b> , as the starting point for
+       new pages for this site.</p>
+      <p>It has the same essential structure as the legal/*.html files except that
+       &mdash; unlike the legal/*.html files &mdash; this file references the
+       <b>navbar</b> and <b>footer</b> blocks.  It works both ways.
+       Just FYI.</p>
+     </div><!-- .col-md-9 -->
+    </div><!-- .z-depth-1-half -->
+   </div><!-- .row -->
+
+   <div class="w-100"><hr></div>
+
+   <a name="x"></a>
+   <div class="row align-items-center justify-content-around">
+    <div class="col-md-4">
+     <div class="card hoverable m-2">
       <div class="card-body">
-       <form method="POST" action="https://groja.com/conversion/seeourminds"
-             role="form">
-        <h3 class="dark-grey-text text-center">
-         <strong>Join Our Email List!<sup>&ast;</sup></strong>
-        </h3>
-        <hr>
-        <div class="md-form">
-         <i class="fa fa-user prefix grey-text"></i>
-         <input type="text" id="name" class="form-control">
-         <label for="name">Your name</label>
-        </div>
-        <div class="md-form">
-         <i class="fa fa-envelope prefix grey-text"></i>
-         <input type="text" id="email" class="form-control">
-         <label for="email">Your email</label>
-        </div>
-        <div class="text-center">
-         <button class="btn btn-danger">
-          {% spaceless %}
-           <i class="fa fa-envelope-open-o ml-2"></i>
-           &nbsp;Subscribe&nbsp;
-           <i class="fa fa-envelope-open-o ml-2"></i>
-          {% endspaceless %}
-         </button>
-         <hr>
-        </div>
-       </form>
+       <h2 class="card-title h2-responsive font-weight-bold">col-md-4 title</h2>
        <p class="card-text">
-        <sup>&ast;</sup>&nbsp;The Artsy Visions email newsletter is sent
-         monthly and includes updates for
-         <a href="/" title="Home page of SeeOurMinds.com">
-          SeeOurMinds.com</a>,
-         <a href="https://ArtsyVisions.com"
-            title="ArtsyVisions.com home page" target="_blank">
-          ArtsyVisions.com</a>, and
-         <a href="http://www.Groja.com"
-            title="Groja.com home page" target="_blank">
-          Groja.com</a>.
+        unordered list</p>
+       <ul class="list-group mb-3">
+        <li class="list-group-item">
+         item</li>
+       </ul>
+      </div><!-- .card-body -->
+      <div class="card-footer">
+       <p class="card-text text-center">
+        <a class="btn btn-default" href="#" role="button">
+         Button</a></p>
+      </div><!-- .card-footer -->
+     </div><!-- .card -->
+    </div><!-- .col-md-4 -->
+    <div class="col-md-4">
+     <div class="card hoverable m-2">
+      <div class="card-body">
+       <h2 class="card-title h2-responsive font-weight-bold">col-md-4 title</h2>
+       <p class="card-text">
+        ordered list</p>
+       <ol class="list-group mb-3">
+         <li class="list-group-item">
+          <span class="badge badge-white badge-pill mr-2">
+           <span class="black-text">1</span></span>
+          Step 1</li>
+         <li class="list-group-item">
+          <span class="badge badge-white badge-pill mr-2">
+           <span class="black-text">2</span></span>
+          Step 2</li>
+         <li class="list-group-item">
+          <span class="badge badge-white badge-pill mr-2">
+           <span class="black-text">3</span></span>
+          Step three.</li>
+       </ol>
+      </div><!-- .card-body -->
+      <div class="card-footer">
+       <p class="card-text text-center">
+        <a class="btn btn-default" href="#" role="button">
+         Button</a></p>
+      </div><!-- .card-footer -->
+     </div><!-- .card -->
+    </div><!-- .col-md-4 -->
+    <div class="col-md-4">
+     <div class="card hoverable m-2">
+      <div class="card-body">
+       <h2 class="card-title h2-responsive font-weight-bold">col-md-4 title</h2>
+       <p class="card-text">
+        description list</p>
+       <dl class="row mb-3">
+        <dt class="col-sm-4">Term</dt>
+        <dd class="col-sm-8">
+         description</dd>
+       </dl>
+      </div><!-- .card-body -->
+      <div class="card-footer">
+       <p class="card-text text-center">
+        <a class="btn btn-default" href="#" role="button">
+         Button</a></p>
+      </div><!-- .card-footer -->
+     </div><!-- .card -->
+    </div><!-- .col-md-4 -->
+   </div><!-- .row -->
+
+   <div class="w-100"></div>
+
+   <div class="row align-items-center justify-content-center">
+    <div class="card-group">
+     <div class="card hoverable m-2">
+      <div class="card-body">
+       <h4 class="card-title h4-responsive font-weight-bold text-center">
+        <i class="fa fa-lg fa-book m-2 p-2" aria-hidden="true"></i><br>
+        card-group - title</h4>
+       <p class="card-text">
+        "Use card groups to render cards as a single, attached element with equal width and height columns."
+         <a href="https://mdbootstrap.com/components/panels/#layout"
+            title="https://mdbootstrap.com/components/panels/#layout"
+            target="_blank">
+          https://mdbootstrap.com/components/panels/#layout</a>
        </p>
       </div><!-- .card-body -->
+      <div class="card-footer">
+       <p class="card-text text-center">
+        <a class="btn btn-default" href="#" role="button">
+         Button</a></p>
+      </div><!-- .card-footer -->
      </div><!-- .card -->
-    </div><!-- .col-* -->
+     <div class="card hoverable m-2">
+      <div class="card-body">
+       <h4 class="card-title h4-responsive font-weight-bold text-center">
+        <i class="fa fa-lg fa-book m-2 p-2" aria-hidden="true"></i><br>
+        card-group - title</h4>
+       <p class="card-text">
+         "Need a set of equal width and height panel that aren’t
+          attached to one another?  Use decks."
+          <a href="https://mdbootstrap.com/components/panels/#layout"
+             title="https://mdbootstrap.com/components/panels/#layout"
+             target="_blank">
+           https://mdbootstrap.com/components/panels/#layout</a>
+        </p>
+      </div><!-- .card-body -->
+      <div class="card-footer">
+       <p class="card-text text-center">
+        <a class="btn btn-default" href="#" role="button">
+         Button</a></p>
+      </div><!-- .card-footer -->
+     </div><!-- .card -->
+     <div class="card hoverable m-2">
+      <div class="card-body">
+       <h4 class="card-title h4-responsive font-weight-bold text-center">
+        <i class="fa fa-lg fa-book m-2 p-2" aria-hidden="true"></i><br>
+         card-group - title</h4>
+       <p class="card-text">
+        text</p>
+      </div><!-- .card-body -->
+      <div class="card-footer">
+       <p class="card-text text-center">
+        <a class="btn btn-default" href="#" role="button">
+         Button</a></p>
+      </div><!-- .card-footer -->
+     </div><!-- .card -->
+    </div><!-- .card-group -->
+
+    <div class="row align-items-center justify-content-center">
+     <div class="card-deck">
+      <div class="card hoverable m-2">
+       <div class="card-body">
+        <h4 class="card-title h4-responsive font-weight-bold text-center">
+         <i class="fa fa-lg fa-book m-2 p-2" aria-hidden="true"></i><br>
+         card-deck - title</h4>
+        <p class="card-text">
+         text
+        </p>
+       </div><!-- .card-body -->
+       <div class="card-footer">
+        <p class="card-text text-center">
+         <a class="btn btn-default" href="#" role="button">
+          Button</a></p>
+       </div><!-- .card-footer -->
+      </div><!-- .card -->
+      <div class="card hoverable m-2">
+       <div class="card-body">
+        <h4 class="card-title h4-responsive font-weight-bold text-center">
+         <i class="fa fa-lg fa-book m-2 p-2" aria-hidden="true"></i><br>
+         card-deck - title</h4>
+        <p class="card-text">
+        text</p>
+       </div><!-- .card-body -->
+       <div class="card-footer">
+        <p class="card-text text-center">
+         <a class="btn btn-default" href="#" role="button">
+          Button</a></p>
+       </div><!-- .card-footer -->
+      </div><!-- .card -->
+      <div class="card hoverable m-2">
+       <div class="card-body">
+        <h4 class="card-title h4-responsive font-weight-bold text-center">
+         <i class="fa fa-lg fa-book m-2 p-2" aria-hidden="true"></i><br>
+          card-deck - title</h4>
+        <p class="card-text">
+         text</p>
+       </div><!-- .card-body -->
+       <div class="card-footer">
+        <p class="card-text text-center">
+         <a class="btn btn-default" href="#" role="button">
+          Button</a></p>
+       </div><!-- .card-footer -->
+      </div><!-- .card -->
+     </div><!-- .card-deck -->
+
    </div><!-- .row -->
   </div><!-- .container -->
- </div><!-- .mask -->
-</div><!-- .view -->
-
-<main>
- <div class="container">
-  <section>
-   <div class="row wow fadeIn align-items-center justify-content-center">
-    <div class="col-sm-7 hoverable">
-     <h2 class="h2-responsive font-weight-bold text-center m-3 p-3">
-      <i class="fa fa-lg fa-question m-2 p-2" aria-hidden="true"></i>
-      <i class="fa fa-lg fa-question m-2 p-2" aria-hidden="true"></i>
-      <i class="fa fa-lg fa-question m-2 p-2" aria-hidden="true"></i><br>
-      Did you ever...?</h2>
-    </div><!-- .col-* -->
-    <div class="w-100"></div>
-    <div class="card-deck">
-     <div class="card hoverable m-2">
-      <div class="card-body">
-       <h3 class="card-title h3-responsive font-weight-bold text-center">
-        <i class="fa fa-lg fa-question-circle m-2 p-2" aria-hidden="true"></i><br>
-        Did you ever wonder...?</h3>
-       <h5 class="h5-responsive">
-        ... wonder what a personality might look like, if you could see it?</h5>
-      </div><!-- .card-body -->
-     </div><!-- .card -->
-     <div class="card hoverable m-2">
-      <div class="card-body">
-       <h3 class="card-title h3-responsive font-weight-bold text-center">
-        <i class="fa fa-lg fa-question-circle m-2 p-2" aria-hidden="true"></i><br>
-        Did you ever wish you could understand...?</h3>
-       <h5 class="h5-responsive">
-        ... understand why your friends, loved-ones, and
-         co-workers do and say the things they say and do?</h5>
-      </div><!-- .card-body -->
-     </div><!-- .card -->
-     <div class="card hoverable m-2">
-      <div class="card-body">
-       <h3 class="card-title h3-responsive font-weight-bold text-center">
-        <i class="fa fa-lg fa-question-circle m-2 p-2" aria-hidden="true"></i><br>
-         Did you ever want to learn...?</h3>
-       <h5 class="h5-responsive">
-        ... learn more about what makes us tick?</h5>
-      </div><!-- .card-body -->
-     </div><!-- .card -->
-    </div><!-- .card-deck -->
-    <div class="w-100"></div>
-    <div class="col-sm-7 hoverable">
-     <h2 class="h2-responsive font-weight-bold text-center m-3 p-3">
-      <i class="fa fa-lg fa-exclamation m-2 p-2" aria-hidden="true"></i>
-      <i class="fa fa-lg fa-exclamation m-2 p-2" aria-hidden="true"></i>
-      <i class="fa fa-lg fa-exclamation m-2 p-2" aria-hidden="true"></i><br>
-      If you have ever...</h2>
-    </div><!-- .col-* -->
-    <div class="w-100"></div>
-    <div class="col-sm-7">
-     <div class="card hoverable m-2">
-      <div class="card-body">
-       <h3 class="h3-responsive font-weight-bold text-center m-3">
-        <i class="fa fa-lg fa-exclamation-circle m-2 p-2" aria-hidden="true"></i><br>
-        If you have ever wondered, wished, or wanted any of these things,
-         welcome to</h3>
-       <h1 class="h1-responsive font-weight-bold text-center my-4">
-        SeeOurMinds!</h1>
-       <h2 class="h2-responsive font-weight-bold text-center m-3">
-        <q>Shedding light on the things we cannot see.</q></h2>
-      </div><!-- .card-body -->
-     </div><!-- .card -->
-    </div><!-- .col-* -->
-   </div><!-- .row .wow -->
-  </section>
-
-  <hr class="my-5">
-
-  <section>
-   <div class="row wow fadeIn align-items-center justify-content-center">
-    <div class="col-md-12">
-     <div class="card-group">
-      <div class="card hoverable m-2">
-       <div class="card-body">
-        <h3 class="card-title h3-responsive font-weight-bold text-center">
-         <i class="fa fa-lg fa-eye m-2 p-2" aria-hidden="true"></i><br>
-         See Their Minds!</h3>
-        <h5 class="h5-responsive font-weight-bold text-center">
-         To see a variety of Spiritual Portraits, visit the
-          <a href="/galleries" title="Link to the All Galleries page on this site">
-           Portrait Galleries.</a></h5>
-        <p>
-         The Portrait Galleries on this site contain images of the personalities of many people
-          &mdash; both real and fictional.</p>
-        <p>
-         There are also galleries showcasing the sixteen types and some
-          experimental compositions.
-         These galleries in particular contain sample images of generic
-          personality types that do not correspond to actual people.</p>
-       </div><!-- .card-body -->
-       <div class="card-footer">
-        <p class="card-text text-center">
-         {% spaceless %}
-          <a href="galleries" title="Visit the seeourminds.com Portrait Galleries.">
-           <button type="submit" class="btn-lg btn-primary"
-               onclick="send_ga_event_with_value_1('Button', 'Leave Home Page', 'See Their Minds');">
-           <i class="fa fa-lg fa-eye m-2 p-2" aria-hidden="true"></i>
-           &nbsp;See Their Minds&nbsp;
-           <i class="fa fa-lg fa-eye m-2 p-2" aria-hidden="true"></i>
-          </button></a>
-         {% endspaceless %}
-        </p>
-       </div><!-- .card-footer -->
-      </div><!-- .card -->
-      <div class="card hoverable m-2">
-       <div class="card-body">
-        <h3 class="card-title h3-responsive font-weight-bold text-center">
-         <i class="fa fa-lg fa-smile-o m-2 p-2" aria-hidden="true"></i><br>
-          See My Mind!</h3>
-        <h5 class="h5-responsive font-weight-bold text-center">
-         To see multiple images of my personality, visit the
-          <a href="/gallery/9100-real-self_portraits/"
-             title="Page containing the Gallery of Self-Portraits on this site">
-           Gallery of Self-Portraits</a>
-          on this site.</h5>
-        <p>
-         Over the years, I have answered a few different questionnaires,
-          and created a few different Spiritual Self-Portraits.</p>
-        <p>
-         This gallery shows some of the results and discusses their
-          consistencies &mdash; and their inconsistencies.
-         It also demonstrates some of the advanced features of the Groja &copy;
-          program, such as its ability to create images of different
-          sizes and with different aspect ratios.</p>
-       </div><!-- .card-body -->
-       <div class="card-footer">
-        <p class="card-text text-center">
-         {% spaceless %}
-          <a href="/gallery/9100-real-self_portraits/"
-             title="Single image page containing the image in the site header">
-           <button type="submit" class="btn-lg btn-primary"
-              onclick="send_ga_event_with_value_1('Button', 'Leave Home Page', 'See My Mind');">
-            <i class="fa fa-lg fa-smile-o m-2 p-2" aria-hidden="true"></i>
-            &nbsp;See My Mind&nbsp;
-            <i class="fa fa-lg fa-smile-o m-2 p-2" aria-hidden="true"></i>
-           </button></a>
-         {% endspaceless %}
-        </p>
-       </div><!-- .card-footer -->
-      </div><!-- .card -->
-     </div><!-- .card-group -->
-    </div><!-- .col-* -->
-
-    <div class="w-100"></div>
-
-    <div class="col-md-12">
-     <div class="card-group">
-      <div class="card hoverable m-2">
-       <div class="card-body">
-        <h3 class="card-title h3-responsive font-weight-bold text-center">
-         <i class="fa fa-lg fa-user m-2 p-2" aria-hidden="true"></i><br>
-          See Your Mind!</h3>
-        <h5 class="h5-responsive font-weight-bold text-center">
-         To get your Spiritual Portrait, visit the
-          <a href="http://www.groja.com/yourportrait" target="_blank"
-             title="Groja.com Your Portrait page.".>
-           Get Your Portrait</a>
-          page on
-          <a href="http://www.groja.com" target="_blank"
-             title="Groja.com home page">Groja.com</a>!</h5>
-        <p>
-         The only way to get your own, personalized Spiritual Portrait is to
-          contact us and ask us to create it for you.</p>
-        <p>
-         We create each portrait by hand, and the price of an image can range
-          anywhere from $0 to $1000.
-         However, we frequently offer special deals to people who subscribe to
-          monthly email newsletter.
-        <p>
-         The best way to learn when we run specials, and make sure you are
-          eligible for them when we do, is to subscribe to the
-          <a href="" title="Link to join the Artsy Visions email list" target="_blank">
-          Artsy Visions email list</p>.
-       </div><!-- .card-body -->
-       <div class="card-footer">
-        <p class="card-text text-center">
-         {% spaceless %}
-          <a href="http://www.groja.com/yourportrait" target="_blank"
-             title="Go to the Your Portrait page on Groja.com">
-           <button type="submit" class="btn-lg btn-primary" role="button"
-              onclick="send_ga_event_with_value_1('Button', 'Leave Home Page', 'See Your Mind');">
-            <i class="fa fa-lg fa-user m-2 p-2" aria-hidden="true"></i>
-            &nbsp;See Your Mind&nbsp;
-            <i class="fa fa-lg fa-user m-2 p-2" aria-hidden="true"></i>
-           </button></a>
-         {% endspaceless %}
-        </p>
-       </div><!-- .card-footer -->
-      </div><!-- .card -->
-      <div class="card hoverable m-2">
-       <div class="card-body">
-        <h3 class="card-title h3-responsive font-weight-bold text-center">
-         <i class="fa fa-lg fa-graduation-cap m-2 p-2" aria-hidden="true"></i><br>
-          Learn More!</h3>
-        <h5 class="h5-responsive font-weight-bold text-center">
-         To learn more about all this, visit the
-          <a href="http://www.groja.com/about" target="_blank"
-             title="Groja.com About page.".>About</a>
-          page on
-          <a href="http://www.groja.com" target="_blank"
-             title="Groja.com home page">Groja.com</a>.</h5>
-        <p>
-         The About page at Groja.com contains a wealth of information, including:</p>
-        <ul class="list-group mb-1">
-         <li class="list-group-item px-3 py-1">
-          The source of inspiration for creating Spiritual Portraits, and a
-           short video explaining the idea
-         </li>
-         <li class="list-group-item px-3 py-1">
-          Lists of books you can buy and sites you can visit to learn
-           more about the theories used to create these Spiritual Portraits
-         </li>
-         <li class="list-group-item px-3 py-1">
-          The backstory behind this and our other sites, including
-           a list of the various versions of the Groja &copy; program I have
-           written over the years
-         </li>
-        </ul>
-       </div><!-- .card-body -->
-       <div class="card-footer">
-        <p class="card-text text-center">
-         {% spaceless %}
-          <a href="http://www.groja.com/about" target="_blank"
-             title="Go to the About page on Groja.com .">
-           <button type="submit" class="btn-lg btn-primary" role="button"
-             onclick="send_ga_event_with_value_1('Button', 'Leave Home Page', 'Learn More');">
-            <i class="fa fa-lg fa-graduation-cap m-2 p-2" aria-hidden="true"></i>
-            &nbsp;Learn More&nbsp;
-            <i class="fa fa-lg fa-graduation-cap m-2 p-2" aria-hidden="true"></i>
-           </button></a>
-         {% endspaceless %}
-        </p>
-       </div><!-- .card-footer -->
-      </div><!-- .card -->
-     </div><!-- .card-group -->
-    </div><!-- .col-* -->
-   </div><!-- .row .wow -->
-  </section>
- </div><!-- .container -->
-</main>
+ </main>
 {% endblock %}
 
-{% block scripts %}
+{% block footer %}
  {{ block.super }}
- <!-- Initializations -->
- <script type="text/javascript">
-  // Animations initialization
-  new WOW().init();
- </script>
 {% endblock %}
