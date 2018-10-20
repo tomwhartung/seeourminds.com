@@ -33,6 +33,7 @@ def home(request):
     context = {
         'adsense_ads': adsense_ads,
         'fixed_top': "fixed-top",
+        'include_logo': False,
         'navbar_color': '',
         'quiz_menu_data': Questionnaire.get_quiz_menu_data(),
         'title': title,
@@ -54,6 +55,7 @@ def image(request, gallery_file_name=None, image_id=None):
         'back_to_gallery_href': back_to_gallery_href,
         'image_dict': image_dict,
         'fixed_top': "",
+        'include_logo': True,
         'navbar_color': 'red darken-3',
         'quiz_menu_data': Questionnaire.get_quiz_menu_data(),
         'title': title,
@@ -68,6 +70,7 @@ def index(request):
     title = 'index page';
     context = {
         'fixed_top': "",
+        'include_logo': True,
         'navbar_color': 'red darken-3',
         'quiz_menu_data': Questionnaire.get_quiz_menu_data(),
         'title': title,
@@ -96,6 +99,7 @@ def galleries_list(request, galleries_list_name='all'):
         'galleries_list_obj': galleries_list_obj,
         'adsense_ads': adsense_ads,
         'fixed_top': "",
+        'include_logo': True,
         'navbar_color': 'red darken-3',
         'quiz_menu_data': Questionnaire.get_quiz_menu_data(),
         'title': title,
@@ -120,6 +124,7 @@ def gallery(request, gallery_file_name='None'):
         'gallery_dict': gallery_dict,
         'adsense_ads': adsense_ads,
         'fixed_top': "",
+        'include_logo': True,
         'navbar_color': 'red darken-3',
         'quiz_menu_data': Questionnaire.get_quiz_menu_data(),
         'title': title,
@@ -147,6 +152,7 @@ def affiliate_marketing_disclosure(request):
     template = 'content/legal/affiliate_marketing_disclosure.html'
     context = {
         'fixed_top': "",
+        'include_logo': True,
         'navbar_color': 'red darken-3',
         'quiz_menu_data': Questionnaire.get_quiz_menu_data(),
         'title': title,
@@ -162,6 +168,7 @@ def privacy_policy(request):
     template = 'content/legal/privacy_policy.html'
     context = {
         'fixed_top': "",
+        'include_logo': True,
         'navbar_color': 'red darken-3',
         'quiz_menu_data': Questionnaire.get_quiz_menu_data(),
         'title': title,
@@ -177,6 +184,7 @@ def questionnaire_disclaimer(request):
     template = 'content/legal/questionnaire_disclaimer.html'
     context = {
         'fixed_top': "",
+        'include_logo': True,
         'navbar_color': 'red darken-3',
         'quiz_menu_data': Questionnaire.get_quiz_menu_data(),
         'title': title,
@@ -192,6 +200,7 @@ def terms_of_service(request):
     template = 'content/legal/terms_of_service.html'
     context = {
         'fixed_top': "",
+        'include_logo': True,
         'navbar_color': 'red darken-3',
         'quiz_menu_data': Questionnaire.get_quiz_menu_data(),
         'title': title,
@@ -219,6 +228,7 @@ def quiz_about(request):
     context = {
         'adsense_ads': adsense_ads,
         'fixed_top': "",
+        'include_logo': True,
         'navbar_color': 'red darken-3',
         'quiz_menu_data': Questionnaire.get_quiz_menu_data(),
         'quiz_info': quiz_info,
@@ -273,6 +283,7 @@ def quiz_form(request, quiz_size_slug=Questionnaire.DEFAULT_QUIZ_SIZE_SLUG):
                     context = {
                         'score': score_for_context,
                         'fixed_top': "",
+                        'include_logo': True,
                         'navbar_color': 'red darken-3',
                         'quiz_menu_data': quiz_menu_data,
                         'title': title,
@@ -298,6 +309,7 @@ def quiz_form(request, quiz_size_slug=Questionnaire.DEFAULT_QUIZ_SIZE_SLUG):
     context = {
         'adsense_ads': adsense_ads,
         'fixed_top': "",
+        'include_logo': True,
         'navbar_color': 'red darken-3',
         'quiz_form': quiz_form,
         'quiz_info': quiz_info,
@@ -412,6 +424,7 @@ def not_found(request, unknown_page='default_unk_pg_2'):
     template = loader.get_template('content/404.html')
     context = {
         'fixed_top': "",
+        'include_logo': True,
         'navbar_color': 'red darken-3',
         'quiz_menu_data': Questionnaire.get_quiz_menu_data(),
         'unknown_page': unknown_page,
