@@ -24,7 +24,7 @@
      <div class="col-md-9">
       <div class="card hoverable m-2">
        <div class="card-body">
-        <p class="card-text text-center">
+        <p class="text-center">
          <img class="img-fluid hoverable"
               src="{% static image_dict.path %}">
         </p>
@@ -50,7 +50,7 @@
       <div class="card hoverable m-2">
        <div class="card-body">
         {% if image_dict.explain_dom or image_dict.explain_aux %}
-         <p class="card-text text-center">
+         <p class="text-center">
           {% if image_dict.explain_dom  %}
            <a class="btn btn-md" id="toggle-explain-dom"
            title="Toggle explanation of how the image represents the dominant personality function">
@@ -64,12 +64,12 @@
          </p>
          {% if image_dict.explain_dom  %}
           <p id="explain-dom"
-             class="card-text text-left hoverable mx-2 mx-lg-5 my-1 px-2 px-lg-5 py-3 som-text-to-toggle">
+             class="text-left hoverable mx-2 mx-lg-5 my-1 px-2 px-lg-5 py-3 som-text-to-toggle">
            {{ image_dict.explain_dom }}</p>
          {% endif %}
          {% if image_dict.explain_aux %}
           <p id="explain-aux"
-             class="card-text text-left hoverable mx-2 mx-lg-5 5 my-1 px-2 px-lg-5 py-3 som-text-to-toggle">
+             class="text-left hoverable mx-2 mx-lg-5 5 my-1 px-2 px-lg-5 py-3 som-text-to-toggle">
            {{ image_dict.explain_aux }}</p>
          {% endif %}
         {% endif %}
@@ -92,7 +92,7 @@
          </p>
         {% endif %}
         {% if image_dict.story_html or image_dict.meat_portrait_href %}
-         <p class="card-text text-center">
+         <p class="text-center">
           {% if image_dict.story_html %}
            <a class="btn btn-mdb-color btn-md" id="toggle-story-html"
               href="#whole-story"
@@ -107,7 +107,7 @@
           {% endif %}
          </p>
         {% endif %}
-        <p class="card-text text-center">
+        <p class="text-center">
          <a href="https://en.wikipedia.org/wiki/{{ image_dict.four_letter_type }}"
             title="Click to open the wikipedia page for {{ image_dict.four_letter_type }}s in a new window"
             target="_blank">
@@ -119,7 +119,7 @@
          </a>
         </p>
         {% if image_dict.compare_to or image_dict.contrast_with %}
-         <p class="card-text text-center">
+         <p class="text-center">
           {% if image_dict.compare_to_path  %}
            <a class="btn btn-mdb-color btn-md"
               href="{{ image_dict.compare_to_path }}"
