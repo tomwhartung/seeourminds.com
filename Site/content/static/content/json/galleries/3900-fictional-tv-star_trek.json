@@ -1,9 +1,9 @@
 {
   "gallery_title": "Original Star Trek",
   "see_gallery_button_text": "See Their Minds",
-  "list_page_teaser": "Dr. McCoy's warm image stands in stark contrast to Mr. Spock's logical image, because their personalities are so different.  Compare their images, and see how Captain Kirk fits in the mix.",
-  "description_html": "<p>Archetypal characters like Dr. McCoy and Mr. Spock give <a href='http://www.imdb.com/title/tt0060028/' title='Learn about the Original Star Trek series on imdb.com' target='_blank'>Star Trek</a> a lasting appeal.  Evidence of this appeal lies in the fact that the three seasons in the <a href='https://en.wikipedia.org/wiki/Star_Trek:_The_Original_Series' title='Page about the original series on wikipedia.org' target='_blank'>original series</a> led to the creation of <a href='https://en.wikipedia.org/wiki/Star_Trek_(film_series)' title='Page about the Star Trek Films on wikipedia.org' target='_blank'>over a dozen films</a> and several additional television series!</p>",
-  "story_html": "<p>Note that only the characters as they appear <b>in the original series</b> form the basis for these images.</p><p>Look for a full story, additional images, and possibly even additional galleries to appear on this site in the near future.</p><p>To learn when we update the site, follow us on social media or <a href='https://groja.com/conversion/seeourminds' title='Link to a page where you can join our email list' target='_blank'>join our email list!</a>",
+  "list_page_teaser": "Dr. McCoy's warm image stands in stark contrast to Mr. Spock's logical image, because their personalities are so different.  Compare their images, and see how Captain Kirk and the rest of the crew fit in the mix.",
+  "description_html": "<p>Archetypal characters like Dr. McCoy, Captain Kirk, and Mr. Spock give <a href='http://www.imdb.com/title/tt0060028/' title='Learn about the Original Star Trek series on imdb.com' target='_blank'>Star Trek</a> a lasting appeal.  Evidence of this appeal lies in the fact that the three seasons in the <a href='https://en.wikipedia.org/wiki/Star_Trek:_The_Original_Series' title='Page about the original series on wikipedia.org' target='_blank'>original series</a> led to the creation of <a href='https://en.wikipedia.org/wiki/Star_Trek_(film_series)' title='Page about the Star Trek Films on wikipedia.org' target='_blank'>over a dozen films</a> and several additional television series!</p><p>Note that only the characters as they appear <b>in the original series</b> form the basis for these images.</p>",
+  "story_html": "",
   "image_list":
   [
     {
@@ -54,7 +54,7 @@
       "contrast_with": { }
     }, {
       "id": "3904",
-      "title": "Spock",
+      "title": "Mr. Spock",
       "subtitle_html": "<a href='https://en.wikipedia.org/wiki/Spock' title='Wikipedia page for Spock' target='_blank'>First Officer</a> of the <a href='https://en.wikipedia.org/wiki/Starship_Enterprise' title='Wikipedia page for the USS Starship Enterprise' target='_blank'>USS Enterprise</a>",
       "gallery_page_teaser": "Mr. Spock's spiritual portrait looks so different from Dr. McCoy's because their personalities are so different.  Click on the image to learn more!",
       "image_file_name": "istj-mr_spock-3.jpg",
