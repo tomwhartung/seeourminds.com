@@ -120,11 +120,8 @@
       "archetype": "Se",
       "quiz_type": "KTS2",
       "year": "2018",
-
       "explain_dom": "The Yellow in Uhura's spiritual portrait represents her dominant personality trait, her realistic outlook and open to new experiences.  In Extraverts, the dominant trait is directed outwardly, and spiritual portraits use a long vertical line to represent this, because it is the side of their personality that is most evident.  One way Uhura demonstrates this trait is by being open to risking everything to join the rest of the crew aboard the Starship.",
-
-      "explain_aux": "The Red in Uhura's spiritual portrait represents their auxiliary personality trait, her warmth and compassion.  In Extraverts, the auxiliary trait is directed inwardly, and spiritual portraits use a horizontal line to represent this.  She demonstrates this trait when ....",
-
+      "explain_aux": "The Red in Uhura's spiritual portrait represents their auxiliary personality trait, her warmth and compassion.  In Extraverts, the auxiliary trait is directed inwardly, and spiritual portraits use a horizontal line to represent this.  She demonstrates this trait in the affection she shows for people - and the soft, cute little tribbles.",
       "story_intro_html": "<p> </p>",
       "story_html": "<p> </p><blockquote> </blockquote><p> </p><hr><p>This spiritual portrait is based on _______.</p>",
       "story_html_img": "<p>Idea: only include images with stories for family and friends.</p><a href='/static/content/images/stories/subdir/image_name.jpg' title='Link to display full-size version of this image on this site'><img src='/static/content/images/stories/subdir/image_name.jpg' class='story-image-left' /></a>",
@@ -148,14 +145,8 @@
       "archetype": "Se",
       "quiz_type": "KTS2",
       "year": "2018",
-
       "explain_dom": "The Yellow in Sulu's spiritual portrait represents his dominant personality trait, his preference for being realistic and open to new experiences.  In Extraverts, the dominant trait is directed outwardly, and spiritual portraits use a long vertical line to represent this, because it is the side of their personality that is most evident.  One way Sulu demonstrates this trait is by being open to risking everything to join the rest of the crew aboard the Starship.",
-
-      "explain_aux": "The Green in this spiritual portrait represents X's auxiliary personality trait, Thinking: objectivity; rationality; cool-headedness; very slight/moderate/strong preference for logic/reason/objectivity over emotion/empathy/subjectivity; their very slight/moderate/strong preference for the/tendency to be more logical/rational/objective over the emotional/personal/subjective.",
-      "explain_aux": "The Green in Sulu's spiritual portrait represents their auxiliary personality trait, their very slight/moderate/strong preference for making logical/rational/subjective rather than emotional/personal/objective decisions; their very slight/moderate/strong preference for being/tendency to be more logical/impersonal/objective rather than emotional/personal/subjective.",
-
-      "explain_aux_constant": "In Extraverts, the auxiliary trait is directed inwardly, and spiritual portraits use a horizontal line to represent this.  He/She demonstrates/exhibits this trait in their (note that is easier to find examples of decisions than perceptions!) ....",
-
+      "explain_aux": "The Green in Sulu's spiritual portrait represents his preference for being calm, objective, and rational.  In Extraverts, the auxiliary trait is directed inwardly, and spiritual portraits use a horizontal line to represent this.  He demonstrates this trait when he is able to remain calm and not panic when the ship is under attack.",
       "story_intro_html": "<p> </p>",
       "story_html": "<p> </p><blockquote> </blockquote><p> </p><hr><p>This spiritual portrait is based on _______.</p>",
       "story_html_img": "<p>Idea: only include images with stories for family and friends.</p><a href='/static/content/images/stories/subdir/image_name.jpg' title='Link to display full-size version of this image on this site'><img src='/static/content/images/stories/subdir/image_name.jpg' class='story-image-left' /></a>",
@@ -165,7 +156,7 @@
       "id": "3908",
       "title": "Pavel Chekov",
       "subtitle_html": "<a href='https://en.wikipedia.org/wiki/Pavel_Chekov' title='Wikipedia page for Chekov' target='_blank'>Ensign</a> on the <a href='https://en.wikipedia.org/wiki/Starship_Enterprise' title='Wikipedia page for the USS Starship Enterprise' target='_blank'>USS Enterprise</a>",
-      "gallery_page_teaser": "Checkov's spiritual portrait shows he is realistic and logical, and his personality is similar to Sulu's.  Click on the image to learn more!",
+      "gallery_page_teaser": "Chekov's spiritual portrait shows he is realistic and logical, and his personality is similar to Sulu's.  Click on the image to learn more!",
       "image_file_name": "estp-pavel_chekov-1.jpg",
       "meat_portrait_href": "https://en.wikipedia.org/wiki/File:Walter_Koenig_Star_Trek.JPG",
       "composition": "O",
@@ -179,14 +170,8 @@
       "archetype": "Se",
       "quiz_type": "KTS2",
       "year": "2018",
-
-      "explain_dom": "The Yellow in Chekof's spiritual portrait represents their dominant personality trait, his preference for being pragmatic and open to new experiences.  In Extraverts, the dominant trait is directed outwardly, and spiritual portraits use a long vertical line to represent this, because it is the side of their personality that is most evident.  One way Chekov demonstrates this trait is by being open to risking everything to join the rest of the crew aboard the Starship.",
-
-      "explain_aux": "The Green in this spiritual portrait represents X's auxiliary personality trait, Thinking: objectivity; rationality; cool-headedness; very slight/moderate/strong preference for logic/reason/objectivity over emotion/empathy/subjectivity; their very slight/moderate/strong preference for the/tendency to be more logical/rational/objective over the emotional/personal/subjective.",
-      "explain_aux": "The Green in Chekof's spiritual portrait represents their auxiliary personality trait, their very slight/moderate/strong preference for making logical/rational/subjective rather than emotional/personal/objective decisions; their very slight/moderate/strong preference for being/tendency to be more logical/impersonal/objective rather than emotional/personal/subjective.",
-
-      "explain_aux_constant": "In Extraverts, the auxiliary trait is directed inwardly, and spiritual portraits use a horizontal line to represent this.  He/She demonstrates/exhibits this trait in their (note that is easier to find examples of decisions than perceptions!) ....",
-
+      "explain_dom": "The Yellow in Chekov's spiritual portrait represents their dominant personality trait, his preference for being pragmatic and open to new experiences.  In Extraverts, the dominant trait is directed outwardly, and spiritual portraits use a long vertical line to represent this, because it is the side of their personality that is most evident.  One way Chekov demonstrates this trait is by being open to risking everything to join the rest of the crew aboard the Starship.",
+      "explain_aux": "The Green in Chekov's spiritual portrait represents their auxiliary personality trait, his preference for being calm, objective, and rational.  In Extraverts, the auxiliary trait is directed inwardly, and spiritual portraits use a horizontal line to represent this.  Chekov demonstrates this trait when he is able to remain calm and not panic when the ship is under attack.",
       "story_intro_html": "<p> </p>",
       "story_html": "<p> </p><blockquote> </blockquote><p> </p><hr><p>This spiritual portrait is based on _______.</p>",
       "story_html_img": "<p>Idea: only include images with stories for family and friends.</p><a href='/static/content/images/stories/subdir/image_name.jpg' title='Link to display full-size version of this image on this site'><img src='/static/content/images/stories/subdir/image_name.jpg' class='story-image-left' /></a>",
