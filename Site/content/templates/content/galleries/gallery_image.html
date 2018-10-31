@@ -74,10 +74,10 @@
          {% endif %}
         {% endif %}
         {% if image_dict.subtitle_html %}
-         <h3 class="font-weight-bold text-center">
+         <h3 class="font-weight-bold text-center mt-3">
           <em><u>{{ image_dict.subtitle_html | safe }}</u></em></h3>
         {% endif %}
-        {% if image_dict.story_html %}
+        {% if image_dict.story_intro_html or image_dict.story_html %}
          <p class="card-text text-left">
           {% spaceless %}
            {% if image_dict.story_intro_html %}
