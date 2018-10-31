@@ -138,21 +138,36 @@
       </div><!-- .card -->
      </div><!-- .col-sm-12 -->
     </div><!-- .row -->
- {% if image_dict.story_html %}
     <a name="whole-story"></a>
     <div class="row align-items-center justify-content-center">
      <div class="col-sm-12">
       <div class="card hoverable m-1 p-1 m-sm-2 p-sm-2 m-lg-3 p-lg-3">
        <div class="card-body mx-1 mx-sm-3 mx-lg-5">
-        <h2 class="font-weight-bold text-center">
-         {{ image_dict.title }}:<br>
-         The Whole Story</h2>
-         {{ image_dict.story_html | safe }}
+        {% if image_dict.story_html %}
+         <h2 class="font-weight-bold text-center">
+          {{ image_dict.title }}:<br>
+          The Whole Story</h2>
+          {{ image_dict.story_html | safe }}
+        {% else %}
+         <h2 class="font-weight-bold text-center">
+          <i class="fa fa-pencil" aria-hidden="true"></i><br>
+          Sorry, No Story Yet!</h2>
+          <p>
+           It takes a long time to write a good story, and we haven't yet found
+            time to write one for this image.
+           Rest assured, though, we are on it!
+          </p>
+          <ul class="list-group mb-3">
+           <li class="list-group-item">
+            item</li>
+          </ul>
+          <p>
+          </p>
+        {% endif %}
        </div><!-- .card-body -->
       </div><!-- .card -->
      </div><!-- .col-sm-12 -->
     </div><!-- .row -->
- {% endif %}
 {% endblock %}
 
 {% block scripts %}
