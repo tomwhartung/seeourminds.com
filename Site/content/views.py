@@ -78,6 +78,23 @@ def index(request):
     return HttpResponse(template.render(context, request))
 
 
+def versions(request):
+
+    """ Load and render the versions template """
+
+    import platform
+    python_version = platform.python_version()
+    import django
+    django_version = django.VERSION
+
+    template = loader.get_template('content/versions.html')
+    context = {
+        'python_version': python_version,
+        'django_version': django_version,
+    }
+    return HttpResponse(template.render(context, request))
+
+
 ##
 ## -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 ##   Views for Gallery Pages
