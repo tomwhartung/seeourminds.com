@@ -67,7 +67,7 @@ def index(request):
     """ Load and render the index page template """
 
     template = loader.get_template('content/index.html')
-    title = 'index page';
+    title = 'index page'
     context = {
         'fixed_top': "",
         'include_logo': True,
@@ -88,9 +88,15 @@ def versions(request):
     django_version = django.VERSION
 
     template = loader.get_template('content/versions.html')
+    title = 'versions page'
     context = {
+        'fixed_top': "",
+        'include_logo': True,
+        'navbar_color': 'red darken-3',
+        'quiz_menu_data': Questionnaire.get_quiz_menu_data(),
         'python_version': python_version,
         'django_version': django_version,
+        'title': title,
     }
     return HttpResponse(template.render(context, request))
 
