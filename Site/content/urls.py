@@ -60,6 +60,7 @@ urlpatterns = [
     url(r'^google428ef5aab2bc0870.html$',
         views.google428ef5aab2bc0870,
         name='google428ef5aab2bc0870'),
+    url(r'^v$', views.versions, name='versions'),
     url(r'^404/(?P<unknown_page>[\w\W]+)$',
         views.not_found,
         name='not_found'),
