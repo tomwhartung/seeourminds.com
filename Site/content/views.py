@@ -85,7 +85,8 @@ def versions(request):
     import platform
     python_version = platform.python_version()
     import django
-    django_version = django.VERSION
+    django_version_1 = django.VERSION
+    django_version_2 = django.get_version()
 
     template = loader.get_template('content/versions.html')
     title = 'versions page'
@@ -94,9 +95,10 @@ def versions(request):
         'include_logo': True,
         'navbar_color': 'red darken-3',
         'quiz_menu_data': Questionnaire.get_quiz_menu_data(),
-        'python_version': python_version,
-        'django_version': django_version,
         'title': title,
+        'python_version': python_version,
+        'django_version_1': django_version_1,
+        'django_version_2': django_version_2,
     }
     return HttpResponse(template.render(context, request))
 
