@@ -21,11 +21,28 @@
        Python: {{ python_version }}
       </li>
       <li class="list-group-item">
-       Django: {{ django_version }}
+       django.VERSION: {{ django_version_1 }}
       </li>
       <li class="list-group-item">
+       django.get_version(): {{ django_version_2 }}
       </li>
      </ul>
+     <p>
+      <u>Command line &ndash; python:</u><br>
+      which python<br>
+      python -V<br>
+      python --version<br>
+      which python3<br>
+      python3 --version<br>
+      python3 -V<br>
+     </p>
+     <hr>
+     <p>
+      <u>Command line &ndash; django:</u><br>
+      python3 -c "import django; print(django.VERSION)"<br>
+      python3 -c "import django; print(django.get_version())"
+     </p>
+     <hr>
     </div><!-- .col-* -->
    </div><!-- .z-depth-1-half -->
   </div><!-- .row -->
