@@ -18,29 +18,32 @@
      </p>
      <ul class="list-group mb-3">
       <li class="list-group-item">
-       Python: {{ python_version }}
+       django.get_version(): {{ django_version_2 }}
       </li>
       <li class="list-group-item">
        django.VERSION: {{ django_version_1 }}
       </li>
       <li class="list-group-item">
-       django.get_version(): {{ django_version_2 }}
+       Python: {{ python_version }}
       </li>
      </ul>
      <p>
-      <u>Command line &ndash; python:</u><br>
-      which python<br>
-      python -V<br>
-      python --version<br>
-      which python3<br>
-      python3 --version<br>
-      python3 -V<br>
+      <u>Command line &ndash; django:</u><br>
+      python3 -c "import django; print(django.get_version())"<br>
+      python3 -c "import django; print(django.VERSION)"
      </p>
      <hr>
      <p>
-      <u>Command line &ndash; django:</u><br>
-      python3 -c "import django; print(django.VERSION)"<br>
-      python3 -c "import django; print(django.get_version())"
+      <u>Command line &ndash; python:</u><sup>*</sup><br>
+      which python3<br>
+      python3 --version<br>
+      python3 -V<br>
+      which python<br>
+      python -V<br>
+      python --version<br>
+     </p>
+     <p>
+      * Be careful changing the system version, applications may be dependent on it.
      </p>
      <hr>
     </div><!-- .col-* -->
