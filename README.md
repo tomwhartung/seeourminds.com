@@ -1,4 +1,4 @@
-# seeourminds.com-mdb
+# seeourminds.com
 
 Repo for converting the css for SeeOurMinds.com from Bootstrap 3.3.7 to Material Design Bootstrap (MDB).
 
@@ -95,4 +95,8 @@ Adding these files to subdirectories of `static/content` :
 css/style.css
 css/style.min.css
 ```
+
+## Step 5: Deployment
+
+See the end of the `README.md` file in the `artsyvisions.com` repo for details about deploying this new code.
 
