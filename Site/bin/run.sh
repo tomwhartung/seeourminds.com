@@ -17,4 +17,4 @@
 
 export RUNNING_LOCALLY=1
 export PYTHONPATH="..:${PYTHONPATH}"
-python3 -m manage runserver 0.0.0.0:8002
+python3 -m manage runserver 0.0.0.0:8001
