@@ -9,3 +9,7 @@
   - **Put new styles here**
     - Name is consistent with other python sites, e.g., seeourminds.com
 
+- seeourminds-bootstrap.css
+  - Originally used with bootstrap 3
+  - Now obsolete, and deleted on 2018-11-28
+
