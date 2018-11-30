@@ -361,7 +361,7 @@ class Image:
                     + image_file_directory + '/' + image_dict["image_file_name"]
                 if self.image_dict.get("story_intro_html"):
                     self.image_dict["show_story_btn_text"] \
-                        = 'Show the Whole Story'
+                        = 'Show the Story'
                 else:
                     self.image_dict["show_story_btn_text"] = 'Show the Story'
 
