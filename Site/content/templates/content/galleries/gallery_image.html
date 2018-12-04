@@ -159,8 +159,21 @@
      </div><!-- .col-* -->
     </div><!-- .row -->
     <a name="whole-story"></a>
+   {% if image_dict.disclosure_html %}
     <div class="row align-items-center justify-content-center">
-     <div class="col-md-10 col-lg-9 col-xl-8">
+     <div class="col-md-11 col-lg-10 col-xl-9">
+      <div class="card hoverable">
+       <div class="card-body">
+        <p class="">
+         {{ image_dict.disclosure_html | safe }}
+        </p>
+       </div><!-- .card-body -->
+      </div><!-- .card -->
+     </div><!-- .col-* -->
+    </div><!-- .row -->
+   {% endif %}
+    <div class="row align-items-center justify-content-center">
+     <div class="col-sm-11 col-md-10 col-lg-9 col-xl-8">
       <div class="card hoverable m-1 p-1 m-sm-2 p-sm-2 m-lg-3 p-lg-3">
        <div class="card-body mx-1 mx-sm-3 mx-lg-5">
         {% if image_dict.story_html %}
