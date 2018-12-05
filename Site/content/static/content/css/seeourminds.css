@@ -140,6 +140,29 @@ img.center {
     margin: 0 auto;
 }
 
+q.dialog,
+q.document-title,
+q.from-book {
+  font-style: italic;
+  font-weight: bold;
+}
+q.mantra,
+q.slang {
+  font-style: italic;
+}
+
+.foreign-term {
+  font-style: italic;
+}
+.book-title,
+.episode-title,
+.mental-function,
+.movie-title,
+.series-title {
+  font-style: italic;
+  text-decoration: underline;
+}
+
 ul.notes {
     list-style-type: none;
 }
