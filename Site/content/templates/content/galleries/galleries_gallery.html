@@ -13,7 +13,7 @@
 {% endblock %}
 {% block gallery_top_row %}
     <div class="row align-items-center justify-content-center">
-     <div class="col-md-9">
+     <div class="col-md-8 col-lg-7 col-xl-6">
       <div class="card hoverable m-2">
        <div class="card-body">
         <p>
@@ -29,7 +29,16 @@
         {% endif %}
        </div><!-- .card-body -->
       </div><!-- .card -->
-     </div><!-- .col-md-9 -->
+     </div><!-- .col-* -->
+    {% if gallery_dict.affiliate_ad_html %}
+     <div class="col-md-4 col-lg-3">
+      <div class="card hoverable m-2">
+       <div class="card-body">
+        {{ gallery_dict.affiliate_ad_html | safe }}
+       </div><!-- .card-body -->
+      </div><!-- .card -->
+     </div><!-- .col-* -->
+    {% endif %}
     </div><!-- .row -->
 {% endblock %}
 
