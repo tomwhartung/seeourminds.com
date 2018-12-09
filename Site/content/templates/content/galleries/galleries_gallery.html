@@ -42,7 +42,7 @@
 {% endblock %}
 
 {% block gallery_content_rows %}
-    <div class="row">
+    <div class="row align-items-center justify-content-around">
      {% for image_dict in gallery_dict.image_list %}
       {% if image_dict.title == 'responsive_ad' %}
         {% block middle_content_responsive_ad %}{{ block.super }}{% endblock %}
