@@ -15,6 +15,7 @@ from . import views
 urlpatterns = [
     url(r'^$', views.home, name='home'),
     url(r'^home$', views.home, name='home'),
+    url(r'^v$', views.versions, name='versions'),
     url(r'^galleries$', views.galleries_list, name='galleries_list'),
     url(r'^galleries/$', views.galleries_list, name='galleries_list'),
     url(r'^galleries/(?P<galleries_list_name>\S+)/$',
@@ -60,14 +61,10 @@ urlpatterns = [
     url(r'^google428ef5aab2bc0870.html$',
         views.google428ef5aab2bc0870,
         name='google428ef5aab2bc0870'),
-    url(r'^v$', views.versions, name='versions'),
     url(r'^404/(?P<unknown_page>[\w\W]+)$',
         views.not_found,
         name='not_found'),
     url(r'^(?P<unknown_page>[\w\W]+)/$',
-        views.process_shortcut,
-        name='process_shortcut'),
-    url(r'^(?P<unknown_page>[\w\W]+)$',
         views.process_shortcut,
         name='process_shortcut'),
 ]
