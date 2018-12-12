@@ -403,7 +403,7 @@ def process_shortcut(request, unknown_page='default_unk_pg_1'):
         'sw': '/galleries/star_wars/',
         'tp': '/galleries/twin_peaks/',
         'wire': '/galleries/the_wire/',
-        'xf': '/gallery//3700-fictional-tv-x_files/',
+        'xf': '/gallery/3700-fictional-tv-x_files/',
         'x-files': '/gallery/3700-fictional-tv-x_files/',
         'x_files': '/gallery/3700-fictional-tv-x_files/',
         'clinton': '/image/5040-politicians-us_presidents-1900s/5078/',
