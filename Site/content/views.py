@@ -392,6 +392,7 @@ def process_shortcut(request, unknown_page='default_unk_pg_1'):
         'twin_peaks'
     ]
     redirect_dict = {
+        'cousins': '/gallery/7020-real-family-cousins/',
         'fam': '/gallery/7000-real-family-immediate/',
         'family': '/gallery/7000-real-family-immediate/',
         'ff': '/gallery/4900-politicians-founding_fathers/',
