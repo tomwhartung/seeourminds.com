@@ -2,16 +2,16 @@
   "gallery_title": "Wild at Heart",
   "see_gallery_button_text": "See Their Minds",
   "list_page_teaser": "Click to learn more!",
-  "description_html": "<p>Keep it objective: <b>no</b> first or second person.</p><p> </p>",
-  "story_html": "<p>Make it personal (first and second person ok), preferably with a beginning, middle, and end.</p><a href='/static/content/images/stories/subdir/image_name.jpg' title='Link to display full-size version of this image on this site'><img src='/static/content/images/stories/subdir/image_name.jpg' class='gallery-story-image' /></a><p>To keep up to date, follow this site on social media or <a href='https://groja.com/conversion/seeourminds' title='Link to small form you can use to join the Groja.com and SeeOurMinds.com email list' target='_blank'>join the SeeOurMinds.com email list</a>!</p>",
-  "affiliate_ad_html": "<h2 class='card-title h2-responsive font-weight-bold text-center'>Get the Book/DVD!</h2><p>There is a <a href='https://artsyvisions.com/visions/story/' title='Link to the review at the end of the story about  on ArtsyVisions.com' target='_blank'>review</a> of the <span class='series-title'>series-title</span> on ArtsyVisions.com.  We highly recommend watching the book/series/movie!</p><p>Clicking on the <a href='/legal/affiliate_marketing_disclosure' title='Link to the Affiliate Marketing Disclosure for this site' target='_blank'>affiliate link</a> in the button below and making a purchase helps to support this site, at no additional cost to you.</p></p><div class='text-center'> <a href='' class='btn btn-danger btn-md som-btn-all' target='_blank'>Buy It Now!</a><br> <a href='' class='btn btn-info btn-md som-btn-all' target='_blank'>Buy It Now!</a><br> <a href='' class='btn btn-success btn-md som-btn-all' target='_blank'>Buy It Now!</a><br><a href='' class='btn btn-warning btn-md som-btn-all' target='_blank'>Buy It Now!</a></div>",
+  "description_html": "<p>Sailor and Lula are deeply in love, but Lula's mom Marietta doesn't approve of the relationship.  They seek to get away but trouble finds them.</p><p>Written and Directed by David Lynch, Wild at Heart adds a bit of surrealism &mdash; inspired by The Wizard of Oz &mdash; to Sailor and Lula's illicit romance.</p>",
+  "story_html": "<p>Make it personal (first and second person ok), preferably with a beginning, middle, and end.</p><a href='/static/content/images/stories/subdir/image_name.jpg' title='Link to display full-size version of this image on this site'><img src='/static/content/images/stories/subdir/image_name.jpg' class='gallery-story-image' /></a><p>To keep up to date, follow this site on social media or <a href='https://groja.com/conversion/avmn' title='Link to small form you can use to subscribe to the Artsy Visions Monthly Newsletter' target='_blank'>subscribe to the Artsy Visions Monthly Newsletter</a>!!</p>",
+  "affiliate_ad_html": "<h2 class='card-title h2-responsive font-weight-bold text-center'>Get the DVD!</h2><p>Wild at Heart is a great film, and we highly recommend watching it.</p><p>Clicking on the <a href='/legal/affiliate_marketing_disclosure' title='Link to the Affiliate Marketing Disclosure for this site' target='_blank'>affiliate link</a> below and making a purchase helps to support this site, at no additional cost to you.</p><div class='text-center'> <a href='https://amzn.to/2VmEeZ6' class='btn btn-danger btn-md som-btn-all' target='_blank'>Buy It Now!</a></div>",
   "image_list":
   [
     {
       "id": "3000",
       "title": "Sailor Ripley",
-      "subtitle_html": "<a href='' title='Wikipedia page for ' target='_blank'></a>",
-      "gallery_page_teaser": "Sailor's spiritual portrait shows he is ______________.  Click on the image to learn more!",
+      "subtitle_html": "Played by Nicholas Cage",
+      "gallery_page_teaser": "Sailor's spiritual portrait shows he is passionate and very open to new experiences and ideas.  Click on the image to learn more!",
       "image_file_name": "isfp-sailor_ripley-1.jpg",
       "meat_portrait_href": "",
       "composition": "O",
@@ -46,8 +46,8 @@
     }, {
       "id": "3002",
       "title": "Lula Fortune",
-      "subtitle_html": "<a href='' title='Wikipedia page for ' target='_blank'></a>",
-      "gallery_page_teaser": "Lula's spiritual portrait shows she is ______________.  Click on the image to learn more!",
+      "subtitle_html": "Played by Laura Dern",
+      "gallery_page_teaser": "Lula's spiritual portrait shows she is passionate and very open to new experiences and ideas.  Click on the image to learn more!",
       "image_file_name": "esfp-lula_fortune-1.jpg",
       "meat_portrait_href": "",
       "composition": "O",
