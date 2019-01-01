@@ -2,8 +2,8 @@
   "gallery_title": "Wild at Heart",
   "see_gallery_button_text": "See Their Minds",
   "list_page_teaser": "Click to learn more!",
-  "description_html": "<p>Sailor and Lula are deeply in love, but Lula's mom Marietta doesn't approve of the relationship.  They seek to get away but trouble finds them.</p><p>Written and Directed by David Lynch, Wild at Heart adds a bit of surrealism &mdash; inspired by The Wizard of Oz &mdash; to Sailor and Lula's illicit romance.</p>",
-  "story_html": "<p>Look for a story about Sailor and Lula coming soon to <a href='https://ArtsyVisions.com' title='Link to the Home page at ArtsyVisions.com' target='_blank'>ArtsyVisions.com</a>.</p><p>To when there is new content on our sites, subscribe to the <a href='https://groja.com/conversion/avmn' title='Link to small form you can use to subscribe to the Artsy Visions Monthly Newsletter' target='_blank'>Artsy Visions Monthly Newsletter</a>!!</p>",
+  "description_html": "<p>Sailor and Lula are deeply in love, but Lula's mom Marietta doesn't approve of the relationship.  They seek to get away but trouble finds them.</p><p>Written and Directed by David Lynch, Wild at Heart adds a bit of surrealism &mdash; inspired by The Wizard of Oz, of all things &mdash; to Sailor and Lula's illicit romance.</p>",
+  "story_html": "<p>Look for a story about Sailor and Lula coming soon to <a href='https://ArtsyVisions.com' title='Link to the Home page at ArtsyVisions.com' target='_blank'>ArtsyVisions.com</a>.</p><p>To learn when there is new content on our sites, subscribe to the <a href='https://groja.com/conversion/avmn' title='Link to small form you can use to subscribe to the Artsy Visions Monthly Newsletter' target='_blank'>Artsy Visions Monthly Newsletter</a>!!</p>",
   "affiliate_ad_html": "<h2 class='card-title h2-responsive font-weight-bold text-center'>Get the DVD!</h2><p>Wild at Heart is a great film, and we highly recommend watching it.</p><p>Clicking on the <a href='/legal/affiliate_marketing_disclosure' title='Link to the Affiliate Marketing Disclosure for this site' target='_blank'>affiliate link</a> below and making a purchase helps to support this site, at no additional cost to you.</p><div class='text-center'> <a href='https://amzn.to/2VmEeZ6' class='btn btn-danger btn-md som-btn-all' target='_blank'>Buy It Now!</a></div>",
   "image_list":
   [
@@ -26,15 +26,11 @@
       "archetype": "Fi",
       "quiz_type": "KTS2",
       "year": "2018",
-
-      "explain_dom": "The Red in this spiritual portrait represents Sailor's dominant personality trait, his passion and warmth.  In Introverts, the dominant trait is directed inwardly, and spiritual portraits use a long horizontal line to represent this.  He demonstrates/exhibits this trait in their (note that is easier to find examples of decisions than perceptions!) ....",
-
-      "explain_aux": "The Yellow in this spiritual portrait represents Sailor's auxiliary personality trait, his realistic outlook and openness to new experiences.  In Introverts, the auxiliary trait is directed outwardly, and spiritual portraits use a vertical line to represent this, because it is more evident than the dominant function.  He demonstrates/exhibits this trait in their (note that is easier to find examples of decisions than perceptions!) ....",
-
-      "disclosure_html": "<p>This story contains some <a href='/legal/affiliate_marketing_disclosure' title='Link to the affiliate marketing disclosure on this site' target='_blank'>affiliate marketing links</a>.  Clicking on one of these and making a purchase helps support SeeOurMinds.com.</p>",
-      "story_intro_html": "<p> </p>",
-      "story_html": "<p> </p><blockquote> </blockquote><p> </p><hr><p>This spiritual portrait is based on _______.</p>",
-      "story_html_img": "<p>Idea: only include images with stories for family and friends.</p><a href='/static/content/images/stories/subdir/image_name.jpg' title='Link to display full-size version of this image on this site'><img src='/static/content/images/stories/subdir/image_name.jpg' class='story-image-right' /></a>",
+      "explain_dom": "The Red in this spiritual portrait represents Sailor's dominant personality trait, his passion and warmth.  In Introverts, the dominant trait is directed inwardly, and spiritual portraits use a long horizontal line to represent this.  Sailor shows some of this passion in the way he and Lula love dancing to their favorite band, Powermad.",
+      "explain_aux": "The Yellow in this spiritual portrait represents Sailor's auxiliary personality trait, his realistic outlook and openness to new experiences.  In Introverts, the auxiliary trait is directed outwardly, and spiritual portraits use a vertical line to represent this, because it is more evident than the dominant function.",
+      "disclosure_html": "",
+      "story_intro_html": "",
+      "story_html": "",
       "compare_to": { },
       "contrast_with": { }
     }, {
@@ -56,15 +52,11 @@
       "archetype": "Se",
       "quiz_type": "KTS2",
       "year": "2018",
-
-      "explain_dom": "The Yellow in this spiritual portrait represents Lula's dominant personality trait, her openness to experiences.  In Extraverts, the dominant trait is directed outwardly, and spiritual portraits use a long vertical line to represent this, because it is the side of their personality that is most evident.  She demonstrates/exhibits this trait in their (note that is easier to find examples of decisions than perceptions!) ....",
-
-      "explain_aux": "The Red in this spiritual portrait represents Lula's auxiliary personality trait, her strong tendency to be passionate.  In Extraverts, the auxiliary trait is directed inwardly, and spiritual portraits use a horizontal line to represent this.  She demonstrates/exhibits this trait in their (note that is easier to find examples of decisions than perceptions!) ....",
-
-      "disclosure_html": "<p>This story contains some <a href='/legal/affiliate_marketing_disclosure' title='Link to the affiliate marketing disclosure on this site' target='_blank'>affiliate marketing links</a>.  Clicking on one of these and making a purchase helps support SeeOurMinds.com.</p>",
-      "story_intro_html": "<p> </p>",
-      "story_html": "<p> </p><blockquote> </blockquote><p> </p><hr><p>This spiritual portrait is based on _______.</p>",
-      "story_html_img": "<p>Idea: only include images with stories for family and friends.</p><a href='/static/content/images/stories/subdir/image_name.jpg' title='Link to display full-size version of this image on this site'><img src='/static/content/images/stories/subdir/image_name.jpg' class='story-image-left' /></a>",
+      "explain_dom": "The Yellow in this spiritual portrait represents Lula's dominant personality trait, her openness to experiences.  In Extraverts, the dominant trait is directed outwardly, and spiritual portraits use a long vertical line to represent this, because it is the side of their personality that is most evident.",
+      "explain_aux": "The Red in this spiritual portrait represents Lula's auxiliary personality trait, her strong tendency to be passionate.  In Extraverts, the auxiliary trait is directed inwardly, and spiritual portraits use a horizontal line to represent this.  Lula shows some of this passion in the way she and Sailor love dancing to their favorite band, Powermad.",
+      "disclosure_html": "",
+      "story_intro_html": "",
+      "story_html": "",
       "compare_to": { },
       "contrast_with": { }
     }, {
