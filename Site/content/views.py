@@ -145,6 +145,11 @@ def gallery(request, gallery_file_name='None'):
         gallery_file_name = '0000-generic_images'
 
     this_gallery = Gallery(gallery_file_name)
+
+    if len(this_gallery.gallery_dict) == 0:
+        redirect_url = '/404/' + '/gallery/' + gallery_file_name
+        return redirect(redirect_url, unknown_page=gallery_file_name)
+
     this_gallery.set_image_list_data()
     gallery_dict = this_gallery.gallery_dict
     title = gallery_dict.get('gallery_title')
