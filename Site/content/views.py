@@ -19,6 +19,7 @@ from django.template import loader
 from django.views.generic.base import View
 
 from .adsense import adsense_ads
+from .affiliate_marketing import AffiliateLinks
 from .database import Questionnaire
 from .forms import QuestionnaireForm
 from .models import GalleriesList, Gallery, Image, Score
@@ -49,9 +50,15 @@ def image(request, gallery_file_name=None, image_id=None):
     this_image.set_compare_contrast()
     image_dict = this_image.image_dict
     back_to_gallery_href = '/gallery/' + gallery_file_name + '/'
+
+    afl_content = AffiliateLinks.afl_content
+    afl_button = AffiliateLinks.afl_content
+
     title = 'Image: ' + image_dict.get('title')
     return render(request, 'content//galleries/gallery_image.html', {
         'adsense_ads': adsense_ads,
+        'afl_content': afl_content,
+        'afl_button': afl_button,
         'back_to_gallery_href': back_to_gallery_href,
         'image_dict': image_dict,
         'fixed_top': "",
@@ -154,10 +161,15 @@ def gallery(request, gallery_file_name='None'):
     gallery_dict = this_gallery.gallery_dict
     title = gallery_dict.get('gallery_title')
 
+    afl_content = AffiliateLinks.afl_content
+    afl_button = AffiliateLinks.afl_content
+
     template = loader.get_template('content/galleries/galleries_gallery.html')
     context = {
         'gallery_dict': gallery_dict,
         'adsense_ads': adsense_ads,
+        'afl_content': afl_content,
+        'afl_button': afl_button,
         'fixed_top': "",
         'include_logo': True,
         'navbar_color': 'red darken-3',
