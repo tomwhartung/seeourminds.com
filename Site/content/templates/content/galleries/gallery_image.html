@@ -84,7 +84,7 @@
          <h3 class="font-weight-bold text-center mt-3">
           <em><u>{{ image_dict.subtitle_html | safe }}</u></em></h3>
         {% endif %}
-        {% if image_dict.story_intro_html or image_dict.story_html %}
+        {% if image_dict.story_intro_html or image_dict.has_story %}
          <p class="card-text text-left">
           {% spaceless %}
            {% if image_dict.story_intro_html %}
@@ -92,9 +92,15 @@
              {{ image_dict.story_intro_html | safe }}
             </div><!-- #story-intro-html -->
            {% endif %}
-           <div id="story-html" class="som-text-to-toggle">
-            {{ image_dict.story_html | safe }}
-           </div><!-- #story-html -->
+           {% if image_dict.has_story %}
+            <div id="story-html" class="som-text-to-toggle">
+             {% if image_dict.story_template %}
+              {% include image_dict.story_template %}
+             {% elif image_dict.story_html %}
+              {{ image_dict.story_html | safe }}
+             {% endif %}
+            </div><!-- #story-html -->
+           {% endif %}
           {% endspaceless %}
          </p>
         {% endif %}
@@ -160,7 +166,7 @@
      </div><!-- .col-* -->
     </div><!-- .row -->
     <a name="whole-story"></a>
-   {% if image_dict.story_html and image_dict.disclosure_html %}
+   {% if image_dict.has_story and image_dict.disclosure_html %}
     <div class="row align-items-center justify-content-center">
      <div class="col-md-11 col-lg-10 col-xl-9">
       <div class="card hoverable">
@@ -177,11 +183,16 @@
      <div class="col-sm-11 col-md-10 col-lg-9 col-xl-8">
       <div class="card hoverable m-1 p-1 m-sm-2 p-sm-2 m-lg-3 p-lg-3">
        <div class="card-body mx-1 mx-sm-3 mx-lg-5">
-        {% if image_dict.story_html %}
+        {% if image_dict.has_story %}
          <h2 class="font-weight-bold text-center">
           {{ image_dict.title }}:<br>
-          The Story</h2>
+          The Story
+         </h2>
+         {% if image_dict.story_template %}
+          {% include image_dict.story_template %}
+         {% elif image_dict.story_html %}
           {{ image_dict.story_html | safe }}
+         {% endif %}
         {% else %}
          <h2 class="font-weight-bold text-center">
           <i class="fa fa-pencil" aria-hidden="true"></i><br>
