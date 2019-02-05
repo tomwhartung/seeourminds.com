@@ -108,6 +108,79 @@
       "compare_to": { "gallery_file_name": "1410-fictional-tv-game_of_thrones-house_stark", "image_id": "1410" },
       "contrast_with": { "gallery_file_name": "1420-fictional-tv-game_of_thrones-house_baratheon", "image_id": "1422" }
     }, {
+      "id": "1415",
+      "title": "Sansa Stark",
+      "subtitle_html": "<a href='https://en.wikipedia.org/wiki/Ned_Stark' title='Wikipedia page for Ned Stark' target='_blank'>Ned</a> and <a href='https://en.wikipedia.org/wiki/Catelyn_Stark' title='Wikipedia page for Catelyn Stark' target='_blank'>Catelyn</a> Stark's Oldest Daughter",
+      "gallery_page_teaser": "Sansa's spiritual portrait shows she is idealistic and compassionate.  Click on the image to learn more!",
+      "image_file_name": "infp-sansa_stark-1.jpg",
+      "meat_portrait_href": "https://en.wikipedia.org/wiki/File:SophieTurnerasSansaStark.jpg",
+      "composition": "O",
+      "score": [
+         { "e_score": "7", "i_score": "12" },
+         { "n_score": "15", "s_score": "4" },
+         { "f_score": "16", "t_score": "3" },
+         { "j_score": "8", "p_score": "11" }
+      ],
+      "four_letter_type": "INFP",
+      "fixed_percentages": "",
+      "archetype": "Fi",
+      "quiz_type": "KTS2",
+      "year": "2019",
+
+      "explain_dom": "The Red in this spiritual portrait represents X's dominant personality trait, Feeling: passion; amiability; friendliness; compassion; warmth; very slight/moderate/strong preference for emotion/empathy/subjectivity over logic/reason/objectivity; their very slight/moderate/strong preference for the/tendency to be more emotional/personal/subjective over the logical/rational/objective.",
+      "explain_dom": "The Red in X's spiritual portrait represents their dominant personality trait, their very slight/moderate/strong preference for making emotional/personal/objective rather than logical/rational/objective decisions; their very slight/moderate/strong preference for being/tendency to be more emotional/personal/subjective rather than logical/impersonal/objective.",
+
+      "explain_dom_constant": "In Introverts, the dominant trait is directed inwardly, and spiritual portraits use a long horizontal line to represent this.  He/She demonstrates/exhibits this trait in their (note that is easier to find examples of decisions than perceptions!) ....",
+
+      "explain_aux": "The Blue in this spiritual portrait represents X's auxiliary personality trait, iNtuition: idealism and hope for the future; openness to ideas; very slight/moderate/strong preference for ideas over facts; need for intellectual stimulation.",
+      "explain_aux": "The Blue in X's spiritual portrait represents their auxiliary personality trait, their very slight/moderate/strong preference for seeing/tendency to see the world more in terms of ideas than of facts.",
+      "explain_aux_constant": "In Introverts, the auxiliary trait is directed outwardly, and spiritual portraits use a vertical line to represent this, because it is more evident than the dominant function.  He/She demonstrates/exhibits this trait in their (note that is easier to find examples of decisions than perceptions!) ....",
+
+      "disclosure_html": "",
+      "story_intro_html": "<p> </p>",
+      "story_template": "content/galleries/stories/empty/empty.html",
+      "story_html": "<p> </p><blockquote> </blockquote><p> </p><hr><p>This spiritual portrait is based on _______.</p>",
+      "story_html_img": "<p>Idea: only include images with stories for family and friends.</p><a href='/static/content/images/stories/subdir/image_name.jpg' title='Link to display full-size version of this image on this site'><img src='/static/content/images/stories/subdir/image_name.jpg' class='story-image-right' /></a>",
+      "compare_to": { },
+      "contrast_with": { }
+    }, {
+      "id": "1416",
+      "title": "Arya Stark",
+      "subtitle_html": "<a href='https://en.wikipedia.org/wiki/Ned_Stark' title='Wikipedia page for Ned Stark' target='_blank'>Ned</a> and <a href='https://en.wikipedia.org/wiki/Catelyn_Stark' title='Wikipedia page for Catelyn Stark' target='_blank'>Catelyn</a> Stark's Youngest Daughter",
+      "gallery_page_teaser": "Arya's spiritual portrait shows she is open to new experiences and can remain calm when threatened.  Click on the image to learn more!",
+      "image_file_name": "estp-arya_stark-1.jpg",
+      "meat_portrait_href": "https://en.wikipedia.org/wiki/File:Arya_Stark-Maisie_Williams.jpg",
+      "composition": "O",
+      "score": [
+         { "e_score": "17", "i_score": "2" },
+         { "n_score": "3", "s_score": "16" },
+         { "f_score": "3", "t_score": "16" },
+         { "j_score": "8", "p_score": "11" }
+      ],
+      "four_letter_type": "ESTP",
+      "fixed_percentages": "",
+      "archetype": "Se",
+      "quiz_type": "KTS2",
+      "year": "2019",
+
+      "explain_dom": "The Yellow in this spiritual portrait represents X's dominant personality trait, Sensing: pragmatism; pragmatic; practical; realism; realistic; outlook; openness to experiences; very slight/moderate/strong preference for facts over ideas.",
+      "explain_dom": "The Yellow in X's spiritual portrait represents their dominant personality trait, their very slight/moderate/strong preference for seeing/tendency to see the world more in terms of facts rather than of ideas; need for sensual stimulation.",
+
+      "explain_dom_constant": "In Extraverts, the dominant trait is directed outwardly, and spiritual portraits use a long vertical line to represent this, because it is the side of their personality that is most evident.  He/She demonstrates/exhibits this trait in their (note that is easier to find examples of decisions than perceptions!) ....",
+
+      "explain_aux": "The Green in this spiritual portrait represents X's auxiliary personality trait, Thinking: objectivity; rationality; cool-headedness; very slight/moderate/strong preference for logic/reason/objectivity over emotion/empathy/subjectivity; their very slight/moderate/strong preference for the/tendency to be more logical/rational/objective over the emotional/personal/subjective.",
+      "explain_aux": "The Green in X's spiritual portrait represents their auxiliary personality trait, their very slight/moderate/strong preference for making logical/rational/subjective rather than emotional/personal/objective decisions; their very slight/moderate/strong preference for being/tendency to be more logical/impersonal/objective rather than emotional/personal/subjective.",
+
+      "explain_aux_constant": "In Extraverts, the auxiliary trait is directed inwardly, and spiritual portraits use a horizontal line to represent this.  He/She demonstrates/exhibits this trait in their (note that is easier to find examples of decisions than perceptions!) ....",
+
+      "disclosure_html": "",
+      "story_intro_html": "<p> </p>",
+      "story_template": "content/galleries/stories/empty/empty.html",
+      "story_html": "<p> </p><blockquote> </blockquote><p> </p><hr><p>This spiritual portrait is based on _______.</p>",
+      "story_html_img": "<p>Idea: only include images with stories for family and friends.</p><a href='/static/content/images/stories/subdir/image_name.jpg' title='Link to display full-size version of this image on this site'><img src='/static/content/images/stories/subdir/image_name.jpg' class='story-image-left' /></a>",
+      "compare_to": { },
+      "contrast_with": { }
+    }, {
       "id": "1418",
       "title": "Bran Stark",
       "subtitle_html": "<a href='https://en.wikipedia.org/wiki/Bran_Stark' title='Wikipedia page for Bran Stark' target='_blank'>Fourth Child</a> and Second Son of <a href='/image/1410-fictional-tv-game_of_thrones-house_stark/1410/' title='Link to spiritual portrait of Ned Stark on this site'>Ned</a> and <a href='/image/1410-fictional-tv-game_of_thrones-house_stark/1411/' title='Link to spiritual portrait of Catelyn Stark on this site'>Catelyn</a> Stark",
