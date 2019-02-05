@@ -83,7 +83,46 @@
       "compare_to": { "gallery_file_name": "1430-fictional-tv-game_of_thrones-house_lannister", "image_id": "1431" },
       "contrast_with": { }
     }, {
-      "id": "1423",
+      "id": "1424",
+      "title": "Renly Baratheon",
+      "subtitle_html": "<a href='' title='Wikipedia page for ' target='_blank'></a>",
+      "gallery_page_teaser": "Renly's spiritual portrait shows he is passionate, decisive, and pragmatic.  Click on the image to learn more!",
+      "image_file_name": "esfj-renly_baratheon-1.jpg",
+      "meat_portrait_href": "https://en.wikipedia.org/wiki/File:Renly_Baratheon-Gethin_Anthony.jpg",
+      "composition": "O",
+      "score": [
+         { "e_score": "15", "i_score": "4" },
+         { "n_score": "9", "s_score": "10" },
+         { "f_score": "11", "t_score": "8" },
+         { "j_score": "13", "p_score": "6" }
+      ],
+      "four_letter_type": "ESFJ",
+      "fixed_percentages": "",
+      "archetype": "Fe",
+      "quiz_type": "KTS2",
+      "year": "2019",
+
+      "explain_dom": "The Red in this spiritual portrait represents X's dominant personality trait, Feeling: passion; amiability; friendliness; compassion; warmth; very slight/moderate/strong preference for emotion/empathy/subjectivity over logic/reason/objectivity; their very slight/moderate/strong preference for being the/tendency to be emotional/personal/subjective over the logical/rational/objective.",
+      "explain_dom": "The Red in X's spiritual portrait represents their dominant personality trait, their very slight/moderate/strong preference for making emotional/personal/objective rather than logical/rational/objective decisions; their very slight/moderate/strong preference for being/tendency for being more emotional/personal/subjective rather than logical/impersonal/objective.",
+
+      "explain_dom_constant": "In Extraverts, the dominant trait is directed outwardly, and spiritual portraits use a long vertical line to represent this, because it is the side of their personality that is most evident.  He/She demonstrates/exhibits this trait in their (note that is easier to find examples of decisions than perceptions!) ....",
+      "explain_dom_very_slight_preference": "It's important to note this preference/tendency is very slight, and X can be quite _____ in some situations/when the situation calls for it.",
+
+      "explain_aux": "The Yellow in this spiritual portrait represents X's auxiliary personality trait, Sensing: pragmatism; pragmatic; practical; realism; realistic; outlook; openness to experiences; very slight/moderate/strong preference for facts over ideas.",
+      "explain_aux": "The Yellow in X's spiritual portrait represents their auxiliary personality trait, their very slight/moderate/strong preference for seeing the/tendency to see the world more in terms of facts rather than of ideas; need for sensual stimulation.",
+
+      "explain_aux_constant": "In Extraverts, the auxiliary trait is directed inwardly, and spiritual portraits use a horizontal line to represent this.  He/She demonstrates/exhibits this trait in their (note that is easier to find examples of decisions than perceptions!) ....",
+      "explain_aux_very_slight_preference": "It's important to note this preference is very slight, and X can be quite _____ in some situations/when the situation calls for it.",
+
+      "disclosure_html": "",
+      "story_intro_html": "<p> </p>",
+      "story_template": "content/galleries/stories/empty/empty.html",
+      "story_html": "<p> </p><blockquote> </blockquote><p> </p><hr><p>This spiritual portrait is based on _______.</p>",
+      "story_html_img": "<p>Idea: only include images with stories for family and friends.</p><a href='/static/content/images/stories/subdir/image_name.jpg' title='Link to display full-size version of this image on this site'><img src='/static/content/images/stories/subdir/image_name.jpg' class='story-image-left' /></a>",
+      "compare_to": { },
+      "contrast_with": { }
+    }, {
+      "id": "1425",
       "title": "Tommen Baratheon",
       "subtitle_html": "<a href='https://en.wikipedia.org/wiki/Tommen_Baratheon' title='Wikipedia page for Tommen Baratheon' target='_blank'>King of the Andals and the First Men,</a> Lord of the Seven Kingdoms, and Protector of the Realm",
       "gallery_page_teaser": "Tommen Baratheon's spiritual portrait shows he is open-minded, down-to-earth, and private yet friendly.  Click on the image to learn more!",
