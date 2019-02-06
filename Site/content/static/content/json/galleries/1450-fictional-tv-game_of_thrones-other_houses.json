@@ -17,10 +17,10 @@
       "meat_portrait_href": "",
       "composition": "O",
       "score": [
-         { "e_score": "0", "i_score": "0" },
-         { "n_score": "0", "s_score": "0" },
-         { "f_score": "0", "t_score": "0" },
-         { "j_score": "0", "p_score": "0" }
+         { "e_score": "15", "i_score": "4" },
+         { "n_score": "14", "s_score": "5" },
+         { "f_score": "15", "t_score": "4" },
+         { "j_score": "6", "p_score": "13" }
       ],
       "four_letter_type": "ENFP",
       "fixed_percentages": "",
@@ -69,10 +69,10 @@
       "meat_portrait_href": "",
       "composition": "O",
       "score": [
-         { "e_score": "0", "i_score": "0" },
-         { "n_score": "0", "s_score": "0" },
-         { "f_score": "0", "t_score": "0" },
-         { "j_score": "0", "p_score": "0" }
+         { "e_score": "17", "i_score": "2" },
+         { "n_score": "2", "s_score": "17" },
+         { "f_score": "2", "t_score": "17" },
+         { "j_score": "14", "p_score": "5" }
       ],
       "four_letter_type": "ESTJ",
       "fixed_percentages": "",
@@ -121,12 +121,12 @@
       "meat_portrait_href": "",
       "composition": "O",
       "score": [
-         { "e_score": "0", "i_score": "0" },
-         { "n_score": "0", "s_score": "0" },
-         { "f_score": "0", "t_score": "0" },
-         { "j_score": "0", "p_score": "0" }
+         { "e_score": "4", "i_score": "15" },
+         { "n_score": "9", "s_score": "10" },
+         { "f_score": "6", "t_score": "13" },
+         { "j_score": "13", "p_score": "6" }
       ],
-      "four_letter_type": "IXXX",
+      "four_letter_type": "ISTJ",
       "fixed_percentages": "",
       "archetype": "Si",
       "quiz_type": "KTS2",
@@ -173,10 +173,10 @@
       "meat_portrait_href": "",
       "composition": "O",
       "score": [
-         { "e_score": "0", "i_score": "0" },
-         { "n_score": "0", "s_score": "0" },
-         { "f_score": "0", "t_score": "0" },
-         { "j_score": "0", "p_score": "0" }
+         { "e_score": "13", "i_score": "6" },
+         { "n_score": "3", "s_score": "16" },
+         { "f_score": "7", "t_score": "12" },
+         { "j_score": "10", "p_score": "9" }
       ],
       "four_letter_type": "ESTJ",
       "fixed_percentages": "",
@@ -225,10 +225,10 @@
       "meat_portrait_href": "",
       "composition": "O",
       "score": [
-         { "e_score": "0", "i_score": "0" },
-         { "n_score": "0", "s_score": "0" },
-         { "f_score": "0", "t_score": "0" },
-         { "j_score": "0", "p_score": "0" }
+         { "e_score": "19", "i_score": "0" },
+         { "n_score": "3", "s_score": "16" },
+         { "f_score": "7", "t_score": "12" },
+         { "j_score": "10", "p_score": "9" }
       ],
       "four_letter_type": "ESTJ",
       "fixed_percentages": "",
