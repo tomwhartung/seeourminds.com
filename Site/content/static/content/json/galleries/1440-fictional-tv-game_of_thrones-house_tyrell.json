@@ -80,10 +80,9 @@
       "explain_dom": "The Red in Loras' spiritual portrait represents his dominant personality trait, his warmth and friendliness.  In Introverts, the dominant trait is directed inwardly, and spiritual portraits use a long horizontal line to represent this.  He demonstrates this trait in the friendliness he shows towards people, and the passion he feels for Renly.",
       "explain_aux": "The Yellow in Loras' spiritual portrait represents his auxiliary personality trait, his realistic outlook.  In Introverts, the auxiliary trait is directed outwardly, and spiritual portraits use a vertical line to represent this, because it is more evident than the dominant function.  He demonstrates this trait in his keen fighting ability.",
       "disclosure_html": "",
-      "story_intro_html": "<p> </p>",
-      "story_template": "content/galleries/stories/empty/empty.html",
-      "story_html": "<p> </p><blockquote> </blockquote><p> </p><hr><p>This spiritual portrait is based on _______.</p>",
-      "story_html_img": "<p>Idea: only include images with stories for family and friends.</p><a href='/static/content/images/stories/subdir/image_name.jpg' title='Link to display full-size version of this image on this site'><img src='/static/content/images/stories/subdir/image_name.jpg' class='story-image-right' /></a>",
+      "story_intro_html": "",
+      "story_template": "",
+      "story_html": "",
       "compare_to": { },
       "contrast_with": { }
     }
