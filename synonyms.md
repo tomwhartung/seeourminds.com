@@ -9,24 +9,24 @@ these portraits portray.
 ### Extraversion
 
 #### Positive
-friendly (when also Feeling)
-outgoing
-public
-talkative
+- friendly (when also Feeling)
+- outgoing
+- public
+- talkative
 
 #### Negative
-blabbermouth
-uninhibited
+- blabbermouth
+- uninhibited
 
 ### Introversion
 
 #### Positive
-private
+- private
 
 #### Negative
-aloof
-inhibited
-shy
+- aloof
+- inhibited
+- shy
 
 ---
 
@@ -35,38 +35,38 @@ shy
 ### Sensing
 
 #### Positive
-down-to-earth
-open to new experiences
-openness to experiences
-need for sensual stimulation
-practical
-pragmatic
-preference for facts over ideas
-preference for seeing the world more in terms of facts than of ideas
-realism
-realistic outlook
+- down-to-earth
+- open to new experiences
+- openness to experiences
+- need for sensual stimulation
+- practical
+- pragmatic
+- preference for facts over ideas
+- preference for seeing the world more in terms of facts than of ideas
+- realism
+- realistic outlook
 
 #### Negative
-pessimistic
-shallow
-superficial
+- pessimistic
+- shallow
+- superficial
 
 ### iNtuition
 
 #### Positive
-deep
-hope for the future
-idealistic
-need for intellectual stimulation
-open to new ideas
-openness to ideas
-optimistic
-preference for ideas over facts
-preference for seeing the world more in terms of ideas than of facts
+- deep
+- hope for the future
+- idealistic
+- need for intellectual stimulation
+- open to new ideas
+- openness to ideas
+- optimistic
+- preference for ideas over facts
+- preference for seeing the world more in terms of ideas than of facts
 
 #### Negative
-flake
-space-case
+- flake
+- space-case
 
 ---
 
@@ -75,47 +75,47 @@ space-case
 ### Feeling
 
 #### Positive
-affectionate
-amiable
-compassion
-emotion
-emotional
-empathy
-friendly (when also Extravted)
-passion
-passionate
-personal
-preference for emotional decisions
-preference for personal decisions
-preference for subjective decisions
-subjectivity
-warm
+- affectionate
+- amiable
+- compassion
+- emotion
+- emotional
+- empathy
+- friendly (when also Extravted)
+- passion
+- passionate
+- personal
+- preference for emotional decisions
+- preference for personal decisions
+- preference for subjective decisions
+- subjectivity
+- warm
 
 #### Negative
-drama queen
-sensitive
+- drama queen
+- sensitive
 
 ### Thinking
 
 #### Positive
-cool-headedness;
-logic
-logical
-objectivity
-preference for logical decisions
-preference for rational decisions
-preference for objective decisions
-rational
-reason
-reasonable
+- cool-headedness;
+- logic
+- logical
+- objectivity
+- preference for logical decisions
+- preference for rational decisions
+- preference for objective decisions
+- rational
+- reason
+- reasonable
 
 #### Negative
-cold
-control freak
-heartless
-impersonal
-insensitive
-unfeeling
+- cold
+- control freak
+- heartless
+- impersonal
+- insensitive
+- unfeeling
 
 ---
 
@@ -124,30 +124,32 @@ unfeeling
 ### Judging
 
 #### Positive
-ambitious
+- ambitious
 
 #### Negative
-closed
+- closed
 
 ### Perceiving
 
 #### Positive
-laid-back
-open
+- laid-back
+- open
 
 #### Negative
-flake
-space-case
+- flake
+- space-case
 
 ---
 
 ## Chameleon
 
 ### Positive
-flexible
-versatile
-well-rounded
+- flexible
+- full stack
+- versatile
+- well-rounded
 
 ## Negative
-wishy-washy
+- jack of all trades master of none
+- wishy-washy
 
