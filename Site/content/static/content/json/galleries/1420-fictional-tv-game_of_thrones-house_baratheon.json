@@ -102,12 +102,11 @@
       "quiz_type": "KTS2",
       "year": "2019",
       "explain_dom": "The Red in Renly's spiritual portrait represents his dominant personality trait, his amiability and warmth,  In Extraverts, the dominant trait is directed outwardly, and spiritual portraits use a long vertical line to represent this, because it is the side of their personality that is most evident.  He demonstrates this trait in the way he is personable and treats others with respect, unlike his older brothers.",
-      "explain_aux": "The Yellow in Renly's spiritual portrait represents their auxiliary personality trait, his realistic outlook and openness to new experiences.  In Extraverts, the auxiliary trait is directed inwardly, and spiritual portraits use a horizontal line to represent this.",
+      "explain_aux": "The Yellow in Renly's spiritual portrait represents his auxiliary personality trait, his realistic outlook and openness to new experiences.  In Extraverts, the auxiliary trait is directed inwardly, and spiritual portraits use a horizontal line to represent this.",
       "disclosure_html": "",
-      "story_intro_html": "<p> </p>",
-      "story_template": "content/galleries/stories/empty/empty.html",
-      "story_html": "<p> </p><blockquote> </blockquote><p> </p><hr><p>This spiritual portrait is based on _______.</p>",
-      "story_html_img": "<p>Idea: only include images with stories for family and friends.</p><a href='/static/content/images/stories/subdir/image_name.jpg' title='Link to display full-size version of this image on this site'><img src='/static/content/images/stories/subdir/image_name.jpg' class='story-image-left' /></a>",
+      "story_intro_html": "",
+      "story_template": "",
+      "story_html": "",
       "compare_to": { },
       "contrast_with": { }
     }, {
