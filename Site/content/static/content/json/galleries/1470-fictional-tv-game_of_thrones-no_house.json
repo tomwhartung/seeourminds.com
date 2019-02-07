@@ -27,19 +27,8 @@
       "archetype": "Ti",
       "quiz_type": "KTS2",
       "year": "2019",
-
-      "explain_dom": "The Green in this spiritual portrait represents X's dominant personality trait, Thinking: objectivity; rationality; cool-headedness; very slight/moderate/strong preference for logic/reason/objectivity over emotion/empathy/subjectivity; their very slight/moderate/strong preference for the/tendency to be more logical/rational/objective over the emotional/personal/subjective.",
-      "explain_dom": "The Green in X's spiritual portrait represents their dominant personality trait, their very slight/moderate/strong preference for making logical/rational/objective rather than emotional/personal/subjective decisions; their very slight/moderate/strong preference for being/tendency to be more logical/rational/objective rather than emotional/personal/subjective.",
-
-      "explain_dom_constant": "In Introverts, the dominant trait is directed inwardly, and spiritual portraits use a long horizontal line to represent this.  He/She demonstrates/exhibits this trait in their (note that is easier to find examples of decisions than perceptions!) ....",
-      "explain_dom_very_slight_preference": "It's important to note this preference/tendency is very slight, and X can be quite _____ in some situations/when the situation calls for it.",
-
-      "explain_aux": "The Blue in this spiritual portrait represents X's auxiliary personality trait, iNtuition: idealism and hope for the future; openness to ideas; very slight/moderate/strong preference for ideas over facts; need for intellectual stimulation.",
-      "explain_aux": "The Blue in X's spiritual portrait represents their auxiliary personality trait, their very slight/moderate/strong preference for seeing/tendency to see the world more in terms of ideas than of facts.",
-
-      "explain_aux_constant": "In Introverts, the auxiliary trait is directed outwardly, and spiritual portraits use a vertical line to represent this, because it is more evident than the dominant function.  He/She demonstrates/exhibits this trait in their (note that is easier to find examples of decisions than perceptions!) ....",
-      "explain_aux_very_slight_preference": "It's important to note this preference is very slight, and X can be quite _____ in some situations/when the situation calls for it.",
-
+      "explain_dom": "The Green in this spiritual portrait represents Varys' dominant personality trait, his mild preference for being more reasonable than emotional.  In Introverts, the dominant trait is directed inwardly, and spiritual portraits use a long horizontal line to represent this.  He demonstrates this trait in the way he keeps his cool and rarely displays any emotions.",
+      "explain_aux": "The Blue in this spiritual portrait represents Varys' auxiliary personality trait, his mild preference for seeing things in terms of ideas rather than facts.  In Introverts, the auxiliary trait is directed outwardly, and spiritual portraits use a vertical line to represent this, because it is more evident than the dominant function.  He demonstrated this trait when he told Little Finger that he did what he did \"for the good of the realm.\"",
       "disclosure_html": "",
       "story_intro_html": "<p> </p>",
       "story_template": "content/galleries/stories/empty/empty.html",
