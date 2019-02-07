@@ -129,10 +129,9 @@
       "explain_dom": "The Red in this spiritual portrait represents Sansa's dominant personality trait, her warmth, compassion, and sensitivity.  In Introverts, the dominant trait is directed inwardly, and spiritual portraits use a long horizontal line to represent this.  Sansa's sensitivity is most obvious early in the series, before she suffered abuse from Joffrey Baratheon and Ramsey Bolton.",
       "explain_aux": "The Blue in this spiritual portrait represents compassion's auxiliary personality trait, her idealism and hope for the future.  In Introverts, the auxiliary trait is directed outwardly, and spiritual portraits use a vertical line to represent this, because it is more evident than the dominant function.  She demonstrated her idealism when she expressed hope for a happy relationship with Joffrey Baratheon before meeting him.",
       "disclosure_html": "",
-      "story_intro_html": "<p> </p>",
-      "story_template": "content/galleries/stories/empty/empty.html",
-      "story_html": "<p> </p><blockquote> </blockquote><p> </p><hr><p>This spiritual portrait is based on _______.</p>",
-      "story_html_img": "<p>Idea: only include images with stories for family and friends.</p><a href='/static/content/images/stories/subdir/image_name.jpg' title='Link to display full-size version of this image on this site'><img src='/static/content/images/stories/subdir/image_name.jpg' class='story-image-right' /></a>",
+      "story_intro_html": "",
+      "story_template": "",
+      "story_html": "",
       "compare_to": { },
       "contrast_with": { }
     }, {
@@ -157,10 +156,9 @@
       "explain_dom": "The Yellow in this spiritual portrait represents Arya's dominant personality trait, her realistic outlook and openness to new experiences.  In Extraverts, the dominant trait is directed outwardly, and spiritual portraits use a long vertical line to represent this, because it is the side of their personality that is most evident.  She demonstrates this realism when she is forced to flee Kings Landing and agrees to pose as a boy, because she knows that realistically she would not last long outside of the city as a girl.",
       "explain_aux": "The Green in this spiritual portrait represents Arya's auxiliary personality trait, her objectivity and cool-headedness.  In Extraverts, the auxiliary trait is directed inwardly, and spiritual portraits use a horizontal line to represent this.  She demonstrates this trait in the way she can calmly kill people who hurt her or someone she loves.",
       "disclosure_html": "",
-      "story_intro_html": "<p> </p>",
-      "story_template": "content/galleries/stories/empty/empty.html",
-      "story_html": "<p> </p><blockquote> </blockquote><p> </p><hr><p>This spiritual portrait is based on _______.</p>",
-      "story_html_img": "<p>Idea: only include images with stories for family and friends.</p><a href='/static/content/images/stories/subdir/image_name.jpg' title='Link to display full-size version of this image on this site'><img src='/static/content/images/stories/subdir/image_name.jpg' class='story-image-left' /></a>",
+      "story_intro_html": "",
+      "story_template": "",
+      "story_html": "",
       "compare_to": { },
       "contrast_with": { }
     }, {
