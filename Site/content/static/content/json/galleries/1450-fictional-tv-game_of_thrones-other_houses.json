@@ -62,7 +62,7 @@
       "explain_dom_constant": "In Extraverts, the dominant trait is directed outwardly, and spiritual portraits use a long vertical line to represent this, because it is the side of their personality that is most evident.  He/She demonstrates/exhibits this trait in their (note that is easier to find examples of decisions than perceptions!) ....",
       "explain_dom_very_slight_preference": "It's important to note this preference/tendency is very slight, and X can be quite _____ in some situations/when the situation calls for it.",
 
-      "explain_aux": "The Yellow in this spiritual portrait represents X's auxiliary personality trait, Sensing: pragmatism; pragmatic; practical; realism; realistic; outlook; openness to experiences; very slight/moderate/strong preference for facts over ideas.",
+      "explain_aux": "The Yellow in this spiritual portrait represents X's auxiliary personality trait, Sensing: pragmatism; pragmatic; practical; realism; realistic; outlook; openness to new experiences; very slight/moderate/strong preference for facts over ideas.",
       "explain_aux": "The Yellow in X's spiritual portrait represents their auxiliary personality trait, their very slight/moderate/strong preference for seeing the/tendency to see the world more in terms of facts rather than of ideas; need for sensual stimulation.",
 
       "explain_aux_constant": "In Extraverts, the auxiliary trait is directed inwardly, and spiritual portraits use a horizontal line to represent this.  He/She demonstrates/exhibits this trait in their (note that is easier to find examples of decisions than perceptions!) ....",
@@ -95,7 +95,7 @@
       "quiz_type": "KTS2",
       "year": "2019",
 
-      "explain_dom": "The Yellow in this spiritual portrait represents X's dominant personality trait, Sensing: pragmatism; pragmatic; practical; realism; realistic; outlook; openness to experiences; very slight/moderate/strong preference for facts over ideas.",
+      "explain_dom": "The Yellow in this spiritual portrait represents X's dominant personality trait, Sensing: pragmatism; pragmatic; practical; realism; realistic; outlook; openness to new experiences; very slight/moderate/strong preference for facts over ideas.",
       "explain_dom": "The Yellow in X's spiritual portrait represents their dominant personality trait, their very slight/moderate/strong preference for seeing/tendency to see the world more in terms of facts rather than of ideas; need for sensual stimulation.",
 
       "explain_dom_constant": "In Introverts, the dominant trait is directed inwardly, and spiritual portraits use a long horizontal line to represent this.  He/She demonstrates/exhibits this trait in their (note that is easier to find examples of decisions than perceptions!) ....",
@@ -140,7 +140,7 @@
       "explain_dom_constant": "In Extraverts, the dominant trait is directed outwardly, and spiritual portraits use a long vertical line to represent this, because it is the side of their personality that is most evident.  He/She demonstrates/exhibits this trait in their (note that is easier to find examples of decisions than perceptions!) ....",
       "explain_dom_very_slight_preference": "It's important to note this preference/tendency is very slight, and X can be quite _____ in some situations/when the situation calls for it.",
 
-      "explain_aux": "The Yellow in this spiritual portrait represents X's auxiliary personality trait, Sensing: pragmatism; pragmatic; practical; realism; realistic; outlook; openness to experiences; very slight/moderate/strong preference for facts over ideas.",
+      "explain_aux": "The Yellow in this spiritual portrait represents X's auxiliary personality trait, Sensing: pragmatism; pragmatic; practical; realism; realistic; outlook; openness to new experiences; very slight/moderate/strong preference for facts over ideas.",
       "explain_aux": "The Yellow in X's spiritual portrait represents their auxiliary personality trait, their very slight/moderate/strong preference for seeing the/tendency to see the world more in terms of facts rather than of ideas; need for sensual stimulation.",
 
       "explain_aux_constant": "In Extraverts, the auxiliary trait is directed inwardly, and spiritual portraits use a horizontal line to represent this.  He/She demonstrates/exhibits this trait in their (note that is easier to find examples of decisions than perceptions!) ....",
@@ -172,24 +172,12 @@
       "archetype": "Te",
       "quiz_type": "KTS2",
       "year": "2019",
-
-      "explain_dom": "The Green in this spiritual portrait represents X's dominant personality trait, Thinking: objectivity; rationality; cool-headedness; very slight/moderate/strong preference for logic/reason/objectivity over emotion/empathy/subjectivity; their very slight/moderate/strong preference for the logical/rational/objective over the emotional/personal/subjective.",
-      "explain_dom": "The Green in X's spiritual portrait represents their dominant personality trait, their very slight/moderate/strong preference for making logical/rational/objective rather than emotional/personal/subjective decisions; their very slight/moderate/strong preference for being/tendency to be logical/rational/objective rather than emotional/personal/subjective.",
-
-      "explain_dom_constant": "In Extraverts, the dominant trait is directed outwardly, and spiritual portraits use a long vertical line to represent this, because it is the side of their personality that is most evident.  He/She demonstrates/exhibits this trait in their (note that is easier to find examples of decisions than perceptions!) ....",
-      "explain_dom_very_slight_preference": "It's important to note this preference/tendency is very slight, and X can be quite _____ in some situations/when the situation calls for it.",
-
-      "explain_aux": "The Yellow in this spiritual portrait represents X's auxiliary personality trait, Sensing: pragmatism; pragmatic; practical; realism; realistic; outlook; openness to experiences; very slight/moderate/strong preference for facts over ideas.",
-      "explain_aux": "The Yellow in X's spiritual portrait represents their auxiliary personality trait, their very slight/moderate/strong preference for seeing the/tendency to see the world more in terms of facts rather than of ideas; need for sensual stimulation.",
-
-      "explain_aux_constant": "In Extraverts, the auxiliary trait is directed inwardly, and spiritual portraits use a horizontal line to represent this.  He/She demonstrates/exhibits this trait in their (note that is easier to find examples of decisions than perceptions!) ....",
-      "explain_aux_very_slight_preference": "It's important to note this preference is very slight, and X can be quite _____ in some situations/when the situation calls for it.",
-
+      "explain_dom": "The Green in this spiritual portrait represents Oberyn's dominant personality trait, his ability to keep cool under pressure.  In Extraverts, the dominant trait is directed outwardly, and spiritual portraits use a long vertical line to represent this, because it is the side of their personality that is most evident.  He demonstrated this trait in the confidence he exhibited while fighting The Mountain.",
+      "explain_aux": "The Yellow in this spiritual portrait represents Oberyn's auxiliary personality trait, his realistic outlook and openness to new experiences.  In Extraverts, the auxiliary trait is directed inwardly, and spiritual portraits use a horizontal line to represent this.  He demonstrated this trait in his keen fighting ability, which requires sharp focus on all available sights, sounds, and 'smells' -- and the ability to respond instantly to the slightest change in any of these -- while under extreme stress.",
       "disclosure_html": "",
-      "story_intro_html": "<p> </p>",
-      "story_template": "content/galleries/stories/empty/empty.html",
-      "story_html": "<p> </p><blockquote> </blockquote><p> </p><hr><p>This spiritual portrait is based on _______.</p>",
-      "story_html_img": "<p>Idea: only include images with stories for family and friends.</p><a href='/static/content/images/stories/subdir/image_name.jpg' title='Link to display full-size version of this image on this site'><img src='/static/content/images/stories/subdir/image_name.jpg' class='story-image-left' /></a>",
+      "story_intro_html": "",
+      "story_template": "",
+      "story_html": "",
       "compare_to": { },
       "contrast_with": { }
     }, {
