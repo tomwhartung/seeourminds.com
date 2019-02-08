@@ -98,7 +98,8 @@ these portraits portray.
 ### Thinking
 
 #### Positive
-- cool-headedness;
+- ability to keep cool under pressure
+- cool-headedness
 - logic
 - logical
 - objectivity
