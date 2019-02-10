@@ -51,8 +51,9 @@ def image(request, gallery_file_name=None, image_id=None):
     image_dict = this_image.image_dict
     back_to_gallery_href = '/gallery/' + gallery_file_name + '/'
 
-    afl_content = AffiliateLinks.afl_content
-    afl_button = AffiliateLinks.afl_content
+    afl_links = AffiliateLinks()
+    afl_content = afl_links.afl_content
+    afl_button = afl_links.afl_content
 
     title = 'Image: ' + image_dict.get('title')
     return render(request, 'content//galleries/gallery_image.html', {
@@ -161,8 +162,9 @@ def gallery(request, gallery_file_name='None'):
     gallery_dict = this_gallery.gallery_dict
     title = gallery_dict.get('gallery_title')
 
-    afl_content = AffiliateLinks.afl_content
-    afl_button = AffiliateLinks.afl_content
+    afl_links = AffiliateLinks()
+    afl_content = afl_links.afl_content
+    afl_button = afl_links.afl_content
 
     template = loader.get_template('content/galleries/galleries_gallery.html')
     context = {
