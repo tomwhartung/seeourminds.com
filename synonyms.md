@@ -137,7 +137,8 @@ these portraits portray.
 - open
 
 #### Negative
-- flake
+- gullible
+- hapless
 - space-case
 
 ---
