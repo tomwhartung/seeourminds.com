@@ -86,8 +86,8 @@ class AffiliateLinks:
         self.afl_content['ah_by_chernow'] = self.afl_default['ah_by_chernow']
         self.afl_button['ah_by_chernow'] = self.afl_default['ah_by_chernow']
 
-        self.afl_content['ah_by_chernow'] = self.afl_default['ah_by_chernow']
-        self.afl_button['ah_by_chernow'] = self.afl_default['ah_by_chernow']
+        self.afl_content['bf_by_isaacson'] = self.afl_default['bf_by_isaacson']
+        self.afl_button['bf_by_isaacson'] = self.afl_default['bf_by_isaacson']
 
         self.afl_content['big_sleep'] = self.afl_default['big_sleep']
         self.afl_button['big_sleep'] = self.afl_default['big_sleep']
