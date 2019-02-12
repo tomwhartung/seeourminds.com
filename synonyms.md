@@ -126,6 +126,7 @@ these portraits portray.
 
 #### Positive
 - ambitious
+- serious
 
 #### Negative
 - closed
@@ -133,6 +134,7 @@ these portraits portray.
 ### Perceiving
 
 #### Positive
+- fun
 - laid-back
 - open
 
