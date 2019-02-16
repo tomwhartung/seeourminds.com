@@ -126,6 +126,7 @@ these portraits portray.
 
 #### Positive
 - ambitious
+- confident
 - serious
 
 #### Negative
@@ -142,6 +143,7 @@ these portraits portray.
 - gullible
 - hapless
 - space-case
+- unsure
 
 ---
 
