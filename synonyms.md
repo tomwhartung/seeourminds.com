@@ -22,6 +22,7 @@ these portraits portray.
 
 #### Positive
 - private
+- reticent
 
 #### Negative
 - aloof
@@ -50,6 +51,9 @@ these portraits portray.
 - pessimistic
 - shallow
 - superficial
+- superficialism
+- superficialist (my word)
+- superficialistic (my word)
 
 ### iNtuition
 
@@ -103,16 +107,18 @@ these portraits portray.
 - logic
 - logical
 - objectivity
-- preference for logical decisions
-- preference for rational decisions
-- preference for objective decisions
 - rational
 - reason
 - reasonable
+- preference for logical decisions
+- preference for rational decisions
+- preference for objective decisions
 
 #### Negative
+- avaricious
 - cold
 - control freak
+- greedy
 - heartless
 - impersonal
 - insensitive
