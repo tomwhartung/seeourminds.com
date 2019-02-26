@@ -14,6 +14,8 @@ these portraits portray.
 - public
 - talkative
 
+#### Neutral
+
 #### Negative
 - blabbermouth
 - uninhibited
@@ -22,6 +24,8 @@ these portraits portray.
 
 #### Positive
 - private
+
+#### Neutral
 - reticent
 
 #### Negative
@@ -47,6 +51,8 @@ these portraits portray.
 - realism
 - realistic outlook
 
+#### Neutral
+
 #### Negative
 - pessimistic
 - shallow
@@ -67,6 +73,8 @@ these portraits portray.
 - optimistic
 - preference for ideas over facts
 - preference for seeing the world more in terms of ideas than of facts
+
+#### Neutral
 
 #### Negative
 - flake
@@ -95,6 +103,8 @@ these portraits portray.
 - subjectivity
 - warm
 
+#### Neutral
+
 #### Negative
 - drama queen
 - sensitive
@@ -110,6 +120,8 @@ these portraits portray.
 - rational
 - reason
 - reasonable
+
+#### Neutral
 - preference for logical decisions
 - preference for rational decisions
 - preference for objective decisions
@@ -135,6 +147,8 @@ these portraits portray.
 - confident
 - serious
 
+#### Neutral
+
 #### Negative
 - closed
 
@@ -144,6 +158,8 @@ these portraits portray.
 - fun
 - laid-back
 - open
+
+#### Neutral
 
 #### Negative
 - gullible
@@ -160,6 +176,8 @@ these portraits portray.
 - full stack
 - versatile
 - well-rounded
+
+#### Neutral
 
 ## Negative
 - jack of all trades master of none
