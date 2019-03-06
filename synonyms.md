@@ -33,7 +33,7 @@ these portraits portray.
 - inhibited
 - shy
 
----
+------------------------------
 
 ## Sensing vs. iNtuition
 
@@ -80,7 +80,7 @@ these portraits portray.
 - flake
 - space-case
 
----
+------------------------------
 
 ## Feeling vs. Thinking
 
@@ -136,7 +136,7 @@ these portraits portray.
 - insensitive
 - unfeeling
 
----
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 
 ## Judging vs. Perceiving
 
@@ -148,6 +148,7 @@ these portraits portray.
 - serious
 
 #### Neutral
+- decisive
 
 #### Negative
 - closed
@@ -155,17 +156,18 @@ these portraits portray.
 ### Perceiving
 
 #### Positive
-- fun
+- fun, funny
 - laid-back
-- open
 
 #### Neutral
+- open
 
 #### Negative
 - gullible
 - hapless
 - space-case
 - unsure
+- wishy-washy
 
 ---
 
