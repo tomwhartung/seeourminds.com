@@ -11,14 +11,15 @@ these portraits portray.
 #### Positive
 - friendly (when also Feeling)
 - outgoing
-- public
-- talkative
 
 #### Neutral
+- public
+- talkative
 
 #### Negative
 - blabbermouth
 - uninhibited
+
 
 ### Introversion
 
@@ -27,13 +28,13 @@ these portraits portray.
 
 #### Neutral
 - reticent
+- shy
 
 #### Negative
 - aloof
 - inhibited
-- shy
 
-------------------------------
+--------------------------------------------------------------------------------
 
 ## Sensing vs. iNtuition
 
@@ -43,15 +44,14 @@ these portraits portray.
 - down-to-earth
 - open to new experiences
 - openness to experiences
-- need for sensual stimulation
+- need for sensory stimulation
+
+#### Neutral
 - practical
 - pragmatic
 - preference for facts over ideas
 - preference for seeing the world more in terms of facts than of ideas
-- realism
-- realistic outlook
-
-#### Neutral
+- realism, realistic, realistic outlook
 
 #### Negative
 - pessimistic
@@ -61,26 +61,28 @@ these portraits portray.
 - superficialist (my word)
 - superficialistic (my word)
 
+
 ### iNtuition
 
 #### Positive
 - deep
 - hope for the future
 - idealistic
+- optimistic
+
+#### Neutral
 - need for intellectual stimulation
 - open to new ideas
 - openness to ideas
-- optimistic
 - preference for ideas over facts
 - preference for seeing the world more in terms of ideas than of facts
 
-#### Neutral
-
 #### Negative
 - flake
+- not grounded in reality
 - space-case
 
-------------------------------
+--------------------------------------------------------------------------------
 
 ## Feeling vs. Thinking
 
@@ -88,55 +90,52 @@ these portraits portray.
 
 #### Positive
 - affectionate
-- amiable
 - compassion
-- emotion
-- emotional
-- empathy
-- friendly (when also Extravted)
-- passion
-- passionate
+- empathetic, empathy
+- friendly (and outgoing, when also Extraverted)
+- harmonious relationships
 - personal
+- warm
+
+#### Neutral
+- amiable
+- emotion, emotional
+- passion, passionate
 - preference for emotional decisions
 - preference for personal decisions
 - preference for subjective decisions
 - subjectivity
-- warm
-
-#### Neutral
 
 #### Negative
 - drama queen
 - sensitive
+
 
 ### Thinking
 
 #### Positive
 - ability to keep cool under pressure
 - cool-headedness
-- logic
-- logical
-- objectivity
-- rational
-- reason
-- reasonable
 
 #### Neutral
+- logic, logical
+- reason, reasonable
+- objective, objectivity
 - preference for logical decisions
 - preference for rational decisions
 - preference for objective decisions
+- rational
 
 #### Negative
 - avaricious
 - cold
-- control freak
 - greedy
 - heartless
 - impersonal
 - insensitive
 - unfeeling
 
--=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+--------------------------------------------------------------------------------
 
 ## Judging vs. Perceiving
 
@@ -145,13 +144,16 @@ these portraits portray.
 #### Positive
 - ambitious
 - confident
-- serious
+- decisive
 
 #### Neutral
-- decisive
+- serious
 
 #### Negative
 - closed
+- control freak
+- intransigent
+
 
 ### Perceiving
 
@@ -165,23 +167,24 @@ these portraits portray.
 #### Negative
 - gullible
 - hapless
+- indecisive
 - space-case
-- unsure
 - wishy-washy
+- unsure
 
----
+--------------------------------------------------------------------------------
 
 ## Chameleon
 
 ### Positive
 - flexible
-- full stack
 - versatile
 - well-rounded
 
 #### Neutral
+- full stack
 
 ## Negative
-- jack of all trades master of none
+- jack of all trades, master of none
 - wishy-washy
 
