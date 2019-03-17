@@ -9,12 +9,16 @@ these portraits portray.
 ### Extraversion
 
 #### Positive
+- convival (sociable)
 - friendly (when also Feeling)
+- gregarious
 - outgoing
+- sociable
 
 #### Neutral
 - public
 - talkative
+- unreserved
 
 #### Negative
 - blabbermouth
@@ -24,15 +28,22 @@ these portraits portray.
 ### Introversion
 
 #### Positive
+- bashful
 - private
+- soft-spoken
 
 #### Neutral
+- cautious
+- quiet
+- restrained
 - reticent
 - shy
 
 #### Negative
 - aloof
 - inhibited
+- reclusive
+- withdrawn
 
 --------------------------------------------------------------------------------
 
@@ -108,7 +119,10 @@ these portraits portray.
 
 #### Negative
 - drama queen
+- flighty
+- overly dramatic
 - sensitive
+- unpredictable
 
 
 ### Thinking
