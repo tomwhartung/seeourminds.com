@@ -52,10 +52,12 @@ these portraits portray.
 ### Sensing
 
 #### Positive
+- awake
 - down-to-earth
 - open to new experiences
 - openness to experiences
 - need for sensory stimulation
+- wide awake
 
 #### Neutral
 - practical
@@ -65,6 +67,7 @@ these portraits portray.
 - realism, realistic, realistic outlook
 
 #### Negative
+- hollow
 - pessimistic
 - shallow
 - superficial
@@ -154,6 +157,9 @@ these portraits portray.
 ## Judging vs. Perceiving
 
 ### Judging
+- acting
+- deciding
+- doing
 
 #### Positive
 - ambitious
@@ -167,9 +173,13 @@ these portraits portray.
 - closed
 - control freak
 - intransigent
+- know-it-all
+- prejudiced
 
 
 ### Perceiving
+- learning
+- observing
 
 #### Positive
 - fun, funny
@@ -179,6 +189,7 @@ these portraits portray.
 - open
 
 #### Negative
+- goofy
 - gullible
 - hapless
 - indecisive
