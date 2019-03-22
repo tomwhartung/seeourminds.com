@@ -1,0 +1,67 @@
+{
+  "gallery_group_title": "Game of Thrones",
+  "gallery_group_page": "game_of_thrones",
+  "gallery_title": "Game of Thrones - House Greyjoy",
+  "see_gallery_button_text": "See Their Minds",
+  "list_page_teaser": "Spoiler Alert!  If you have not seen Season 1, do not click!  What sort of personality types survive the best in a brutal world where the possibility of instanteous death lurks over everyone like a cloud?  Click to find out this and more!",
+  "description_html": "<p><a href='https://en.wikipedia.org/wiki/Game_of_Thrones' title='Wikipedia page for Game of Thrones' target='_blank'>Game of Thrones</a> has a lot of characters and plots.  This gallery contains images of the personalities of some of the main and recurring characters who are not a member of one of the featured houses.</p>",
+    "story_html": "",
+  "image_list":
+  [
+    {
+      "id": "1457",
+      "title": "Theon Greyjoy",
+      "subtitle_html": "<a href='https://en.wikipedia.org/wiki/Theon_Greyjoy' title='Wikipedia page for Theon Greyjoy' target='_blank'>Son</a> of Balon Greyjoy &mdash; <b>Before</b> He Meets Ramsey",
+      "gallery_page_teaser": "Theon's spiritual portrait shows he is outgoing, decisive and realistic.  Click on the image to learn more!",
+      "image_file_name": "estj-theon_greyjoy-1.jpg",
+      "meat_portrait_href": "https://en.wikipedia.org/wiki/File:Theon_Greyjoy-Alfie_Allen.jpg",
+      "composition": "O",
+      "score": [
+         { "e_score": "17", "i_score": "2" },
+         { "n_score": "2", "s_score": "17" },
+         { "f_score": "2", "t_score": "17" },
+         { "j_score": "14", "p_score": "5" }
+      ],
+      "four_letter_type": "ESTJ",
+      "fixed_percentages": "",
+      "archetype": "Te",
+      "quiz_type": "KTS2",
+      "year": "2019",
+      "explain_dom": "The Green in this spiritual portrait represents Theon's dominant personality trait, his strong preference for logic over emotion.  In Extraverts, the dominant trait is directed outwardly, and spiritual portraits use a long vertical line to represent this, because it is the side of their personality that is most evident.  He demonstrated this trait in his harsh treatment of the people at Winterfell.",
+      "explain_aux": "The Yellow in this spiritual portrait represents Theon's auxiliary personality trait, his strong preference for realism over idealism.  In Extraverts, the auxiliary trait is directed inwardly, and spiritual portraits use a horizontal line to represent this.  He demonstrated this trait when he realized that even though he was raised by Ned Stark, he was still Balon Greyjoy's son and heir.",
+      "disclosure_html": "",
+      "story_intro_html": "",
+      "story_template": "",
+      "story_html": "",
+      "compare_to": { },
+      "contrast_with": { }
+    }, {
+      "id": "1458",
+      "title": "Yara Greyjoy",
+      "subtitle_html": "Only Daughter of <a href='https://en.wikipedia.org/wiki/List_of_A_Song_of_Ice_and_Fire_characters#Balon_Greyjoy' title='Wikipedia page with a short piece on Balon Greyjoy' target='_blank'>Balon Greyjoy</a>",
+      "gallery_page_teaser": "Yara's spiritual portrait shows she is a bit _____________.  Click on the image to learn more!",
+      "image_file_name": "estj-yara_greyjoy-1.jpg",
+      "meat_portrait_href": "",
+      "composition": "O",
+      "score": [
+         { "e_score": "4", "i_score": "15" },
+         { "n_score": "9", "s_score": "10" },
+         { "f_score": "6", "t_score": "13" },
+         { "j_score": "13", "p_score": "6" }
+      ],
+      "four_letter_type": "ESTJ",
+      "archetype": "Te",
+      "quiz_type": "KTS2",
+      "year": "2019",
+
+      "explain_dom": "The Yellow in this spiritual portrait represents Brienne's dominant personality trait, her pragmatism and openness to new experiences.  In Introverts, the dominant trait is directed inwardly, and spiritual portraits use a long horizontal line to represent this.  She demonstrates this trait in her keen fighting ability, which requires sharp focus on all available sights, sounds, feelings, and 'smells' -- and the ability to respond instantly to the slightest change in any of these -- while under extreme stress.",
+      "explain_aux": "The Green in this spiritual portrait represents Brienne's auxiliary personality trait, her objectivity and ability to stay calm and cool under pressure.  In Introverts, the auxiliary trait is directed outwardly, and spiritual portraits use a vertical line to represent this, because it is more evident than the dominant function.  She demonstrates this trait when she is in a fight -- at least at the start.",
+      "disclosure_html": "",
+      "story_intro_html": "",
+      "story_template": "",
+      "story_html": "",
+      "compare_to": { },
+      "contrast_with": { }
+    }
+  ]
+}
