@@ -44,18 +44,17 @@
       "meat_portrait_href": "",
       "composition": "O",
       "score": [
-         { "e_score": "4", "i_score": "15" },
-         { "n_score": "9", "s_score": "10" },
-         { "f_score": "6", "t_score": "13" },
+         { "e_score": "15", "i_score": "4" },
+         { "n_score": "3", "s_score": "16" },
+         { "f_score": "5", "t_score": "14" },
          { "j_score": "13", "p_score": "6" }
       ],
       "four_letter_type": "ESTJ",
       "archetype": "Te",
       "quiz_type": "KTS2",
       "year": "2019",
-
-      "explain_dom": "The Yellow in this spiritual portrait represents Brienne's dominant personality trait, her pragmatism and openness to new experiences.  In Introverts, the dominant trait is directed inwardly, and spiritual portraits use a long horizontal line to represent this.  She demonstrates this trait in her keen fighting ability, which requires sharp focus on all available sights, sounds, feelings, and 'smells' -- and the ability to respond instantly to the slightest change in any of these -- while under extreme stress.",
-      "explain_aux": "The Green in this spiritual portrait represents Brienne's auxiliary personality trait, her objectivity and ability to stay calm and cool under pressure.  In Introverts, the auxiliary trait is directed outwardly, and spiritual portraits use a vertical line to represent this, because it is more evident than the dominant function.  She demonstrates this trait when she is in a fight -- at least at the start.",
+      "explain_dom": "The Green in this spiritual portrait represents Yara's dominant personality trait, her objectivity and cool-headedness.  In Extraverts, the dominant trait is directed outwardly, and spiritual portraits use a long vertical line to represent this, because it is the side of their personality that is most evident.  She demonstrates this trait in the way she can remain calm during battles.",
+      "explain_aux": "The Yellow in this spiritual portrait represents Yara's auxiliary personality trait, her realistic outlook.  In Extraverts, the auxiliary trait is directed inwardly, and spiritual portraits use a horizontal line to represent this.  She demonstrated this when she called off the attempt to rescue Theon from Ramsey, realizing that Theon no longer resembled the brother she had known.",
       "disclosure_html": "",
       "story_intro_html": "",
       "story_template": "",
