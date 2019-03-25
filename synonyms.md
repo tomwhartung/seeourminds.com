@@ -54,6 +54,7 @@ these portraits portray.
 #### Positive
 - awake
 - down-to-earth
+- happy-go-lucky - esp. with Perceiving
 - open to new experiences
 - openness to experiences
 - need for sensory stimulation
@@ -167,6 +168,7 @@ these portraits portray.
 - decisive
 
 #### Neutral
+- headstrong
 - serious
 
 #### Negative
@@ -175,14 +177,21 @@ these portraits portray.
 - intransigent
 - know-it-all
 - prejudiced
+- stubborn
 
 
 ### Perceiving
+- analyzing - with iNtuition
 - learning
+- listening - with Sensing
 - observing
+- seeing - with Sensing
+- watching - with Sensing
 
 #### Positive
+- accepting
 - fun, funny
+- happy-go-lucky - with Sensing
 - laid-back
 
 #### Neutral
@@ -203,6 +212,7 @@ these portraits portray.
 
 ### Positive
 - flexible
+- relatable
 - versatile
 - well-rounded
 
