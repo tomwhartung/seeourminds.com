@@ -132,6 +132,7 @@ these portraits portray.
 ### Thinking
 
 #### Positive
+- ambitious - with Judging
 - ability to keep cool under pressure
 - cool-headedness
 
@@ -163,7 +164,7 @@ these portraits portray.
 - doing
 
 #### Positive
-- ambitious
+- ambitious - with Thinking
 - confident
 - decisive
 
@@ -193,8 +194,10 @@ these portraits portray.
 - fun, funny
 - happy-go-lucky - with Sensing
 - laid-back
+- perceptive
 
 #### Neutral
+- inquisitive
 - open
 
 #### Negative
