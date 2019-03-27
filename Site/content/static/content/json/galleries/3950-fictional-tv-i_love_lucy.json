@@ -95,12 +95,12 @@
       "id": "3956",
       "title": "Fred Mertz",
       "subtitle_html": "<a href='' title='Wikipedia page for ' target='_blank'></a>",
-      "gallery_page_teaser": "Fred's spiritual portrait shows he is ______________.  Click on the image to learn more!",
+      "gallery_page_teaser": "Fred's spiritual portrait shows he is very realistic and logical, showing emotion rarely if ever.  Click on the image to learn more!",
       "image_file_name": "istj-fred_mertz-1.jpg",
       "meat_portrait_href": "",
       "composition": "O",
       "score": [
-         { "e_score": "10", "i_score": "9" },
+         { "e_score": "9", "i_score": "10" },
          { "n_score": "1", "s_score": "18" },
          { "f_score": "1", "t_score": "18" },
          { "j_score": "12", "p_score": "7" }
@@ -109,17 +109,8 @@
       "archetype": "Si",
       "quiz_type": "KTS2",
       "year": "2019",
-
-      "explain_dom": "The Yellow in this spiritual portrait represents Fred's dominant personality trait, Sensing: pragmatism; pragmatic; practical; realism; realistic; outlook; openness to new experiences; very slight/moderate/strong preference for facts over ideas.",
-      "explain_dom": "The Yellow in X's spiritual portrait represents their dominant personality trait, their very slight/moderate/strong preference for seeing/tendency to see the world more in terms of facts rather than of ideas; need for sensual stimulation.",
-      "explain_dom_constant": "In Introverts, the dominant trait is directed inwardly, and spiritual portraits use a long horizontal line to represent this.  He/She demonstrates/exhibits this trait in their (note that is easier to find examples of decisions than perceptions!) ....",
-      "explain_dom_very_slight_preference": "It's important to note this preference/tendency is very slight, and X can be quite _____ in some situations/when the situation calls for it.",
-
-      "explain_aux": "The Green in this spiritual portrait represents Fred's auxiliary personality trait, Thinking: objectivity; rationality; cool-headedness; very slight/moderate/strong preference for logic/reason/objectivity over emotion/empathy/subjectivity; their very slight/moderate/strong preference for the/tendency to be more logical/rational/objective over the emotional/personal/subjective.",
-      "explain_aux": "The Green in X's spiritual portrait represents their auxiliary personality trait, their very slight/moderate/strong preference for making logical/rational/subjective rather than emotional/personal/objective decisions; their very slight/moderate/strong preference for being/tendency to be more logical/rational/objective rather than emotional/personal/subjective.",
-      "explain_aux_constant": "In Introverts, the auxiliary trait is directed outwardly, and spiritual portraits use a vertical line to represent this, because it is more evident than the dominant function.  He/She demonstrates/exhibits this trait in their (note that is easier to find examples of decisions than perceptions!) ....",
-      "explain_aux_very_slight_preference": "It's important to note this preference is very slight, and X can be quite _____ in some situations/when the situation calls for it.",
-
+      "explain_dom": "The Yellow in this spiritual portrait represents Fred's dominant personality trait, his realistic outlook.  In Introverts, the dominant trait is directed inwardly, and spiritual portraits use a long horizontal line to represent this.  Fred's preference is very strong and he demonstrates this trait in the way he is always looking for ways to save money.",
+      "explain_aux": "The Green in this spiritual portrait represents Fred's auxiliary personality trait, his objectivity.  In Introverts, the auxiliary trait is directed outwardly, and spiritual portraits use a vertical line to represent this, because it is more evident than the dominant function.  Fred's preference is very strong and he demonstrates this tendency in the way he rarely displays any emotion.",
       "disclosure_html": "",
       "disclosure_html": "<p>This story contains some <a href='/legal/affiliate_marketing_disclosure' title='Link to the affiliate marketing disclosure on this site' target='_blank'>affiliate marketing links</a>.  Clicking on one of these and making a purchase helps support SeeOurMinds.com.</p>",
       "story_intro_html": "<p> </p>",
