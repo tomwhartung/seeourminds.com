@@ -16,14 +16,13 @@
       "meat_portrait_href": "",
       "composition": "O",
       "score": [
-         { "e_score": "0", "i_score": "0" },
-         { "n_score": "0", "s_score": "0" },
-         { "f_score": "0", "t_score": "0" },
-         { "j_score": "0", "p_score": "0" }
+         { "e_score": "19", "i_score": "0" },
+         { "n_score": "8", "s_score": "11" },
+         { "f_score": "18", "t_score": "1" },
+         { "j_score": "10", "p_score": "9" }
       ],
-      "four_letter_type": "EXXX",
-      "fixed_percentages": "",
-      "archetype": "Xe",
+      "four_letter_type": "ESFJ",
+      "archetype": "Fe",
       "quiz_type": "KTS2",
       "year": "2019",
 
@@ -68,14 +67,13 @@
       "meat_portrait_href": "",
       "composition": "O",
       "score": [
-         { "e_score": "0", "i_score": "0" },
-         { "n_score": "0", "s_score": "0" },
-         { "f_score": "0", "t_score": "0" },
-         { "j_score": "0", "p_score": "0" }
+         { "e_score": "19", "i_score": "0" },
+         { "n_score": "4", "s_score": "15" },
+         { "f_score": "6", "t_score": "13" },
+         { "j_score": "15", "p_score": "4" }
       ],
-      "four_letter_type": "EXXX",
-      "fixed_percentages": "",
-      "archetype": "Xe",
+      "four_letter_type": "ESTJ",
+      "archetype": "Te",
       "quiz_type": "KTS2",
       "year": "2019",
 
@@ -120,14 +118,13 @@
       "meat_portrait_href": "",
       "composition": "O",
       "score": [
-         { "e_score": "0", "i_score": "0" },
-         { "n_score": "0", "s_score": "0" },
-         { "f_score": "0", "t_score": "0" },
-         { "j_score": "0", "p_score": "0" }
+         { "e_score": "19", "i_score": "0" },
+         { "n_score": "3", "s_score": "16" },
+         { "f_score": "18", "t_score": "1" },
+         { "j_score": "7", "p_score": "12" }
       ],
-      "four_letter_type": "EXXX",
-      "fixed_percentages": "",
-      "archetype": "Xe",
+      "four_letter_type": "ESFP",
+      "archetype": "Se",
       "quiz_type": "KTS2",
       "year": "2019",
 
@@ -172,14 +169,13 @@
       "meat_portrait_href": "",
       "composition": "O",
       "score": [
-         { "e_score": "0", "i_score": "0" },
-         { "n_score": "0", "s_score": "0" },
-         { "f_score": "0", "t_score": "0" },
-         { "j_score": "0", "p_score": "0" }
+         { "e_score": "10", "i_score": "9" },
+         { "n_score": "1", "s_score": "18" },
+         { "f_score": "1", "t_score": "18" },
+         { "j_score": "12", "p_score": "7" }
       ],
-      "four_letter_type": "IXXX",
-      "fixed_percentages": "",
-      "archetype": "Xi",
+      "four_letter_type": "ISTJ",
+      "archetype": "Si",
       "quiz_type": "KTS2",
       "year": "2019",
 
