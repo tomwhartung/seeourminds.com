@@ -28,11 +28,9 @@
       "explain_dom": "The Green in this spiritual portrait represents Viserys' dominant personality trait, his cold objectivity.  In Extraverts, the dominant trait is directed outwardly, and spiritual portraits use a long vertical line to represent this, because it is the side of their personality that is most evident.  Viserys shows how cold he can be when he sells his sister Daenerys to Khal Drogo for the support of the Dothraki in his pursuit of the Iron Throne.",
       "explain_aux": "The Yellow in this spiritual portrait represents Viserys' auxiliary personality trait, his short-sightedness.  In Extraverts, the auxiliary trait is directed inwardly, and spiritual portraits use a horizontal line to represent this.  Viserys shows how short-sighted he is when he gets drunk and threatens Daenerys and her unborn son.",
       "disclosure_html": "",
-      "disclosure_html": "<p>This story contains some <a href='/legal/affiliate_marketing_disclosure' title='Link to the affiliate marketing disclosure on this site' target='_blank'>affiliate marketing links</a>.  Clicking on one of these and making a purchase helps support SeeOurMinds.com.</p>",
-      "story_intro_html": "<p> </p>",
-      "story_template": "content/galleries/stories/empty/empty.html",
-      "story_html": "<p> </p><blockquote> </blockquote><p> </p><hr><p>This spiritual portrait is based on _______.</p>",
-      "story_html_img": "<p>Idea: only include images with stories for family and friends.</p><a href='/static/content/images/stories/subdir/image_name.jpg' title='Link to display full-size version of this image on this site'><img src='/static/content/images/stories/subdir/image_name.jpg' class='story-image-left' /></a>",
+      "story_intro_html": "",
+      "story_template": "",
+      "story_html": "",
       "compare_to": { },
       "contrast_with": { }
     }, {
@@ -56,11 +54,9 @@
       "explain_dom": "The Blue in this spiritual portrait represents Daenerys' dominant personality trait, her idealism and hope for the future.  In Introverts, the dominant trait is directed inwardly, and spiritual portraits use a long horizontal line to represent this.  Freeing slaves is one way Daenerys shows she is idealistic.",
       "explain_aux": "The Red in this spiritual portrait represents Daenerys' auxiliary personality trait, her warmth and compassion.  In Introverts, the auxiliary trait is directed outwardly, and spiritual portraits use a vertical line to represent this, because it is more evident than the dominant function.  Daenerys shows her compassion in the love she has for her dragons.",
       "disclosure_html": "",
-      "disclosure_html": "<p>This story contains some <a href='/legal/affiliate_marketing_disclosure' title='Link to the affiliate marketing disclosure on this site' target='_blank'>affiliate marketing links</a>.  Clicking on one of these and making a purchase helps support SeeOurMinds.com.</p>",
-      "story_intro_html": "<p> </p>",
-      "story_template": "content/galleries/stories/empty/empty.html",
-      "story_html": "<p> </p><blockquote> </blockquote><p> </p><hr><p>This spiritual portrait is based on _______.</p>",
-      "story_html_img": "<p>Idea: only include images with stories for family and friends.</p><a href='/static/content/images/stories/subdir/image_name.jpg' title='Link to display full-size version of this image on this site'><img src='/static/content/images/stories/subdir/image_name.jpg' class='story-image-right' /></a>",
+      "story_intro_html": "",
+      "story_template": "",
+      "story_html": "",
       "compare_to": { },
       "contrast_with": { }
     }, {
@@ -84,11 +80,9 @@
       "explain_dom": "The Red in this spiritual portrait represents Missandei's dominant personality trait, her warmth and compassion.  In Introverts, the dominant trait is directed inwardly, and spiritual portraits use a long horizontal line to represent this.  She shows her warmth when she talks to Grey Worm and shows compassion by listening to him discuss his harsh background at the hands of the slavemasters.",
       "explain_aux": "The Yellow in this spiritual portrait represents Missandei's auxiliary personality trait, her realism and openness to new experiences.  In Introverts, the auxiliary trait is directed outwardly, and spiritual portraits use a vertical line to represent this, because it is more evident than the dominant function.  She shows her realism when counseling Daenerys about the realities of slavery.",
       "disclosure_html": "",
-      "disclosure_html": "<p>This story contains some <a href='/legal/affiliate_marketing_disclosure' title='Link to the affiliate marketing disclosure on this site' target='_blank'>affiliate marketing links</a>.  Clicking on one of these and making a purchase helps support SeeOurMinds.com.</p>",
-      "story_intro_html": "<p> </p>",
-      "story_template": "content/galleries/stories/empty/empty.html",
-      "story_html": "<p> </p><blockquote> </blockquote><p> </p><hr><p>This spiritual portrait is based on _______.</p>",
-      "story_html_img": "<p>Idea: only include images with stories for family and friends.</p><a href='/static/content/images/stories/subdir/image_name.jpg' title='Link to display full-size version of this image on this site'><img src='/static/content/images/stories/subdir/image_name.jpg' class='story-image-right' /></a>",
+      "story_intro_html": "",
+      "story_template": "",
+      "story_html": "",
       "compare_to": { },
       "contrast_with": { }
     }, {
@@ -112,10 +106,9 @@
       "explain_dom": "The Yellow in this spiritual portrait represents Grey Worm's dominant personality trait, his pragmatism.  In Introverts, the dominant trait is directed inwardly, and spiritual portraits use a long horizontal line to represent this.  Grey Worm demonstrates his realism when he tells Missandei how he became a member of the Unsullied Army.",
       "explain_aux": "The Green in this spiritual portrait represents Grey Worm's auxiliary personality trait, his objectivity and ability to remain cool-headed when fighting.  In Introverts, the auxiliary trait is directed outwardly, and spiritual portraits use a vertical line to represent this, because it is more evident than the dominant function.  Grey Worm's objectivity is evident in how he never shows any emotion.",
       "disclosure_html": "",
-      "story_intro_html": "<p> </p>",
-      "story_template": "content/galleries/stories/empty/empty.html",
-      "story_html": "<p> </p><blockquote> </blockquote><p> </p><hr><p>This spiritual portrait is based on _______.</p>",
-      "story_html_img": "<p>Idea: only include images with stories for family and friends.</p><a href='/static/content/images/stories/subdir/image_name.jpg' title='Link to display full-size version of this image on this site'><img src='/static/content/images/stories/subdir/image_name.jpg' class='story-image-right' /></a>",
+      "story_intro_html": "",
+      "story_template": "",
+      "story_html": "",
       "compare_to": { },
       "contrast_with": { }
     }
