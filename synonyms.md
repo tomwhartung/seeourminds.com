@@ -71,6 +71,7 @@ these portraits portray.
 - hollow
 - pessimistic
 - shallow
+- short-sighted
 - superficial
 - superficialism
 - superficialist (my word)
@@ -191,10 +192,12 @@ these portraits portray.
 
 #### Positive
 - accepting
+- content
 - fun, funny
 - happy-go-lucky - with Sensing
 - laid-back
 - perceptive
+- satisfied
 
 #### Neutral
 - inquisitive
