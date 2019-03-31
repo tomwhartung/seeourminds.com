@@ -56,11 +56,9 @@
       "explain_dom": "The Green in Tormund's spiritual portrait represents his dominant personality trait, his tendency to be more objective than emotional.  In Introverts, the dominant trait is directed inwardly, and spiritual portraits use a long horizontal line to represent this.  Tormund exhibits this tendency when he is taken prisoner by the Nights Watch after the wildling's raid on Castle Black, when he shows no emotion at the prospect of being put to death, and seems interested only in the method.",
       "explain_aux": "The Yellow in Tormund's spiritual portrait represents his auxiliary personality trait, his strong tendency to see the world more in terms of facts rather than ideas.  In Introverts, the auxiliary trait is directed outwardly, and spiritual portraits use a vertical line to represent this, because it is more evident than the dominant function.  Tormund exhibits this tendency rather comically in a war room with Jon Snow, when Jon expresses concern about their army being caught in a pincer move.  Tormund does not react to the term, so Jon explains it in simpler terms.  Hearing that he wants to prevent being attacked from the sides, Tormund finally elicits a single word in response, 'good,' so Jon knows he got through to him the second time.",
       "disclosure_html": "",
-      "disclosure_html": "<p>This story contains some <a href='/legal/affiliate_marketing_disclosure' title='Link to the affiliate marketing disclosure on this site' target='_blank'>affiliate marketing links</a>.  Clicking on one of these and making a purchase helps support SeeOurMinds.com.</p>",
-      "story_intro_html": "<p> </p>",
-      "story_template": "content/galleries/stories/empty/empty.html",
-      "story_html": "<p> </p><blockquote> </blockquote><p> </p><hr><p>This spiritual portrait is based on _______.</p>",
-      "story_html_img": "<p>Idea: only include images with stories for family and friends.</p><a href='/static/content/images/stories/subdir/image_name.jpg' title='Link to display full-size version of this image on this site'><img src='/static/content/images/stories/subdir/image_name.jpg' class='story-image-right' /></a>",
+      "story_intro_html": "",
+      "story_template": "",
+      "story_html": "",
       "compare_to": { },
       "contrast_with": { }
     }, {
@@ -85,11 +83,9 @@
       "explain_dom": "The Red in Gilly's spiritual portrait represents her dominant personality trait, her warmth and friendliness.  In Introverts, the dominant trait is directed inwardly, and spiritual portraits use a long horizontal line to represent this.  Gilly shows this preference in the way she quickly befriends Samwell and decides to save her baby's life by leaving Craster's Keep with him.",
       "explain_aux": "The Yellow in Gilly's spiritual portrait represents her auxiliary personality trait, her realism and tendency to care more about facts than ideas.  In Introverts, the auxiliary trait is directed outwardly, and spiritual portraits use a vertical line to represent this, because it is more evident than the dominant function.  Although Gilly learns to read and shows some interest in Sam's work, she shows more concern about practical matters in general and taking care of her child in particular.",
       "disclosure_html": "",
-      "disclosure_html": "<p>This story contains some <a href='/legal/affiliate_marketing_disclosure' title='Link to the affiliate marketing disclosure on this site' target='_blank'>affiliate marketing links</a>.  Clicking on one of these and making a purchase helps support SeeOurMinds.com.</p>",
-      "story_intro_html": "<p> </p>",
-      "story_template": "content/galleries/stories/empty/empty.html",
-      "story_html": "<p> </p><blockquote> </blockquote><p> </p><hr><p>This spiritual portrait is based on _______.</p>",
-      "story_html_img": "<p>Idea: only include images with stories for family and friends.</p><a href='/static/content/images/stories/subdir/image_name.jpg' title='Link to display full-size version of this image on this site'><img src='/static/content/images/stories/subdir/image_name.jpg' class='story-image-right' /></a>",
+      "story_intro_html": "",
+      "story_template": "",
+      "story_html": "",
       "compare_to": { },
       "contrast_with": { }
     }
