@@ -54,6 +54,7 @@ these portraits portray.
 #### Positive
 - awake
 - down-to-earth
+- easy-going
 - happy-go-lucky - esp. with Perceiving
 - open to new experiences
 - openness to experiences
@@ -84,6 +85,8 @@ these portraits portray.
 - deep
 - hope for the future
 - idealistic
+- insightful
+- open-minded, open-mindedness
 - optimistic
 
 #### Neutral
@@ -177,6 +180,7 @@ these portraits portray.
 - closed
 - control freak
 - intransigent
+- judgmental
 - know-it-all
 - prejudiced
 - stubborn
@@ -184,6 +188,7 @@ these portraits portray.
 
 ### Perceiving
 - analyzing - with iNtuition
+- insightful - with iNtuition
 - learning
 - listening - with Sensing
 - observing
@@ -193,9 +198,11 @@ these portraits portray.
 #### Positive
 - accepting
 - content
+- easy-going
 - fun, funny
 - happy-go-lucky - with Sensing
 - laid-back
+- non-judgmental
 - perceptive
 - satisfied
 
