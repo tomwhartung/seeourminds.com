@@ -11,15 +11,16 @@ these portraits portray.
 
 #### Positive
 - affectionate
-- compassion
-- empathetic, empathy
-- friendly (and outgoing, when also Extraverted)
+- amiable
+- compassion, compassionate
+- empathy, empathetic
+- friendly
+- friendly and outgoing, when also Extraverted
 - harmonious relationships
 - personal
 - warm
 
 #### Neutral
-- amiable
 - emotion, emotional
 - passion, passionate
 - preference for emotional decisions
@@ -38,7 +39,7 @@ these portraits portray.
 ### Thinking
 
 #### Positive
-- ambitious - with Judging
+- ambitious - esp. with Judging
 - ability to keep cool under pressure
 - cool-headedness
 
@@ -52,9 +53,13 @@ these portraits portray.
 - rational
 
 #### Negative
+- arrogant - esp. with Judging
 - avaricious
+- cocky - esp. with Judging
 - cold
+- condescending - esp. with Judging
 - greedy
+- gruff - esp. with Judging
 - heartless
 - impersonal
 - insensitive
