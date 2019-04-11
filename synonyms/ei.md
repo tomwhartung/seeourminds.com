@@ -10,6 +10,7 @@ these portraits portray.
 
 #### Positive
 - convival (sociable)
+- ebullient (zestfully enthusiastic)
 - friendly (when also Feeling)
 - gregarious
 - outgoing
@@ -29,6 +30,7 @@ these portraits portray.
 
 #### Positive
 - bashful
+- demure
 - private
 - soft-spoken
 
