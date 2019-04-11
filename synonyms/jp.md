@@ -13,39 +13,45 @@ these portraits portray.
 - doing
 
 #### Positive
-- ambitious - with Thinking
+- ambitious - esp. with Thinking
 - confident
 - decisive
+- proud
 
 #### Neutral
+- defensive
 - headstrong
 - serious
 
 #### Negative
+- arrogant - esp. with Thinking
+- cocky - esp. with Thinking
 - closed
 - control freak
 - intransigent
 - judgmental
 - know-it-all
 - prejudiced
+- pretentious
 - stubborn
 
 
 ### Perceiving
-- analyzing - with iNtuition
-- insightful - with iNtuition
+- analyzing - esp. with iNtuition
+- insightful - esp. with iNtuition
 - learning
-- listening - with Sensing
+- listening - esp. with Sensing
 - observing
-- seeing - with Sensing
-- watching - with Sensing
+- seeing - esp. with Sensing
+- unpretentious
+- watching - esp. with Sensing
 
 #### Positive
 - accepting
 - content
 - easy-going
 - fun, funny
-- happy-go-lucky - with Sensing
+- happy-go-lucky - esp. with Sensing
 - laid-back
 - non-judgmental
 - perceptive
