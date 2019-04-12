@@ -16,8 +16,11 @@ these portraits portray.
 - insightful
 - open-minded, open-mindedness
 - optimistic
+- thinks ouside the box
 
 #### Neutral
+- marches to a different drummer
+- mysterious
 - need for intellectual stimulation
 - open to new ideas
 - openness to ideas
@@ -51,6 +54,7 @@ these portraits portray.
 - preference for seeing the world more in terms of facts than of ideas
 - realism, realistic, realistic outlook
 - thrives on doing new things - esp. with Perceiving
+- transparent - maybe in some contexts - as opposed to mysterious?
 
 #### Negative
 - hollow
