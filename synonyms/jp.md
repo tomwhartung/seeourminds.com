@@ -22,6 +22,7 @@ these portraits portray.
 - defensive
 - headstrong
 - serious
+- underlying motive - with I
 
 #### Negative
 - arrogant - esp. with Thinking
