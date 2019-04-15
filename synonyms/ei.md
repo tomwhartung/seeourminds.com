@@ -31,19 +31,22 @@ these portraits portray.
 #### Positive
 - bashful
 - demure
+- mysterious - esp. with N
 - private
 - soft-spoken
 
 #### Neutral
 - cautious
+- misunderstood - esp. with N
 - quiet
 - restrained
 - reticent
 - shy
+- underlying motive - with J
+- withdrawn
 
 #### Negative
 - aloof
 - inhibited
 - reclusive
-- withdrawn
 
