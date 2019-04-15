@@ -14,13 +14,14 @@ these portraits portray.
 - hope for the future
 - idealistic
 - insightful
+- mysterious - esp. with I
 - open-minded, open-mindedness
 - optimistic
 - thinks ouside the box
 
 #### Neutral
 - marches to a different drummer
-- mysterious
+- misunderstood - esp. with I
 - need for intellectual stimulation
 - open to new ideas
 - openness to ideas
@@ -37,7 +38,9 @@ these portraits portray.
 ### Sensing
 
 #### Positive
+- alert - esp. with P
 - awake
+- bright - esp. with P
 - down-to-earth
 - easy-going
 - happy-go-lucky - esp. with Perceiving
