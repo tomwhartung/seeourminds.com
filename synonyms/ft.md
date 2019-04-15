@@ -42,6 +42,7 @@ these portraits portray.
 - ambitious - esp. with Judging
 - ability to keep cool under pressure
 - cool-headedness
+- soldiers and fighters objectify their opponents
 
 #### Neutral
 - logic, logical
