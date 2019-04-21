@@ -28,7 +28,11 @@ these portraits portray.
 - arrogant - esp. with Thinking
 - cocky - esp. with Thinking
 - closed
+- closed-off
 - control freak
+- controlling
+- dogmatic
+- domineering
 - intransigent
 - judgmental
 - know-it-all
@@ -50,6 +54,7 @@ these portraits portray.
 #### Positive
 - accepting
 - content
+- cooperative
 - easy-going
 - fun, funny
 - happy-go-lucky - esp. with Sensing
@@ -68,6 +73,7 @@ these portraits portray.
 - hapless
 - indecisive
 - space-case
+- submissive
 - wishy-washy
 - unsure
 
