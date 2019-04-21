@@ -14,12 +14,14 @@ these portraits portray.
 - hope for the future
 - idealistic
 - insightful
+- imaginative
 - mysterious - esp. with I
 - open-minded, open-mindedness
 - optimistic
 - thinks ouside the box
 
 #### Neutral
+- hears a different drummer
 - marches to a different drummer
 - misunderstood - esp. with I
 - need for intellectual stimulation
@@ -40,11 +42,13 @@ these portraits portray.
 #### Positive
 - alert - esp. with P
 - awake
+- aware
 - bright - esp. with P
 - down-to-earth
 - easy-going
 - happy-go-lucky - esp. with Perceiving
 - normal
+- noticing
 - open to new experiences
 - openness to experiences
 - need for sensory stimulation
