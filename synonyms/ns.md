@@ -15,6 +15,7 @@ these portraits portray.
 - idealistic
 - insightful
 - imaginative
+- more than meet the eye
 - mysterious - esp. with I
 - open-minded, open-mindedness
 - optimistic
@@ -40,10 +41,11 @@ these portraits portray.
 ### Sensing
 
 #### Positive
-- alert - esp. with P
+- alert - esp. with Perceiving
+- attentive - esp. with Perceiving
 - awake
 - aware
-- bright - esp. with P
+- bright - esp. with Perceiving
 - down-to-earth
 - easy-going
 - happy-go-lucky - esp. with Perceiving
@@ -51,7 +53,7 @@ these portraits portray.
 - noticing
 - open to new experiences
 - openness to experiences
-- need for sensory stimulation
+- need for sensory stimulation - esp. with Perceiving
 - wide awake
 
 #### Neutral
