@@ -43,6 +43,7 @@ these portraits portray.
 
 ### Perceiving
 - analyzing - esp. with iNtuition
+- attentive - esp. with Perceiving
 - insightful - esp. with iNtuition
 - learning
 - listening - esp. with Sensing
@@ -53,6 +54,7 @@ these portraits portray.
 
 #### Positive
 - accepting
+- accepting of others - esp. with Sensing and Feeling
 - content
 - cooperative
 - easy-going
@@ -72,6 +74,7 @@ these portraits portray.
 - gullible
 - hapless
 - indecisive
+- meek
 - space-case
 - submissive
 - wishy-washy
