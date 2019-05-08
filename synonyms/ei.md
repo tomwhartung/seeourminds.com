@@ -17,12 +17,14 @@ these portraits portray.
 - sociable
 
 #### Neutral
+- loquacious (very talkative)
 - public
 - talkative
 - unreserved
 
 #### Negative
 - blabbermouth
+- garrulous (given to excessive and often trivial or rambling talk; tiresomely talkative)
 - uninhibited
 
 
