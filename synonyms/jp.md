@@ -16,21 +16,24 @@ these portraits portray.
 - ambitious - esp. with Thinking
 - confident
 - decisive
+- determined
 - proud
 
 #### Neutral
-- defensive
 - headstrong
 - serious
 - underlying motive - with I
 
 #### Negative
 - arrogant - esp. with Thinking
-- cocky - esp. with Thinking
+- audacious - when strong
+- chutzpah - when strong
 - closed
 - closed-off
-- control freak
+- cocky - esp. with Thinking
 - controlling
+- control freak - when strong
+- defensive
 - dogmatic
 - domineering
 - intransigent
