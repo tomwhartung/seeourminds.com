@@ -26,6 +26,7 @@ these portraits portray.
 - preference for emotional decisions
 - preference for personal decisions
 - preference for subjective decisions
+- soft
 - subjectivity
 
 #### Negative
@@ -45,13 +46,14 @@ these portraits portray.
 - soldiers and fighters objectify their opponents
 
 #### Neutral
+- hard
 - logic, logical
-- reason, reasonable
 - objective, objectivity
 - preference for logical decisions
 - preference for rational decisions
 - preference for objective decisions
 - rational
+- reason, reasonable
 
 #### Negative
 - arrogant - esp. with Judging
