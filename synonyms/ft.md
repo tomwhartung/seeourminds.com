@@ -67,4 +67,5 @@ these portraits portray.
 - impersonal
 - insensitive
 - unfeeling
+- uptight - esp. with Judging
 
