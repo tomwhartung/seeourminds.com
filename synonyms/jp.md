@@ -42,6 +42,7 @@ these portraits portray.
 - prejudiced
 - pretentious
 - stubborn
+- uptight
 
 
 ### Perceiving
