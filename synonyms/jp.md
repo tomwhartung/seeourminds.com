@@ -70,6 +70,7 @@ these portraits portray.
 - satisfied
 
 #### Neutral
+- airy
 - inquisitive
 - open
 
