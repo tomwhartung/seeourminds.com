@@ -13,8 +13,8 @@ these portraits portray.
 - deep
 - hope for the future
 - idealistic
-- insightful
 - imaginative
+- insightful
 - more than meet the eye
 - mysterious - esp. with I
 - open-minded, open-mindedness
@@ -23,6 +23,7 @@ these portraits portray.
 
 #### Neutral
 - hears a different drummer
+- intellectual
 - marches to a different drummer
 - misunderstood - esp. with I
 - need for intellectual stimulation
