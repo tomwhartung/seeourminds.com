@@ -20,6 +20,7 @@ these portraits portray.
 - proud
 
 #### Neutral
+- hardheaded
 - headstrong
 - serious
 - underlying motive - with I
