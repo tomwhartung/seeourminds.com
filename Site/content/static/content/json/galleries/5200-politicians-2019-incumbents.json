@@ -1,5 +1,5 @@
 {
-  "gallery_title": "X",
+  "gallery_title": "Incumbents: 2019",
   "see_gallery_button_text": "See Their Minds",
   "list_page_teaser": "Click to learn more!",
   "description_html": "<p>Keep it objective: <b>no</b> first or second person.</p><p> </p>",
@@ -8,11 +8,17 @@
   "image_list":
   [
     {
-      "id": "0000",
-      "title": "Insert json from exxx-template.json or ixxx-template.json here"
+      "id": "5200",
+      "title": "Donald Trump"
     }, {
-      "id": "0006",
-      "title": "Insert json from exxx-template.json or ixxx-template.json here"
+      "id": "5202",
+      "title": "Mike Pence"
+    }, {
+      "id": "5205",
+      "title": "Nancy Pelosi"
+    }, {
+      "id": "5207",
+      "title": "Mitch McConnell"
     }
   ]
 }
