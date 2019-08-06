@@ -14,8 +14,10 @@ these portraits portray.
 
 #### Positive
 - ambitious - esp. with Thinking
+- committed
 - confident
 - decisive
+- devoted
 - determined
 - proud
 
@@ -40,6 +42,7 @@ these portraits portray.
 - intransigent
 - judgmental
 - know-it-all
+- opinionated
 - prejudiced
 - pretentious
 - stubborn
