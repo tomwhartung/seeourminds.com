@@ -1,5 +1,5 @@
 {
-  "gallery_title": "X",
+  "gallery_title": "Presidential Candidates: 2019",
   "see_gallery_button_text": "See Their Minds",
   "list_page_teaser": "Click to learn more!",
   "description_html": "<p>Keep it objective: <b>no</b> first or second person.</p><p> </p>",
@@ -8,11 +8,32 @@
   "image_list":
   [
     {
-      "id": "0000",
-      "title": "Insert json from exxx-template.json or ixxx-template.json here"
+      "id": "5210",
+      "title": "Amy Klobuchar"
     }, {
-      "id": "0006",
-      "title": "Insert json from exxx-template.json or ixxx-template.json here"
+      "id": "5211",
+      "title": "Bernie Sanders"
+    }, {
+      "id": "5212",
+      "title": "Cory Booker"
+    }, {
+      "id": "5213",
+      "title": "Elizabeth Warren"
+    }, {
+      "id": "5215",
+      "title": "Joe Biden"
+    }, {
+      "id": "5216",
+      "title": "Kamala Harris"
+    }, {
+      "id": "5217",
+      "title": "Kirsten Gillabrand"
+    }, {
+      "id": "5218",
+      "title": "Michael Bennet"
+    }, {
+      "id": "5219",
+      "title": "Pete Buttigieg"
     }
   ]
 }
