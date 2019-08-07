@@ -1,5 +1,5 @@
 {
-  "gallery_title": "Presidential Candidates: 2019",
+  "gallery_title": "Candidates: 2019",
   "see_gallery_button_text": "See Their Minds",
   "list_page_teaser": "Click to learn more!",
   "description_html": "<p>Keep it objective: <b>no</b> first or second person.</p><p> </p>",
@@ -11,8 +11,8 @@
       "id": "5210",
       "title": "Amy Klobuchar",
       "subtitle_html": "<a href='' title='Wikipedia page for ' target='_blank'></a>",
-      "gallery_page_teaser": "X's spiritual portrait shows she is ______________.  Click on the image to learn more!",
-      "image_file_name": "x.jpg",
+      "gallery_page_teaser": "Amy Klobuchar's spiritual portrait shows she is ______________.  Click on the image to learn more!",
+      "image_file_name": "estj-amy_klobuchar-1.jpg",
       "meat_portrait_href": "",
       "composition": "O",
       "score": [
@@ -21,9 +21,8 @@
          { "f_score": "0", "t_score": "0" },
          { "j_score": "0", "p_score": "0" }
       ],
-      "four_letter_type": "EXXX",
-      "fixed_percentages": "",
-      "archetype": "Xe",
+      "four_letter_type": "ESTJ",
+      "archetype": "Te",
       "quiz_type": "KTS2",
       "year": "2019",
 
@@ -63,8 +62,8 @@
       "id": "5211",
       "title": "Bernie Sanders",
       "subtitle_html": "<a href='' title='Wikipedia page for ' target='_blank'></a>",
-      "gallery_page_teaser": "X's spiritual portrait shows she is ______________.  Click on the image to learn more!",
-      "image_file_name": "x.jpg",
+      "gallery_page_teaser": "Bernie Sanders' spiritual portrait shows he is ______________.  Click on the image to learn more!",
+      "image_file_name": "intj-bernie_sanders-1.jpg",
       "meat_portrait_href": "",
       "composition": "O",
       "score": [
@@ -73,9 +72,8 @@
          { "f_score": "0", "t_score": "0" },
          { "j_score": "0", "p_score": "0" }
       ],
-      "four_letter_type": "IXXX",
-      "fixed_percentages": "",
-      "archetype": "Xi",
+      "four_letter_type": "INTJ",
+      "archetype": "Ni",
       "quiz_type": "KTS2",
       "year": "2019",
 
@@ -115,8 +113,8 @@
       "id": "5212",
       "title": "Cory Booker",
       "subtitle_html": "<a href='' title='Wikipedia page for ' target='_blank'></a>",
-      "gallery_page_teaser": "X's spiritual portrait shows she is ______________.  Click on the image to learn more!",
-      "image_file_name": "x.jpg",
+      "gallery_page_teaser": "Cory Booker's spiritual portrait shows he is ______________.  Click on the image to learn more!",
+      "image_file_name": "enfp-cory_booker-1.jpg",
       "meat_portrait_href": "",
       "composition": "O",
       "score": [
@@ -125,9 +123,8 @@
          { "f_score": "0", "t_score": "0" },
          { "j_score": "0", "p_score": "0" }
       ],
-      "four_letter_type": "EXXX",
-      "fixed_percentages": "",
-      "archetype": "Xe",
+      "four_letter_type": "ENFP",
+      "archetype": "Ne",
       "quiz_type": "KTS2",
       "year": "2019",
 
@@ -167,8 +164,8 @@
       "id": "5213",
       "title": "Elizabeth Warren",
       "subtitle_html": "<a href='' title='Wikipedia page for ' target='_blank'></a>",
-      "gallery_page_teaser": "X's spiritual portrait shows she is ______________.  Click on the image to learn more!",
-      "image_file_name": "x.jpg",
+      "gallery_page_teaser": "Elizabeth Warren's spiritual portrait shows she is ______________.  Click on the image to learn more!",
+      "image_file_name": "entj-elizabeth_warren-1.jpg",
       "meat_portrait_href": "",
       "composition": "O",
       "score": [
@@ -177,9 +174,8 @@
          { "f_score": "0", "t_score": "0" },
          { "j_score": "0", "p_score": "0" }
       ],
-      "four_letter_type": "EXXX",
-      "fixed_percentages": "",
-      "archetype": "Xe",
+      "four_letter_type": "ENTJ",
+      "archetype": "Te",
       "quiz_type": "KTS2",
       "year": "2019",
 
@@ -219,8 +215,8 @@
       "id": "5215",
       "title": "Joe Biden",
       "subtitle_html": "<a href='' title='Wikipedia page for ' target='_blank'></a>",
-      "gallery_page_teaser": "X's spiritual portrait shows she is ______________.  Click on the image to learn more!",
-      "image_file_name": "x.jpg",
+      "gallery_page_teaser": "Joe Biden's spiritual portrait shows he is ______________.  Click on the image to learn more!",
+      "image_file_name": "estj-joe_biden-1.jpg",
       "meat_portrait_href": "",
       "composition": "O",
       "score": [
@@ -229,9 +225,8 @@
          { "f_score": "0", "t_score": "0" },
          { "j_score": "0", "p_score": "0" }
       ],
-      "four_letter_type": "EXXX",
-      "fixed_percentages": "",
-      "archetype": "Xe",
+      "four_letter_type": "ESTJ",
+      "archetype": "Te",
       "quiz_type": "KTS2",
       "year": "2019",
 
@@ -271,8 +266,8 @@
       "id": "5216",
       "title": "Kamala Harris",
       "subtitle_html": "<a href='' title='Wikipedia page for ' target='_blank'></a>",
-      "gallery_page_teaser": "X's spiritual portrait shows she is ______________.  Click on the image to learn more!",
-      "image_file_name": "x.jpg",
+      "gallery_page_teaser": "Kamala Harris' spiritual portrait shows she is ______________.  Click on the image to learn more!",
+      "image_file_name": "entj-kamala_harris-1.jpg",
       "meat_portrait_href": "",
       "composition": "O",
       "score": [
@@ -281,9 +276,8 @@
          { "f_score": "0", "t_score": "0" },
          { "j_score": "0", "p_score": "0" }
       ],
-      "four_letter_type": "EXXX",
-      "fixed_percentages": "",
-      "archetype": "Xe",
+      "four_letter_type": "ENTJ",
+      "archetype": "Te",
       "quiz_type": "KTS2",
       "year": "2019",
 
@@ -323,8 +317,8 @@
       "id": "5217",
       "title": "Kirsten Gillabrand",
       "subtitle_html": "<a href='' title='Wikipedia page for ' target='_blank'></a>",
-      "gallery_page_teaser": "X's spiritual portrait shows she is ______________.  Click on the image to learn more!",
-      "image_file_name": "x.jpg",
+      "gallery_page_teaser": "Kirsten Gillabrand's spiritual portrait shows she is ______________.  Click on the image to learn more!",
+      "image_file_name": "esfj-kirsten_gillabrand-1.jpg",
       "meat_portrait_href": "",
       "composition": "O",
       "score": [
@@ -333,9 +327,8 @@
          { "f_score": "0", "t_score": "0" },
          { "j_score": "0", "p_score": "0" }
       ],
-      "four_letter_type": "EXXX",
-      "fixed_percentages": "",
-      "archetype": "Xe",
+      "four_letter_type": "ESFJ",
+      "archetype": "Fe",
       "quiz_type": "KTS2",
       "year": "2019",
 
@@ -375,8 +368,8 @@
       "id": "5218",
       "title": "Michael Bennet",
       "subtitle_html": "<a href='' title='Wikipedia page for ' target='_blank'></a>",
-      "gallery_page_teaser": "X's spiritual portrait shows she is ______________.  Click on the image to learn more!",
-      "image_file_name": "x.jpg",
+      "gallery_page_teaser": "Michael Bennet's spiritual portrait shows he is ______________.  Click on the image to learn more!",
+      "image_file_name": "entj-michael_bennet-1.jpg",
       "meat_portrait_href": "",
       "composition": "O",
       "score": [
@@ -385,9 +378,8 @@
          { "f_score": "0", "t_score": "0" },
          { "j_score": "0", "p_score": "0" }
       ],
-      "four_letter_type": "EXXX",
-      "fixed_percentages": "",
-      "archetype": "Xe",
+      "four_letter_type": "ENTJ",
+      "archetype": "Te",
       "quiz_type": "KTS2",
       "year": "2019",
 
@@ -427,8 +419,8 @@
       "id": "5219",
       "title": "Pete Buttigieg",
       "subtitle_html": "<a href='' title='Wikipedia page for ' target='_blank'></a>",
-      "gallery_page_teaser": "X's spiritual portrait shows she is ______________.  Click on the image to learn more!",
-      "image_file_name": "x.jpg",
+      "gallery_page_teaser": "Pete Buttigieg's spiritual portrait shows he is ______________.  Click on the image to learn more!",
+      "image_file_name": "infj-pete_buttigieg-1.jpg",
       "meat_portrait_href": "",
       "composition": "O",
       "score": [
@@ -437,9 +429,8 @@
          { "f_score": "0", "t_score": "0" },
          { "j_score": "0", "p_score": "0" }
       ],
-      "four_letter_type": "IXXX",
-      "fixed_percentages": "",
-      "archetype": "Xi",
+      "four_letter_type": "INFJ",
+      "archetype": "Ni",
       "quiz_type": "KTS2",
       "year": "2019",
 
