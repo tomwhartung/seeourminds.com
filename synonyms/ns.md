@@ -19,6 +19,7 @@ these portraits portray.
 - mysterious - esp. with I
 - open-minded, open-mindedness
 - optimistic
+- principled
 - thinks ouside the box
 
 #### Neutral
@@ -31,12 +32,14 @@ these portraits portray.
 - openness to ideas
 - preference for ideas over facts
 - preference for seeing the world more in terms of ideas than of facts
+- religious
 - thrives on learning new things - esp. with Perceiving
 
 #### Negative
 - flake
 - not grounded in reality
 - space-case
+- theorist
 
 
 ### Sensing
@@ -48,12 +51,13 @@ these portraits portray.
 - aware
 - bright - esp. with Perceiving
 - down-to-earth
-- easy-going
+- earth-bound
+- easy-going - esp. with Perceiving
 - happy-go-lucky - esp. with Perceiving
 - normal
 - noticing
-- open to new experiences
-- openness to experiences
+- open to new experiences - esp. with Perceiving
+- openness to experiences - esp. with Perceiving
 - need for sensory stimulation - esp. with Perceiving
 - wide awake
 
