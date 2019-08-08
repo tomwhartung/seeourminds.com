@@ -17,8 +17,9 @@ these portraits portray.
 - committed
 - confident
 - decisive
-- devoted
+- devoted - esp. with Feeling
 - determined
+- forthright (direct)
 - proud
 
 #### Neutral
@@ -51,7 +52,7 @@ these portraits portray.
 
 ### Perceiving
 - analyzing - esp. with iNtuition
-- attentive - esp. with Perceiving
+- attentive - esp. with Sensing
 - insightful - esp. with iNtuition
 - learning
 - listening - esp. with Sensing
