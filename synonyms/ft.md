@@ -10,6 +10,7 @@ these portraits portray.
 ### Feeling
 
 #### Positive
+- affable
 - affectionate
 - amiable
 - compassion, compassionate
