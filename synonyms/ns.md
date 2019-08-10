@@ -15,6 +15,7 @@ these portraits portray.
 - idealistic
 - imaginative
 - insightful
+- intelligent
 - more than meet the eye
 - mysterious - esp. with I
 - open-minded, open-mindedness
@@ -59,6 +60,7 @@ these portraits portray.
 - open to new experiences - esp. with Perceiving
 - openness to experiences - esp. with Perceiving
 - need for sensory stimulation - esp. with Perceiving
+- smart
 - wide awake
 
 #### Neutral
