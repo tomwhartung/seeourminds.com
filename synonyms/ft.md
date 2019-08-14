@@ -13,6 +13,7 @@ these portraits portray.
 - affable
 - affectionate
 - amiable
+- charming
 - compassion, compassionate
 - empathy, empathetic
 - friendly
