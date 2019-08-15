@@ -30,6 +30,7 @@ these portraits portray.
 - preference for subjective decisions
 - soft
 - subjectivity
+- unpredictable
 
 #### Negative
 - drama queen
@@ -51,6 +52,7 @@ these portraits portray.
 - hard
 - logic, logical
 - objective, objectivity
+- predictable
 - preference for logical decisions
 - preference for rational decisions
 - preference for objective decisions
