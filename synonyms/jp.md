@@ -23,6 +23,7 @@ these portraits portray.
 - proud
 
 #### Neutral
+- forceful
 - hardheaded
 - headstrong
 - serious
@@ -70,6 +71,7 @@ these portraits portray.
 - fun, funny
 - happy-go-lucky - esp. with Sensing
 - laid-back
+- laissez-faire
 - non-judgmental
 - perceptive
 - satisfied
