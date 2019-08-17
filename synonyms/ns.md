@@ -64,6 +64,7 @@ these portraits portray.
 - wide awake
 
 #### Neutral
+- literalist
 - practical
 - pragmatic
 - preference for facts over ideas
