@@ -11,6 +11,7 @@ these portraits portray.
 
 #### Positive
 - deep
+- hopeful
 - hope for the future
 - idealistic
 - imaginative
@@ -21,6 +22,7 @@ these portraits portray.
 - open-minded, open-mindedness
 - optimistic
 - principled
+- sanguine
 - thinks ouside the box
 
 #### Neutral
