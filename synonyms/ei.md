@@ -20,6 +20,7 @@ these portraits portray.
 - loquacious (very talkative)
 - public
 - talkative
+- voluble (Marked by a ready flow of speech; fluent)
 - unreserved
 
 #### Negative
@@ -44,6 +45,7 @@ these portraits portray.
 - restrained
 - reticent
 - shy
+- taciturn
 - underlying motive - with J
 - withdrawn
 
