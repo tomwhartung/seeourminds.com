@@ -24,8 +24,10 @@ these portraits portray.
 - principled
 - sanguine
 - thinks ouside the box
+- thoughtful
 
 #### Neutral
+- abstract
 - hears a different drummer
 - intellectual
 - marches to a different drummer
@@ -40,6 +42,7 @@ these portraits portray.
 
 #### Negative
 - flake
+- fuzzy
 - not grounded in reality
 - space-case
 - theorist
@@ -72,6 +75,7 @@ these portraits portray.
 - preference for facts over ideas
 - preference for seeing the world more in terms of facts than of ideas
 - realism, realistic, realistic outlook
+- specific
 - thrives on doing new things - esp. with Perceiving
 - transparent - maybe in some contexts - as opposed to mysterious?
 
