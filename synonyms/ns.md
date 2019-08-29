@@ -65,6 +65,7 @@ these portraits portray.
 - open to new experiences - esp. with Perceiving
 - openness to experiences - esp. with Perceiving
 - need for sensory stimulation - esp. with Perceiving
+- shrewd
 - smart
 - wide awake
 
