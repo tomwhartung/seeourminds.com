@@ -47,6 +47,7 @@ these portraits portray.
 - ability to keep cool under pressure
 - cool-headedness
 - soldiers and fighters objectify their opponents
+- stoic
 
 #### Neutral
 - hard
