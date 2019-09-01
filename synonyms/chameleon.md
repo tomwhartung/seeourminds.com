@@ -8,6 +8,7 @@ these portraits portray.
 ## Chameleon
 
 ### Positive
+- adaptable
 - flexible
 - relatable
 - versatile
