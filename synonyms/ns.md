@@ -28,6 +28,7 @@ these portraits portray.
 
 #### Neutral
 - abstract
+- conceptual
 - hears a different drummer
 - intellectual
 - marches to a different drummer
