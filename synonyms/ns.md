@@ -44,6 +44,7 @@ these portraits portray.
 #### Negative
 - flake
 - fuzzy
+- ideologue
 - not grounded in reality
 - space-case
 - theorist
