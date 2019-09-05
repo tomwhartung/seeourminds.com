@@ -16,6 +16,7 @@ these portraits portray.
 
 #### Neutral
 - full stack
+- have a variety of abilities
 
 ## Negative
 - jack of all trades, master of none
