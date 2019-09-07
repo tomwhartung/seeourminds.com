@@ -39,6 +39,7 @@ these portraits portray.
 - preference for ideas over facts
 - preference for seeing the world more in terms of ideas than of facts
 - religious
+- substance
 - thrives on learning new things - esp. with Perceiving
 
 #### Negative
@@ -79,6 +80,7 @@ these portraits portray.
 - preference for seeing the world more in terms of facts than of ideas
 - realism, realistic, realistic outlook
 - specific
+- style
 - thrives on doing new things - esp. with Perceiving
 - transparent - maybe in some contexts - as opposed to mysterious?
 
