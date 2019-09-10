@@ -36,6 +36,7 @@ these portraits portray.
 - need for intellectual stimulation
 - open to new ideas
 - openness to ideas
+- other-worldly
 - preference for ideas over facts
 - preference for seeing the world more in terms of ideas than of facts
 - religious
@@ -73,6 +74,7 @@ these portraits portray.
 - wide awake
 
 #### Neutral
+- concerned with the here-and-now
 - literalist
 - practical
 - pragmatic
@@ -81,6 +83,7 @@ these portraits portray.
 - realism, realistic, realistic outlook
 - specific
 - style
+- this-worldly
 - thrives on doing new things - esp. with Perceiving
 - transparent - maybe in some contexts - as opposed to mysterious?
 
