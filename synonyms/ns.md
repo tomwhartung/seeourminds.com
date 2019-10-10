@@ -7,7 +7,7 @@ these portraits portray.
 
 ## iNtuition vs. Sensing
 
-### iNtuition
+### iNtuition - Blue
 
 #### Positive
 - deep
@@ -23,6 +23,7 @@ these portraits portray.
 - optimistic
 - principled
 - sanguine
+- strategic
 - thinks ouside the box
 - thoughtful
 
@@ -31,6 +32,7 @@ these portraits portray.
 - conceptual
 - hears a different drummer
 - intellectual
+- long-term focus
 - marches to a different drummer
 - misunderstood - esp. with I
 - need for intellectual stimulation
@@ -52,7 +54,7 @@ these portraits portray.
 - theorist
 
 
-### Sensing
+### Sensing - Yellow
 
 #### Positive
 - alert - esp. with Perceiving
@@ -60,9 +62,12 @@ these portraits portray.
 - awake
 - aware
 - bright - esp. with Perceiving
+- detail-oriented
 - down-to-earth
 - earth-bound
 - easy-going - esp. with Perceiving
+- focused on details
+- fun-loving
 - happy-go-lucky - esp. with Perceiving
 - normal
 - noticing
@@ -75,6 +80,7 @@ these portraits portray.
 
 #### Neutral
 - concerned with the here-and-now
+- literal
 - literalist
 - practical
 - pragmatic
