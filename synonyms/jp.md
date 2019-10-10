@@ -7,7 +7,9 @@ these portraits portray.
 
 ## Judging vs. Perceiving
 
-### Judging
+### Judging - Green and Red
+
+### Synonyms - Verbs
 - acting
 - deciding
 - doing
@@ -21,12 +23,15 @@ these portraits portray.
 - determined
 - forthright (direct)
 - proud
+- responsible
 
 #### Neutral
 - forceful
 - hardheaded
 - headstrong
 - serious
+- supervisor
+- tight
 - underlying motive - with I
 
 #### Negative
@@ -51,30 +56,33 @@ these portraits portray.
 - uptight
 
 
-### Perceiving
+### Perceiving - Blue and Yellow
+
+### Synonyms - Verbs
+- accepting
+- accepting of others - esp. with Sensing and Feeling
 - analyzing - esp. with iNtuition
-- attentive - esp. with Sensing
-- insightful - esp. with iNtuition
 - learning
 - listening - esp. with Sensing
 - observing
 - seeing - esp. with Sensing
-- unpretentious
 - watching - esp. with Sensing
 
 #### Positive
-- accepting
-- accepting of others - esp. with Sensing and Feeling
+- attentive - esp. with Sensing
 - content
 - cooperative
 - easy-going
+- employee
 - fun, funny
 - happy-go-lucky - esp. with Sensing
+- insightful - esp. with iNtuition
 - laid-back
 - laissez-faire
 - non-judgmental
 - perceptive
 - satisfied
+- willing to cooperate
 
 #### Neutral
 - airy
@@ -86,6 +94,7 @@ these portraits portray.
 - gullible
 - hapless
 - indecisive
+- irresponsible
 - meek
 - space-case
 - submissive
