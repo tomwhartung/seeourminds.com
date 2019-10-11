@@ -26,6 +26,9 @@ these portraits portray.
 - responsible
 
 #### Neutral
+- boss
+- decider
+- firm
 - forceful
 - hardheaded
 - headstrong
@@ -86,8 +89,13 @@ these portraits portray.
 
 #### Neutral
 - airy
+- casual
 - inquisitive
+- loose
+- mercenary
 - open
+- worker
+- unpretentious
 
 #### Negative
 - goofy
