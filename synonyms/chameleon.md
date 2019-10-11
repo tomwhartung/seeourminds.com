@@ -10,6 +10,7 @@ these portraits portray.
 ### Positive
 - adaptable
 - flexible
+- multi-faceted
 - relatable
 - versatile
 - well-rounded
