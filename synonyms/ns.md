@@ -22,6 +22,7 @@ these portraits portray.
 - open-minded, open-mindedness
 - optimistic
 - principled
+- prophetic
 - sanguine
 - strategic
 - thinks ouside the box
@@ -30,6 +31,8 @@ these portraits portray.
 #### Neutral
 - abstract
 - conceptual
+- dreamer
+- future-oriented
 - hears a different drummer
 - intellectual
 - long-term focus
@@ -80,6 +83,7 @@ these portraits portray.
 
 #### Neutral
 - concerned with the here-and-now
+- here and now
 - literal
 - literalist
 - practical
@@ -98,6 +102,7 @@ these portraits portray.
 - pessimistic
 - shallow
 - short-sighted
+- short-term focus
 - superficial
 - superficialism
 - superficialist (my word)
