@@ -7,7 +7,7 @@ these portraits portray.
 
 ## Feeling vs. Thinking
 
-### Feeling
+### Feeling - Red
 
 #### Positive
 - affable
@@ -19,6 +19,7 @@ these portraits portray.
 - friendly
 - friendly and outgoing, when also Extraverted
 - harmonious relationships
+- personable
 - personal
 - warm
 
@@ -35,12 +36,13 @@ these portraits portray.
 #### Negative
 - drama queen
 - flighty
+- irrational
 - overly dramatic
 - sensitive
 - unpredictable
 
 
-### Thinking
+### Thinking - Green
 
 #### Positive
 - ambitious - esp. with Judging
