@@ -9,13 +9,14 @@ these portraits portray.
 
 ### Judging - Green and Red
 
-### Synonyms - Verbs
+#### Synonyms - Verbs
 - acting
 - deciding
 - doing
 
 #### Positive
 - ambitious - esp. with Thinking
+- careful
 - committed
 - confident
 - decisive
@@ -24,6 +25,7 @@ these portraits portray.
 - forthright (direct)
 - proud
 - responsible
+- well-organized - esp. with Thinking
 
 #### Neutral
 - boss
@@ -61,7 +63,7 @@ these portraits portray.
 
 ### Perceiving - Blue and Yellow
 
-### Synonyms - Verbs
+#### Synonyms - Verbs
 - accepting
 - accepting of others - esp. with Sensing and Feeling
 - analyzing - esp. with iNtuition
@@ -93,11 +95,14 @@ these portraits portray.
 - inquisitive
 - loose
 - mercenary
+- obedient
 - open
+- subtle
 - worker
 - unpretentious
 
 #### Negative
+- careless
 - goofy
 - gullible
 - hapless
