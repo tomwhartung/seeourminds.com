@@ -24,6 +24,8 @@ these portraits portray.
 - principled
 - prophetic
 - sanguine
+- sees patterns
+- sees the forest more than the trees
 - strategic
 - thinks ouside the box
 - thoughtful
@@ -83,6 +85,8 @@ these portraits portray.
 
 #### Neutral
 - concerned with the here-and-now
+- focused on the present moment
+- focused on living in the present moment
 - here and now
 - literal
 - literalist
@@ -91,6 +95,7 @@ these portraits portray.
 - preference for facts over ideas
 - preference for seeing the world more in terms of facts than of ideas
 - realism, realistic, realistic outlook
+- sees the trees more than the forest
 - specific
 - style
 - this-worldly
