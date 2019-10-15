@@ -24,6 +24,7 @@ these portraits portray.
 - principled
 - prophetic
 - sanguine
+- sees generalities
 - sees patterns
 - sees the forest more than the trees
 - strategic
@@ -34,11 +35,14 @@ these portraits portray.
 - abstract
 - conceptual
 - dreamer
+- figurative
 - future-oriented
 - hears a different drummer
 - intellectual
+- likes metaphor
 - long-term focus
 - marches to a different drummer
+- metaphorical
 - misunderstood - esp. with I
 - need for intellectual stimulation
 - open to new ideas
@@ -79,6 +83,9 @@ these portraits portray.
 - open to new experiences - esp. with Perceiving
 - openness to experiences - esp. with Perceiving
 - need for sensory stimulation - esp. with Perceiving
+- sees facts
+- sees specifics
+- sensible
 - shrewd
 - smart
 - wide awake
