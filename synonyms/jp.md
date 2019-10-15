@@ -30,10 +30,12 @@ these portraits portray.
 #### Neutral
 - boss
 - decider
+- demanding
 - firm
 - forceful
 - hardheaded
 - headstrong
+- insistent
 - serious
 - supervisor
 - tight
@@ -97,6 +99,7 @@ these portraits portray.
 - mercenary
 - obedient
 - open
+- sycophant
 - subtle
 - worker
 - unpretentious
