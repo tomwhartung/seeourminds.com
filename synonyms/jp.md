@@ -39,6 +39,7 @@ these portraits portray.
 - serious
 - supervisor
 - tight
+- uncompromising
 - underlying motive - with I
 
 #### Negative
@@ -53,7 +54,7 @@ these portraits portray.
 - defensive
 - dogmatic
 - domineering
-- intransigent
+- intransigent - refusing to moderate a position, especially an extreme position
 - judgmental
 - know-it-all
 - opinionated
@@ -88,6 +89,7 @@ these portraits portray.
 - laissez-faire
 - non-judgmental
 - perceptive
+- playful
 - satisfied
 - willing to cooperate
 
@@ -112,6 +114,7 @@ these portraits portray.
 - indecisive
 - irresponsible
 - meek
+- pussy-whipped
 - space-case
 - submissive
 - wishy-washy
