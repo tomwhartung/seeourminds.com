@@ -39,6 +39,7 @@ these portraits portray.
 - future-oriented
 - hears a different drummer
 - intellectual
+- interest in generalities
 - likes metaphor
 - long-term focus
 - marches to a different drummer
@@ -51,7 +52,9 @@ these portraits portray.
 - preference for ideas over facts
 - preference for seeing the world more in terms of ideas than of facts
 - religious
+- scheming
 - substance
+- symbolic
 - thrives on learning new things - esp. with Perceiving
 
 #### Negative
@@ -94,6 +97,7 @@ these portraits portray.
 - concerned with the here-and-now
 - focused on the present moment
 - focused on living in the present moment
+- focused on particulars
 - here and now
 - literal
 - literalist
@@ -101,7 +105,9 @@ these portraits portray.
 - pragmatic
 - preference for facts over ideas
 - preference for seeing the world more in terms of facts than of ideas
-- realism, realistic, realistic outlook
+- realist
+- realistic
+- realistic outlook
 - sees the trees more than the forest
 - specific
 - style
