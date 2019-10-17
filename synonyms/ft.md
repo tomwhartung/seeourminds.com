@@ -19,19 +19,24 @@ these portraits portray.
 - affectionate
 - amiable
 - charming
-- compassion, compassionate
-- empathy, empathetic
+- compassion
+- compassionate
+- empathy
+- empathetic
 - friendly
-- friendly and outgoing, when also Extraverted
 - harmonious relationships
 - moving
+- outgoing - esp. when Extraverted
 - personable
 - personal
+- people-oriented
 - poignant
 - warm
 
 #### Neutral
+- desires
 - emotion, emotional
+- heart
 - heated
 - impassioned
 - individual
@@ -50,6 +55,7 @@ these portraits portray.
 - hysterical
 - irrational
 - overly dramatic
+- pussy
 - sensitive
 - unpredictable
 
@@ -63,22 +69,30 @@ these portraits portray.
 - consistent
 - cool-headed
 - cool-headedness
+- level-headed
 - soldiers and fighters objectify their opponents
-- stoic
+- stoic - esp. with Introverted
 - well-organized - esp. with Judging
 
 #### Neutral
+- data
+- data-oriented
 - even-handed
 - hard
-- logic, logical
+- head
+- logic
+- logical
+- logistics
 - neutral
-- objective, objectivity
+- objective
+- objectivity
 - predictable
 - preference for logical decisions
 - preference for rational decisions
 - preference for objective decisions
 - rational
 - reason, reasonable
+- things
 - universal
 
 #### Negative
@@ -92,6 +106,7 @@ these portraits portray.
 - heartless
 - impersonal
 - insensitive
+- no feelings
 - unfeeling
 - uptight - esp. with Judging
 
