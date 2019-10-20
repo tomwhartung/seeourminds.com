@@ -11,11 +11,14 @@ these portraits portray.
 
 #### Synonyms - Verbs
 - acting
+- advising
 - deciding
 - doing
+- performing
 
 #### Positive
 - ambitious - esp. with Thinking
+- assertive
 - careful
 - committed
 - confident
@@ -54,6 +57,7 @@ these portraits portray.
 - defensive
 - dogmatic
 - domineering
+- inflexible
 - intransigent - refusing to moderate a position, especially an extreme position
 - judgmental
 - know-it-all
@@ -91,6 +95,9 @@ these portraits portray.
 - perceptive
 - playful
 - satisfied
+- seeking advice
+- shrewd - esp. with balance of iNtuituion and Sensing
+- still learning
 - willing to cooperate
 
 #### Neutral
@@ -103,6 +110,7 @@ these portraits portray.
 - open
 - sycophant
 - subtle
+- whatever
 - worker
 - unpretentious
 
