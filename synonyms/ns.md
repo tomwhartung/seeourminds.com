@@ -9,7 +9,14 @@ these portraits portray.
 
 ### iNtuition - Blue
 
+#### Synonyms - Verbs
+- contemplating
+- imagining
+- scheming
+- strategizing
+
 #### Positive
+- contemplation
 - deep
 - hopeful
 - hope for the future
@@ -17,6 +24,9 @@ these portraits portray.
 - imaginative
 - insightful
 - intelligent
+- meditative
+- meditation
+- mindful
 - more than meet the eye
 - mysterious - esp. with I
 - open-minded, open-mindedness
@@ -40,9 +50,11 @@ these portraits portray.
 - hears a different drummer
 - intellectual
 - interest in generalities
+- later
 - likes metaphor
 - long-term focus
 - marches to a different drummer
+- maybe later
 - metaphorical
 - misunderstood - esp. with I
 - need for intellectual stimulation
@@ -52,7 +64,6 @@ these portraits portray.
 - preference for ideas over facts
 - preference for seeing the world more in terms of ideas than of facts
 - religious
-- scheming
 - substance
 - symbolic
 - thrives on learning new things - esp. with Perceiving
@@ -68,18 +79,23 @@ these portraits portray.
 
 ### Sensing - Yellow
 
+#### Synonyms - Verbs
+- acting
+- fun-loving
+
 #### Positive
+- action
 - alert - esp. with Perceiving
 - attentive - esp. with Perceiving
 - awake
 - aware
 - bright - esp. with Perceiving
+- crafty
 - detail-oriented
 - down-to-earth
 - earth-bound
 - easy-going - esp. with Perceiving
 - focused on details
-- fun-loving
 - happy-go-lucky - esp. with Perceiving
 - normal
 - noticing
@@ -89,7 +105,6 @@ these portraits portray.
 - sees facts
 - sees specifics
 - sensible
-- shrewd
 - smart
 - wide awake
 
@@ -105,6 +120,7 @@ these portraits portray.
 - pragmatic
 - preference for facts over ideas
 - preference for seeing the world more in terms of facts than of ideas
+- real
 - realist
 - realistic
 - realistic outlook
