@@ -25,11 +25,13 @@ these portraits portray.
 - empathetic
 - friendly
 - harmonious relationships
+- lover
 - moving
 - outgoing - esp. when Extraverted
 - personable
 - personal
 - people-oriented
+- people person
 - poignant
 - warm
 
@@ -58,6 +60,7 @@ these portraits portray.
 - pussy
 - sensitive
 - unpredictable
+- wild
 
 
 ### Thinking - Green
@@ -69,7 +72,9 @@ these portraits portray.
 - consistent
 - cool-headed
 - cool-headedness
+- fighter
 - level-headed
+- soldier
 - soldiers and fighters objectify their opponents
 - stoic - esp. with Introverted
 - well-organized - esp. with Judging
@@ -79,6 +84,7 @@ these portraits portray.
 - data-oriented
 - even-handed
 - hard
+- hardened
 - head
 - logic
 - logical
@@ -91,13 +97,15 @@ these portraits portray.
 - preference for rational decisions
 - preference for objective decisions
 - rational
-- reason, reasonable
+- reason
+- reasonable
 - things
 - universal
 
 #### Negative
 - arrogant - esp. with Judging
-- avaricious
+- avaricious - desirous of wealth or gain
+- brutal
 - cocky - esp. with Judging
 - cold
 - condescending - esp. with Judging
