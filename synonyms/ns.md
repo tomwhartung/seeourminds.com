@@ -14,29 +14,40 @@ these portraits portray.
 - imagining
 - scheming
 - strategizing
+- understanding
 
 #### Positive
+- clever
 - contemplation
+- contemplative
 - deep
 - hopeful
 - hope for the future
 - idealistic
+- ideational
+- imagination
 - imaginative
+- ingenious
 - insightful
 - intelligent
+- inventive
 - meditative
 - meditation
 - mindful
 - more than meet the eye
 - mysterious - esp. with I
+- mythical
 - open-minded, open-mindedness
 - optimistic
+- philosophical
 - principled
 - prophetic
 - sanguine
 - sees generalities
 - sees patterns
 - sees the forest more than the trees
+- speculation
+- speculative
 - strategic
 - thinks ouside the box
 - thoughtful
@@ -80,11 +91,12 @@ these portraits portray.
 ### Sensing - Yellow
 
 #### Synonyms - Verbs
-- acting
-- fun-loving
+- acting - esp. with Judging
+- fun-loving - esp. with Perceiving
+- noticing - esp. with Perceiving
 
 #### Positive
-- action
+- action - esp. with Judging
 - alert - esp. with Perceiving
 - attentive - esp. with Perceiving
 - awake
@@ -94,11 +106,11 @@ these portraits portray.
 - detail-oriented
 - down-to-earth
 - earth-bound
-- easy-going - esp. with Perceiving
+- earthy
+- easygoing - esp. with Perceiving
 - focused on details
 - happy-go-lucky - esp. with Perceiving
 - normal
-- noticing
 - open to new experiences - esp. with Perceiving
 - openness to experiences - esp. with Perceiving
 - need for sensory stimulation - esp. with Perceiving
