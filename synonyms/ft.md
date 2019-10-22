@@ -43,21 +43,23 @@ these portraits portray.
 - impassioned
 - individual
 - passion, passionate
+- pleasure
 - preference for emotional decisions
 - preference for personal decisions
 - preference for subjective decisions
 - sentimental
 - soft
 - subjectivity
-- unpredictable
 
 #### Negative
+- angry - esp. with Judging
+- dramatic
 - drama queen
 - flighty
 - hysterical
 - irrational
 - overly dramatic
-- pussy
+- pussy - esp. with Perceiving
 - sensitive
 - unpredictable
 - wild
@@ -80,6 +82,7 @@ these portraits portray.
 - well-organized - esp. with Judging
 
 #### Neutral
+- business
 - data
 - data-oriented
 - even-handed
