@@ -11,6 +11,7 @@ these portraits portray.
 
 #### Synonyms - Verbs
 - affecting
+- caring
 - exciting
 - touching
 
@@ -18,6 +19,7 @@ these portraits portray.
 - affable
 - affectionate
 - amiable
+- benevolent
 - charming
 - compassion
 - compassionate
@@ -28,11 +30,14 @@ these portraits portray.
 - lover
 - moving
 - outgoing - esp. when Extraverted
+- peacemaker
 - personable
 - personal
 - people-oriented
 - people person
 - poignant
+- sociable
+- social graces
 - warm
 
 #### Neutral
@@ -42,7 +47,8 @@ these portraits portray.
 - heated
 - impassioned
 - individual
-- passion, passionate
+- passion
+- passionate
 - pleasure
 - preference for emotional decisions
 - preference for personal decisions
@@ -111,6 +117,7 @@ these portraits portray.
 - brutal
 - cocky - esp. with Judging
 - cold
+- coldhearted
 - condescending - esp. with Judging
 - greedy
 - gruff - esp. with Judging
