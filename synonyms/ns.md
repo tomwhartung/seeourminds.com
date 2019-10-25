@@ -11,6 +11,7 @@ these portraits portray.
 
 #### Synonyms - Verbs
 - contemplating
+- dreaming
 - imagining
 - scheming
 - strategizing
@@ -21,6 +22,7 @@ these portraits portray.
 - contemplation
 - contemplative
 - deep
+- dreamer
 - hopeful
 - hope for the future
 - idealistic
@@ -37,7 +39,7 @@ these portraits portray.
 - more than meet the eye
 - mysterious - esp. with I
 - mythical
-- open-minded, open-mindedness
+- openminded, openmindedness
 - optimistic
 - philosophical
 - principled
@@ -125,9 +127,12 @@ these portraits portray.
 - focused on the present moment
 - focused on living in the present moment
 - focused on particulars
+- grounded
 - here and now
 - literal
 - literalist
+- living in the moment
+- living in the present moment
 - practical
 - pragmatic
 - preference for facts over ideas
