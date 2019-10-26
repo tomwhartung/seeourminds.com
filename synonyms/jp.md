@@ -30,6 +30,7 @@ these portraits portray.
 - make it so
 - proud
 - responsible
+- self-assured
 - well-organized - esp. with Thinking
 
 #### Neutral
@@ -127,7 +128,9 @@ these portraits portray.
 - gullible
 - hapless
 - indecisive
+- indolent
 - irresponsible
+- lazy
 - meek
 - pussy-whipped
 - space-case
