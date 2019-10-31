@@ -10,10 +10,13 @@ these portraits portray.
 ### Positive
 - adaptability
 - adaptable
+- astute - of keen penetration or discernment
+- cunning
 - flexibility
 - flexible
 - multifaceted
 - relatable
+- sagacious
 - versatile
 - well-rounded
 
