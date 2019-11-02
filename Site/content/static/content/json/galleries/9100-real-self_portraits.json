@@ -57,11 +57,36 @@
       "compare_to": { },
       "contrast_with": { }
     }, {
-      "id": "9104",
+      "id": "9103",
       "title": "responsive_ad"
 	 }, {
-      "id": "9106",
-      "title": "Tom H. III",
+      "id": "9104",
+      "title": "Tom H. III - MBTI",
+      "subtitle_html": "Results of the <a href='http://www.myersbriggs.org/' target='_blank' title='Link to the home page of myersbriggs.org'>MBTI &reg;</a>, 2017",
+      "image_file_name": "intp-tomh-mbti-1.jpg",
+      "meat_portrait_href": "/static/content/images/meat_portraits/Tom_Hartung-headshot-color.jpg",
+      "composition": "O",
+      "score": [
+        { "e_score": "4", "i_score": "15" },
+        { "n_score": "16", "s_score": "3" },
+        { "f_score": "7", "t_score": "12" },
+        { "j_score": "9", "p_score": "10" }
+      ],
+      "four_letter_type": "INTP",
+      "archetype": "Fi",
+      "quiz_type": "M",
+      "gallery_page_teaser": "This spiritual portrait is based on the results of the most recent time I took the MBTI (r).  Click on the image to learn more!",
+      "subject_line": "",
+      "tweet_html": "",
+      "explain_dom": "The Green in this image represents my slight preference for using logic rather than emotion to make decisions in many situations.  In Introverts, the dominant function is directed inwardly, and spiritual portraits use a long horizontal line to represent this.  Because this is a very slight preference, I can be flexible and make emotional decisions when the situation calls for it.",
+      "explain_aux": "The Blue in this image represents my preference for idealism over pragmatism.  In Introverts, the auxiliary function is directed outwardly and is more evident than the dominant function.  This preference is fairly strong and shows up consistently when I take different versions of the various online four-letter type quizzes.",
+      "story_intro_html": "<p>This portrait is based on the most recent time I answered the <a href='http://www.myersbriggs.org/' target='_blank' title='Link to the home page of myersbriggs.org'>MBTI &reg; instrument</a>, which I like to call the <q>real MBTI &reg;.</q>  I first answered this questionnaire in the ....</p>",
+      "story_html": "<p>This portrait is based on the most recent time I answered the <a href='http://www.myersbriggs.org/' target='_blank' title='Link to the home page of myersbriggs.org'>MBTI &reg; instrument</a>, which I like to call the <q>real MBTI &reg;.</q>  I first answered this questionnaire in the mid-1990s, but have since lost those results.</p><p>When I first answered the questionnaire given to me by the MBTI &reg;'s administrator, I left some of the answers blank.  I told the administrator this was because I behave differently in different situations, and wanted to see how my <q>work self</q> differed from my <q>home self.</q></p><p>This made her very angry, and she insisted I had to answer all the questions in only one way, because people can be only one type or another.  She let me keep the form, but that initial set of answers is long gone.</p><p>As an open-minded person, I thrive on <q>culture shock</q> and feel it's silly to make consistently logical or consistently emotional decisions.  And if there's no need to make a decision right away, then obviously (to me, anyway) the thing to do is continue to gather information &mdash; as both facts and ideas &mdash; and even do nothing (<q>incubate</q> on the problem) in hopes of making a better decision when the time comes.</p><p>For example, when working my way through school, I enjoyed writing programs in my job at a bank during the day and taking art classes at night.  Clearly a programming job at a bank requires logical decision making, while producing art or answering questions about it in an art history class requires being in tune with one's feelings.</p><p>For me, experiencing both environments enhances the value of each.  For me, it's a wonder more people do not indulge in this sort of stimlating <q>culture shock.</q>  Hopefully this makes sense &mdash; but at this point I won't be the least bit surprised if it doesn't!</p><p>This image has even more squares &mdash; what I call a higher resolution &mdash; than the earlier self-portraits.  Also, the squares are flattened into rectangles, which I feel slightly enhances the expression of Introversion.</p><p>This increase in resolution and the flattening of the squares is the result of just playing around with the drawing algorithm, and is not intended to have any overly significant bearing on how the personality is ultimately expressed or perceived.</p><p> </p>",
+      "compare_to": { },
+      "contrast_with": { "gallery_file_name": "1100-fictional-movies-classics", "image_id": "1100" }
+	 }, {
+      "id": "9105",
+      "title": "Tom H. III - Experimental",
       "subtitle_html": "Results of the <a href='http://www.myersbriggs.org/' target='_blank' title='Link to the home page of myersbriggs.org'>MBTI &reg;</a>, 2017",
       "image_file_name": "intp-tomh-real_mbti-card.jpg",
       "meat_portrait_href": "/static/content/images/meat_portraits/Tom_Hartung-headshot-color.jpg",
@@ -85,8 +110,8 @@
       "compare_to": { },
       "contrast_with": { "gallery_file_name": "1100-fictional-movies-classics", "image_id": "1100" }
     }, {
-      "id": "9108",
-      "title": "Tom H. IV",
+      "id": "9106",
+      "title": "Tom H. IV - Experimental",
       "subtitle_html": "Results of the <a href='http://www.keirsey.com/sorter/register.aspx' target='_blank' title='Link to the Keirsey Temperament Sorter'>Keirsey Temperament Sorter</a>, 2017",
       "image_file_name": "infp-tomh_2017-1.jpg",
       "meat_portrait_href": "/static/content/images/meat_portraits/Tom_Hartung-headshot-color.jpg",
