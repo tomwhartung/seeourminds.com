@@ -53,6 +53,7 @@ these portraits portray.
 - strategic
 - thinks ouside the box
 - thoughtful
+- wise
 
 #### Neutral
 - abstract
@@ -82,8 +83,10 @@ these portraits portray.
 - thrives on learning new things - esp. with Perceiving
 
 #### Negative
+- alien
 - flake
 - fuzzy
+- head in the clouds
 - ideologue
 - not grounded in reality
 - space-case
@@ -113,6 +116,7 @@ these portraits portray.
 - focused on details
 - happy-go-lucky - esp. with Perceiving
 - normal
+- observant - esp. with Perceiving
 - open to new experiences - esp. with Perceiving
 - openness to experiences - esp. with Perceiving
 - need for sensory stimulation - esp. with Perceiving
