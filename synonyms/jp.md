@@ -13,8 +13,10 @@ these portraits portray.
 - acting
 - advising
 - deciding
+- demanding
 - doing
 - performing
+- uncompromising
 
 #### Positive
 - ambitious - esp. with Thinking
@@ -37,7 +39,6 @@ these portraits portray.
 - boss
 - certainty
 - decider
-- demanding
 - firm
 - forceful
 - hardheaded
@@ -46,7 +47,6 @@ these portraits portray.
 - serious
 - supervisor
 - tight
-- uncompromising
 - underlying motive - with I
 
 #### Negative
@@ -59,7 +59,8 @@ these portraits portray.
 - controlling
 - control freak - when strong
 - defensive
-- dogmatic
+- disinterested
+- dogmatic - esp. with Feeling
 - domineering
 - inflexible - esp. when strong
 - intransigent - refusing to moderate a position, especially an extreme position
@@ -78,6 +79,7 @@ these portraits portray.
 - accepting
 - accepting of others - esp. with Sensing and Feeling
 - analyzing - esp. with iNtuition
+- exploring
 - learning
 - listening - esp. with Sensing
 - observing
@@ -98,6 +100,7 @@ these portraits portray.
 - laid-back
 - laissez-faire
 - let it be
+- live and let live
 - non-judgmental
 - perceptive
 - playful
