@@ -23,8 +23,8 @@ these portraits portray.
 - charming
 - compassion
 - compassionate
-- empathy
-- empathetic
+- empathy - esp. with iNtuition
+- empathetic - esp. with iNtuition
 - friendly
 - harmonious relationships
 - lover
@@ -41,6 +41,7 @@ these portraits portray.
 - warm
 
 #### Neutral
+- art
 - desires
 - emotion, emotional
 - heart
@@ -62,6 +63,7 @@ these portraits portray.
 - dramatic
 - drama queen
 - flighty
+- hot-tempered
 - hysterical
 - irrational
 - overly dramatic
@@ -82,22 +84,25 @@ these portraits portray.
 - cool-headedness
 - fighter
 - level-headed
-- soldier
+- soldier - esp. with Sensing
 - soldiers and fighters objectify their opponents
 - stoic - esp. with Introverted
 - well-organized - esp. with Judging
 
 #### Neutral
 - business
+- cool-tempered
 - data
 - data-oriented
 - even-handed
+- even-tempered
 - hard
 - hardened
 - head
 - logic
 - logical
 - logistics
+- methodical
 - neutral
 - objective
 - objectivity
@@ -125,6 +130,7 @@ these portraits portray.
 - impersonal
 - insensitive
 - no feelings
+- troublemaker
 - unfeeling
 - uptight - esp. with Judging
 
