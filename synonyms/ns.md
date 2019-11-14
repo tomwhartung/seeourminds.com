@@ -46,6 +46,7 @@ these portraits portray.
 - prophetic
 - sanguine
 - sees generalities
+- sees opportunities
 - sees patterns
 - sees the forest more than the trees
 - speculation
@@ -145,7 +146,10 @@ these portraits portray.
 - realist
 - realistic
 - realistic outlook
+- right now
+- right this minute
 - sees the trees more than the forest
+- sees realities
 - specific
 - style
 - this-worldly
