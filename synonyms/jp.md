@@ -28,6 +28,7 @@ these portraits portray.
 - devoted - esp. with Feeling
 - determination
 - determined
+- disciplined
 - forthright (direct)
 - make it so
 - proud
@@ -140,6 +141,7 @@ these portraits portray.
 - submissive
 - sycophant
 - wishy-washy
+- undisciplined
 - unsure
 - vulnerable
 
