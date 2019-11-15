@@ -127,7 +127,9 @@ these portraits portray.
 - unpretentious
 
 #### Negative
+- apathetic
 - careless
+- don't care
 - goofy
 - gullible
 - hapless
