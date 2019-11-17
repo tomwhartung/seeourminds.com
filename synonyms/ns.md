@@ -118,6 +118,8 @@ these portraits portray.
 - happy-go-lucky - esp. with Perceiving
 - normal
 - observant - esp. with Perceiving
+- open to doing new things - esp. with Perceiving
+- open to new activities - esp. with Perceiving
 - open to new experiences - esp. with Perceiving
 - openness to experiences - esp. with Perceiving
 - need for sensory stimulation - esp. with Perceiving
