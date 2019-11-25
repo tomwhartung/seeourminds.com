@@ -41,6 +41,7 @@ these portraits portray.
 - certainty
 - decider
 - firm
+- fixed
 - forceful
 - hardheaded
 - headstrong
@@ -89,6 +90,7 @@ these portraits portray.
 - watching - esp. with Sensing
 
 #### Positive
+- adaptable
 - attentive - esp. with Sensing
 - content
 - cooperative
@@ -101,6 +103,7 @@ these portraits portray.
 - laid-back
 - laissez-faire
 - let it be
+- listener - esp. with Sensing
 - live and let live
 - non-judgmental
 - perceptive
