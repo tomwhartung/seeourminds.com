@@ -96,6 +96,7 @@ these portraits portray.
 - data-oriented
 - even-handed
 - even-tempered
+- grit
 - hard
 - hardened
 - head
@@ -110,6 +111,7 @@ these portraits portray.
 - preference for logical decisions
 - preference for rational decisions
 - preference for objective decisions
+- pugnacious - esp. with Judging
 - rational
 - reason
 - reasonable
