@@ -52,6 +52,7 @@ these portraits portray.
 - speculation
 - speculative
 - strategic
+- studious
 - thinks ouside the box
 - thoughtful
 - wise
