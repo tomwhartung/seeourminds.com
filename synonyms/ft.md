@@ -128,6 +128,7 @@ these portraits portray.
 - condescending - esp. with Judging
 - greedy
 - gruff - esp. with Judging
+- grumpy
 - heartless
 - impersonal
 - insensitive
