@@ -161,6 +161,7 @@ these portraits portray.
 
 #### Negative
 - hollow
+- myopic
 - pessimistic
 - shallow
 - short-sighted
