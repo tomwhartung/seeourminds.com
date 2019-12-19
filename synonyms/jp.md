@@ -21,6 +21,7 @@ these portraits portray.
 #### Positive
 - ambitious - esp. with Thinking
 - assertive
+- backbone
 - careful
 - committed
 - confident
@@ -33,6 +34,7 @@ these portraits portray.
 - make it so
 - proud
 - responsible
+- resolve
 - self-assured
 - well-organized - esp. with Thinking
 
