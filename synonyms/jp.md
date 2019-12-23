@@ -30,12 +30,14 @@ these portraits portray.
 - determination
 - determined
 - disciplined
+- driven
 - forthright (direct)
 - make it so
 - proud
 - responsible
 - resolve
 - self-assured
+- self-disciplined
 - well-organized - esp. with Thinking
 
 #### Neutral
