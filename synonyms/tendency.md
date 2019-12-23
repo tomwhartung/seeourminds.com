@@ -7,7 +7,9 @@ to those describing the pairs of opposites these portraits portray.
 
 ## Tendency
 
+- for the most part
 - inclination
+- more often than not
 - preference
 - proclivity
 
