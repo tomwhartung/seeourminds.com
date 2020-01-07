@@ -33,6 +33,7 @@ these portraits portray.
 - driven
 - forthright (direct)
 - make it so
+- persistent
 - proud
 - responsible
 - resolve
@@ -75,6 +76,7 @@ these portraits portray.
 - opinionated
 - prejudiced
 - pretentious
+- pushy
 - stubborn
 - uptight
 
@@ -143,6 +145,7 @@ these portraits portray.
 - indecisive
 - indolent
 - irresponsible
+- lacks direction
 - lazy
 - meek
 - pussy-whipped
