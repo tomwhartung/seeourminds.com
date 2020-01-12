@@ -12,4 +12,5 @@ to those describing the pairs of opposites these portraits portray.
 - more often than not
 - preference
 - proclivity
+- propensity for
 
