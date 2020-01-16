@@ -79,6 +79,7 @@ these portraits portray.
 - ambitious - esp. with Judging
 - ability to keep cool under pressure
 - coherent
+- composed
 - consistent
 - cool-headed
 - cool-headedness
