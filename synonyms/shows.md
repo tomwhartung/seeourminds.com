@@ -8,6 +8,7 @@ to those describing the pairs of opposites these portraits portray.
 ## Shows
 
 - conveys a sense of
+- gives the image a ___ feel
 - represents
 - reveals
 
