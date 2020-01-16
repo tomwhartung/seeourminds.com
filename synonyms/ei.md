@@ -34,6 +34,7 @@ these portraits portray.
 #### Positive
 - bashful
 - demure
+- introspective
 - mysterious - esp. with N
 - private
 - soft-spoken
