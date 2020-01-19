@@ -32,6 +32,7 @@ these portraits portray.
 - disciplined
 - driven
 - forthright (direct)
+- industrious
 - make it so
 - persistent
 - proud
