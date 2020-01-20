@@ -52,6 +52,7 @@ these portraits portray.
 
 #### Negative
 - aloof
+- distant
 - inhibited
 - reclusive
 
