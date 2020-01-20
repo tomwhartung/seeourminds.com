@@ -10,6 +10,7 @@ to those describing the pairs of opposites these portraits portray.
 - for the most part
 - have a facility for being
 - inclination
+- inclined to be
 - more often than not
 - predisposed to be
 - predisposition
