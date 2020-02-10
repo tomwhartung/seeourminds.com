@@ -36,6 +36,7 @@ these portraits portray.
 - people-oriented
 - people person
 - poignant
+- romantic
 - sociable
 - social graces
 - warm
@@ -84,6 +85,7 @@ these portraits portray.
 - cool-headed
 - cool-headedness
 - fighter
+- keeps cool when stressed
 - level-headed
 - soldier - esp. with Sensing
 - soldiers and fighters objectify their opponents
@@ -92,6 +94,7 @@ these portraits portray.
 
 #### Neutral
 - business
+- combative
 - cool-tempered
 - data
 - data-oriented
@@ -112,7 +115,7 @@ these portraits portray.
 - preference for logical decisions
 - preference for rational decisions
 - preference for objective decisions
-- pugnacious - esp. with Judging
+- pugnacious - combative - esp. with Judging
 - rational
 - reason
 - reasonable
