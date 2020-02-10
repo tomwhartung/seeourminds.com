@@ -23,6 +23,7 @@ these portraits portray.
 - contemplative
 - deep
 - dreamer
+- general
 - hopeful
 - hope for the future
 - idealistic
@@ -126,6 +127,7 @@ these portraits portray.
 - need for sensory stimulation - esp. with Perceiving
 - sees facts
 - sees specifics
+- sees the big picture
 - sensible
 - smart
 - wide awake
@@ -139,6 +141,7 @@ these portraits portray.
 - here and now
 - literal
 - literalist
+- lives in the moment
 - living in the moment
 - living in the present moment
 - practical
