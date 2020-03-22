@@ -53,6 +53,7 @@ these portraits portray.
 - headstrong
 - insistent
 - serious
+- supercilious - feeling or showing haughty disdain. synonym: arrogant
 - supervisor
 - tight
 - underlying motive - with I
