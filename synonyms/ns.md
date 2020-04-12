@@ -34,6 +34,7 @@ these portraits portray.
 - insightful
 - intelligent
 - inventive
+- loves learning
 - meditative
 - meditation
 - mindful
