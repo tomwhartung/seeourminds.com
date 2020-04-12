@@ -63,6 +63,7 @@ these portraits portray.
 - angry - esp. with Judging
 - dramatic
 - drama queen
+- fearful
 - flighty
 - hot-tempered
 - hysterical
