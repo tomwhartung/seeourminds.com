@@ -128,6 +128,7 @@ these portraits portray.
 - airy
 - casual
 - inquisitive
+- lackadaisical
 - loose
 - mercenary
 - obedient
