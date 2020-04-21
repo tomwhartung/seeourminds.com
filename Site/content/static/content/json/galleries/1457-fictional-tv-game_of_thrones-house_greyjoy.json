@@ -41,7 +41,7 @@
       "subtitle_html": "Only Daughter of <a href='https://en.wikipedia.org/wiki/List_of_A_Song_of_Ice_and_Fire_characters#Balon_Greyjoy' title='Wikipedia page with a short piece on Balon Greyjoy' target='_blank'>Balon Greyjoy</a>",
       "gallery_page_teaser": "Yara's spiritual portrait shows she is determined, ambitious, and realistic.  Click on the image to learn more!",
       "image_file_name": "estj-yara_greyjoy-1.jpg",
-      "meat_portrait_href": "",
+      "meat_portrait_href": "https://gameofthrones.fandom.com/wiki/Yara_Greyjoy?file=Game_of_thrones_6x5_yara_promo.jpg",
       "composition": "O",
       "score": [
          { "e_score": "15", "i_score": "4" },
@@ -67,7 +67,7 @@
       "subtitle_html": "<a href='https://en.wikipedia.org/wiki/Theon_Greyjoy' title='Wikipedia page for Theon Greyjoy' target='_blank'>Prince Theon</a> after <a href='https://en.wikipedia.org/wiki/Emasculation' title='Wikipedia page for Emasculation' target='_blank'>Emasculation </a> by Ramsay Snow",
       "gallery_page_teaser": "Reek's spiritual portrait shows he is reticent, vulnerable, and short-sighted.  Click on the image to learn more!",
       "image_file_name": "isfp-reek-1.jpg",
-      "meat_portrait_href": "",
+      "meat_portrait_href": "https://en.wikipedia.org/wiki/Theon_Greyjoy#/media/File:Theon_Greyjoy-Alfie_Allen.jpg",
       "composition": "O",
       "score": [
          { "e_score": "2", "i_score": "17" },
@@ -80,25 +80,13 @@
       "archetype": "Fi",
       "quiz_type": "KTS2",
       "year": "2020",
-
-      "explain_dom": "The Red in this spiritual portrait represents Reek's dominant personality trait, Feeling: passion; amiability; friendliness; compassion; warmth; very slight/moderate/strong preference for emotion/empathy/subjectivity over logic/reason/objectivity; their very slight/moderate/strong preference for the/tendency to be more emotional/personal/subjective over the logical/rational/objective.",
-      "explain_dom": "The Red in Reek's spiritual portrait represents their dominant personality trait, their very slight/moderate/strong preference for making emotional/personal/objective rather than logical/rational/objective decisions; their very slight/moderate/strong preference for being/tendency to be more emotional/personal/subjective rather than logical/impersonal/objective.",
-
-      "explain_dom_constant": "In Introverts, the dominant trait is directed inwardly, and spiritual portraits use a long horizontal line to represent this.  He/She demonstrates/exhibits this trait in their (note that is easier to find examples of decisions than perceptions!) ....",
-      "explain_dom_very_slight_preference": "It's important to note this preference/tendency is very slight, and Reek can be quite _____ in some situations/when the situation calls for it.",
-
-      "explain_aux": "The Yellow in this spiritual portrait represents Reek's auxiliary personality trait, Sensing: pragmatism; pragmatic; practical; realism; realistic; outlook; openness to new experiences; very slight/moderate/strong preference for facts over ideas.",
-      "explain_aux": "The Yellow in Reek's spiritual portrait represents their auxiliary personality trait, their very slight/moderate/strong preference for seeing/tendency to see the world more in terms of facts rather than of ideas; need for sensual stimulation.",
-
-      "explain_aux_constant": "In Introverts, the auxiliary trait is directed outwardly, and spiritual portraits use a vertical line to represent this, because it is more evident than the dominant function.  He/She demonstrates/exhibits this trait in their (note that is easier to find examples of decisions than perceptions!) ....",
-      "explain_aux_very_slight_preference": "It's important to note this preference is very slight, and Reek can be quite _____ in some situations/when the situation calls for it.",
+      "explain_dom": "The Red in this spiritual portrait represents Reek's dominant personality trait, his tendency to be more emotional than logical.  In Introverts, the dominant trait is directed inwardly, and spiritual portraits use a long horizontal line to represent this.  He demonstrates this trait in the fear he shows of his master, Ramsay Snow.",
+      "explain_aux": "The Yellow in this spiritual portrait represents Reek's auxiliary personality trait, his tendency to be short-sighted and realistic.  In Introverts, the auxiliary trait is directed outwardly, and spiritual portraits use a vertical line to represent this, because it is more evident than the dominant function.  He demonstrates this trait in the way he has learned to obey every command coming from his master, Ramsay Snow, and ignore everything else.",
 
       "disclosure_html": "",
-      "disclosure_html": "<p>This story contains some <a href='/legal/affiliate_marketing_disclosure' title='Link to the affiliate marketing disclosure on this site' target='_blank'>affiliate marketing links</a>.  Clicking on one of these and making a purchase helps support SeeOurMinds.com.</p>",
       "story_intro_html": "<p> </p>",
-      "story_template": "content/galleries/stories/empty/empty.html",
-      "story_html": "<p> </p><blockquote> </blockquote><p> </p><hr><p>This spiritual portrait is based on _______.</p>",
-      "story_html_img": "<p>Idea: only include images with stories for family and friends.</p><a href='/static/content/images/stories/subdir/image_name.jpg' title='Link to display full-size version of this image on this site'><img src='/static/content/images/stories/subdir/image_name.jpg' class='story-image-right' /></a>",
+      "story_template": "",
+      "story_html": "",
       "compare_to": { },
       "contrast_with": { }
     }
