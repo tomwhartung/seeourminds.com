@@ -9,7 +9,7 @@
     {
       "id": "0800",
       "title": "Jesus Christ",
-      "subtitle_html": "<a href='' title='Wikipedia page for ' target='_blank'></a>",
+      "subtitle_html": "Central Figure in <a href='https://en.wikipedia.org/wiki/Christianity' title='Wikipedia page for Christianity' target='_blank'>Christianity</a>",
       "gallery_page_teaser": "Jesus Christ's spiritual portrait shows he is warm and idealistic.  Click on the image to learn more!",
       "image_file_name": "infj-jesus_christ-1.jpg",
       "meat_portrait_href": "https://en.wikipedia.org/wiki/File:Cefal%C3%B9_Pantocrator_retouched.jpg",
@@ -24,27 +24,12 @@
       "archetype": "Ni",
       "quiz_type": "KTS2",
       "year": "2020",
-
-      "explain_dom": "The Blue in this spiritual portrait represents Jesus' dominant personality trait, iNtuition: idealism and hope for the future; openness to new ideas; very slight/moderate/strong preference for ideas over facts.",
-      "explain_dom": "The Blue in Jesus' spiritual portrait represents their dominant personality trait, their very slight/moderate/strong preference for seeing/tendency to see the world more in terms of ideas than of facts; need for intellectual stimulation.",
-
-
-      "explain_dom_constant": "In Introverts, the dominant trait is directed inwardly, and spiritual portraits use a long horizontal line to represent this.  He/She demonstrates/exhibits this trait in their (note that is easier to find examples of decisions than perceptions!) ....",
-      "explain_dom_very_slight_preference": "It's important to note this preference/tendency is very slight, and Jesus can be quite _____ in some situations/when the situation calls for it.",
-
-      "explain_aux": "The Red in this spiritual portrait represents Jesus' auxiliary personality trait, Feeling: passion; amiability; friendliness; compassion; warmth; very slight/moderate/strong preference for emotion/empathy/subjectivity over logic/reason/objectivity; their very slight/moderate/strong preference for the/tendency to be more emotional/personal/subjective over the logical/rational/objective.",
-      "explain_aux": "The Red in Jesus' spiritual portrait represents their auxiliary personality trait, their very slight/moderate/strong preference for making emotional/personal/objective rather than logical/rational/subjective decisions; their very slight/moderate/strong preference for being/tendency to be more emotional/personal/subjective rather than logical/impersonal/objective.",
-
-
-      "explain_aux_constant": "In Introverts, the auxiliary trait is directed outwardly, and spiritual portraits use a vertical line to represent this, because it is more evident than the dominant function.  He/She demonstrates/exhibits this trait in their (note that is easier to find examples of decisions than perceptions!) ....",
-      "explain_aux_very_slight_preference": "It's important to note this preference is very slight, and Jesus can be quite _____ in some situations/when the situation calls for it.",
+      "explain_dom": "The Blue in Jesus' spiritual portrait represents his dominant personality trait, his very strong preference for seeing the world more in terms of ideas than in terms of facts.  In Introverts, the dominant trait is directed inwardly, and spiritual portraits use a long horizontal line to represent this.  One of the ways he demonstrated this trait is when he encouraged his followers to forgive everyone, including their enemies.",
+      "explain_aux": "The Red in Jesus' spiritual portrait represents his auxiliary personality trait, his tendency for being more warm-hearted than cold-hearted.  In Introverts, the auxiliary trait is directed outwardly, and spiritual portraits use a vertical line to represent this, because it is more evident than the dominant function.  Jesus had a lot of empathy for others, especially the poor and the sick, at it is surely no coincidence that the week of his death is called 'Passion Week.'",
 
       "disclosure_html": "",
-      "disclosure_html": "<p>This story contains some <a href='/legal/affiliate_marketing_disclosure' title='Link to the affiliate marketing disclosure on this site' target='_blank'>affiliate marketing links</a>.  Clicking on one of these and making a purchase helps support SeeOurMinds.com.</p>",
       "story_intro_html": "<p> </p>",
-      "story_template": "content/galleries/stories/empty/empty.html",
-      "story_html": "<p> </p><blockquote> </blockquote><p> </p><hr><p>This spiritual portrait is based on _______.</p>",
-      "story_html_img": "<p>Idea: only include images with stories for family and friends.</p><a href='/static/content/images/stories/subdir/image_name.jpg' title='Link to display full-size version of this image on this site'><img src='/static/content/images/stories/subdir/image_name.jpg' class='story-image-right' /></a>",
+      "story_html": "",
       "compare_to": { },
       "contrast_with": { }
     }, {
