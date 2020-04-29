@@ -142,6 +142,7 @@ these portraits portray.
 - apathetic
 - careless
 - don't care
+- feckless
 - goofy
 - gullible
 - hapless
@@ -155,6 +156,7 @@ these portraits portray.
 - space-case
 - submissive
 - sycophant
+- timid
 - wishy-washy
 - undisciplined
 - unsure
