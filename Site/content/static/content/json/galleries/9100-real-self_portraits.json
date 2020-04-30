@@ -61,8 +61,8 @@
       "title": "responsive_ad"
 	 }, {
       "id": "9104",
-      "title": "Tom H. III: MBTI, 2017 - Experimental",
-      "subtitle_html": "Results of the <a href='http://www.myersbriggs.org/' target='_blank' title='Link to the home page of myersbriggs.org'>MBTI &reg;</a>, 2017 &mdash; Experimental Image",
+      "title": "Tom H. III: MBTI, 2017",
+      "subtitle_html": "Results of the <a href='http://www.myersbriggs.org/' target='_blank' title='Link to the home page of myersbriggs.org'>MBTI &reg;</a>, 2017",
       "image_file_name": "intp-tomh-mbti-1.jpg",
       "meat_portrait_href": "/static/content/images/meat_portraits/Tom_Hartung-headshot-color.jpg",
       "composition": "O",
@@ -75,7 +75,7 @@
       "four_letter_type": "INTP",
       "archetype": "Fi",
       "quiz_type": "M",
-      "gallery_page_teaser": "This spiritual portrait is based on the results of the most recent time I took the Myers-Briggs Type Indicator (MBTI);.  Click on the image to learn more!",
+      "gallery_page_teaser": "This spiritual portrait is based on the results of the most recent time I took the Myers-Briggs Type Indicator (MBTI).  Click on the image to learn more!",
       "subject_line": "",
       "tweet_html": "",
       "explain_dom": "The Green in this image represents my slight preference for using logic rather than emotion to make decisions in many situations.  In Introverts, the dominant function is directed inwardly, and spiritual portraits use a long horizontal line to represent this.  Because this is a very slight preference, I can be flexible and make emotional decisions when the situation calls for it.",
@@ -86,8 +86,8 @@
       "contrast_with": { "gallery_file_name": "1100-fictional-movies-classics", "image_id": "1100" }
 	 }, {
       "id": "9105",
-      "title": "Tom H. III - Experimental",
-      "subtitle_html": "Results of the <a href='http://www.myersbriggs.org/' target='_blank' title='Link to the home page of myersbriggs.org'>MBTI &reg;</a>, 2017",
+      "title": "Tom H. IV: MBTI, 2017 - Experimental",
+      "subtitle_html": "Results of the <a href='http://www.myersbriggs.org/' target='_blank' title='Link to the home page of myersbriggs.org'>MBTI &reg;</a>, 2017 &mdash; Experimental Image",
       "image_file_name": "intp-tomh-real_mbti-card.jpg",
       "meat_portrait_href": "/static/content/images/meat_portraits/Tom_Hartung-headshot-color.jpg",
       "composition": "O",
