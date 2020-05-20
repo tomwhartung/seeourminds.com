@@ -25,25 +25,10 @@
       "archetype": "Fi",
       "quiz_type": "KTS2",
       "year": "2020",
-
-      "explain_dom": "The Red in this spiritual portrait represents Frodo's dominant personality trait, Feeling: passion; amiability; friendliness; compassion; warmth; very slight/moderate/strong preference for emotion/empathy/subjectivity over logic/reason/objectivity; their very slight/moderate/strong preference for the/tendency to be more emotional/personal/subjective over the logical/rational/objective.",
-      "explain_dom": "The Red in X's spiritual portrait represents their dominant personality trait, their very slight/moderate/strong preference for making emotional/personal/objective rather than logical/rational/objective decisions; their very slight/moderate/strong preference for being/tendency to be more emotional/personal/subjective rather than logical/impersonal/objective.",
-
-      "explain_dom_constant": "In Introverts, the dominant trait is directed inwardly, and spiritual portraits use a long horizontal line to represent this.  He/She demonstrates/exhibits this trait in their (note that is easier to find examples of decisions than perceptions!) ....",
-      "explain_dom_very_slight_preference": "It's important to note this preference/tendency is very slight, and X can be quite _____ in some situations/when the situation calls for it.",
-
-      "explain_aux": "The Blue in this spiritual portrait represents X's auxiliary personality trait, iNtuition: idealism and hope for the future; openness to new ideas; very slight/moderate/strong preference for ideas over facts; need for intellectual stimulation.",
-      "explain_aux": "The Blue in X's spiritual portrait represents their auxiliary personality trait, their very slight/moderate/strong preference for seeing/tendency to see the world more in terms of ideas than of facts.",
-
-      "explain_aux_constant": "In Introverts, the auxiliary trait is directed outwardly, and spiritual portraits use a vertical line to represent this, because it is more evident than the dominant function.  He/She demonstrates/exhibits this trait in their (note that is easier to find examples of decisions than perceptions!) ....",
-      "explain_aux_very_slight_preference": "It's important to note this preference is very slight, and X can be quite _____ in some situations/when the situation calls for it.",
-
-      "disclosure_html": "",
-      "disclosure_html": "<p>This story contains some <a href='/legal/affiliate_marketing_disclosure' title='Link to the affiliate marketing disclosure on this site' target='_blank'>affiliate marketing links</a>.  Clicking on one of these and making a purchase helps support SeeOurMinds.com.</p>",
-      "story_intro_html": "<p> </p>",
-      "story_template": "content/galleries/stories/empty/empty.html",
-      "story_html": "<p> </p><blockquote> </blockquote><p> </p><hr><p>This spiritual portrait is based on _______.</p>",
-      "story_html_img": "<p>Idea: only include images with stories for family and friends.</p><a href='/static/content/images/stories/subdir/image_name.jpg' title='Link to display full-size version of this image on this site'><img src='/static/content/images/stories/subdir/image_name.jpg' class='story-image-right' /></a>",
+      "explain_dom": "The Red in this spiritual portrait represents Frodo's dominant personality trait, his warmth and compassion for all of Middle Earth.  In Introverts, the dominant trait is directed inwardly, and spiritual portraits use a long horizontal line to represent this.  He demonstrates this trait in his determination to save the world as he knows it from the evil influence of the ring.",
+      "explain_aux": "The Blue in this spiritual portrait represents Frodo's auxiliary personality trait, his idealism and optimistic view of the future.  In Introverts, the auxiliary trait is directed outwardly, and spiritual portraits use a vertical line to represent this, because it is more evident than the dominant function.  He demonstrates this trait when he recognizes the importance of his mission to save Middle Earth.",
+      "story_intro_html": "",
+      "story_html": "",
       "compare_to": { },
       "contrast_with": { }
     }, {
@@ -64,15 +49,10 @@
       "archetype": "Se",
       "quiz_type": "KTS2",
       "year": "2020",
-      "explain_dom": "The Yellow in Sam's spiritual portrait represents his dominant personality trait, his openness to new experiences and his tendency to be more practical than idealistic.  In Extraverts, the dominant trait is directed outwardly, and spiritual portraits use a long vertical line to represent this, because it is the side of their personality that is most evident.  He exhibits this trait in his willingness to join Frodo on his adventure, despite the dangers he faces.",
-      "explain_aux": "The Green in Sam's spiritual portrait represents his auxiliary personality trait, tendency to be more reasonable and calm than unreasonable and excitable.  In Extraverts, the auxiliary trait is directed inwardly, and spiritual portraits use a horizontal line to represent this.  He exhibits this trait in his ability to keep his cool in a fight.",
-
-      "disclosure_html": "",
-      "disclosure_html": "<p>This story contains some <a href='/legal/affiliate_marketing_disclosure' title='Link to the affiliate marketing disclosure on this site' target='_blank'>affiliate marketing links</a>.  Clicking on one of these and making a purchase helps support SeeOurMinds.com.</p>",
-      "story_intro_html": "<p> </p>",
-      "story_template": "content/galleries/stories/empty/empty.html",
-      "story_html": "<p> </p><blockquote> </blockquote><p> </p><hr><p>This spiritual portrait is based on _______.</p>",
-      "story_html_img": "<p>Idea: only include images with stories for family and friends.</p><a href='/static/content/images/stories/subdir/image_name.jpg' title='Link to display full-size version of this image on this site'><img src='/static/content/images/stories/subdir/image_name.jpg' class='story-image-left' /></a>",
+      "explain_dom": "The Yellow in Sam's spiritual portrait represents his dominant personality trait, his openness to new experiences and his tendency to be more practical than idealistic.  In Extraverts, the dominant trait is directed outwardly, and spiritual portraits use a long vertical line to represent this, because it is the side of their personality that is most evident.  He exhibits his openness in his willingness to join Frodo on his adventure, despite the dangers he faces.",
+      "explain_aux": "The Green in Sam's spiritual portrait represents his auxiliary personality trait, his tendency to be reasonable and calm rather than unreasonable and excitable.  In Extraverts, the auxiliary trait is directed inwardly, and spiritual portraits use a horizontal line to represent this.  He exhibits this trait in his ability to keep his cool when fighting.",
+      "story_intro_html": "",
+      "story_html": "",
       "compare_to": { },
       "contrast_with": { }
     }, {
@@ -95,13 +75,8 @@
       "year": "2020",
       "explain_dom": "The Blue in this spiritual portrait represents Gandalf's dominant personality trait, his strong preference for ideas over facts.  In Introverts, the dominant trait is directed inwardly, and spiritual portraits use a long horizontal line to represent this.  He demonstrates this trait in the way he embraces magic, which at its core is simply putting mind over matter.",
       "explain_aux": "The Green in this spiritual portrait represents Gandalf's auxiliary personality trait, his ability to stay cool and calm in stressful situations.  In Introverts, the auxiliary trait is directed outwardly, and spiritual portraits use a vertical line to represent this, because it is more evident than the dominant function.  He demonstrates this trait when he fights enemies such as Sauron in Isengard and the Balrog in the Mines of Moria.",
-
-      "disclosure_html": "",
-      "disclosure_html": "<p>This story contains some <a href='/legal/affiliate_marketing_disclosure' title='Link to the affiliate marketing disclosure on this site' target='_blank'>affiliate marketing links</a>.  Clicking on one of these and making a purchase helps support SeeOurMinds.com.</p>",
-      "story_intro_html": "<p> </p>",
-      "story_template": "content/galleries/stories/empty/empty.html",
-      "story_html": "<p> </p><blockquote> </blockquote><p> </p><hr><p>This spiritual portrait is based on _______.</p>",
-      "story_html_img": "<p>Idea: only include images with stories for family and friends.</p><a href='/static/content/images/stories/subdir/image_name.jpg' title='Link to display full-size version of this image on this site'><img src='/static/content/images/stories/subdir/image_name.jpg' class='story-image-right' /></a>",
+      "story_intro_html": "",
+      "story_html": "",
       "compare_to": { },
       "contrast_with": { }
     }, {
@@ -124,13 +99,8 @@
       "year": "2020",
       "explain_dom": "The Yellow in Pippin's spiritual portrait represents his dominant personality trait, his tendency to be realistic and accepting of the current situation.  In Extraverts, the dominant trait is directed outwardly, and spiritual portraits use a long vertical line to represent this, because it is the side of their personality that is most evident.  He exhibits this trait in the way he is open to joining Frodo, Sam, and Merry on their journey to save Middle Earth.",
       "explain_aux": "The Red in Pippin's spiritual portrait represents his auxiliary personality trait, his tendency to be friendly and personal rather than cold and impersonal.  In Extraverts, the auxiliary trait is directed inwardly, and spiritual portraits use a horizontal line to represent this.  He exhibits this trait by his friendliness and in the way he cares about Frodo and the group's mission to destroy the ring.",
-
-      "disclosure_html": "",
-      "disclosure_html": "<p>This story contains some <a href='/legal/affiliate_marketing_disclosure' title='Link to the affiliate marketing disclosure on this site' target='_blank'>affiliate marketing links</a>.  Clicking on one of these and making a purchase helps support SeeOurMinds.com.</p>",
-      "story_intro_html": "<p> </p>",
-      "story_template": "content/galleries/stories/empty/empty.html",
-      "story_html": "<p> </p><blockquote> </blockquote><p> </p><hr><p>This spiritual portrait is based on _______.</p>",
-      "story_html_img": "<p>Idea: only include images with stories for family and friends.</p><a href='/static/content/images/stories/subdir/image_name.jpg' title='Link to display full-size version of this image on this site'><img src='/static/content/images/stories/subdir/image_name.jpg' class='story-image-left' /></a>",
+      "story_intro_html": "",
+      "story_html": "",
       "compare_to": { },
       "contrast_with": { }
     }, {
@@ -153,13 +123,8 @@
       "year": "2020",
       "explain_dom": "The Yellow in this spiritual portrait represents Merry's dominant personality trait, his realistic outlook and openness to new experiences.  In Extraverts, the dominant trait is directed outwardly, and spiritual portraits use a long vertical line to represent this, because it is the side of their personality that is most evident.  He demonstrates this trait in his fun-loving attitude.",
       "explain_aux": "The Red in this spiritual portrait represents Merry's auxiliary personality trait, his warmth and friendliness.  In Extraverts, the auxiliary trait is directed inwardly, and spiritual portraits use a horizontal line to represent this.  He demonstrates this trait by his amiability and in the way he cares about Middle Earth enough to risk his life and join Frodo and the others in their mission to destroy the ring.",
-
-      "disclosure_html": "",
-      "disclosure_html": "<p>This story contains some <a href='/legal/affiliate_marketing_disclosure' title='Link to the affiliate marketing disclosure on this site' target='_blank'>affiliate marketing links</a>.  Clicking on one of these and making a purchase helps support SeeOurMinds.com.</p>",
-      "story_intro_html": "<p> </p>",
-      "story_template": "content/galleries/stories/empty/empty.html",
-      "story_html": "<p> </p><blockquote> </blockquote><p> </p><hr><p>This spiritual portrait is based on _______.</p>",
-      "story_html_img": "<p>Idea: only include images with stories for family and friends.</p><a href='/static/content/images/stories/subdir/image_name.jpg' title='Link to display full-size version of this image on this site'><img src='/static/content/images/stories/subdir/image_name.jpg' class='story-image-left' /></a>",
+      "story_intro_html": "",
+      "story_html": "",
       "compare_to": { },
       "contrast_with": { }
     }
