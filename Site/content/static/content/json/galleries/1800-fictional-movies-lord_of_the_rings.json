@@ -10,16 +10,16 @@
     {
       "id": "1800",
       "title": "Frodo Baggins",
-      "subtitle_html": "<a href='' title='Wikipedia page for ' target='_blank'></a>",
+      "subtitle_html": "<a href='https://en.wikipedia.org/wiki/Hobbit' title='Wikipedia page for Hobbit' target='_blank'>Hobbit</a>",
       "gallery_page_teaser": "Frodo's spiritual portrait shows he is ______________.  Click on the image to learn more!",
       "image_file_name": "infp-frodo_baggins-1.jpg",
       "meat_portrait_href": "",
       "composition": "O",
       "score": [
-         { "e_score": "0", "i_score": "0" },
-         { "n_score": "0", "s_score": "0" },
-         { "f_score": "0", "t_score": "0" },
-         { "j_score": "0", "p_score": "0" }
+         { "e_score": "7", "i_score": "12" },
+         { "n_score": "13", "s_score": "6" },
+         { "f_score": "14", "t_score": "5" },
+         { "j_score": "9", "p_score": "10" }
       ],
       "four_letter_type": "INFP",
       "archetype": "Fi",
@@ -61,16 +61,16 @@
     }, {
       "id": "1802",
       "title": "Samwise Gamgee",
-      "subtitle_html": "<a href='' title='Wikipedia page for ' target='_blank'></a>",
+      "subtitle_html": "\"Sam\"",
       "gallery_page_teaser": "Samwise Gamgee's spiritual portrait shows he is ______________.  Click on the image to learn more!",
       "image_file_name": "estp-samwise_gamgee-1.jpg",
       "meat_portrait_href": "",
       "composition": "O",
       "score": [
-         { "e_score": "0", "i_score": "0" },
-         { "n_score": "0", "s_score": "0" },
-         { "f_score": "0", "t_score": "0" },
-         { "j_score": "0", "p_score": "0" }
+         { "e_score": "15", "i_score": "4" },
+         { "n_score": "7", "s_score": "12" },
+         { "f_score": "7", "t_score": "12" },
+         { "j_score": "8", "p_score": "11" }
       ],
       "four_letter_type": "ESTP",
       "archetype": "Se",
@@ -112,16 +112,16 @@
     }, {
       "id": "1804",
       "title": "Gandalf",
-      "subtitle_html": "<a href='' title='Wikipedia page for ' target='_blank'></a>",
+      "subtitle_html": "<a href='https://en.wikipedia.org/wiki/Middle-earth_peoples#Wizards' title='Wikipedia page for Middle-earth_peoples, cued to the section about Wizards' target='_blank'>Wizard</a>",
       "gallery_page_teaser": "Gandalf's spiritual portrait shows he is ______________.  Click on the image to learn more!",
       "image_file_name": "intj-gandalf-1.jpg",
       "meat_portrait_href": "",
       "composition": "O",
       "score": [
-         { "e_score": "0", "i_score": "0" },
-         { "n_score": "0", "s_score": "0" },
-         { "f_score": "0", "t_score": "0" },
-         { "j_score": "0", "p_score": "0" }
+         { "e_score": "9", "i_score": "10" },
+         { "n_score": "16", "s_score": "3" },
+         { "f_score": "5", "t_score": "14" },
+         { "j_score": "10", "p_score": "9" }
       ],
       "four_letter_type": "INTJ",
       "archetype": "Ni",
@@ -162,17 +162,17 @@
       "contrast_with": { }
     }, {
       "id": "1806",
-      "title": "Pippin",
-      "subtitle_html": "<a href='' title='Wikipedia page for ' target='_blank'></a>",
+      "title": "Peregrin Took",
+      "subtitle_html": "\"Pippin\"",
       "gallery_page_teaser": "Pippin's spiritual portrait shows he is ______________.  Click on the image to learn more!",
       "image_file_name": "esfp-pippin-1.jpg",
       "meat_portrait_href": "",
       "composition": "O",
       "score": [
-         { "e_score": "0", "i_score": "0" },
-         { "n_score": "0", "s_score": "0" },
-         { "f_score": "0", "t_score": "0" },
-         { "j_score": "0", "p_score": "0" }
+         { "e_score": "17", "i_score": "2" },
+         { "n_score": "9", "s_score": "10" },
+         { "f_score": "11", "t_score": "8" },
+         { "j_score": "7", "p_score": "12" }
       ],
       "four_letter_type": "ESFP",
       "archetype": "Se",
@@ -213,17 +213,17 @@
       "contrast_with": { }
     }, {
       "id": "1808",
-      "title": "Merry",
-      "subtitle_html": "<a href='' title='Wikipedia page for ' target='_blank'></a>",
+      "title": "Meriadoc Brandybuck",
+      "subtitle_html": "\"Merry\"",
       "gallery_page_teaser": "Merry's spiritual portrait shows he is ______________.  Click on the image to learn more!",
       "image_file_name": "esfp-merry-1.jpg",
       "meat_portrait_href": "",
       "composition": "O",
       "score": [
-         { "e_score": "0", "i_score": "0" },
-         { "n_score": "0", "s_score": "0" },
-         { "f_score": "0", "t_score": "0" },
-         { "j_score": "0", "p_score": "0" }
+         { "e_score": "17", "i_score": "2" },
+         { "n_score": "9", "s_score": "10" },
+         { "f_score": "10", "t_score": "9" },
+         { "j_score": "6", "p_score": "13" }
       ],
       "four_letter_type": "ESFP",
       "archetype": "Se",
