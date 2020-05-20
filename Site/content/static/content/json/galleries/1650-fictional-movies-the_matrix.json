@@ -8,8 +8,8 @@
   [
     {
       "id": "1650",
-      "title": "Neo",
-      "subtitle_html": "<a href='' title='Wikipedia page for ' target='_blank'></a>",
+      "title": "\"Neo\"",
+      "subtitle_html": "<a href='https://en.wikipedia.org/wiki/Programmer' title='Wikipedia page for Computer Programmer' target='_blank'>Computer Programmer</a> Thomas Anderson",
       "gallery_page_teaser": "Neo's spiritual portrait shows he is ______________.  Click on the image to learn more!",
       "image_file_name": "infp-neo-1.jpg",
       "meat_portrait_href": "",
@@ -60,7 +60,7 @@
     }, {
       "id": "1653",
       "title": "Morpheus",
-      "subtitle_html": "<a href='' title='Wikipedia page for ' target='_blank'></a>",
+      "subtitle_html": "<a href='https://en.wikipedia.org/wiki/Captain' title='Wikipedia page for Captain' target='_blank'>Captain</a> of the Nebuchadnezzar",
       "gallery_page_teaser": "Morpheus' spiritual portrait shows he is ______________.  Click on the image to learn more!",
       "image_file_name": "enfj-morpheus-1.jpg",
       "meat_portrait_href": "",
@@ -111,7 +111,7 @@
     }, {
       "id": "1656",
       "title": "Trinity",
-      "subtitle_html": "<a href='' title='Wikipedia page for ' target='_blank'></a>",
+      "subtitle_html": "<a href='https://en.wikipedia.org/wiki/Crew_member' title='Wikipedia page for Crew Member' target='_blank'>Crew Member</a> of the Nebuchadnezzar",
       "gallery_page_teaser": "Trinity's spiritual portrait shows she is ______________.  Click on the image to learn more!",
       "image_file_name": "intj-trinity-1.jpg",
       "meat_portrait_href": "",
