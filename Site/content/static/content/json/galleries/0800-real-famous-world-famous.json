@@ -50,25 +50,12 @@
       "archetype": "Ti",
       "quiz_type": "KTS2",
       "year": "2020",
+      "explain_dom": "The Green in this spiritual portrait represents Vladimir's dominant personality trait, his tendency to be more objective rather than personal.  In Introverts, the dominant trait is directed inwardly, and spiritual portraits use a long horizontal line to represent this.  He demonstrates this trait in the way he rarely displays emotion.",
+      "explain_aux": "The Yellow in this spiritual portrait represents Vladimir's auxiliary personality trait, his tendency to be pragmatic rather than idealistic.  In Introverts, the auxiliary trait is directed outwardly, and spiritual portraits use a vertical line to represent this, because it is more evident than the dominant function.  He demonstrates this trait when he decided to invade Chechnya.  Where an idealist would have taken a more lazzeiz-faire attitude, Vladimir was concerned about 'a potential domino effect' and insists they were only 'defending ourselves.'",
 
-      "explain_dom": "The Green in this spiritual portrait represents X's dominant personality trait, Thinking: objectivity; rationality; cool-headedness; very slight/moderate/strong preference for logic/reason/objectivity over emotion/empathy/subjectivity; their very slight/moderate/strong preference for the/tendency to be more logical/rational/impersonal/objective over the emotional/irrational/personal/subjective.",
-      "explain_dom": "The Green in X's spiritual portrait represents their dominant personality trait, their very slight/moderate/strong preference for making logical/rational/impersonal/objective rather than emotional/irrational/personal/subjective decisions; their very slight/moderate/strong preference for being/tendency to be more logical/rational/impersonal/objective rather than emotional/irrational/personal/subjective.",
-
-      "explain_dom_constant": "In Introverts, the dominant trait is directed inwardly, and spiritual portraits use a long horizontal line to represent this.  He/She demonstrates/exhibits this trait in their (note that is easier to find examples of decisions than perceptions!) ....",
-      "explain_dom_very_slight_preference": "It's important to note this preference/tendency is very slight, and X can be quite _____ in some situations/when the situation calls for it.",
-
-      "explain_aux": "The Yellow in this spiritual portrait represents X's auxiliary personality trait, Sensing: pragmatism; pragmatic; practical; realism; realistic; outlook; openness to new experiences; very slight/moderate/strong preference for facts over ideas.",
-      "explain_aux": "The Yellow in X's spiritual portrait represents their auxiliary personality trait, their very slight/moderate/strong preference for seeing/tendency to see the world more in terms of facts rather than of ideas; need for sensual stimulation.",
-
-      "explain_aux_constant": "In Introverts, the auxiliary trait is directed outwardly, and spiritual portraits use a vertical line to represent this, because it is more evident than the dominant function.  He/She demonstrates/exhibits this trait in their (note that is easier to find examples of decisions than perceptions!) ....",
-      "explain_aux_very_slight_preference": "It's important to note this preference is very slight, and X can be quite _____ in some situations/when the situation calls for it.",
-
-      "disclosure_html": "",
-      "disclosure_html": "<p>This story contains some <a href='/legal/affiliate_marketing_disclosure' title='Link to the affiliate marketing disclosure on this site' target='_blank'>affiliate marketing links</a>.  Clicking on one of these and making a purchase helps support SeeOurMinds.com.</p>",
       "story_intro_html": "<p> </p>",
       "story_template": "content/galleries/stories/empty/empty.html",
       "story_html": "<p> </p><blockquote> </blockquote><p> </p><hr><p>This spiritual portrait is based on _______.</p>",
-      "story_html_img": "<p>Idea: only include images with stories for family and friends.</p><a href='/static/content/images/stories/subdir/image_name.jpg' title='Link to display full-size version of this image on this site'><img src='/static/content/images/stories/subdir/image_name.jpg' class='story-image-right' /></a>",
       "compare_to": { },
       "contrast_with": { }
     }, {
