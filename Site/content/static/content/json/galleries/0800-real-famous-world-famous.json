@@ -50,12 +50,10 @@
       "archetype": "Ti",
       "quiz_type": "KTS2",
       "year": "2020",
-      "explain_dom": "The Green in this spiritual portrait represents Vladimir's dominant personality trait, his tendency to be more objective rather than personal.  In Introverts, the dominant trait is directed inwardly, and spiritual portraits use a long horizontal line to represent this.  He demonstrates this trait in the way he rarely displays emotion.",
-      "explain_aux": "The Yellow in this spiritual portrait represents Vladimir's auxiliary personality trait, his tendency to be pragmatic rather than idealistic.  In Introverts, the auxiliary trait is directed outwardly, and spiritual portraits use a vertical line to represent this, because it is more evident than the dominant function.  He demonstrates this trait when he decided to invade Chechnya.  Where an idealist would have taken a more lazzeiz-faire attitude, Vladimir was concerned about 'a potential domino effect' and insists they were only 'defending ourselves.'",
-
-      "story_intro_html": "<p> </p>",
-      "story_template": "content/galleries/stories/empty/empty.html",
-      "story_html": "<p> </p><blockquote> </blockquote><p> </p><hr><p>This spiritual portrait is based on _______.</p>",
+      "explain_dom": "The Green in this spiritual portrait represents Vladimir's dominant personality trait, his tendency to be objective rather than personal.  In Introverts, the dominant trait is directed inwardly, and spiritual portraits use a long horizontal line to represent this.  He demonstrates this trait in the way he rarely displays emotion.",
+      "explain_aux": "The Yellow in this spiritual portrait represents Vladimir's auxiliary personality trait, his tendency to be pragmatic rather than idealistic.  In Introverts, the auxiliary trait is directed outwardly, and spiritual portraits use a vertical line to represent this, because it is more evident than the dominant function.  He demonstrates this trait when he decided to invade Chechnya.  Where an idealist would have taken a more laissez-faire attitude, Vladimir was concerned about 'a potential domino effect' and insists they were only 'defending ourselves.'",
+      "story_intro_html": "<p>This spiritual portrait is based on the book <i><u>First Pers</u></i>....</p>",
+      "story_html": "<p>This spiritual portrait is based on the book <i><u>First Person, An Astonishingly Frank Self-Portrait by Russia's President</u></i>.</p><p>I enjoyed the book, and wrote a <a href='https://bit.ly/gr-putin' title='Review of First Person on goodreads.com' target='_blank'>review</a> of it on <a href='https://goodreads.com' title='Goodreads.com Home Page' target='_blank'>goodreads.com</a></p><blockquote>To call Putin the author is a bit of a stretch, because his real role is that of principal interviewee.</blockquote><p>z </p><hr>",
       "compare_to": { },
       "contrast_with": { }
     }, {
