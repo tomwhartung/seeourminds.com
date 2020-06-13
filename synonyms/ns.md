@@ -9,6 +9,7 @@ these portraits portray.
 
 ### iNtuition - Blue
 
+
 #### Synonyms - Verbs
 - contemplating
 - dreaming
@@ -66,6 +67,7 @@ these portraits portray.
 - figurative
 - future-oriented
 - hears a different drummer
+- impractical
 - intellectual
 - interest in generalities
 - later
@@ -87,6 +89,7 @@ these portraits portray.
 - thrives on learning new things - esp. with Perceiving
 
 #### Negative
+- absent-minded
 - alien
 - flake
 - fuzzy
@@ -119,22 +122,26 @@ these portraits portray.
 - easygoing - esp. with Perceiving
 - focused on details
 - happy-go-lucky - esp. with Perceiving
+- need for sensory stimulation - esp. with Perceiving
 - normal
 - observant - esp. with Perceiving
 - open to doing new things - esp. with Perceiving
 - open to new activities - esp. with Perceiving
 - open to new experiences - esp. with Perceiving
 - openness to experiences - esp. with Perceiving
-- need for sensory stimulation - esp. with Perceiving
+- prosaic
 - sees facts
 - sees specifics
 - sees the big picture
 - sensible
 - smart
+- solution oriented
+- steady
 - wide awake
 
 #### Neutral
 - concerned with the here-and-now
+- conventional
 - focused on the present moment
 - focused on living in the present moment
 - focused on particulars
