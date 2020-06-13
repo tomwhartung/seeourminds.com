@@ -646,21 +646,21 @@ class Score:
         else:
             type_for_answer = self.opposite_type[answer_123_type]
 
-        if type_for_answer is "E":
+        if type_for_answer == "E":
             self.e_score += answer_weight_int
-        elif type_for_answer is "I":
+        elif type_for_answer == "I":
             self.i_score += answer_weight_int
-        elif type_for_answer is "N":
+        elif type_for_answer == "N":
             self.n_score += answer_weight_int
-        elif type_for_answer is "S":
+        elif type_for_answer == "S":
             self.s_score += answer_weight_int
-        elif type_for_answer is "F":
+        elif type_for_answer == "F":
             self.f_score += answer_weight_int
-        elif type_for_answer is "T":
+        elif type_for_answer == "T":
             self.t_score += answer_weight_int
-        elif type_for_answer is "J":
+        elif type_for_answer == "J":
             self.j_score += answer_weight_int
-        elif type_for_answer is "P":
+        elif type_for_answer == "P":
             self.p_score += answer_weight_int
 
         if DJANGO_DEBUG:
