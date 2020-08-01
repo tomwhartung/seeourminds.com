@@ -1,6 +1,7 @@
 #
 # Documentation is here: http://git-scm.com/docs/gitignore
 #
+downloads/
 tmp/
 unpack/
 
@@ -26,12 +27,13 @@ gitignored/Site/Site/settings.py
 __pycache__/
 
 #
-# For vim temporary files
+# For vim and kate temporary files
 #
 *.swp
 .~lock.*
 .*~
 *~
+*.kate-swp
 
 # ###############################################################
 # We have a local clone of that in djangostable, for installing
