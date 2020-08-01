@@ -27,10 +27,8 @@
   </script>
 
   {% load static %}
-  <!-- Font Awesome - using my script code from fontawesome.com -->
-  <script src="https://kit.fontawesome.com/3ee519bdc8.js" crossorigin="anonymous">
-   response.setHeader("Set-Cookie", "HttpOnly;Secure;SameSite=Strict");
-  </script>
+  <!-- Font Awesome - using my script code from fontawesome.com CAUSES A DEV TOOLS CONSOLE WARNING! -->
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.11.2/css/all.css" />
 
   <!-- Google Fonts Roboto - From MDB5 template -->
   <link
@@ -76,7 +74,7 @@
         <!-- Left links -->
         <ul class="navbar-nav mr-auto mb-2 mb-lg-0">
           <li class="nav-item">
-            <a class="nav-link active" aria-current="page" href="#">Home</a>
+            <a class="nav-link active" aria-current="page" href="/">Home</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="#">Link</a>
