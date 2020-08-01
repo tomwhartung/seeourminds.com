@@ -28,7 +28,9 @@
 
   {% load static %}
   <!-- Font Awesome - using my script code from fontawesome.com -->
-  <script src="https://kit.fontawesome.com/3ee519bdc8.js" crossorigin="anonymous"></script>
+  <script src="https://kit.fontawesome.com/3ee519bdc8.js" crossorigin="anonymous">
+   response.setHeader("Set-Cookie", "HttpOnly;Secure;SameSite=Strict");
+  </script>
 
   <!-- Google Fonts Roboto - From MDB5 template -->
   <link
