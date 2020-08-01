@@ -129,7 +129,10 @@
        </a>
        <!-- Take a Quiz dropdown menu options -->
        <ul class="dropdown-menu" aria-labelledby="navbarQuizzesDropdown">
-        <li><a class="dropdown-item" href="/galleries/">All</a></li>
+        <li><a class="dropdown-item" href="/quiz">About</a></li>
+        {% for quiz_size_slug, size_text in quiz_menu_data %}
+         <li><a class="dropdown-item" href="/quiz/{{ quiz_size_slug }}/">{{ size_text }}</a></li>
+        {% endfor %}
        </ul>
       </li>
       <!-- Privacy and Terms dropdown menu toggle -->
