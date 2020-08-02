@@ -26,9 +26,8 @@
     gtag('config', 'UA-87860502-4');
   </script>
 
-  {% load static %}
-  <!-- Font Awesome - using my script code from fontawesome.com CAUSES A DEV TOOLS CONSOLE WARNING! -->
-  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.11.2/css/all.css" />
+  <!-- Font Awesome - using my script code from fontawesome.com -->
+  <script src="https://kit.fontawesome.com/3ee519bdc8.js" crossorigin="anonymous"></script>
 
   <!-- Google Fonts Roboto - From MDB5 template -->
   <link
@@ -36,6 +35,7 @@
       href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap"
   />
 
+  {% load static %}
   <!-- MDB - From MDB5 template -->
   <link rel="stylesheet" href="{% static 'content/css/mdb.min.css' %}" />
 
@@ -216,7 +216,6 @@
         <i class="fab fa-github-alt fa-lg text-dark"></i></a>
       </li>
      </ul><!-- .ml-auto - End Social Networking Icons -->
-
     </div><!-- .navbar-collapse - End Collapsible wrapper -->
    </div><!-- .container-fluid - End Container wrapper -->
   </nav>
