@@ -13,7 +13,7 @@
    {% endif %}
   </title>
   <meta name="description"
-        content="Hosts a gallery with hundreds of spiritual portraits and a quiz so you can obtain an image of your own personality">
+        content="Hosts a gallery with hundreds of spiritual portraits and a Jungian Archetype Quiz">
   <meta name="p:domain_verify" content="fdb068e61b8c4f7e8146fadc1d1034c6"/>
 
   <!-- Global site tag (gtag.js) - Google Analytics -->
@@ -48,8 +48,9 @@
 </head>
 
 <body>
+<header>
  {% block navbar %}
-  <nav class="navbar navbar-expand-lg navbar-light bg-light">
+  <nav class="navbar navbar-expand-lg navbar-light bg-light fixed-top">
    <!-- Container wrapper -->
    <div class="container-fluid">
     <!-- Navbar brand -->
@@ -215,11 +216,12 @@
           title="Find me on github!" class="nav-link">
         <i class="fab fa-github-alt fa-lg text-dark"></i></a>
       </li>
-     </ul><!-- .ml-auto - End Social Networking Icons -->
-    </div><!-- .navbar-collapse - End Collapsible wrapper -->
-   </div><!-- .container-fluid - End Container wrapper -->
+     </ul><!-- .ml-auto - Close Social Networking Icons -->
+    </div><!-- .navbar-collapse - Close Collapsible wrapper -->
+   </div><!-- .container-fluid - Close Container wrapper -->
   </nav>
  {% endblock %}
+<header>
 
 {% block content %}
 {% endblock %}
