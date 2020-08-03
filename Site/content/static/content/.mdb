@@ -1,3 +1,4 @@
 {
-  "packageName": "MDB5-Free"
+  "packageName": "MDB5-Free",
+  "packageManager": "npm"
 }
