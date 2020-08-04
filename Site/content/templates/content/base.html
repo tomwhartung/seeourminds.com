@@ -50,7 +50,7 @@
 <body>
 <header>
  {% block navbar %}
-  <nav class="navbar navbar-expand-lg navbar-light bg-danger text-white fixed-top">
+  <nav class="navbar navbar-expand-lg navbar-light bg-primary text-white fixed-top">
    <!-- Container wrapper -->
    <div class="container-fluid">
     <!-- Navbar brand -->
@@ -70,7 +70,8 @@
             aria-expanded="false"
             aria-label="Toggle navigation"
     >
-     <span class="navbar-toggler-icon"></span>
+     <span class="navbar-toggler-icon" style="color: white;"></span>
+     <span class="text-white">Menu</span>
     </button>
     <!-- Collapsible wrapper -->
     <div class="collapse navbar-collapse" id="collapsibleNav">
@@ -227,10 +228,10 @@
 {% endblock %}
 
 {% block footer %}
- <footer class="page-footer font-small bg-danger text-white">
+ <footer class="page-footer font-small bg-primary text-white">
   <div class="footer-copyright p-3">
    <div class="text-center">
-    Copyright &copy; 2016&ndash;2019
+    Copyright &copy; 2016&ndash;2020
      <a href="http://www.TomWHartung.com" class="footer text-light text-decoration-underline"
         title="TomWHartung.com home page" target="_blank">
       Tom W. Hartung</a> and
