@@ -50,7 +50,7 @@
 <body>
 <header>
  {% block navbar %}
-  <nav class="navbar navbar-expand-lg navbar-light bg-light fixed-top">
+  <nav class="navbar navbar-expand-lg navbar-light bg-danger text-white fixed-top">
    <!-- Container wrapper -->
    <div class="container-fluid">
     <!-- Navbar brand -->
@@ -77,14 +77,14 @@
      <!-- Left links -->
      <ul class="navbar-nav mr-auto mb-2 mb-lg-0">
       <li class="nav-item">
-       <a class="nav-link active" aria-current="page" href="/">
+       <a class="nav-link font-weight-bold text-white active" aria-current="page" href="/">
         <u>SeeOurMinds.com</u><br>
         <small>Visualizing the Invisible</small>
        </a>
       </li>
       <!-- Galleries dropdown menu toggle -->
       <li class="nav-item dropdown">
-       <a class="nav-link dropdown-toggle"
+       <a class="nav-link font-weight-bold text-white dropdown-toggle"
           href="#"
           id="navbarGalleriesDropdown"
           role="button"
@@ -115,7 +115,7 @@
       </li>
       <!-- Take a Quiz dropdown menu toggle -->
       <li class="nav-item dropdown">
-       <a class="nav-link dropdown-toggle"
+       <a class="nav-link font-weight-bold text-white dropdown-toggle"
           href="#"
           id="navbarQuizzesDropdown"
           role="button"
@@ -136,7 +136,7 @@
       </li>
       <!-- Privacy and Terms dropdown menu toggle -->
       <li class="nav-item dropdown">
-       <a class="nav-link dropdown-toggle"
+       <a class="nav-link font-weight-bold text-white dropdown-toggle"
           href="#"
           id="navbarLegalDropdown"
           role="button"
@@ -169,52 +169,52 @@
       <li class="nav-item">
        <a href="https://www.facebook.com/tomwhartung/" target="_blank"
           title="Find me on facebook!" class="nav-link">
-        <i class="fab fa-facebook-f fa-lg text-dark"></i></a>
+        <i class="fab fa-facebook-f fa-lg text-white"></i></a>
       </li>
       <li class="nav-item">
        <a href="https://www.linkedin.com/in/tomhartung/detail/recent-activity/shares/"
           target="_blank" title="Find me on linkedin!" class="nav-link">
-        <i class="fab fa-linkedin-in fa-lg text-dark"></i></a>
+        <i class="fab fa-linkedin-in fa-lg text-white"></i></a>
       </li>
       <li class="nav-item">
        <a href="https://twitter.com/tomwhartung" target="_blank"
           title="Find me on twitter!" class="nav-link">
-        <i class="fab fa-twitter fa-lg text-dark"></i></a>
+        <i class="fab fa-twitter fa-lg text-white"></i></a>
       </li>
       <li class="nav-item">
        <a href="https://www.pinterest.com/tomwhartung/" target="_blank"
           title="Find me on pinterest!" class="nav-link">
-        <i class="fab fa-pinterest-p fa-lg text-dark"></i></a>
+        <i class="fab fa-pinterest-p fa-lg text-white"></i></a>
       </li>
       <li class="nav-item">
        <a href="https://tumblr.com/blog/tomwhartung" target="_blank"
           title="Find me on tumblr!" class="nav-link">
-        <i class="fab fa-tumblr fa-lg text-dark"></i></a>
+        <i class="fab fa-tumblr fa-lg text-white"></i></a>
       </li>
       <li class="nav-item">
        <a href="https://www.instagram.com/twhartung/" target="_blank"
           title="Find me on instagram!" class="nav-link">
-        <i class="fab fa-instagram fa-lg text-dark"></i></a>
+        <i class="fab fa-instagram fa-lg text-white"></i></a>
       </li>
       <li class="nav-item">
        <a href="https://www.reddit.com/user/tomwhartung" target="_blank"
           title="Find me on reddit!" class="nav-link">
-        <i class="fab fa-reddit-alien fa-lg text-dark"></i></a>
+        <i class="fab fa-reddit-alien fa-lg text-white"></i></a>
       </li>
       <li class="nav-item">
        <a href="https://medium.com/@tomwhartung" target="_blank"
           title="Find me on medium!" class="nav-link">
-        <i class="fab fa-medium-m fa-lg text-dark"></i></a>
+        <i class="fab fa-medium-m fa-lg text-white"></i></a>
       </li>
       <li class="nav-item">
        <a href="https://www.goodreads.com/user/show/75089145-tom-hartung"
           target="_blank" title="Find me on goodreads!" class="nav-link">
-        <i class="fab fa-goodreads-g fa-lg text-dark"></i></a>
+        <i class="fab fa-goodreads-g fa-lg text-white"></i></a>
       </li>
       <li class="nav-item">
        <a href="https://github.com/tomwhartung" target="_blank"
           title="Find me on github!" class="nav-link">
-        <i class="fab fa-github-alt fa-lg text-dark"></i></a>
+        <i class="fab fa-github-alt fa-lg text-white"></i></a>
       </li>
      </ul><!-- .ml-auto - Close Social Networking Icons -->
     </div><!-- .navbar-collapse - Close Collapsible wrapper -->
@@ -227,30 +227,30 @@
 {% endblock %}
 
 {% block footer %}
- <footer class="page-footer font-small red darken-3">
+ <footer class="page-footer font-small bg-danger text-white">
   <div class="footer-copyright p-3">
    <div class="text-center">
     Copyright &copy; 2016&ndash;2019
-     <a href="http://www.TomWHartung.com" class="footer"
+     <a href="http://www.TomWHartung.com" class="footer text-light text-decoration-underline"
         title="TomWHartung.com home page" target="_blank">
       Tom W. Hartung</a> and
-     <a href="https://JooMooWebSites.com" class="footer"
+     <a href="https://JooMooWebSites.com" class="footer text-light text-decoration-underline"
         title="JooMoo WebSites.com home page" target="_blank">
       JooMoo WebSites LLC</a>.
     All Rights Reserved.
    </div><!-- .text-center -->
    <div class="text-center py-1">
     <b>Your use of this site implies you consent to our
-     <a href="/legal/terms_of_service" class="footer"
+     <a href="/legal/terms_of_service" class="footer text-light text-decoration-underline"
         title="Terms of Service for this site">
       Terms of Service</a> and
-     <a href="/legal/privacy_policy" class="footer"
+     <a href="/legal/privacy_policy" class="footer text-light text-decoration-underline"
         title="Privacy Policy for this site">
       Privacy Policy</a>.</b>
    </div><!-- .text-center -->
    <div class="text-center py-1">
     This site 100% designed, created, and maintained by
-     <a href="https://JooMooWebSites.com" class="footer"
+     <a href="https://JooMooWebSites.com" class="footer text-light text-decoration-underline"
         title="JooMooWebSites.com home page" target="_blank">
       JooMoo WebSites LLC</a>.
    </div><!-- .text-center -->
