@@ -62,52 +62,54 @@
         {% block middle_content_small_square_ad %}{{ block.super }}{% endblock %}
       {% else %}
        <div class="col-sm-12 col-md-6 col-lg-4">
-        <div class="card hoverable m-1 m-lg-2 p-1 p-lg-3">
-         <div class="card-body">
-          <h2 class="card-title h2-responsive font-weight-bold text-center">
-           {{ image_dict.title }}</h4>
-          <p class="card-text text-center">
-           <a href="{{ image_dict.image_link_href }}"
-              title="{{ image_dict.image_link_title }}"
-              onclick="send_ga_event_with_value_1('Image', 'See Image Page', '{{ image_dict.title }}');">
-            <img src="{% static image_dict.image_file_path %}"
-                 class="img-fluid hoverable">
-           </a>
-           {% if image_dict.fixed_percentages %}
-            <p class="card-text text-center">
-             Image Based on Four-Letter Type
-            </p><!-- .card-text -->
-           {% endif %}
-           {% if image_dict.subtitle_html %}
-            <h5 class="text-center">
-             <em>{{ image_dict.subtitle_html | safe }}</em></h5>
-           {% endif %}
-           {% if image_dict.gallery_page_teaser %}
-            {% spaceless %}
-             <p class="card-text"
-                id="{{ image_dict.id }}-gpt-intro">
-              {{ image_dict.gallery_page_teaser_intro }}<span class="gallery-page-text-remainder"
-                 id="{{ image_dict.id }}-gpt-remainder">{{ image_dict.gallery_page_teaser_remainder }}
-              </span>
-              <a class="{{ image_dict.id }}-gpt-link"
-                 id="{{ image_dict.id }}-gpt-more">.... [More]</a>
-              <a class="gallery-page-less-link {{ image_dict.id }}-gpt-link"
-                 id="{{ image_dict.id }}-gpt-less"> [Less]</a>
-             </p>
-            {% endspaceless %}
-           {% endif %}
+        <div class="card hover-shadow m-1 m-lg-2">
+         <div class="shadow-1-strong p-1 p-lg-3">
+          <div class="card-body">
+           <h2 class="card-title h2-responsive font-weight-bold text-center">
+            {{ image_dict.title }}</h4>
            <p class="card-text text-center">
-            <a class="btn btn-mdb-color" role="button"
-               href="{{ image_dict.image_link_href }}"
-               title="{{ image_dict.image_link_title }}">
-             See the Image</a></p>
-           {% if image_dict.score %}
-            <div class="score-svg" id="score-bars-{{ image_dict.id }}">
-            </div><!-- #score-bars-{{ image_dict.id }} -->
-           {% else %}
-            <p>{{ image_dict.four_letter_type }}</p>
-           {% endif %}
-         </div><!-- .card-body -->
+            <a href="{{ image_dict.image_link_href }}"
+               title="{{ image_dict.image_link_title }}"
+               onclick="send_ga_event_with_value_1('Image', 'See Image Page', '{{ image_dict.title }}');">
+             <img src="{% static image_dict.image_file_path %}"
+                  class="img-fluid hover-shadow">
+            </a>
+            {% if image_dict.fixed_percentages %}
+             <p class="card-text text-center">
+              Image Based on Four-Letter Type
+             </p><!-- .card-text -->
+            {% endif %}
+            {% if image_dict.subtitle_html %}
+             <h5 class="text-center">
+              <em>{{ image_dict.subtitle_html | safe }}</em></h5>
+            {% endif %}
+            {% if image_dict.gallery_page_teaser %}
+             {% spaceless %}
+              <p class="card-text"
+                 id="{{ image_dict.id }}-gpt-intro">
+               {{ image_dict.gallery_page_teaser_intro }}<span class="gallery-page-text-remainder"
+                  id="{{ image_dict.id }}-gpt-remainder">{{ image_dict.gallery_page_teaser_remainder }}
+               </span>
+               <a class="{{ image_dict.id }}-gpt-link"
+                  id="{{ image_dict.id }}-gpt-more">.... [More]</a>
+               <a class="gallery-page-less-link {{ image_dict.id }}-gpt-link"
+                  id="{{ image_dict.id }}-gpt-less"> [Less]</a>
+              </p>
+             {% endspaceless %}
+            {% endif %}
+            <p class="card-text text-center">
+             <a class="btn btn-mdb-color" role="button"
+                href="{{ image_dict.image_link_href }}"
+                title="{{ image_dict.image_link_title }}">
+              See the Image</a></p>
+            {% if image_dict.score %}
+             <div class="score-svg" id="score-bars-{{ image_dict.id }}">
+             </div><!-- #score-bars-{{ image_dict.id }} -->
+            {% else %}
+             <p>{{ image_dict.four_letter_type }}</p>
+            {% endif %}
+          </div><!-- .card-body -->
+         </div><!-- .shadow-* -->
         </div><!-- .card -->
        </div><!-- .col-* -->
       {% endif %}
