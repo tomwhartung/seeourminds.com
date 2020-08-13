@@ -4,37 +4,43 @@
 
 {% block gallery_title_row %}
     <div class="row justify-content-center">
-     <div class="col-md-8 hoverable m-2">
-      <h1 class="display-4 font-weight-bold text-center">
-       {{ gallery_dict.gallery_title }}
-      </h1>
+     <div class="col-md-8">
+      <div class="shadow-1-strong">
+       <h1 class="display-4 font-weight-bold text-center hover-shadow p-2">
+        {{ gallery_dict.gallery_title }}
+       </h1>
+      </div><!-- .shadow-* -->
      </div><!-- .col-md-8 -->
     </div><!-- .row -->
 {% endblock %}
 {% block gallery_top_row %}
     <div class="row align-items-center justify-content-center">
      <div class="col-md-8 col-lg-7 col-xl-6">
-      <div class="card hoverable m-2">
-       <div class="card-body px-4">
-        {{ gallery_dict.description_html | safe }}
-        {% if gallery_dict.story_html %}
-         <div class="text-center">
-           <a class="btn btn-success btn-md som-btn-all" id="toggle-story-html"
-             title="Show the story behind these images">See the Story</a>
-         </div><!-- .text-center -->
-         <div id="story-html" class="som-text-to-toggle mt-3">
-           {{ gallery_dict.story_html | safe }}
-         </div><!-- #story-html -->
-        {% endif %}
-       </div><!-- .card-body -->
+      <div class="card hover-shadow m-2">
+       <div class="shadow-1-strong">
+        <div class="card-body px-4">
+         {{ gallery_dict.description_html | safe }}
+         {% if gallery_dict.story_html %}
+          <div class="text-center">
+            <a class="btn btn-success btn-md som-btn-all" id="toggle-story-html"
+              title="Show the story behind these images">See the Story</a>
+          </div><!-- .text-center -->
+          <div id="story-html" class="som-text-to-toggle mt-3">
+            {{ gallery_dict.story_html | safe }}
+          </div><!-- #story-html -->
+         {% endif %}
+        </div><!-- .card-body -->
+       </div><!-- .shadow-*  -->
       </div><!-- .card -->
      </div><!-- .col-* -->
     {% if gallery_dict.affiliate_ad_html %}
      <div class="col-md-4 col-lg-3">
-      <div class="card hoverable m-2">
-       <div class="card-body">
-        {{ gallery_dict.affiliate_ad_html | safe }}
-       </div><!-- .card-body -->
+      <div class="card hover-shadow m-2">
+       <div class="shadow-1-strong">
+        <div class="card-body">
+         {{ gallery_dict.affiliate_ad_html | safe }}
+        </div><!-- .card-body -->
+       </div><!-- .shadow-* -->
       </div><!-- .card -->
      </div><!-- .col-* -->
     {% endif %}
