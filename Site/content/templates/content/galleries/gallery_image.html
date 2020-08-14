@@ -76,12 +76,12 @@
           </p>
           {% if image_dict.explain_dom  %}
            <p id="explain-dom"
-              class="text-left hoverable mx-2 mx-lg-5 my-1 px-2 px-lg-5 py-3 som-text-to-toggle">
+              class="text-left hover-shadow mx-2 mx-lg-5 my-1 px-2 px-md-3 px-lg-5 py-3 som-text-to-toggle">
             {{ image_dict.explain_dom }}</p>
           {% endif %}
           {% if image_dict.explain_aux %}
            <p id="explain-aux"
-              class="text-left hoverable mx-2 mx-lg-5 5 my-1 px-2 px-lg-5 py-3 som-text-to-toggle">
+              class="text-left hover-shadow mx-2 mx-lg-5 5 my-1 px-2 px-md-3 px-lg-5 py-3 som-text-to-toggle">
             {{ image_dict.explain_aux }}</p>
           {% endif %}
          {% endif %}
@@ -127,36 +127,38 @@
     <a name="score"></a>
     <div class="row align-items-center justify-content-center">
      <div class="col-md-11 col-lg-8 col-xl-7">
-      <div class="card hoverable m-2">
-       <div class="card-body">
-        <p class="text-center">
-         <a href="https://en.wikipedia.org/wiki/{{ image_dict.four_letter_type }}"
-            title="Click to open the wikipedia page for {{ image_dict.four_letter_type }}s in a new window"
-            target="_blank">
-          {% if image_dict.score %}
-           <div class="score-svg" id="score-bars"></div><!-- #score-bars -->
-          {% else %}
-           {{ image_dict.four_letter_type }}
-          {% endif %}
-         </a>
-        </p>
-        {% if image_dict.compare_to or image_dict.contrast_with %}
+      <div class="card hover-shadow m-2">
+       <div class="shadow-1-strong">
+        <div class="card-body">
          <p class="text-center">
-          {% if image_dict.compare_to_path  %}
-           <a class="btn btn-mdb-color btn-md"
-              href="{{ image_dict.compare_to_path }}"
-              title="Click to see the image of someone with a similar personality">
-            Compare to Image of <q>{{ image_dict.compare_to_title }}</q></a>
-          {% endif %}
-          {% if image_dict.contrast_with %}
-           <a class="btn btn-mdb-color btn-md"
-              href="{{ image_dict.contrast_with_path }}"
-              title="Click to see the image of someone with a very different personality">
-            Contrast With Image of <q>{{ image_dict.contrast_with_title }}</q></a>
-          {% endif %}
+          <a href="https://en.wikipedia.org/wiki/{{ image_dict.four_letter_type }}"
+             title="Click to open the wikipedia page for {{ image_dict.four_letter_type }}s in a new window"
+             target="_blank">
+           {% if image_dict.score %}
+            <div class="score-svg" id="score-bars"></div><!-- #score-bars -->
+           {% else %}
+            {{ image_dict.four_letter_type }}
+           {% endif %}
+          </a>
          </p>
-        {% endif %}
-       </div><!-- .card-body -->
+         {% if image_dict.compare_to or image_dict.contrast_with %}
+          <p class="text-center">
+           {% if image_dict.compare_to_path  %}
+            <a class="btn btn-mdb-color btn-md"
+               href="{{ image_dict.compare_to_path }}"
+               title="Click to see the image of someone with a similar personality">
+             Compare to Image of <q>{{ image_dict.compare_to_title }}</q></a>
+           {% endif %}
+           {% if image_dict.contrast_with %}
+            <a class="btn btn-mdb-color btn-md"
+               href="{{ image_dict.contrast_with_path }}"
+               title="Click to see the image of someone with a very different personality">
+             Contrast With Image of <q>{{ image_dict.contrast_with_title }}</q></a>
+           {% endif %}
+          </p>
+         {% endif %}
+        </div><!-- .card-body -->
+       </div><!-- .shadow-* -->
       </div><!-- .card -->
      </div><!-- .col-* -->
     </div><!-- .row -->
