@@ -130,19 +130,22 @@
       <div class="card hover-shadow m-2">
        <div class="shadow-1-strong">
         <div class="card-body">
-         <p class="text-center">
-          <a href="https://en.wikipedia.org/wiki/{{ image_dict.four_letter_type }}"
-             title="Click to open the wikipedia page for {{ image_dict.four_letter_type }}s in a new window"
-             target="_blank">
-           {% if image_dict.score %}
-            <div class="score-svg" id="score-bars"></div><!-- #score-bars -->
-           {% else %}
+         {% if image_dict.score %}
+          <div class="score-svg" id="score-bars"></div><!-- #score-bars -->
+          <h2 class="font-italic text-decoration-underline text-center">
+           <a href="https://en.wikipedia.org/wiki/{{ image_dict.four_letter_type }}"
+              title="Click to open the wikipedia page for {{ image_dict.four_letter_type }}s in a new window"
+              target="_blank">
             {{ image_dict.four_letter_type }}
-           {% endif %}
-          </a>
-         </p>
+           </a>
+          </h2>
+         {% else %}
+          <h1 class="text-center">
+           {{ image_dict.four_letter_type }}
+          </h1>
+         {% endif %}
          {% if image_dict.compare_to or image_dict.contrast_with %}
-          <p class="text-center">
+          <p class="text-center mt-3">
            {% if image_dict.compare_to_path  %}
             <a class="btn btn-mdb-color btn-md"
                href="{{ image_dict.compare_to_path }}"
