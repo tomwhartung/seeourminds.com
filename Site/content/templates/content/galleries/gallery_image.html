@@ -181,64 +181,66 @@
    {% endif %}
     <div class="row align-items-center justify-content-center">
      <div class="col-sm-11 col-md-10 col-lg-9 col-xl-8">
-      <div class="card hoverable m-1 p-1 m-sm-2 p-sm-2 m-lg-3 p-lg-3">
-       <div class="card-body mx-1 mx-sm-3 mx-lg-5">
-        {% if image_dict.has_story %}
-         <h2 class="font-weight-bold text-center">
-          {{ image_dict.title }}:<br>
-          The Story
-         </h2>
-         {% if image_dict.story_template %}
-          {% include image_dict.story_template %}
-         {% elif image_dict.story_html %}
-          {{ image_dict.story_html | safe }}
+      <div class="card hover-shadow m-1 m-sm-2 m-lg-3">
+       <div class="card shadow-1-strong">
+        <div class="card-body mx-1 mx-sm-3 mx-lg-5">
+         {% if image_dict.has_story %}
+          <h2 class="font-weight-bold text-center">
+           {{ image_dict.title }}:<br>
+           The Story
+          </h2>
+          {% if image_dict.story_template %}
+           {% include image_dict.story_template %}
+          {% elif image_dict.story_html %}
+           {{ image_dict.story_html | safe }}
+          {% endif %}
+         {% else %}
+          <h2 class="font-weight-bold hover-shadow text-center">
+           <i class="fa fa-pencil" aria-hidden="true"></i><br>
+           Sorry, No Story Yet!</h2>
+           <p class="hover-shadow p-2">
+            It takes a long time to write a good story, and we haven't yet found
+             time to write one for this image.
+            Rest assured, though &mdash; we're on it!
+           </p>
+           <ul class="list-group hover-shadow mb-3">
+            <li class="list-group-item">
+             For the highlights and insights from SeeOurMinds.com, visit
+              <a href="https://www.ArtsyVisions.com" target="_blank"
+                 title="Home page of ArtsyVisions.com">www.ArtsyVisions.com</a>
+            </li>
+            <li class="list-group-item">
+             To learn all about spiritual portraits or <q><u>GROJAs,</u></q> visit
+              <a href="https://www.groja.com/about" target="_blank"
+                 title="About page at groja.com">www.Groja.com/About</a>
+            </li>
+            <li class="list-group-item">
+             Find out about special offers and fresh content by subscribing to the
+              <a href="https://www.Groja.com/conversion/avmn" target="_blank"
+                 title="Page allowing you to sign up for the Artsy Visions Monthly Newsletter">
+               Artsy Visions Monthly Newsletter</a><sup>&ast;</sup>
+            </li>
+           </ul>
+           <p class="hover-shadow font-weight-bold text-center py-2">
+            Thanks for being a fan!
+           </p>
+           <p class="hover-shadow p-2">
+            <small>
+             <sup>&ast;</sup>&nbsp;
+             The Artsy Visions Monthly Newsletter includes updates for
+              <a href="/" title="Home page of SeeOurMinds.com">
+               SeeOurMinds.com</a>,
+              <a href="https://ArtsyVisions.com"
+                 title="ArtsyVisions.com home page" target="_blank">
+               ArtsyVisions.com</a>, and
+              <a href="http://www.Groja.com"
+                 title="Groja.com home page" target="_blank">
+               Groja.com</a>.
+            </small>
+           </p>
          {% endif %}
-        {% else %}
-         <h2 class="font-weight-bold hover-shadow text-center">
-          <i class="fa fa-pencil" aria-hidden="true"></i><br>
-          Sorry, No Story Yet!</h2>
-          <p class="hover-shadow p-2">
-           It takes a long time to write a good story, and we haven't yet found
-            time to write one for this image.
-           Rest assured, though &mdash; we're on it!
-          </p>
-          <ul class="list-group hover-shadow mb-3">
-           <li class="list-group-item">
-            For the highlights and insights from SeeOurMinds.com, visit
-             <a href="https://www.ArtsyVisions.com" target="_blank"
-                title="Home page of ArtsyVisions.com">www.ArtsyVisions.com</a>
-           </li>
-           <li class="list-group-item">
-            To learn all about spiritual portraits or <q><u>GROJAs,</u></q> visit
-             <a href="https://www.groja.com/about" target="_blank"
-                title="About page at groja.com">www.Groja.com/About</a>
-           </li>
-           <li class="list-group-item">
-            Find out about special offers and fresh content by subscribing to the
-             <a href="https://www.Groja.com/conversion/avmn" target="_blank"
-                title="Page allowing you to sign up for the Artsy Visions Monthly Newsletter">
-              Artsy Visions Monthly Newsletter</a><sup>&ast;</sup>
-           </li>
-          </ul>
-          <p class="hover-shadow font-weight-bold text-center py-2">
-           Thanks for being a fan!
-          </p>
-          <p class="hover-shadow p-2">
-           <small>
-            <sup>&ast;</sup>&nbsp;
-            The Artsy Visions Monthly Newsletter includes updates for
-             <a href="/" title="Home page of SeeOurMinds.com">
-              SeeOurMinds.com</a>,
-             <a href="https://ArtsyVisions.com"
-                title="ArtsyVisions.com home page" target="_blank">
-              ArtsyVisions.com</a>, and
-             <a href="http://www.Groja.com"
-                title="Groja.com home page" target="_blank">
-              Groja.com</a>.
-           </small>
-          </p>
-        {% endif %}
-       </div><!-- .card-body -->
+        </div><!-- .card-body -->
+       </div><!-- .shadow-* -->
       </div><!-- .card -->
      </div><!-- .col-* -->
     </div><!-- .row -->
