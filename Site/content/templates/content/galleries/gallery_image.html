@@ -5,23 +5,25 @@
 {% block gallery_title_row %}
     <div class="row justify-content-center m-y-0 p-y-0">
      <div class="col-md-10 col-lg-9 col-xl-8">
-      <div class="card hoverable m-2">
-       <div class="card-body">
-        <div class="row justify-content-around m-y-0 p-y-0">
-         <div class="col-md-10 col-lg-9 col-xl-8">
-          <h1 class="display-4 font-weight-bold text-center">
-           <u>{{ image_dict.title }}</u></h1>
-         </div><!-- .col-* -->
-         <div class="col-sm-4 col-md-2 m-y-0 p-y-0">
-          <p class="text-center">
-           <a class="btn btn-danger btn-sm"
-              href="{{ back_to_gallery_href }}"
-              title="Go Back to the Gallery containing this image">
-            Back</a>
-          </p>
-         </div><!-- .col-* -->
-        </div><!-- .row -->
-       </div><!-- .card-body -->
+      <div class="card hover-shadow m-2">
+       <div class="shadow-1-strong">
+        <div class="card-body">
+         <div class="row justify-content-around m-y-0 p-y-0">
+          <div class="col-md-10 col-lg-9 col-xl-8">
+           <h1 class="display-4 font-weight-bold text-center">
+            <u>{{ image_dict.title }}</u></h1>
+          </div><!-- .col-* -->
+          <div class="col-sm-4 col-md-2 m-y-0 p-y-0">
+           <p class="text-center">
+            <a class="btn btn-danger btn-sm"
+               href="{{ back_to_gallery_href }}"
+               title="Go Back to the Gallery containing this image">
+             Back</a>
+           </p>
+          </div><!-- .col-* -->
+         </div><!-- .row -->
+        </div><!-- .card-body -->
+       </div><!-- .shadow-* -->
       </div><!-- .card -->
      </div><!-- .col-* -->
     </div><!-- .row -->
@@ -29,23 +31,25 @@
 {% block gallery_top_row %}
     <div class="row align-items-center justify-content-center">
      <div class="col-md-10 col-lg-9 col-xl-8">
-      <div class="card hoverable m-2">
-       <div class="card-body">
-        <p class="text-center">
-         <img class="img-fluid hoverable"
-              src="{% static image_dict.path %}">
-        </p>
-        {% if image_dict.fixed_percentages %}
-         <p class="card-text red-text text-center">
-          <em><u>Image Is Based on a Four-Letter Type (Fixed Percentages)</u></em>
+      <div class="card hover-shadow m-2">
+       <div class="shadow-1-strong">
+        <div class="card-body m-md-3">
+         <p class="text-center">
+          <img class="img-fluid hover-shadow"
+               src="{% static image_dict.path %}">
          </p>
-        {% endif %}
-        {% if image_dict.year  %}
-         <p class="card-text text-right">
-          [&copy;&nbsp;{{ image_dict.year }}]
-         </p>
-        {% endif %}
-       </div><!-- .card-body -->
+         {% if image_dict.fixed_percentages %}
+          <p class="card-text red-text text-center">
+           <em><u>Image Is Based on a Four-Letter Type (Fixed Percentages)</u></em>
+          </p>
+         {% endif %}
+         {% if image_dict.year  %}
+          <p class="card-text text-right">
+           [&copy;&nbsp;{{ image_dict.year }}]
+          </p>
+         {% endif %}
+        </div><!-- .card-body -->
+       </div><!-- .shadow-* -->
       </div><!-- .card -->
      </div><!-- .col-* -->
     </div><!-- .row -->
