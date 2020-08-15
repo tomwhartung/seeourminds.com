@@ -3,111 +3,117 @@
 {% block quiz_content %}
 <div class="row align-items-top justify-content-center">
  <div class="col-md-9">
-  <div class="card hoverable m-2">
-   <div class="card-body">
-    <h2 class="card-title h2-responsive font-weight-bold text-center">
-     The SeeOurMinds.com Quiz
-      {% if quiz_info.quiz_size_abbr %}
-        ({{ quiz_info.quiz_size_abbr }})
-      {% endif %}</h2>
-    <p class="card-text">
-     The <span class="air-quotes">{{ quiz_info.size_text }}</span>
-      version contains {{ quiz_info.question_count }} questions.</p>
-    <ul class="list-group mb-3">
-     {% if quiz_info.quiz_size_slug == 'tiny' %}
-      <li class="list-group-item">
-       This version is strictly for testing!!</li>
-     {% else %}
-      <li class="list-group-item">
-       {% if quiz_info.quiz_size_slug == 'xx-large' %}
-         This is the longest version currently available.
-       {% else %}
-         For more questions, pick a larger quiz.
-       {% endif %}
-      </li>
-      <li class="list-group-item">
-       {% if quiz_info.quiz_size_slug == 'xx-small' %}
-         This is the shortest version currently available.
-       {% else %}
-         For fewer questions, pick a smaller quiz.
-       {% endif %}
-      </li>
-      <li class="list-group-item">
-       This quiz is a
-        <a href="#disclaimer">
-         <span class="air-quotes">work in progress!</span></a>
-      </li>
-     {% endif %}
-    </ul>
-    <p class="card-text">
-     There are
-      <a href="http://www.myersbriggs.org/my-mbti-personality-type/take-the-mbti-instrument/no-right-or-wrong-answers.htm"
-         title="Article on myersbriggs.org about how this sort of questionnaire is not concerned with right or wrong"
-         target="_blank">no right-or-wrong answers</a>,
-     just
-      <a href="http://www.wikihow.com/Be-Yourself"
-         title="A very cute illustrated article, literally about how to be yourself, on wikihow.com"
-         target="_blank">be yourself</a>.</p>
-   </div><!-- .card-body -->
+  <div class="card hover-shadow m-2">
+   <div class="shadow-1-strong">
+    <div class="card-body">
+     <h2 class="card-title h2-responsive font-weight-bold text-center">
+      The SeeOurMinds.com Quiz
+       {% if quiz_info.quiz_size_abbr %}
+         ({{ quiz_info.quiz_size_abbr }})
+       {% endif %}</h2>
+     <p class="card-text">
+      The <span class="air-quotes">{{ quiz_info.size_text }}</span>
+       version contains {{ quiz_info.question_count }} questions.</p>
+     <ul class="list-group mb-3">
+      {% if quiz_info.quiz_size_slug == 'tiny' %}
+       <li class="list-group-item">
+        This version is strictly for testing!!</li>
+      {% else %}
+       <li class="list-group-item">
+        {% if quiz_info.quiz_size_slug == 'xx-large' %}
+          This is the longest version currently available.
+        {% else %}
+          For more questions, pick a larger quiz.
+        {% endif %}
+       </li>
+       <li class="list-group-item">
+        {% if quiz_info.quiz_size_slug == 'xx-small' %}
+          This is the shortest version currently available.
+        {% else %}
+          For fewer questions, pick a smaller quiz.
+        {% endif %}
+       </li>
+       <li class="list-group-item">
+        This quiz is a
+         <a href="#disclaimer">
+          <span class="air-quotes">work in progress!</span></a>
+       </li>
+      {% endif %}
+     </ul>
+     <p class="card-text">
+      There are
+       <a href="http://www.myersbriggs.org/my-mbti-personality-type/take-the-mbti-instrument/no-right-or-wrong-answers.htm"
+          title="Article on myersbriggs.org about how this sort of questionnaire is not concerned with right or wrong"
+          target="_blank">no right-or-wrong answers</a>,
+      just
+       <a href="http://www.wikihow.com/Be-Yourself"
+          title="A very cute illustrated article, literally about how to be yourself, on wikihow.com"
+          target="_blank">be yourself</a>.</p>
+    </div><!-- .card-body -->
+   </div><!-- .shadow-* -->
   </div><!-- .card -->
  </div><!-- .col-md-9 -->
 </div><!-- .row -->
 {% if messages %}
  <div class="row justify-content-center">
   <div class="col-md-12">
-   <div class="card hoverable m-2">
-    <div class="card-body">
-     <ul class="quiz-error list-group mb-3">
-      {% for message in messages %}
-       <li class="list-group-item {{ message.tags }} text-center">
-        {{ message|safe }}</li>
-      {% endfor %}
-     </ul>
-    </div><!-- .card-body -->
+   <div class="card hover-shadow m-2">
+    <div class="shadow-1-strong">
+     <div class="card-body">
+      <ul class="quiz-error list-group mb-3">
+       {% for message in messages %}
+        <li class="list-group-item {{ message.tags }} text-center">
+         {{ message|safe }}</li>
+       {% endfor %}
+      </ul>
+     </div><!-- .card-body -->
+    </div><!-- .shadow-* -->
    </div><!-- .card -->
   </div><!-- .col-md-12 -->
  </div><!-- .row -->
 {% endif %}
 <div class="row align-items-top justify-content-center">
  <div class="col-md-9">
-  <div class="card hoverable m-2">
-   <div class="card-body">
-    <p class="card-text">
-     <em><u>Optional:</u></em>
-    </p>
-    <form action="" method="POST">
-     {% csrf_token %}
-     {% for field in quiz_form %}
-      <div class="fieldWrapper">
-       {% if field.errors %}
-        {{ field.errors }}
-       {% endif %}
-       {{ field.label_tag }} {{ field }}
-       {% if field.help_text %}
-        <p class="card-text font-weight-bold mt-2 mb-4 ml-5">
-         <em>{{ field.help_text|safe }}</em></p>
-       {% endif %}
-       {% if field.label == 'Email' %}
-        <p class="card-text text-center">
-         <input type="submit" name="load-answers" class="btn btn-info"
-                id="load-answers" value="Load Saved Answers"></input>
-        </p>
-        <a name="error-messages"></a>
-       {% endif %}
-      </div><!-- .fieldWrapper -->
-      {% if field.label == 'Email' %}
-       <hr />
-       <p class="card-text">
-        <em><u>Required:</u></em></p>
-      {% endif %}
-     {% endfor %}
-     <p class="card-text text-center">
-      <input type="submit" class="btn btn-primary btn-lg"
-             id="score-questionnaire" value="Score Questionnaire"
-             onclick="send_ga_event_with_value_1('Complete Quiz', 'Complete Quiz Version', '{{ quiz_info.quiz_size_abbr }}');"></input>
+  <div class="card hover-shadow m-2">
+   <div class="shadow-1-strong">
+    <div class="card-body">
+     <p class="card-text">
+      <em><u>Optional:</u></em>
      </p>
-    </form>
-   </div><!-- .card-body -->
+     <form action="" method="POST">
+      {% csrf_token %}
+      {% for field in quiz_form %}
+       <div class="fieldWrapper">
+        {% if field.errors %}
+         {{ field.errors }}
+        {% endif %}
+        {{ field.label_tag }} {{ field }}
+        {% if field.help_text %}
+         <p class="card-text font-weight-bold mt-2 mb-4 ml-5">
+          <em>{{ field.help_text|safe }}</em></p>
+        {% endif %}
+        {% if field.label == 'Email' %}
+         <p class="card-text text-center">
+          <input type="submit" name="load-answers" class="btn btn-info"
+                 id="load-answers" value="Load Saved Answers"></input>
+         </p>
+         <a name="error-messages"></a>
+        {% endif %}
+       </div><!-- .fieldWrapper -->
+       {% if field.label == 'Email' %}
+        <hr />
+        <p class="card-text">
+         <em><u>Required:</u></em></p>
+       {% endif %}
+      {% endfor %}
+      <p class="card-text text-center">
+       <input type="submit" class="btn btn-primary btn-lg"
+              id="score-questionnaire" value="Score Questionnaire"
+              onclick="send_ga_event_with_value_1('Complete Quiz', 'Complete Quiz Version', '{{ quiz_info.quiz_size_abbr }}');"></input>
+      </p>
+     </form>
+    </div><!-- .card-body -->
+   </div><!-- .shadow-* -->
   </div><!-- .card -->
  </div><!-- .col-md-9 -->
 </div><!-- .row -->
