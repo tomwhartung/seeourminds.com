@@ -3,71 +3,77 @@
 {% block content %}
 <main class="mt-3">
  <div class="container-fluid">
-  <div class="z-depth-1-half mt-5 mb-5 pt-5 pb-5">
-   <div class="row justify-content-center">
-    <div class="col-md-9 hoverable m-2">
-     <h1 class="display-4 font-weight-bold text-center">
-      The SeeOurMinds Quiz</h1>
-    </div><!-- .col-md-9 -->
-   </div><!-- .row -->
-   {% block quiz_content %}
-   {% endblock %}
-   <a name="disclaimer"></a>
-   <div class="row align-items-center justify-content-center">
-    <div class="col-md-11">
-     <div class="card hoverable m-2">
-      <div class="card-body">
-       <h3 class="card-title h3-responsive font-weight-bold text-center">
-        Disclaimer, Features, the Future, and Your Feedback</h3>
-       <p class="card-text">
-        This questionnaire is a work in progress.
-        We cannot guarantee it gives accurate results, but
-         we have done everything possible to ensure it does</p>
-       <p class="card-text">
-        For a more detailed discussion about the accuracy of this and
-         similar questionnaires, see our
-         <a href="/legal/questionnaire_disclaimer"
-            title="SeeOurMinds.com Questionnaire Disclaimer" target="_blank">
-          Questionnaire Disclaimer</a>.
-       <h4 class="h4-responsive">Features</h4>
-       <p class="card-text">
-         This questionnaire is a little different from most of the others.
-         Note that it allows you to:</p>
-       <ul class="list-group mb-3">
-        <li class="list-group-item">
-          Answer a varying number of questions.</li>
-        <li class="list-group-item">
-          Pick from a varying number of options
-          (rather than just one of two either/or options).
-        </li>
-        <li class="list-group-item">
-          Opt-out of answering some of the more experimental (fun) questions that
-          appear towards the end, in the longer versions.
-        </li>
-       </ul>
-       <p class="card-text">
-        Thank you for your willingness to give it a try!</p>
-       <h4 class="h4-responsive">Coming Soon: Google Voice Version!</h4>
-       <p class="card-text">
-        We have worked a bit with the Google assistant, and plan to
-         create a voice version for the questionnaire soon.
-        To be the first to learn when this goes live, subscribe to the
-         <a href="https://www.groja.com/conversion/avmn" target="_blank"
-            title="Visit a page where you can subscribe to the Artsy Visions Monthly Newsletter">
-          Artsy Visions Monthly Newsletter</a>.
-       </p>
-       <h4 class="h4-responsive">Your Feedback</h4>
-       <p class="card-text">
-        We are always looking for ways to improve this questionnaire.
-        If you have some suggestions, questions, or concerns about it, please
-         <a href="/legal/questionnaire_disclaimer#contact-us"
-            title="SeeOurMinds.com Questionnaire Disclaimer" target="_blank">
-          contact us</a>.</p>
-      </div><!-- .card-body -->
-     </div><!-- .card -->
-    </div><!-- .col-md-11 -->
-   </div><!-- .row -->
-  </div><!-- .z-depth-1-half -->
+  <div class="row mx-1 mx-md-2 mx-lg-4 my-2 my-md-3 my-lg-4 py-5">
+   <div class="my-1 my-md-2 my-lg-3">
+    <div class="shadow-1-strong">
+     <div class="hover-shadow mt-5 mb-5 pt-5 pb-5">
+      <div class="row justify-content-center">
+       <div class="col-md-9 hoverable m-2">
+        <h1 class="display-4 font-weight-bold text-center">
+         The SeeOurMinds Quiz</h1>
+       </div><!-- .col-md-9 -->
+      </div><!-- .row -->
+      {% block quiz_content %}
+      {% endblock %}
+      <a name="disclaimer"></a>
+      <div class="row align-items-center justify-content-center">
+       <div class="col-md-11">
+        <div class="card hoverable m-2">
+         <div class="card-body">
+          <h3 class="card-title h3-responsive font-weight-bold text-center">
+           Disclaimer, Features, the Future, and Your Feedback</h3>
+          <p class="card-text">
+           This questionnaire is a work in progress.
+           We cannot guarantee it gives accurate results, but
+            we have done everything possible to ensure it does</p>
+          <p class="card-text">
+           For a more detailed discussion about the accuracy of this and
+            similar questionnaires, see our
+            <a href="/legal/questionnaire_disclaimer"
+               title="SeeOurMinds.com Questionnaire Disclaimer" target="_blank">
+             Questionnaire Disclaimer</a>.
+          <h4 class="h4-responsive">Features</h4>
+          <p class="card-text">
+            This questionnaire is a little different from most of the others.
+            Note that it allows you to:</p>
+          <ul class="list-group mb-3">
+           <li class="list-group-item">
+             Answer a varying number of questions.</li>
+           <li class="list-group-item">
+             Pick from a varying number of options
+             (rather than just one of two either/or options).
+           </li>
+           <li class="list-group-item">
+             Opt-out of answering some of the more experimental (fun) questions that
+             appear towards the end, in the longer versions.
+           </li>
+          </ul>
+          <p class="card-text">
+           Thank you for your willingness to give it a try!</p>
+          <h4 class="h4-responsive">Coming Soon: Google Voice Version!</h4>
+          <p class="card-text">
+           We have worked a bit with the Google assistant, and plan to
+            create a voice version for the questionnaire soon.
+           To be the first to learn when this goes live, subscribe to the
+            <a href="https://www.groja.com/conversion/avmn" target="_blank"
+               title="Visit a page where you can subscribe to the Artsy Visions Monthly Newsletter">
+             Artsy Visions Monthly Newsletter</a>.
+          </p>
+          <h4 class="h4-responsive">Your Feedback</h4>
+          <p class="card-text">
+           We are always looking for ways to improve this questionnaire.
+           If you have some suggestions, questions, or concerns about it, please
+            <a href="/legal/questionnaire_disclaimer#contact-us"
+               title="SeeOurMinds.com Questionnaire Disclaimer" target="_blank">
+             contact us</a>.</p>
+         </div><!-- .card-body -->
+        </div><!-- .card -->
+       </div><!-- .col-md-11 -->
+      </div><!-- .row -->
+     </div><!-- .hover-shadow -->
+    </div><!-- .shadow-* -->
+   </div><!-- .my-* -->
+  </div><!-- .row -->
  </div><!-- .container -->
 </main>
 {% endblock %}
