@@ -48,7 +48,11 @@ class QuestionnaireForm(forms.Form):
         help_text='Sharing your name allows us to get to know you better.',
         max_length=50,
         required=False)
-    email = forms.EmailField(
-        help_text='Enter your email address to save new or retrieve existing ' +
-            'answers. (This will NOT subscribe you to our newsletter.)',
-        required=False)
+    ###
+    ### 2020-08-16:
+    ### Removing email field from form to disallow saving results on the server.
+    ###
+    ### email = forms.EmailField(
+    ###     help_text='Enter your email address to save new or retrieve existing ' +
+    ###         'answers. (This will NOT subscribe you to our newsletter.)',
+    ###     required=False)
