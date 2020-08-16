@@ -295,6 +295,11 @@ def quiz_form(request, quiz_size_slug=Questionnaire.DEFAULT_QUIZ_SIZE_SLUG):
     quiz_form = None
     if request.method == 'POST':
         # print('views.quiz_form() - request.POST:', request.POST)
+        try:
+            name = request.POST["name"]
+        except:
+            name = ''
+        # print('views.quiz_form() - name:', name)
         #
         # BEGIN CRUFT ALERT!!
         #   2020-08-16: Disabling option to save results on server
@@ -344,6 +349,7 @@ def quiz_form(request, quiz_size_slug=Questionnaire.DEFAULT_QUIZ_SIZE_SLUG):
                         'score': score_for_context,
                         'fixed_top': "",
                         'include_logo': True,
+                        'name': name,
                         'navbar_color': 'red darken-3',
                         'quiz_menu_data': quiz_menu_data,
                         'title': title,
