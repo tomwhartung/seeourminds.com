@@ -1,0 +1,44 @@
+{% extends 'content/base.html' %}
+
+{% block content %}
+<main class="mt-5">
+ <div class="container-fluid mt-5">
+  <div class="row mx-1 mx-md-2 mx-lg-4 my-2 my-md-3 my-lg-4 py-5">
+   <div class="my-1 my-md-2 my-lg-3">
+    <div class="shadow-1-strong">
+     <div class="hover-shadow my-1 my-md-2 my-lg-3 pt-3">
+. . .
+. . .
+      {% block quiz_content %}
+      {% endblock %}
+      <a name="disclaimer"></a>
+      <div class="row align-items-center justify-content-center">
+       <div class="col-md-11 my-2 my-lg-4">
+        <div class="card hover-shadow m-2">
+         <div class="shadow-1-strong">
+          <div class="card-body">
+. . .
+. . .
+           <h4 class="h4-responsive">Coming Soon: Google Voice Version!</h4>
+           <p class="card-text">
+            We have worked a bit with the Google assistant, and plan to
+             create a voice version for the questionnaire soon.
+            To be the first to learn when this goes live, subscribe to the
+             <a href="https://www.groja.com/conversion/avmn" target="_blank"
+                title="Visit a page where you can subscribe to the Artsy Visions Monthly Newsletter">
+              Artsy Visions Monthly Newsletter</a>.
+           </p>
+. . .
+. . .
+          </div><!-- .card-body -->
+         </div><!-- .shadow-* -->
+        </div><!-- .card -->
+       </div><!-- .col-md-11 -->
+      </div><!-- .row -->
+     </div><!-- .hover-shadow -->
+    </div><!-- .shadow-* -->
+   </div><!-- .my-* -->
+  </div><!-- .row -->
+ </div><!-- .container -->
+</main>
+{% endblock %}
