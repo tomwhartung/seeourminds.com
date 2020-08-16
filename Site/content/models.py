@@ -609,6 +609,11 @@ class Score:
         If we have an email address, save the questionnaire to the db
         (It's a tiny method, but we want to keep logic in the view to a minimum)
         """
+        #
+        # CRUFT ALERT!!
+        #   2020-08-16: Disabling the option to save results on the server
+        #   This makes this entire method obsolete!
+        #
         email = cleaned_data["email"]
         saved_messages = []
 
