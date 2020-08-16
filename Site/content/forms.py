@@ -45,7 +45,7 @@ class QuestionnaireForm(forms.Form):
             )
 
     name = forms.CharField(
-        help_text='Sharing your name allows us to get to know you better.',
+        help_text='Sharing your name allows us to customize your results.',
         max_length=50,
         required=False)
     ###
