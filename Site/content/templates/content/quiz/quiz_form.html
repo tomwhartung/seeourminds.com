@@ -93,14 +93,20 @@
           <em>{{ field.help_text|safe }}</em></p>
         {% endif %}
         {% if field.label == 'Email' %}
+         {# Hack alert: commenting out the input for the email address. #}
+         {# At this time we do not support saving on the server, #}
+         {# but we may want to bring that option back someday. #}
+         {# For markup deleted from this file, see deleted_markup/quiz_form.html . #}
+         {% comment %}
          <p class="card-text text-center">
           <input type="submit" name="load-answers" class="btn btn-info"
                  id="load-answers" value="Load Saved Answers"></input>
          </p>
+         {% endcomment %}
          <a name="error-messages"></a>
         {% endif %}
        </div><!-- .fieldWrapper -->
-       {% if field.label == 'Email' %}
+       {% if field.label == 'Name' %}
         <hr />
         <p class="card-text">
          <em><u>Required:</u></em></p>
