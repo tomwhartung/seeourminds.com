@@ -7,8 +7,13 @@
  <div class="col-md-11">
   <div class="card hoverable m-2">
    <div class="card-body">
-    <h2 class="card-title h2-responsive font-weight-bold text-center">
-     <u>Thank you for taking the SeeOurMinds.com Quiz!</u></h2>
+    {% if name %}
+     <h2 class="card-title h2-responsive font-weight-bold text-center">
+      <u>Thanks, <b>{{ name }},</b> for taking the SeeOurMinds.com Quiz!</u></h2>
+    {% else %}
+     <h2 class="card-title h2-responsive font-weight-bold text-center">
+      <u>Thank you for taking the SeeOurMinds.com Quiz!</u></h2>
+    {% endif %}
    </div><!-- .card-body -->
   </div><!-- .card -->
  </div><!-- .col-md-11 -->
@@ -17,8 +22,15 @@
  <div class="col-md-10">
   <div class="card hoverable m-2">
    <div class="card-body">
-    <h2 class="card-title h2-responsive font-weight-bold text-center">
-     Your Results:</h2>
+    {% if name %}
+     <h4 class="class="card-title h4-responsive text-left">
+      {{ name }}'s results:
+     </h4>
+    {% else %}
+     <h4 class="class="card-title h4-responsive text-left">
+      Your results:
+     </h4>
+    {% endif %}
     <p class="card-text">
      <div class="score-svg" id="score-bars"></div><!-- #score-bars -->
     </p>
