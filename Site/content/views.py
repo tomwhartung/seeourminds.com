@@ -294,7 +294,15 @@ def quiz_form(request, quiz_size_slug=Questionnaire.DEFAULT_QUIZ_SIZE_SLUG):
     quiz_menu_data = Questionnaire.get_quiz_menu_data()
     quiz_form = None
     if request.method == 'POST':
-        # print('views.quiz() - request.POST:', request.POST)
+        # print('views.quiz_form() - request.POST:', request.POST)
+        #
+        # BEGIN CRUFT ALERT!!
+        #   2020-08-16: Disabling option to save results on server
+        #   Therefore:
+        #     this try...except statement and
+        #     the if "Load"... clause
+        #   are cruft:
+        #   Real code resumes in the else clause
         try:
             email = request.POST["email"]
             load_answers = request.POST["load-answers"]
@@ -312,6 +320,7 @@ def quiz_form(request, quiz_size_slug=Questionnaire.DEFAULT_QUIZ_SIZE_SLUG):
                 # print('views.quiz() - new_request_data:', new_request_data)
                 quiz_form = QuestionnaireForm(
                         quiz_size_slug=quiz_size_slug, data=new_request_data)
+        # END CRUFT ALERT!!
         else:  # Not loading answers, this is a questionnaire form submission
             quiz_form = QuestionnaireForm(
                     quiz_size_slug=quiz_size_slug, data=request.POST)
@@ -323,10 +332,12 @@ def quiz_form(request, quiz_size_slug=Questionnaire.DEFAULT_QUIZ_SIZE_SLUG):
                     # print('views.quiz() - score is_complete')
                     title = 'Quiz Results - SeeOurMinds.com';
                     score.set_quiz_results_messages(request)
-                    saved_messages = score.save_questionnaire(
-                            quiz_form.cleaned_data, quiz_size_slug)
-                    for saved_msg in saved_messages:
-                        messages.add_message(request, messages.INFO, saved_msg)
+                    ###
+                    ### 2020-08-16: Disabling option to save results on server
+                    ### saved_messages = score.save_questionnaire(
+                    ###         quiz_form.cleaned_data, quiz_size_slug)
+                    ### for saved_msg in saved_messages:
+                    ###     messages.add_message(request, messages.INFO, saved_msg)
                     template = loader.get_template('content/quiz/quiz_results.html')
                     score_for_context = score.as_list_of_pairs()
                     context = {
