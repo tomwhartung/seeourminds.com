@@ -1,17 +1,17 @@
 {
   "gallery_title": "Presidential Candidates 2020",
   "see_gallery_button_text": "See Their Minds",
-  "list_page_teaser": "Click to learn more!",
-  "description_html": "<p>Keep it objective: <b>no</b> first or second person.</p><p> </p>",
-  "story_html": "<p>Make it personal (first and second person ok), preferably with a beginning, middle, and end.</p><a href='/static/content/images/stories/subdir/image_name.jpg' title='Link to display full-size version of this image on this site'><img src='/static/content/images/stories/subdir/image_name.jpg' class='gallery-story-image' /></a><p>To keep up to date, follow this site on social media or <a href='https://groja.com/conversion/avmn' title='Link to small form you can use to subscribe to the Artsy Visions Monthly Newsletter' target='_blank'>subscribe to the Artsy Visions Monthly Newsletter</a>!</p>",
-  "affiliate_ad_html": "<h2 class='card-title h2-responsive font-weight-bold text-center'>Get the Book/DVD!</h2><p>There is a <a href='https://artsyvisions.com/visions/story/' title='Link to the review at the end of the story about  on ArtsyVisions.com' target='_blank'>review</a> of the <span class='series-title'>series-title</span> on ArtsyVisions.com.  We highly recommend watching the book/series/movie!</p><p>Clicking on the <a href='/legal/affiliate_marketing_disclosure' title='Link to the Affiliate Marketing Disclosure for this site' target='_blank'>affiliate link</a> in the button below and making a purchase helps to support this site, at no additional cost to you.</p><div class='text-center'> <a href='' class='btn btn-danger btn-md som-btn-all' target='_blank'>Buy It Now!</a><br> <a href='' class='btn btn-info btn-md som-btn-all' target='_blank'>Buy It Now!</a><br> <a href='' class='btn btn-success btn-md som-btn-all' target='_blank'>Buy It Now!</a><br><a href='' class='btn btn-warning btn-md som-btn-all' target='_blank'>Buy It Now!</a></div>",
+  "list_page_teaser": "This new gallery has images of the 2020 Democratic Candidates Joe Biden and Kamala Harris.  Click to learn more!",
+  "description_html": "<p>These images, and the stories that accompany them, are from the book <a href='http://bit.ly/twh-vpp2019' title='Bitly link to page on Amazon.com where you can buy the book' target='_blank'>Visualizing Politicians' Personalities, 2019 Incumbents and Candidates,</a> now availble on <a href='https://www.amazon.com/dp/B07XYHQ16R' title='Link to page on Amazon.com where you can buy the book' target='_blank'>amazon.com.</a></p><p> </p>",
+  "story_html": "",
+  "affiliate_ad_html": "",
   "image_list":
   [
     {
       "id": "5215",
       "title": "Joe Biden",
       "subtitle_html": "<a href='' title='Wikipedia page for ' target='_blank'></a>",
-      "gallery_page_teaser": "Joe Biden's spiritual portrait shows he is ______________.  Click on the image to learn more!",
+      "gallery_page_teaser": "Joe Biden's spiritual portrait shows he is extremely outgoing, sociable, and loquacious, but well-balanced and adaptable in other respects.  Click on the image to learn more!",
       "image_file_name": "estj-joe_biden-1.jpg",
       "meat_portrait_href": "",
       "composition": "O",
@@ -44,7 +44,7 @@
       "id": "5216",
       "title": "Kamala Harris",
       "subtitle_html": "<a href='' title='Wikipedia page for ' target='_blank'></a>",
-      "gallery_page_teaser": "Kamala Harris' spiritual portrait shows she is ______________.  Click on the image to learn more!",
+      "gallery_page_teaser": "Kamala Harris' spiritual portrait shows she is a bit more idealistic and decisive than Joe, but like him also very balanced and adaptable.  Click on the image to learn more!",
       "image_file_name": "entj-kamala_harris-1.jpg",
       "meat_portrait_href": "",
       "composition": "O",
