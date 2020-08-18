@@ -10,10 +10,10 @@
     {
       "id": "5215",
       "title": "Joe Biden",
-      "subtitle_html": "<a href='' title='Wikipedia page for ' target='_blank'></a>",
+      "subtitle_html": "<a href='https://en.wikipedia.org/wiki/Joe_Biden' title='Wikipedia page for Joe Biden' target='_blank'>47th Vice President</a> of the US, — Jan. 20, 2009 to Jan. 20, 2017",
       "gallery_page_teaser": "Joe Biden's spiritual portrait shows he is extremely outgoing, sociable, and loquacious, but well-balanced and adaptable in other respects.  Click on the image to learn more!",
       "image_file_name": "estj-joe_biden-1.jpg",
-      "meat_portrait_href": "",
+      "meat_portrait_href": "https://en.wikipedia.org/wiki/File:Joe_Biden_official_portrait_2013_cropped.jpg",
       "composition": "O",
       "score": [
          { "e_score": "19", "i_score": "0" },
@@ -32,21 +32,18 @@
       "explain_aux": "The Yellow in this spiritual portrait represents Joe Biden's auxiliary personality trait, Sensing: pragmatism; pragmatic; practical; realism; realistic; outlook; openness to new experiences; very slight/moderate/strong preference for facts over ideas.  In Extraverts, the auxiliary trait is directed inwardly, and spiritual portraits use a horizontal line to represent this.  He/She demonstrates/exhibits this trait in their (note that is easier to find examples of decisions than perceptions!) ....",
       "explain_aux_very_slight_preference": "It's important to note this preference is very slight, and X can be quite _____ in some situations/when the situation calls for it.",
 
-      "disclosure_html": "",
-      "disclosure_html": "<p>This story contains some <a href='/legal/affiliate_marketing_disclosure' title='Link to the affiliate marketing disclosure on this site' target='_blank'>affiliate marketing links</a>.  Clicking on one of these and making a purchase helps support SeeOurMinds.com.</p>",
       "story_intro_html": "<p> </p>",
-      "story_template": "content/galleries/stories/empty/empty.html",
       "story_html": "<p> </p><blockquote> </blockquote><p> </p><hr><p>This spiritual portrait is based on _______.</p>",
-      "story_html_img": "<p>Idea: only include images with stories for family and friends.</p><a href='/static/content/images/stories/subdir/image_name.jpg' title='Link to display full-size version of this image on this site'><img src='/static/content/images/stories/subdir/image_name.jpg' class='story-image-left' /></a>",
+
       "compare_to": { },
       "contrast_with": { }
     }, {
       "id": "5216",
       "title": "Kamala Harris",
-      "subtitle_html": "<a href='' title='Wikipedia page for ' target='_blank'></a>",
+      "subtitle_html": "<a href='https://en.wikipedia.org/wiki/Kamala_Harris' title='Wikipedia page for Kamala Harris' target='_blank'>US Senator</a> from California, Jan. 3, 2017 to present",
       "gallery_page_teaser": "Kamala Harris' spiritual portrait shows she is a bit more idealistic and decisive than Joe, but like him also very balanced and adaptable.  Click on the image to learn more!",
       "image_file_name": "entj-kamala_harris-1.jpg",
-      "meat_portrait_href": "",
+      "meat_portrait_href": "https://en.wikipedia.org/wiki/File:Kamala_Harris_official_photo_(cropped2).jpg",
       "composition": "O",
       "score": [
          { "e_score": "15", "i_score": "4" },
@@ -65,12 +62,9 @@
       "explain_aux": "The Blue in this spiritual portrait represents Kamala Harris' auxiliary personality trait, iNtuition: idealism and hope for the future; openness to new ideas; very slight/moderate/strong preference for ideas over facts.  In Extraverts, the auxiliary trait is directed inwardly, and spiritual portraits use a horizontal line to represent this.  He/She demonstrates/exhibits this trait in their (note that is easier to find examples of decisions than perceptions!) ....",
       "explain_aux_very_slight_preference": "It's important to note this preference is very slight, and X can be quite _____ in some situations/when the situation calls for it.",
 
-      "disclosure_html": "",
-      "disclosure_html": "<p>This story contains some <a href='/legal/affiliate_marketing_disclosure' title='Link to the affiliate marketing disclosure on this site' target='_blank'>affiliate marketing links</a>.  Clicking on one of these and making a purchase helps support SeeOurMinds.com.</p>",
       "story_intro_html": "<p> </p>",
-      "story_template": "content/galleries/stories/empty/empty.html",
       "story_html": "<p> </p><blockquote> </blockquote><p> </p><hr><p>This spiritual portrait is based on _______.</p>",
-      "story_html_img": "<p>Idea: only include images with stories for family and friends.</p><a href='/static/content/images/stories/subdir/image_name.jpg' title='Link to display full-size version of this image on this site'><img src='/static/content/images/stories/subdir/image_name.jpg' class='story-image-left' /></a>",
+
       "compare_to": { },
       "contrast_with": { }
     }
