@@ -472,8 +472,9 @@ def process_shortcut(request, unknown_page='default_unk_pg_1'):
         'theodore_roosevelt': '/image/5040-politicians-us_presidents-1900s/5040/',
         'ww': '/image/5040-politicians-us_presidents-1900s/5042/',
         'woodrow_wilson': '/image/5040-politicians-us_presidents-1900s/5042/',
-        'joe': '/image/5210-politicians-2020-candidates/5215/',
-        'kamala': '/image/5210-politicians-2020-candidates/5216/',
+        '2020-dems': '/gallery/5210-politicians-2020-democratic-candidates/',
+        'joe': '/image/5210-politicians-2020-democratic-candidates/5215/',
+        'kamala': '/image/5210-politicians-2020-democratic-candidates/5216/',
     }
 
     unk_pg_lc = unknown_page.lower()
