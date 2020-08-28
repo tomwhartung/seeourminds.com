@@ -16,6 +16,11 @@ img, embed, object, video {
 q {
     font-style: italic;
 }
+blockquote {
+    border-left: .5em solid lightblue;
+    margin: 1em;
+    padding: 1em;
+}
 
 /*
  * For links in the aside, which ...
