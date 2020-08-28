@@ -475,6 +475,7 @@ def process_shortcut(request, unknown_page='default_unk_pg_1'):
         '2020-reps': '/gallery/5200-politicians-2020-incumbents/',
         'donald': '/image/5200-politicians-2020-incumbents/5200/',
         'mike': '/image/5200-politicians-2020-incumbents/5202/',
+        'steveb': '/image/0500-real-famous-american-celebrities/0517/',
         '2020-dems': '/gallery/5210-politicians-2020-democratic-candidates/',
         'joe': '/image/5210-politicians-2020-democratic-candidates/5215/',
         'kamala': '/image/5210-politicians-2020-democratic-candidates/5216/',
