@@ -41,6 +41,7 @@
 @import './bootstrap/popover';
 @import './bootstrap/carousel';
 @import './bootstrap/spinners';
+@import './bootstrap/tooltip';
 
 // Helpers
 @import './bootstrap/helpers';
@@ -58,10 +59,10 @@
 @import './free/colors';
 @import './free/shadows';
 @import './free/flag';
+@import './free/images';
 
 // MDB FORMS
 @import './free/forms/form-control';
-@import './free/forms/form-outline';
 @import './free/forms/form-select';
 @import './free/forms/form-check';
 @import './free/forms/form-file';
@@ -76,6 +77,7 @@
 @import './free/nav';
 @import './free/navbar';
 @import './free/card';
+@import './free/breadcrumb';
 @import './free/pagination';
 @import './free/badge';
 @import './free/alert';
@@ -85,5 +87,4 @@
 @import './free/tooltip';
 @import './free/popover';
 @import './free/scrollspy';
-@import './free/animate';
 @import './free/ripple';
