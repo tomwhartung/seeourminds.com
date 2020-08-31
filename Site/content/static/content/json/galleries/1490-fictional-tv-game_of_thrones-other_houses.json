@@ -30,10 +30,8 @@
       "explain_dom": "The Blue in this spiritual portrait represents Sam's dominant personality trait, his openness to new ideas.  In Extraverts, the dominant trait is directed outwardly, and spiritual portraits use a long vertical line to represent this, because it is the side of their personality that is most evident.  He demonstrates this trait in his love for books.",
       "explain_aux": "The Red in this spiritual portrait represents Sam's auxiliary personality trait, his warmth and friendliness.  In Extraverts, the auxiliary trait is directed inwardly, and spiritual portraits use a horizontal line to represent this.  He demonstrates this trait in the way he easily befriends people like Jon Snow and Gilly.",
       "disclosure_html": "",
-      "story_intro_html": "<p> </p>",
-      "story_template": "content/galleries/stories/empty/empty.html",
-      "story_html": "<p> </p><blockquote> </blockquote><p> </p><hr><p>This spiritual portrait is based on _______.</p>",
-      "story_html_img": "<p>Idea: only include images with stories for family and friends.</p><a href='/static/content/images/stories/subdir/image_name.jpg' title='Link to display full-size version of this image on this site'><img src='/static/content/images/stories/subdir/image_name.jpg' class='story-image-left' /></a>",
+      "story_intro_html": "",
+      "story_html": "",
       "compare_to": { },
       "contrast_with": { }
     }, {
@@ -57,11 +55,8 @@
       "explain_dom": "The Green in Jorah's spiritual portrait represents his dominant personality trait, his very slight preference for being rational.  In Extraverts, the dominant trait is directed outwardly, and spiritual portraits use a long vertical line to represent this, because it is the side of their personality that is most evident.  It's important to note this tendency is very slight, and Jorah can be quite passionate about some things -- for example, when he is in love.",
       "explain_aux": "The Yellow in Jorah's spiritual portrait represents his auxiliary personality trait, his very slight preference for being realistic.  In Extraverts, the auxiliary trait is directed inwardly, and spiritual portraits use a horizontal line to represent this.  It's important to note this preference is very slight, and Jorah can be quite idealistic in some situations.",
       "disclosure_html": "",
-      "disclosure_html": "<p>This story contains some <a href='/legal/affiliate_marketing_disclosure' title='Link to the affiliate marketing disclosure on this site' target='_blank'>affiliate marketing links</a>.  Clicking on one of these and making a purchase helps support SeeOurMinds.com.</p>",
-      "story_intro_html": "<p> </p>",
-      "story_template": "content/galleries/stories/empty/empty.html",
-      "story_html": "<p> </p><blockquote> </blockquote><p> </p><hr><p>This spiritual portrait is based on _______.</p>",
-      "story_html_img": "<p>Idea: only include images with stories for family and friends.</p><a href='/static/content/images/stories/subdir/image_name.jpg' title='Link to display full-size version of this image on this site'><img src='/static/content/images/stories/subdir/image_name.jpg' class='story-image-left' /></a>",
+      "story_intro_html": "",
+      "story_html": "",
       "compare_to": { },
       "contrast_with": { }
     }, {
@@ -194,11 +189,8 @@
       "explain_dom": "The Yellow in Barristan's spiritual portrait represents his dominant personality trait, his strong preference for being practical.  In Introverts, the dominant trait is directed inwardly, and spiritual portraits use a long horizontal line to represent this.  Barristan showed how he is more practical when he accepted the reality of King Joffrey having removed him from his post and decided to find Daenerys and serve her instead.",
       "explain_aux": "The Green in Barristan's spiritual portrait represents his auxiliary personality trait, his strong preference for being rational and objective.  In Introverts, the auxiliary trait is directed outwardly, and spiritual portraits use a vertical line to represent this, because it is more evident than the dominant function.  As Lord Commander of the Kingsguard, Barristan has dedicated his life to being rational and objective.",
       "disclosure_html": "",
-      "disclosure_html": "<p>This story contains some <a href='/legal/affiliate_marketing_disclosure' title='Link to the affiliate marketing disclosure on this site' target='_blank'>affiliate marketing links</a>.  Clicking on one of these and making a purchase helps support SeeOurMinds.com.</p>",
-      "story_intro_html": "<p> </p>",
-      "story_template": "content/galleries/stories/empty/empty.html",
-      "story_html": "<p> </p><blockquote> </blockquote><p> </p><hr><p>This spiritual portrait is based on _______.</p>",
-      "story_html_img": "<p>Idea: only include images with stories for family and friends.</p><a href='/static/content/images/stories/subdir/image_name.jpg' title='Link to display full-size version of this image on this site'><img src='/static/content/images/stories/subdir/image_name.jpg' class='story-image-right' /></a>",
+      "story_intro_html": "",
+      "story_html": "",
       "compare_to": { },
       "contrast_with": { }
     }, {
