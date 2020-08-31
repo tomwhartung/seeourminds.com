@@ -2,6 +2,7 @@
 # Documentation is here: http://git-scm.com/docs/gitignore
 #
 downloads/
+mdb5-init/
 tmp/
 unpack/
 
