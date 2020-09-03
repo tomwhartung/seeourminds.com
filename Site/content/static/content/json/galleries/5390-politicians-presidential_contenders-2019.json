@@ -1,8 +1,8 @@
 {
-  "gallery_title": "Presidential Contenders: 2019",
+  "gallery_title": "Presidential Contenders - 2019",
   "see_gallery_button_text": "See Their Minds",
-  "list_page_teaser": "In 2019 there were over a dozen candidates for the 2020 Democratic Primary.  This gallery contains images of nine of these contenders.  Click to learn more!",
-  "description_html": "<p>These images are from the book <a href='http://bit.ly/twh-vpp2019' title='Bitly link to page on Amazon.com where you can buy the book' target='_blank'><i><u>Visualizing Politicians' Personalities, 2019 Incumbents and Candidates</u></i></a>.  Find excerpts from the book in the stories on <a href='https://www.SeeOurMinds.com' title='Link to the Home page on SeeOurMinds.com' target='_blank'>this site</a> about <a href='https://www.SeeOurMinds.com/donald' title='Link to the spiritual portrait of Donald Trump on SeeOurMinds.com' target='_blank'>Donald Trump</a>, <a href='https://www.SeeOurMinds.com/joe' title='Link to the spiritual portrait of Biden on SeeOurMinds.com' target='_blank'>Joe Biden</a>, <a href='https://www.SeeOurMinds.com/mike' title='Link to the spiritual portrait of Mike Pence on SeeOurMinds.com' target='_blank'>Mike Pence</a>, and <a href='https://www.SeeOurMinds.com/kamala' title='Link to the spiritual portrait of Kamala Harris on SeeOurMinds.com' target='_blank'>Kamala</a>.  </p><p>Buy <a href='http://bit.ly/twh-vpp2019' title='Bitly link to page on Amazon.com where you can buy the book' target='_blank'><i><u>Visualizing Politicians' Personalities, 2019 Incumbents and Candidates</u></i></a> today at <a href='https://www.amazon.com/dp/B07XYHQ16R' title='Link to page on Amazon.com where you can buy the book' target='_blank'>amazon.com!</a></p>",
+  "list_page_teaser": "In 2019 there were over a dozen candidates in the 2020 Democratic Presidential Primary.  This gallery contains images of nine of these contenders.  Click to learn more!",
+  "description_html": "<p>These images are from the book <a href='http://bit.ly/twh-vpp2019' title='Bitly link to page on Amazon.com where you can buy the book' target='_blank'><i><u>Visualizing Politicians' Personalities, 2019 Incumbents and Candidates</u></i></a>.  Find excerpts from the book in the stories on <a href='https://www.SeeOurMinds.com' title='Link to the Home page on SeeOurMinds.com' target='_blank'>this site</a> about <a href='https://www.SeeOurMinds.com/donald' title='Link to the spiritual portrait of Donald Trump on SeeOurMinds.com' target='_blank'>Donald Trump</a>, <a href='https://www.SeeOurMinds.com/joe' title='Link to the spiritual portrait of Biden on SeeOurMinds.com' target='_blank'>Joe Biden</a>, <a href='https://www.SeeOurMinds.com/mike' title='Link to the spiritual portrait of Mike Pence on SeeOurMinds.com' target='_blank'>Mike Pence</a>, and <a href='https://www.SeeOurMinds.com/kamala' title='Link to the spiritual portrait of Kamala Harris on SeeOurMinds.com' target='_blank'>Kamala</a>.  </p><p>Buy <a href='http://bit.ly/twh-vpp2019' title='Bitly link to page on Amazon.com where you can buy the book' target='_blank'><i><u>Visualizing Politicians' Personalities, 2019 Incumbents and Candidates</u></i></a> today at <a href='https://www.amazon.com/dp/B07XYHQ16R' title='Link to page on Amazon.com where you can buy the book' target='_blank'>amazon.com!</a></p><p><b>This gallery is a work in progress.</b>  Check back for updates in a few days.</p>",
   "story_html": "",
   "image_list":
   [
@@ -35,7 +35,7 @@
       "disclosure_html": "<p>This story contains some <a href='/legal/affiliate_marketing_disclosure' title='Link to the affiliate marketing disclosure on this site' target='_blank'>affiliate marketing links</a>.  Clicking on one of these and making a purchase helps support SeeOurMinds.com.</p>",
       "story_intro_html": "<p> </p>",
       "story_template": "content/galleries/stories/empty/empty.html",
-      "story_html": "<p> </p><blockquote> </blockquote><p> </p><hr><p>This spiritual portrait is based on _______.</p>",
+      "story_html": "<p> </p><blockquote class='blockquote'> </blockquote><p> </p><hr><p>This spiritual portrait is based on _______.</p>",
       "story_html_img": "<p>Idea: only include images with stories for family and friends.</p><a href='/static/content/images/stories/subdir/image_name.jpg' title='Link to display full-size version of this image on this site'><img src='/static/content/images/stories/subdir/image_name.jpg' class='story-image-left' /></a>",
       "compare_to": { },
       "contrast_with": { }
@@ -66,7 +66,7 @@
       "disclosure_html": "<p>This story contains some <a href='/legal/affiliate_marketing_disclosure' title='Link to the affiliate marketing disclosure on this site' target='_blank'>affiliate marketing links</a>.  Clicking on one of these and making a purchase helps support SeeOurMinds.com.</p>",
       "story_intro_html": "<p> </p>",
       "story_template": "content/galleries/stories/empty/empty.html",
-      "story_html": "<p> </p><blockquote> </blockquote><p> </p><hr><p>This spiritual portrait is based on _______.</p>",
+      "story_html": "<p> </p><blockquote class='blockquote'> </blockquote><p> </p><hr><p>This spiritual portrait is based on _______.</p>",
       "story_html_img": "<p>Idea: only include images with stories for family and friends.</p><a href='/static/content/images/stories/subdir/image_name.jpg' title='Link to display full-size version of this image on this site'><img src='/static/content/images/stories/subdir/image_name.jpg' class='story-image-right' /></a>",
       "compare_to": { },
       "contrast_with": { }
@@ -97,7 +97,7 @@
       "disclosure_html": "<p>This story contains some <a href='/legal/affiliate_marketing_disclosure' title='Link to the affiliate marketing disclosure on this site' target='_blank'>affiliate marketing links</a>.  Clicking on one of these and making a purchase helps support SeeOurMinds.com.</p>",
       "story_intro_html": "<p> </p>",
       "story_template": "content/galleries/stories/empty/empty.html",
-      "story_html": "<p> </p><blockquote> </blockquote><p> </p><hr><p>This spiritual portrait is based on _______.</p>",
+      "story_html": "<p> </p><blockquote class='blockquote'> </blockquote><p> </p><hr><p>This spiritual portrait is based on _______.</p>",
       "story_html_img": "<p>Idea: only include images with stories for family and friends.</p><a href='/static/content/images/stories/subdir/image_name.jpg' title='Link to display full-size version of this image on this site'><img src='/static/content/images/stories/subdir/image_name.jpg' class='story-image-left' /></a>",
       "compare_to": { },
       "contrast_with": { }
@@ -129,7 +129,7 @@
       "disclosure_html": "<p>This story contains some <a href='/legal/affiliate_marketing_disclosure' title='Link to the affiliate marketing disclosure on this site' target='_blank'>affiliate marketing links</a>.  Clicking on one of these and making a purchase helps support SeeOurMinds.com.</p>",
       "story_intro_html": "<p> </p>",
       "story_template": "content/galleries/stories/empty/empty.html",
-      "story_html": "<p> </p><blockquote> </blockquote><p> </p><hr><p>This spiritual portrait is based on _______.</p>",
+      "story_html": "<p> </p><blockquote class='blockquote'> </blockquote><p> </p><hr><p>This spiritual portrait is based on _______.</p>",
       "story_html_img": "<p>Idea: only include images with stories for family and friends.</p><a href='/static/content/images/stories/subdir/image_name.jpg' title='Link to display full-size version of this image on this site'><img src='/static/content/images/stories/subdir/image_name.jpg' class='story-image-left' /></a>",
       "compare_to": { },
       "contrast_with": { }
@@ -162,7 +162,7 @@
       "disclosure_html": "<p>This story contains some <a href='/legal/affiliate_marketing_disclosure' title='Link to the affiliate marketing disclosure on this site' target='_blank'>affiliate marketing links</a>.  Clicking on one of these and making a purchase helps support SeeOurMinds.com.</p>",
       "story_intro_html": "<p> </p>",
       "story_template": "content/galleries/stories/empty/empty.html",
-      "story_html": "<p> </p><blockquote> </blockquote><p> </p><hr><p>This spiritual portrait is based on _______.</p>",
+      "story_html": "<p> </p><blockquote class='blockquote'> </blockquote><p> </p><hr><p>This spiritual portrait is based on _______.</p>",
       "story_html_img": "<p>Idea: only include images with stories for family and friends.</p><a href='/static/content/images/stories/subdir/image_name.jpg' title='Link to display full-size version of this image on this site'><img src='/static/content/images/stories/subdir/image_name.jpg' class='story-image-left' /></a>",
       "compare_to": { },
       "contrast_with": { }
@@ -195,7 +195,7 @@
       "disclosure_html": "<p>This story contains some <a href='/legal/affiliate_marketing_disclosure' title='Link to the affiliate marketing disclosure on this site' target='_blank'>affiliate marketing links</a>.  Clicking on one of these and making a purchase helps support SeeOurMinds.com.</p>",
       "story_intro_html": "<p> </p>",
       "story_template": "content/galleries/stories/empty/empty.html",
-      "story_html": "<p> </p><blockquote> </blockquote><p> </p><hr><p>This spiritual portrait is based on _______.</p>",
+      "story_html": "<p> </p><blockquote class='blockquote'> </blockquote><p> </p><hr><p>This spiritual portrait is based on _______.</p>",
       "story_html_img": "<p>Idea: only include images with stories for family and friends.</p><a href='/static/content/images/stories/subdir/image_name.jpg' title='Link to display full-size version of this image on this site'><img src='/static/content/images/stories/subdir/image_name.jpg' class='story-image-left' /></a>",
       "compare_to": { },
       "contrast_with": { }
@@ -227,7 +227,7 @@
       "disclosure_html": "<p>This story contains some <a href='/legal/affiliate_marketing_disclosure' title='Link to the affiliate marketing disclosure on this site' target='_blank'>affiliate marketing links</a>.  Clicking on one of these and making a purchase helps support SeeOurMinds.com.</p>",
       "story_intro_html": "<p> </p>",
       "story_template": "content/galleries/stories/empty/empty.html",
-      "story_html": "<p> </p><blockquote> </blockquote><p> </p><hr><p>This spiritual portrait is based on _______.</p>",
+      "story_html": "<p> </p><blockquote class='blockquote'> </blockquote><p> </p><hr><p>This spiritual portrait is based on _______.</p>",
       "story_html_img": "<p>Idea: only include images with stories for family and friends.</p><a href='/static/content/images/stories/subdir/image_name.jpg' title='Link to display full-size version of this image on this site'><img src='/static/content/images/stories/subdir/image_name.jpg' class='story-image-left' /></a>",
       "compare_to": { },
       "contrast_with": { }
@@ -259,7 +259,7 @@
       "disclosure_html": "<p>This story contains some <a href='/legal/affiliate_marketing_disclosure' title='Link to the affiliate marketing disclosure on this site' target='_blank'>affiliate marketing links</a>.  Clicking on one of these and making a purchase helps support SeeOurMinds.com.</p>",
       "story_intro_html": "<p> </p>",
       "story_template": "content/galleries/stories/empty/empty.html",
-      "story_html": "<p> </p><blockquote> </blockquote><p> </p><hr><p>This spiritual portrait is based on _______.</p>",
+      "story_html": "<p> </p><blockquote class='blockquote'> </blockquote><p> </p><hr><p>This spiritual portrait is based on _______.</p>",
       "story_html_img": "<p>Idea: only include images with stories for family and friends.</p><a href='/static/content/images/stories/subdir/image_name.jpg' title='Link to display full-size version of this image on this site'><img src='/static/content/images/stories/subdir/image_name.jpg' class='story-image-left' /></a>",
       "compare_to": { },
       "contrast_with": { }
@@ -291,7 +291,7 @@
       "disclosure_html": "<p>This story contains some <a href='/legal/affiliate_marketing_disclosure' title='Link to the affiliate marketing disclosure on this site' target='_blank'>affiliate marketing links</a>.  Clicking on one of these and making a purchase helps support SeeOurMinds.com.</p>",
       "story_intro_html": "<p> </p>",
       "story_template": "content/galleries/stories/empty/empty.html",
-      "story_html": "<p> </p><blockquote> </blockquote><p> </p><hr><p>This spiritual portrait is based on _______.</p>",
+      "story_html": "<p> </p><blockquote class='blockquote'> </blockquote><p> </p><hr><p>This spiritual portrait is based on _______.</p>",
       "story_html_img": "<p>Idea: only include images with stories for family and friends.</p><a href='/static/content/images/stories/subdir/image_name.jpg' title='Link to display full-size version of this image on this site'><img src='/static/content/images/stories/subdir/image_name.jpg' class='story-image-right' /></a>",
       "compare_to": { },
       "contrast_with": { }
