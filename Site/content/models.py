@@ -692,9 +692,12 @@ class Score:
 
     def set_quiz_results_messages(self, request):
         """ Set the messages we display on the results page """
-        four_letter_type = "Type: " + self.as_four_letter_type()
+        four_letter_type = "Type: " + self.as_four_letter_type() \
+            + self.get_based_on_text()
+        #based_on_question_count = "Based on " + self.question_count + " Answers"
         pcts_and_counts_html = self.get_pcts_and_counts_html()
         messages.add_message(request, messages.INFO, four_letter_type)
+        #messages.add_message(request, messages.INFO, based_on_question_count)
         messages.add_message(request, messages.INFO, pcts_and_counts_html)
         return True
 
@@ -731,6 +734,12 @@ class Score:
             four_letter_type += 'P'
 
         return four_letter_type
+
+    def get_based_on_text(self):
+        """ Return a string with the number of questions in the quiz """
+        based_on_text = "- Based on " + str(self.question_count) + " Answers"
+
+        return based_on_text
 
     def get_pcts_and_counts_html(self):
         """ Return an html string containing the score's percents and counts """
