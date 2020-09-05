@@ -308,13 +308,14 @@ def quiz_form(request, quiz_size_slug=Questionnaire.DEFAULT_QUIZ_SIZE_SLUG):
         #     the if "Load"... clause
         #   are cruft:
         #   Real code resumes in the else clause
-        try:
+        #
+        try:                                             # CRUFT ...
             email = request.POST["email"]
             load_answers = request.POST["load-answers"]
-        except:
+        except:                                          # ... CRUFT ...
             email = ''
             load_answers = ''
-        if "Load" in load_answers:
+        if "Load" in load_answers:                       # ... CRUFT ...
             if email == '':
                 need_email_msg = 'ERROR: you must enter a valid ' + \
                     'email address to load the answers'
@@ -325,7 +326,7 @@ def quiz_form(request, quiz_size_slug=Questionnaire.DEFAULT_QUIZ_SIZE_SLUG):
                 # print('views.quiz() - new_request_data:', new_request_data)
                 quiz_form = QuestionnaireForm(
                         quiz_size_slug=quiz_size_slug, data=new_request_data)
-        # END CRUFT ALERT!!
+        # ... END CRUFT ALERT!!
         else:  # Not loading answers, this is a questionnaire form submission
             quiz_form = QuestionnaireForm(
                     quiz_size_slug=quiz_size_slug, data=request.POST)
@@ -333,6 +334,7 @@ def quiz_form(request, quiz_size_slug=Questionnaire.DEFAULT_QUIZ_SIZE_SLUG):
                 # print('views.quiz() - quiz_form is_valid')
                 score = Score()
                 score.score_quiz(quiz_size_slug, quiz_form.cleaned_data)
+                questions_in_form = score.questions_in_form
                 if score.is_complete():
                     # print('views.quiz() - score is_complete')
                     title = 'Quiz Results - SeeOurMinds.com';
@@ -347,6 +349,7 @@ def quiz_form(request, quiz_size_slug=Questionnaire.DEFAULT_QUIZ_SIZE_SLUG):
                     score_for_context = score.as_list_of_pairs()
                     context = {
                         'score': score_for_context,
+                        'questions_in_form': questions_in_form,
                         'fixed_top': "",
                         'include_logo': True,
                         'name': name,
