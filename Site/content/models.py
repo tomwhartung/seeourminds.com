@@ -737,7 +737,7 @@ class Score:
 
     def get_based_on_text(self):
         """ Return a string with the number of questions in the quiz """
-        based_on_text = "- Based on " + str(self.question_count) + " Answers"
+        based_on_text = " &mdash; based on " + str(self.question_count) + " answers"
 
         return based_on_text
 
