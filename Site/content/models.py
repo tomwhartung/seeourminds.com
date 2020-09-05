@@ -540,7 +540,7 @@ class Score:
 
     def __init__(self):
         self.score_is_complete = False
-        self.questions_in_form = 0
+        self.question_count = 0
         self.unanswered_question_count = -1
         self.e_score = 0
         self.i_score = 0
@@ -572,7 +572,7 @@ class Score:
 
         # self.print_cleaned_data(cleaned_data)
         questions = Questions()
-        self.questions_in_form = Questionnaire.get_question_count_for_slug(quiz_size_slug)
+        self.question_count = Questionnaire.get_question_count_for_slug(quiz_size_slug)
         questions_answered = 0
 
         for form_question_str in sorted(cleaned_data):
@@ -597,10 +597,10 @@ class Score:
                         answer_text)
 
         if DJANGO_DEBUG:
-            print('Score - score_quiz: questions_answered/self.questions_in_form',
-                    str(questions_answered) + '/' + str(self.questions_in_form))
+            print('Score - score_quiz: questions_answered/self.question_count',
+                    str(questions_answered) + '/' + str(self.question_count))
 
-        self.unanswered_question_count = self.questions_in_form - questions_answered
+        self.unanswered_question_count = self.question_count - questions_answered
         if self.unanswered_question_count == 0:
             self.score_is_complete = True
         return self
