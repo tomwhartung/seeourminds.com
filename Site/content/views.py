@@ -334,7 +334,7 @@ def quiz_form(request, quiz_size_slug=Questionnaire.DEFAULT_QUIZ_SIZE_SLUG):
                 # print('views.quiz() - quiz_form is_valid')
                 score = Score()
                 score.score_quiz(quiz_size_slug, quiz_form.cleaned_data)
-                questions_in_form = score.questions_in_form
+                question_count = score.question_count
                 if score.is_complete():
                     # print('views.quiz() - score is_complete')
                     title = 'Quiz Results - SeeOurMinds.com';
@@ -349,7 +349,7 @@ def quiz_form(request, quiz_size_slug=Questionnaire.DEFAULT_QUIZ_SIZE_SLUG):
                     score_for_context = score.as_list_of_pairs()
                     context = {
                         'score': score_for_context,
-                        'questions_in_form': questions_in_form,
+                        'question_count': question_count,
                         'fixed_top': "",
                         'include_logo': True,
                         'name': name,
