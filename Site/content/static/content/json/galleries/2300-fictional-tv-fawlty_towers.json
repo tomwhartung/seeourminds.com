@@ -59,7 +59,7 @@
       "story_intro_html": "<p>In the Fawlty Towers hotel, <a href='/image/2300-fictional-tv-fawlty_towers/2300/' title='Link to spiritual portrait of Basil Fawlty on this site'>Basil's</a> wife <a href='https://en.wikipedia.org/wiki/Sybil_Fawlty' title='Wikipedia page for Sybil Fawlty' target='_blank'>Sybil Fawlty</a> is undeniably ....</p>",
       "story_template": "content/galleries/stories/fictional/tv/fawlty_towers/sybil_fawlty.html",
       "story_html": "",
-      "compare_to": { "gallery_file_name": "5000-politicians-us_presidents-1700s-1800s", "image_id": "5006" },
+      "compare_to": { "gallery_file_name": "5000-real-politicians-us_presidents-1700s-1800s", "image_id": "5006" },
       "contrast_with": { "gallery_file_name": "2300-fictional-tv-fawlty_towers", "image_id": "2300" }
     }, {
       "id": "2303",
