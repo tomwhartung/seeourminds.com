@@ -32,7 +32,7 @@
       "story_intro_html": "<p>The manager of Fawlty Towers is <a href='https://en.wikipedia.org/wiki/Basil_Fawlty' title='Wikipedia page for Basil Fawlty' target='_blank'>Basil Fawlty</a>.  He may be the one <q>in charge,</q> but ....</p>",
       "story_template": "content/galleries/stories/fictional/tv/fawlty_towers/basil_fawlty.html",
       "story_html": "",
-      "compare_to": { "gallery_file_name": "5040-politicians-us_presidents-1900s", "image_id": "5060" },
+      "compare_to": { "gallery_file_name": "5040-real-politicians-us_presidents-1900s", "image_id": "5060" },
       "contrast_with": { "gallery_file_name": "2300-fictional-tv-fawlty_towers", "image_id": "2302" }
     }, {
       "id": "2302",
