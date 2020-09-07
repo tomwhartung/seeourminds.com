@@ -31,7 +31,7 @@
       "story_intro_html": "<p>The main characters of <span class='series-title'>Star Trek: The Original Series</span> &mdash; Mr. Spock, Captain Kirk, and Dr. McCoy &mdash; were among the ....</p>",
       "story_template": "content/galleries/stories/fictional/tv/star_trek/mr_spock.html",
       "story_html": "",
-      "compare_to": { "gallery_file_name": "5040-politicians-us_presidents-1900s", "image_id": "5076" },
+      "compare_to": { "gallery_file_name": "5040-real-politicians-us_presidents-1900s", "image_id": "5076" },
       "contrast_with": { "gallery_file_name": "3900-fictional-tv-star_trek", "image_id": "3904" }
     }, {
       "id": "3902",
