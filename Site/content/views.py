@@ -479,9 +479,9 @@ def process_shortcut(request, unknown_page='default_unk_pg_1'):
         'donald': '/image/5200-real-politicians-2020-incumbents/5200/',
         'mike': '/image/5200-real-politicians-2020-incumbents/5202/',
         'steveb': '/image/0500-real-famous-american-celebrities/0517/',
-        '2020-dems': '/gallery/5210-politicians-2020-democratic-candidates/',
-        'joe': '/image/5210-politicians-2020-democratic-candidates/5215/',
-        'kamala': '/image/5210-politicians-2020-democratic-candidates/5216/',
+        '2020-dems': '/gallery/5210-real-politicians-2020-democratic-candidates/',
+        'joe': '/image/5210-real-politicians-2020-democratic-candidates/5215/',
+        'kamala': '/image/5210-real-politicians-2020-democratic-candidates/5216/',
     }
 
     unk_pg_lc = unknown_page.lower()
