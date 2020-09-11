@@ -446,6 +446,8 @@ def process_shortcut(request, unknown_page='default_unk_pg_1'):
         'xf': '/gallery/3700-fictional-tv-x_files/',
         'x-files': '/gallery/3700-fictional-tv-x_files/',
         'x_files': '/gallery/3700-fictional-tv-x_files/',
+        'fox': '/image/3700-fictional-tv-x_files/3700/',
+        'dana': '/image/3700-fictional-tv-x_files/3704/',
         'clinton': '/image/5040-real-politicians-us_presidents-1900s/5078/',
         'nixon': '/image/5040-real-politicians-us_presidents-1900s/5062/',
         'reagan': '/image/5040-real-politicians-us_presidents-1900s/5074/',
