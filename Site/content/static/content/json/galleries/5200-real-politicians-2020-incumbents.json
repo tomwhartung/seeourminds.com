@@ -60,10 +60,10 @@
     }, {
       "id": "5206",
       "title": "Mitch McConnell",
-      "subtitle_html": "<a href='' title='Wikipedia page for ' target='_blank'></a>",
-      "gallery_page_teaser": "Mitch McConnell's spiritual portrait shows he is ______________.  Click on the image to learn more!",
+      "subtitle_html": "<a href='https://en.wikipedia.org/wiki/Mitch_McConnell' title='Wikipedia page for Mitch McConnell' target='_blank'>Majority Leader</a> of the US Senate &mdash; Jan. 3, 2015 to present",
+      "gallery_page_teaser": "Mitch McConnell's spiritual portrait shows he is extremely cold and decisive, and motivated by pragmatism.  Click on the image to learn more!",
       "image_file_name": "istj-mitch_mcconnell-1.jpg",
-      "meat_portrait_href": "",
+      "meat_portrait_href": "https://en.wikipedia.org/wiki/File:Mitch_McConnell_2016_official_photo_(cropped).jpg",
       "composition": "O",
       "score": [
          { "e_score": "7", "i_score": "12" },
@@ -91,10 +91,10 @@
     }, {
       "id": "5208",
       "title": "Nancy Pelosi",
-      "subtitle_html": "<a href='' title='Wikipedia page for ' target='_blank'></a>",
-      "gallery_page_teaser": "Nancy Pelosi's spiritual portrait shows she is ______________.  Click on the image to learn more!",
+      "subtitle_html": "<a href='https://en.wikipedia.org/wiki/Nancy_Pelosi' title='Wikipedia page for Nancy Pelosi' target='_blank'>52nd Speaker</a> of the US House of Representatives &mdash; Jan. 3, 2017 to present",
+      "gallery_page_teaser": "Nancy Pelosi's spiritual portrait shows she is decisive yet fairly well-rounded, with a tendency to be motivated by her ideals while maintaining awareness of real world concerns.  Click on the image to learn more!",
       "image_file_name": "intj-nancy_pelosi-1.jpg",
-      "meat_portrait_href": "",
+      "meat_portrait_href": "https://en.wikipedia.org/wiki/File:Official_photo_of_Speaker_Nancy_Pelosi_in_2019.jpg",
       "composition": "O",
       "score": [
          { "e_score": "9", "i_score": "10" },
