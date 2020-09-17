@@ -55,7 +55,7 @@ def image(request, gallery_file_name=None, image_id=None):
     afl_content = afl_links.afl_content
     afl_button = afl_links.afl_content
 
-    title = 'Image: ' + image_dict.get('title')
+    title = image_dict.get('title')
     return render(request, 'content//galleries/gallery_image.html', {
         'adsense_ads': adsense_ads,
         'afl_content': afl_content,
