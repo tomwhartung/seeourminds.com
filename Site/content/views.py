@@ -478,6 +478,7 @@ def process_shortcut(request, unknown_page='default_unk_pg_1'):
         'ww': '/image/5040-real-politicians-us_presidents-1900s/5042/',
         'woodrow_wilson': '/image/5040-real-politicians-us_presidents-1900s/5042/',
         '2020-reps': '/gallery/5200-real-politicians-2020-incumbents/',
+        '2020-incumbents': '/gallery/5200-real-politicians-2020-incumbents/',
         'donald': '/image/5200-real-politicians-2020-incumbents/5200/',
         'mike': '/image/5200-real-politicians-2020-incumbents/5202/',
         'steveb': '/image/0500-real-famous-american-celebrities/0517/',
@@ -486,6 +487,9 @@ def process_shortcut(request, unknown_page='default_unk_pg_1'):
         '2020-dems': '/gallery/5210-real-politicians-2020-democratic-candidates/',
         'joe': '/image/5210-real-politicians-2020-democratic-candidates/5215/',
         'kamala': '/image/5210-real-politicians-2020-democratic-candidates/5216/',
+        '2019-candidates': '/gallery/5390-real-politicians-presidential_contenders-2019/',
+        'bernie': '/image/5390-real-politicians-presidential_contenders-2019/5391/',
+        'elizabeth': '/image/5390-real-politicians-presidential_contenders-2019/5393/',
     }
 
     unk_pg_lc = unknown_page.lower()
