@@ -489,6 +489,7 @@ def process_shortcut(request, unknown_page='default_unk_pg_1'):
         'kamala': '/image/5210-real-politicians-2020-democratic-candidates/5216/',
         '2019-candidates': '/gallery/5390-real-politicians-presidential_contenders-2019/',
         'bernie': '/image/5390-real-politicians-presidential_contenders-2019/5391/',
+        'cory': '/image/5390-real-politicians-presidential_contenders-2019/5392/',
         'elizabeth': '/image/5390-real-politicians-presidential_contenders-2019/5393/',
     }
 
