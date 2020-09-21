@@ -2,7 +2,7 @@
   "gallery_title": "Writer-Politicians",
   "see_gallery_button_text": "See Their Minds",
   "list_page_teaser": "These politicians have written books that I have read and used to create images of their personalities.  Click to learn more!",
-  "description_html": "<p>This gallery is a <b>work in progress.</b></p><p>Check back for updates in a few days or weeks.</p><p><b>Thanks for your patience!</b></p>",
+  "description_html": "<p>This gallery is a <b>work in progress.</b></p><p>Check back for updates in a few days or weeks.</p><p class='text-center'><b>Thanks for your patience!</b></p>",
   "story_html": "",
   "image_list":
   [
@@ -11,7 +11,7 @@
       "title": "Donald Trump Jr.",
       "subtitle_html": "<a href='' title='Wikipedia page for ' target='_blank'></a>",
       "gallery_page_teaser": "Donald Trump Jr.'s spiritual portrait shows he is ______________.  Click on the image to learn more!",
-      "image_file_name": "x.jpg",
+      "image_file_name": "estj-donald_trump_jr-1.jpg",
       "meat_portrait_href": "",
       "composition": "O",
       "score": [
@@ -22,7 +22,7 @@
       ],
       "four_letter_type": "ESTJ",
       "fixed_percentages": "",
-      "archetype": "Xe",
+      "archetype": "Te",
       "quiz_type": "KTS2",
       "year": "2020",
 
@@ -47,7 +47,7 @@
       "title": "Michael Bloomberg",
       "subtitle_html": "<a href='' title='Wikipedia page for ' target='_blank'></a>",
       "gallery_page_teaser": "Michael Bloomberg's spiritual portrait shows he is ______________.  Click on the image to learn more!",
-      "image_file_name": "x.jpg",
+      "image_file_name": "entj-michael_bloomberg-1.jpg",
       "meat_portrait_href": "",
       "composition": "O",
       "score": [
@@ -83,7 +83,7 @@
       "title": "Nikki Haley",
       "subtitle_html": "<a href='' title='Wikipedia page for ' target='_blank'></a>",
       "gallery_page_teaser": "Nikki Haley's spiritual portrait shows she is ______________.  Click on the image to learn more!",
-      "image_file_name": "x.jpg",
+      "image_file_name": "estj-nikki_haley-1.jpg",
       "meat_portrait_href": "",
       "composition": "O",
       "score": [
@@ -119,7 +119,7 @@
       "title": "Stacey Abrams",
       "subtitle_html": "<a href='' title='Wikipedia page for ' target='_blank'></a>",
       "gallery_page_teaser": "Stacey Abrams' spiritual portrait shows she is ______________.  Click on the image to learn more!",
-      "image_file_name": "x.jpg",
+      "image_file_name": "intj-stacey_abrams-1.jpg",
       "meat_portrait_href": "",
       "composition": "O",
       "score": [
@@ -130,7 +130,7 @@
       ],
       "four_letter_type": "INTJ",
       "fixed_percentages": "",
-      "archetype": "Xi",
+      "archetype": "Ni",
       "quiz_type": "KTS2",
       "year": "2020",
 
@@ -155,7 +155,7 @@
       "title": "Ted Cruz",
       "subtitle_html": "<a href='' title='Wikipedia page for ' target='_blank'></a>",
       "gallery_page_teaser": "Ted Cruz's spiritual portrait shows he is ______________.  Click on the image to learn more!",
-      "image_file_name": "x.jpg",
+      "image_file_name": "entj-ted_cruz-1.jpg",
       "meat_portrait_href": "",
       "composition": "O",
       "score": [
