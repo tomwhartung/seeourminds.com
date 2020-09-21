@@ -168,6 +168,9 @@ q.slang {
   text-decoration: underline;
 }
 
+ul.gallery {
+    margin-bottom: 1em;
+}
 ul.notes {
     list-style-type: none;
 }
