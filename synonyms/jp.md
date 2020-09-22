@@ -51,6 +51,7 @@ these portraits portray.
 - forceful
 - hardheaded
 - headstrong
+- impentrability
 - insistent
 - serious
 - supercilious - feeling or showing haughty disdain. synonym: arrogant
@@ -148,6 +149,7 @@ these portraits portray.
 - hapless
 - indecisive
 - indolent
+- insouciant
 - irresponsible
 - lacks direction
 - lazy
