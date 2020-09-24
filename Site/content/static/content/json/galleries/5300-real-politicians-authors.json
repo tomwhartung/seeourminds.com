@@ -114,19 +114,18 @@
     }, {
       "id": "5306",
       "title": "Stacey Abrams",
-      "subtitle_html": "<a href='' title='Wikipedia page for ' target='_blank'></a>",
-      "gallery_page_teaser": "Stacey Abrams' spiritual portrait shows she is ______________.  Click on the image to learn more!",
+      "subtitle_html": "<a href='https://en.wikipedia.org/wiki/Stacey_Abrams' title='Wikipedia page for Stacey Abrams' target='_blank'>Minority Leader</a> in Georgia's House of Representatives, From January 10, 2011 to July 1, 2017",
+      "gallery_page_teaser": "Stacey Abrams' spiritual portrait shows she is decisive, tends to be withdrawn, and has fairly mild tendencies to be logical and idealistic.  Click on the image to learn more!",
       "image_file_name": "intj-stacey_abrams-1.jpg",
-      "meat_portrait_href": "",
+      "meat_portrait_href": "https://en.wikipedia.org/wiki/File:Stacey_Abrams_in_May_2018.png",
       "composition": "O",
       "score": [
-         { "e_score": "0", "i_score": "0" },
-         { "n_score": "0", "s_score": "0" },
-         { "f_score": "0", "t_score": "0" },
-         { "j_score": "0", "p_score": "0" }
+         { "e_score": "4", "i_score": "15" },
+         { "n_score": "12", "s_score": "7" },
+         { "f_score": "8", "t_score": "11" },
+         { "j_score": "13", "p_score": "6" }
       ],
       "four_letter_type": "INTJ",
-      "fixed_percentages": "",
       "archetype": "Ni",
       "quiz_type": "KTS2",
       "year": "2020",
