@@ -44,19 +44,18 @@
     }, {
       "id": "5302",
       "title": "Michael Bloomberg",
-      "subtitle_html": "<a href='' title='Wikipedia page for ' target='_blank'></a>",
-      "gallery_page_teaser": "Michael Bloomberg's spiritual portrait shows he is ______________.  Click on the image to learn more!",
+      "subtitle_html": "<a href='https://en.wikipedia.org/wiki/Michael_Bloomberg' title='Wikipedia page for Michael Bloomberg' target='_blank'>Co-founder</a> of <a href='https://en.wikipedia.org/wiki/Bloomberg_L.P.' title='Wikipedia page for Bloomberg L.P.' target='_blank'>Bloomberg L.P.</a>",
+      "gallery_page_teaser": "Michael Bloomberg's spiritual portrait shows he is outgoing, prefers to be rational and decisive, and has a slight tendency to be idealistic yet remains very well-grounded.  Click on the image to learn more!",
       "image_file_name": "entj-michael_bloomberg-1.jpg",
-      "meat_portrait_href": "",
+      "meat_portrait_href": "https://en.wikipedia.org/wiki/File:Mike_Bloomberg_Headshot.jpg",
       "composition": "O",
       "score": [
-         { "e_score": "0", "i_score": "0" },
-         { "n_score": "0", "s_score": "0" },
-         { "f_score": "0", "t_score": "0" },
-         { "j_score": "0", "p_score": "0" }
+         { "e_score": "13", "i_score": "6" },
+         { "n_score": "10", "s_score": "9" },
+         { "f_score": "6", "t_score": "13" },
+         { "j_score": "12", "p_score": "7" }
       ],
       "four_letter_type": "ENTJ",
-      "fixed_percentages": "",
       "archetype": "Te",
       "quiz_type": "KTS2",
       "year": "2020",
