@@ -9,19 +9,18 @@
     {
       "id": "5300",
       "title": "Donald Trump Jr.",
-      "subtitle_html": "<a href='' title='Wikipedia page for ' target='_blank'></a>",
-      "gallery_page_teaser": "Donald Trump Jr.'s spiritual portrait shows he is ______________.  Click on the image to learn more!",
+      "subtitle_html": "<a href='https://en.wikipedia.org/wiki/Donald_Trump_Jr.' title='Wikipedia page for Donald Trump Jr.' target='_blank'>Eldest Son</a> of Donald Trump",
+      "gallery_page_teaser": "Donald Trump Jr.'s spiritual portrait shows he is extremely decisive, cold, and pragmatic.  Click on the image to learn more!",
       "image_file_name": "estj-donald_trump_jr-1.jpg",
-      "meat_portrait_href": "",
+      "meat_portrait_href": "https://en.wikipedia.org/wiki/File:Donald_Trump_Jr._by_Gage_Skidmore.jpg",
       "composition": "O",
       "score": [
-         { "e_score": "0", "i_score": "0" },
-         { "n_score": "0", "s_score": "0" },
-         { "f_score": "0", "t_score": "0" },
-         { "j_score": "0", "p_score": "0" }
+         { "e_score": "17", "i_score": "2" },
+         { "n_score": "2", "s_score": "17" },
+         { "f_score": "1", "t_score": "18" },
+         { "j_score": "14", "p_score": "5" }
       ],
       "four_letter_type": "ESTJ",
-      "fixed_percentages": "",
       "archetype": "Te",
       "quiz_type": "KTS2",
       "year": "2020",
