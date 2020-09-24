@@ -79,19 +79,18 @@
     }, {
       "id": "5304",
       "title": "Nikki Haley",
-      "subtitle_html": "<a href='' title='Wikipedia page for ' target='_blank'></a>",
-      "gallery_page_teaser": "Nikki Haley's spiritual portrait shows she is ______________.  Click on the image to learn more!",
+      "subtitle_html": "<a href='https://en.wikipedia.org/wiki/Nikki_Haley' title='Wikipedia page for Nikki Haley' target='_blank'>29th Ambassador to the UN</a>, From Jan. 25, 2017 to Dec. 31, 2018",
+      "gallery_page_teaser": "Nikki Haley's spiritual portrait shows she is outgoing, rational, and down-to-earth - but not overly so.  Click on the image to learn more!",
       "image_file_name": "estj-nikki_haley-1.jpg",
-      "meat_portrait_href": "",
+      "meat_portrait_href": "https://en.wikipedia.org/wiki/File:Nikki_Haley_official_photo.jpg",
       "composition": "O",
       "score": [
-         { "e_score": "0", "i_score": "0" },
-         { "n_score": "0", "s_score": "0" },
-         { "f_score": "0", "t_score": "0" },
-         { "j_score": "0", "p_score": "0" }
+         { "e_score": "17", "i_score": "2" },
+         { "n_score": "8", "s_score": "11" },
+         { "f_score": "4", "t_score": "15" },
+         { "j_score": "11", "p_score": "8" }
       ],
       "four_letter_type": "ESTJ",
-      "fixed_percentages": "",
       "archetype": "Te",
       "quiz_type": "KTS2",
       "year": "2020",
