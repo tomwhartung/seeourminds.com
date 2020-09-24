@@ -149,16 +149,16 @@
     }, {
       "id": "5308",
       "title": "Ted Cruz",
-      "subtitle_html": "<a href='' title='Wikipedia page for ' target='_blank'></a>",
-      "gallery_page_teaser": "Ted Cruz's spiritual portrait shows he is ______________.  Click on the image to learn more!",
+      "subtitle_html": "<a href='https://en.wikipedia.org/wiki/Ted_Cruz' title='Wikipedia page for Ted Cruz' target='_blank'>US Senator</a> From Texas, Jan. 3, 2013 to Present",
+      "gallery_page_teaser": "Ted Cruz's spiritual portrait shows he is outgoing, very decisive and logical, and tends to be motivated by his ideals.  Click on the image to learn more!",
       "image_file_name": "entj-ted_cruz-1.jpg",
-      "meat_portrait_href": "",
+      "meat_portrait_href": "https://en.wikipedia.org/wiki/File:Ted_Cruz_official_116th_portrait.jpg",
       "composition": "O",
       "score": [
-         { "e_score": "0", "i_score": "0" },
-         { "n_score": "0", "s_score": "0" },
-         { "f_score": "0", "t_score": "0" },
-         { "j_score": "0", "p_score": "0" }
+         { "e_score": "11", "i_score": "8" },
+         { "n_score": "12", "s_score": "7" },
+         { "f_score": "4", "t_score": "15" },
+         { "j_score": "15", "p_score": "4" }
       ],
       "four_letter_type": "ENTJ",
       "archetype": "Te",
