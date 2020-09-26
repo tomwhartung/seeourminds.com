@@ -88,7 +88,29 @@
       "contrast_with": { }
     }, {
       "id": "1209",
-      "title": "responsive_ad"
+      "title": "Darth Vader",
+      "subtitle_html": "<a href='https://en.wikipedia.org/wiki/Sith' title='Wikipedia page for Sith' target='_blank'>Sith</a> Lord",
+      "gallery_page_teaser": "The Yellow represents Anakin's pragmatism.  In addition to lacking Padme's idealism, the Green shows he's more concerned about efficiency than the well-being of others.  Dun-dun-dunnnn!!!  Click on the image to learn more!",
+      "image_file_name": "istj-darth_vader-1.jpg",
+      "meat_portrait_href": "https://en.wikipedia.org/wiki/File:Darth_Vader.jpg",
+      "composition": "O",
+      "score": [
+         { "e_score": "7", "i_score": "12" },
+         { "n_score": "6", "s_score": "13" },
+         { "f_score": "9", "t_score": "10" },
+         { "j_score": "14", "p_score": "5" }
+      ],
+      "four_letter_type": "ISTJ",
+      "archetype": "Si",
+      "quiz_type": "K",
+      "year": "2017",
+      "explain_dom": "The Yellow in this spiritual portrait represents Anakin's dominant trait, his pragmatism.  In Introverts, the dominant function is directed inwardly, and spiritual portraits use a long horizontal line to represent this.  This trait is evident in Anakin's superior ability to pilot all types of flying craft.",
+      "explain_aux": "The Green in this spiritual portrait represents Anakin's auxiliary trait, his rationality.  In Introverts, the auxiliary function is directed outwardly, and spiritual portraits use a vertical line to represent this, because it is more evident than the dominant function.  This trait is evident in Anakin's ability to kill others, ultimately without feeling any remorse whatsoever.",
+      "story_intro_html": "<p>When the prequel trilogy starts, <a href='http://starwars.wikia.com/wiki/Anakin_Skywalker' title='Link to a page about Anakin Skywalker at starwars.wikia.com' target='_blank'>Anakin Skywalker</a> is a young slave on <a href='http://starwars.wikia.com/wiki/Tatooine' title='Link to a page about Tatooine at starwars.wikia.com' target='_blank'>Tatooine</a>.  Jedi Master <a href='https://en.wikipedia.org/wiki/Qui-Gon_Jinn' title='Wikipedia page for Qui-Gon Jinn' target='_blank'>Qui-Gon Jinn</a> recognizes th....</p>",
+      "story_template": "content/galleries/stories/fictional/movies/star_wars/prequel/anakin_skywalker.html",
+      "story_html": "",
+      "compare_to": { },
+      "contrast_with": { "gallery_file_name": "1220-fictional-movies-star_wars-prequel", "image_id": "1220" }
     }
   ]
 }
