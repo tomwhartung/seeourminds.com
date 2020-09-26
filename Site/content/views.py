@@ -444,7 +444,7 @@ def process_shortcut(request, unknown_page='default_unk_pg_1'):
         'luke': '/image/1200-fictional-movies-star_wars-original/1200/',
         'padme': '/image/1220-fictional-movies-star_wars-prequel/1220/',
         'sheev': '/image/1220-fictional-movies-star_wars-prequel/1226/',
-        'vader': '/image/1220-fictional-movies-star_wars-prequel/1222/',
+        'vader': '/image/1200-fictional-movies-star_wars-original/1209/',
         'got': '/galleries/game_of_thrones/',
         'sopranos': '/gallery/2400-fictional-tv-sopranos/',
         'st': '/gallery/3900-fictional-tv-star_trek/',
