@@ -268,10 +268,10 @@ class Questionnaire(models.Model):
     def get_button_classes_for_slug(cls, quiz_size_slug):
         """ Returns the quiz button_classes for the passed in quiz_size_slug """
         quiz_size_slugs_to_button_classes = {
-            'tiny': 'btn btn-danger btn-xs',
-            'xx-small': 'btn btn-warning btn-sm',
+            'tiny': 'btn btn-danger btn-sm',
+            'xx-small': 'btn btn-danger btn-sm',
             'extra-small': 'btn btn-warning btn-sm',
-            'small': 'btn btn-success btn-md',
+            'small': 'btn btn-warning btn-md',
             'medium': 'btn btn-success btn-md',
             'large': 'btn btn-success btn-md',
             'extra-large': 'btn btn-primary btn-lg',
