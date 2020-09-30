@@ -9,7 +9,17 @@
      <h2 class="card-title h2-responsive font-weight-bold text-center">
       Pick a Version</h2>
      <p class="card-text">
-      Pick one of the following versions of the quiz:</p>
+      Pick the length of the quiz you want to take:
+     </p>
+     <h6 class="card-title text-center m-3 p-2">
+      <span class="border border-danger m-3 p-2">
+       If you want your spiritual portrait drawn, you
+        <i><span class="text-decoration-underline">MUST ANSWER AT LEAST 44 QUESTIONS</span></i>.
+      </span>
+     </h6>
+     <p class="card-text">
+      Answering more questions will give you more accurate results.
+     </p>
      <ul class="list-group mb-3">
       {% for quiz_size_slug, size_text, question_count, size_abbr, button_classes in quiz_list_data %}
        <li class="list-group-item">
