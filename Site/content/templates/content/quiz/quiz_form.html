@@ -13,7 +13,17 @@
        {% endif %}</h2>
      <p class="card-text">
       The <span class="air-quotes">{{ quiz_info.size_text }}</span>
-       version contains {{ quiz_info.question_count }} questions.</p>
+       version contains
+       <span class="font-weight-bold">{{ quiz_info.question_count }} questions.</span>
+     </p>
+      {% if quiz_info.question_count < 44 %}
+       <h6 class="card-title text-center m-3 p-2">
+        <span class="border border-danger m-3 p-2">
+         If you want your spiritual portrait drawn, you
+          <i><span class="text-decoration-underline">MUST ANSWER AT LEAST 44 QUESTIONS</span></i>.
+        </span>
+       </h6>
+      {% endif %}
      <ul class="list-group mb-3">
       {% if quiz_info.quiz_size_slug == 'tiny' %}
        <li class="list-group-item">
