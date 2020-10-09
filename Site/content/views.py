@@ -503,6 +503,8 @@ def process_shortcut(request, unknown_page='default_unk_pg_1'):
         'bernie': '/image/5390-real-politicians-presidential_contenders-2019/5391/',
         'cory': '/image/5390-real-politicians-presidential_contenders-2019/5392/',
         'elizabeth': '/image/5390-real-politicians-presidential_contenders-2019/5393/',
+        'nikki': '/image/5300-real-politicians-authors/5304/',
+        'don_jr': '/image/5300-real-politicians-authors/5300/',
     }
 
     unk_pg_lc = unknown_page.lower()
