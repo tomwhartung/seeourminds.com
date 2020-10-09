@@ -94,19 +94,8 @@
       "archetype": "Te",
       "quiz_type": "KTS2",
       "year": "2020",
-
-      "explain_dom": "The Green in this spiritual portrait represents X's dominant personality trait, Thinking: objectivity; rationality; cool-headedness; very slight/moderate/strong preference for logic/reason/objectivity over emotion/empathy/subjectivity; their very slight/moderate/strong preference for the logical/rational/impersonal/objective over the emotional/irrrational/personal/subjective.",
-      "explain_dom": "The Green in X's spiritual portrait represents their dominant personality trait, their very slight/moderate/strong preference for making logical/rational/impersonal/objective rather than emotional/irrrational/personal/subjective decisions; their very slight/moderate/strong preference for being/tendency to be logical/rational/impersonal/objective rather than emotional/irrrational/personal/subjective.",
-
-      "explain_dom_constant": "In Extraverts, the dominant trait is directed outwardly, and spiritual portraits use a long vertical line to represent this, because it is the side of their personality that is most evident.  He/She demonstrates/exhibits this trait in their (note that is easier to find examples of decisions than perceptions!) ....",
-      "explain_dom_very_slight_preference": "It's important to note this preference/tendency is very slight, and X can be quite _____ in some situations/when the situation calls for it.",
-
-      "explain_aux": "The Yellow in this spiritual portrait represents X's auxiliary personality trait, Sensing: pragmatism; pragmatic; practical; realism; realistic; outlook; openness to new experiences; very slight/moderate/strong preference for facts over ideas.",
-      "explain_aux": "The Yellow in X's spiritual portrait represents their auxiliary personality trait, their very slight/moderate/strong preference for seeing the/tendency to see the world more in terms of facts rather than of ideas; need for sensual stimulation.",
-
-      "explain_aux_constant": "In Extraverts, the auxiliary trait is directed inwardly, and spiritual portraits use a horizontal line to represent this.  He/She demonstrates/exhibits this trait in their (note that is easier to find examples of decisions than perceptions!) ....",
-      "explain_aux_very_slight_preference": "It's important to note this preference is very slight, and X can be quite _____ in some situations/when the situation calls for it.",
-
+      "explain_dom": "The Green in this spiritual portrait represents Nikki's dominant personality trait, her fairly strong tendency to be rational, objective, and cool-headed.  In Extraverts, the dominant trait is directed outwardly, and spiritual portraits use a long vertical line to represent this, because it is the side of their personality that is most evident.  She demonstrates this trait by waiting twenty-four hours before before returning fire after being criticized for a decision, rather than responding in the heat of the moment.",
+      "explain_aux": "The Yellow in this spiritual portrait represents Nikki's auxiliary personality trait, her pragmatic and realistic outlook.  In Extraverts, the auxiliary trait is directed inwardly, and spiritual portraits use a horizontal line to represent this.  She demonstrates this trait by working hard and focusing on what is in front of her, even though this can be extremely difficult after a tragic event such as the Mother Emanuel shootings.",
       "story_intro_html": "<p> </p>",
       "story_html": "<p> </p><blockquote class='blockquote'> </blockquote><p> </p><hr><p>This spiritual portrait is based on _______.</p>",
       "compare_to": { },
