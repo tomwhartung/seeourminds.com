@@ -7,8 +7,10 @@ to those describing the pairs of opposites these portraits portray.
 
 ## Tendency
 
+- disposed to be
 - for the most part
 - have a facility for being
+- has a disposition to be
 - inclination
 - inclined to be
 - more often than not
