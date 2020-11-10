@@ -63,12 +63,19 @@ these portraits portray.
 - angry - esp. with Judging
 - dramatic
 - drama queen
+- easily provoked
 - fearful
 - flighty
 - hot-tempered
 - hysterical
+- illtempered
+- impatient
+- irascible - easily angered
 - irrational
+- irritable
 - overly dramatic
+- peevish
+- petulant - irritable
 - pussy - esp. with Perceiving
 - sensitive
 - unpredictable
