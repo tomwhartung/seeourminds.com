@@ -79,6 +79,7 @@ these portraits portray.
 - opinionated
 - prejudiced
 - pretentious
+- pugilistic - one who fights with their fists
 - pushy
 - stubborn
 - uptight
@@ -101,10 +102,12 @@ these portraits portray.
 #### Positive
 - adaptable
 - attentive - esp. with Sensing
+- changeable
 - content
 - cooperative
 - easygoing
 - employee
+- fanciful
 - flexible - esp. when balanced, esp. chameleon
 - fun, funny
 - happy-go-lucky - esp. with Sensing
@@ -123,11 +126,13 @@ these portraits portray.
 - seeking advice
 - shrewd - esp. with balance of iNtuituion and Sensing
 - still learning
+- whimsical
 - willing to cooperate
 
 #### Neutral
 - airy
 - casual
+- fitful
 - inquisitive
 - lackadaisical
 - loose
@@ -141,26 +146,39 @@ these portraits portray.
 
 #### Negative
 - apathetic
+- capricious - changeable, unsteady
 - careless
+- changeable
+- crotchety
 - don't care
 - feckless
+- fickle
 - goofy
 - gullible
 - hapless
+- heedless indifference
+- impulsive
 - indecisive
+- indifferent
 - indolent
-- insouciant
+- insouciant - blithe lack of concern
 - irresponsible
 - lacks direction
 - lazy
 - meek
+- nonchalant
 - pussy-whipped
 - space-case
 - submissive
 - sycophant
+- thoughtless
 - timid
 - wishy-washy
+- uncertain
+- unconcerned
 - undisciplined
+- upredictable
+- unsteady
 - unsure
 - vulnerable
 
