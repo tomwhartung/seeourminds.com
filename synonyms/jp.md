@@ -21,9 +21,12 @@ these portraits portray.
 #### Positive
 - ambitious - esp. with Thinking
 - assertive
+- assiduous - constant in application; attentive; devoted
+- attentive
 - backbone
 - careful
 - committed
+- constant
 - confident
 - decisive
 - devoted - esp. with Feeling
