@@ -8,7 +8,7 @@
 - `gallery_text-3-stories.md` moved to `site_content/seeourminds/guidelines/`
 - `goals.md` moved to `site_content/groja/`
 - `language_of_seeourminds` moved to `site_content/groja/`
-- `mondrian-links_and_quotes.md` moved to `social_networking/tbd`
+- `mondrian-links_and_quotes.md` moved to `quotes/art/mondrian-links_and_quotes.md` in the `always_reading_books` repo.
 - `my_vision.md` moved to `social_networking/tbd`
 
 
